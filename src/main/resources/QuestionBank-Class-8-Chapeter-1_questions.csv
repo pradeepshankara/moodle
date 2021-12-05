@@ -1,0 +1,91 @@
+﻿ChapterName,TestNumber,QuestionNumber,QuestionDescription,Option1,Option2,Option3,Option4,Image?
+Atomic Structure,1,1,Which of the following is a contradiction to Dalton's atomic theory?,Discovery of Isotopes,Law of Definite proportions,Law of conservation of mass,Discovery of nucleus,
+Atomic Structure,1,2,"An atomic model is represented by the figure given below
+Identify the fact (from following statements) which could be successfully explained by the given atomic model.",Total positive charge is equal to total negative charge,Positively charged particles are shielded from negatively charged particles,The existence of nucleus in an atom,Electrons are universal constituents of matter,X
+Atomic Structure,1,3,"Identify the sets of orbits (electronic transistors)associated with release of energy
+(A) L -> M    (B)  K -> M   (C)  L -> K    (D)  M-> L   (E)  M->N   (F) N-> K",ACD,BCE,CDF,CDE,
+Atomic Structure,1,4,"Assertion (A) : The orbits in which electrons are present are called stationary orbits.
+Reason (R) : Electrons remain stationary in those orbits",Both A and R are true and R is the correct explanation of A,"Both A and R are true, but R is not the correct explanation of A",A is true and R is false,A is false and R is true,
+Atomic Structure,1,5,"An atom 'X' has a mass of protons 36,740 time sthat of electrons.  Identify the correct representation of the atom.  The number of neutrons is 1 unit less than the protons.",<sub>10</sub>X<sup>20</sup>,<sub>10</sub>X<sup>22</sup>,<sub>20</sub>X<sup>40</sup>,<sub>20</sub>X<sup>99</sup>,
+Atomic Structure,1,6,"If 'a' is the number of electrons in a dispositive ion and it has three neutrons more than the number of protons, identify the atomic number and mass number","a+2, a+5","a+2, 2a+7","a+5, 2a+7","a+5, 2a+5",
+Atomic Structure,1,7,"Which of the following corresponds to the incorrect match with respect to their formation?
+(A) O<sup>2</sup> ion - Loss of two electrons     (B) N<sup>-3</sup> ion - Gain of three electrons 
+(C) Mg<sup>+2</sup> ion - Loss of two electrons  (D) K<sup>+</sup> ion - Gain of one electrons",A and B,B and C,A and D,C and D,
+Atomic Structure,1,9,"Assertion (A) : In α-ray scattering experiment, most of the α particles were completely rebounded.
+Reason (R) :  The entire positive charge is concentrated in the small central part known as nucleus.",Both A and R are true and R is the correct explanation of A,"Both A and R are true, but R is not the correct explanation of A",A is true and R is false,A is false and R is true,
+Atomic Structure,1,10,"Arrange the important points of various theories in chronological order.
+(A) presence of electrons in K, 1, M and N shells
+(B) Combination of atoms in simple numerical ratio.
+(C) Electrical neutrality of atom
+(D) the diameter of nucleus is 10<sup>-5 times that of the atom",CBAD,DCBA,BCDA,BDAC,
+Atomic Structure,1,11,"Arrange the following pairs in the order of metals, non-metals, noble gases, isotopes and isobars :
+(A)  <sub>Z</sub> A <sup>X</sup>, <sub> X+2</sub> B <sup>X</sup>    (B)  <sub>10</sub> X <sup>20</sup>, <sub>18</sub> Y <sup>36</sup>,  
+(C)  <sub>Z</sub> A <sup>X</sup>, <sub>Z</sub> A <sup>X+2</sup>    (D)  <sub>8</sub> X <sup>16</sup>, <sub>16</sub> Y <sup>32</sup>",EDBCA,DEBAC,DBECA,EBDAC,
+Atomic Structure,1,12,Match the values of Column A with those of Column B.,(i) --> (C); (ii) --> (E); (iii) --> (B); (iv) --> (A);  (v) --> (D),(i) --> (B); (ii) --> (D); (iii) --> (E); (iv) --> (A);  (v) --> (C),(i) --> (E); (ii) --> (B); (iii) --> (C); (iv) --> (D);  (v) --> (A),(i) --> (C); (ii) --> (E); (iii) --> (A); (iv) --> (B);  (v) --> (D),
+Atomic Structure,1,13,"The geometric representation of a certain species is given below.  On the basis of the representation, identify the wrong statement","After its atomic number increases by 3 units, the valence shell becomes the penultimate shell",The outermost shell can accommodate 12 more electrons,The anion formed from it has the configuration of neon,It is the geometric representation of a neutral atom,X
+Atomic Structure,1,14,Which of the following numbers does not correspond to the maximum number of electrons in Bohr's orbit?,32,36,72,98,
+Atomic Structure,1,15,"An atom of an element 'X' loses an electron to get a stable octet.  'Y' also loses two electrons to form the corresponding ion.  However, the resultant ion of Y does not possess an octet.  Identify the probable atomic numbers of X and Y","19, 30","20, 29","3, 20","29, 20",
+Atomic Structure,2,1,Identify the factor which provided the experimental basis for the postulates of Dalton's atomic theory,Discovery of isobars,Discovery of subatomic particles,Law of definite proportions,Discovery of atomic number as the fundamental property,
+Atomic Structure,2,2,"The figure given below represents an atomic model :
+Which among the following was not supported by the given atomic model?",Revolution of electrons in stationary orbits,Relatively small size of nucleus in comparison to the size of an atom,Increase in energy of the orbits with distance from the nucleus,Uniform distribution of positive charge in an atom,X
+Atomic Structure,2,3,Observe the following figure and identify the one which is in contradiction to the established facts,Distance between the orbits is not uniform,Size of the nucleus is not in proportion to the size of the atom,Naming of orbits is in the reverse order,Nucleus is at the centre,X
+Atomic Structure,2,4,"Assertion (A) : Energy of orbits increases with distance from the nucleus
+Reason (R) : Electrons in the first orbit of not lose energy",Both A and R are true and R is the correct explanation of A,"Both A and R are true, but R is not the correct explanation of A",A is true and R is false,A is false and R is true,
+Atomic Structure,2,5,"An atom has a mass of protons as much as 18,370 times that of an electron.  The mass number is two units more than twice the atomic number.  Identify the number of neutrons in the atom",10,20,22,12,
+Atomic Structure,2,6,"Assuming that x is the mass of electron and y is the total mass of protons in <sub>8 o <sup>18, which of the following equations is correct for calculating the total mass protons?",y=10x -10,8y=x/1837,y/8=1837x,y=1837x/18,
+Atomic Structure,2,7,"Which of the following corresponds to incorrect matches with respect to their formations?
+(A) Dipositive ion --> 2 electrons in valence shell in neutral atom
+(B) Unipositive ion--> 7 electrons in valence shell in neutral atom
+(C) Trinegative ion --> 3 electrons in valence shell in neutral atom
+(D) Dinegative ion -->  6 electrons in valence shell in neutral atom",A and B,B and C,C and D,B and D,
+Atomic Structure,2,9,"Assertion (A) : Most of the α particles in α-ray scattering experiment passed straight through the gold foil.
+Reason (R) : The size of the nucleus is very small compared to the size of the atom",Both A and R are true and R is the correct explanation of A,"Both A and R are true, but R is not the correct explanation of A",A is true and R is false,A is false and R is true,
+Atomic Structure,2,10,"Arrange the following milestones in the depiction of the structure of an atom in chronological order.
+(A) Discovery of nucleus   (B)  Establishing stability of atom (C) Discovery of protons
+(D) Discovery of electrons",CABD,DABC,CDAB,DACB,
+Atomic Structure,2,11,"The electronic configurations and atomic numbers of some species are given below.  Arrange them in the order of noble gas, cation, non-metal atom, anion and metal atom.
+(A) A-> 2, 8; Z=11      (B)  B-> 2, 8; Z=10  (C) C-> 2, 8. 8; Z=16   (D)  D-> 2,8,2; Z=12
+(e) e-> 2,8,5; z=15",AECDB,BCEAD,ADECD,BAECD,
+Atomic Structure,2,12,Match the values of Column A with those of Column B.,(i) --> (C); (ii) --> (E); (iii) --> (B); (iv) --> (A);  (v) --> (D),(i) --> (B); (ii) --> (D); (iii) --> (E); (iv) --> (A);  (v) --> (C),(i) --> (E); (ii) --> (B); (iii) --> (C); (iv) --> (D);  (v) --> (A),(i) --> (B); (ii) --> (D); (iii) --> (A); (iv) --> (C);  (v) --> (E),X
+Atomic Structure,2,13,Observe the geometric representation given below and identify the wrong statement,The species can form a trinegative ion.,The ion resulting from it gets neon configuration,The mass number of the atom is 27,The atomic number of atom is 13,
+Atomic Structure,2,14,The maximum number of electrons in an orbit is 50.  Identify the orbit corresponding to the above number of electrons,4,6,5,10,
+Atomic Structure,2,15,The neutral atom corresponding to a positive ion of an element has 2 incomplete shells.  The sum of the electrons in the valence shell and the penultimate shell is twice the number of electrons int he antepenultimate shell.  Calculate the atomic number of the element.,26,28,30,24,
+Atomic Structure,3,1,"Arrange the following elements in the increasing order of the number of neutrons
+(A) <sub>58</sub>Ce<sup>140</sup>  (B) <sub>92</sub>U<sup>238</sup>  (C) <sub>79</sub>Au<sup>197</sup>
+(D) <sub>90</sub>Th<sup>232</sup>   (E) <sub>78</sub>Pt<sup>195</sup>",BECDA,BDCEA,AECDB,ADCEB,
+Atomic Structure,3,2,"Ions named as 'A', 'B', 'C', 'D' are given below.  All of them contain 10 electrons each.  Arrange the ions in the increasing order of the atomic numbers.
+(A)  A+  (B) B<sup>+2</sup>   (C) C<sup>-</sup>   (D)  D<sup>-2</sup>",DCAB,DACB,BCAD,BACD,
+Atomic Structure,3,3,"Assertion (A) : Eight electrons are present in the antepenultimate shell of A1.
+Reason (R) : The electronic arrangement of A1 is 2,8,3",Both A and R are true and R is the correct explanation of A,"Both A and R are true, but R is not the correct explanation of A",A is true and R is false,A is false and R is true,
+Atomic Structure,3,4,"Assertion (A) : Atoms of the same element possess the same number of total fundamental particles.
+Reason (R) : Atomic number is the characteristic of an element.",Both A and R are true and R is the correct explanation of A,"Both A and R are true, but R is not the correct explanation of A",A is true and R is false,A is false and R is true,
+Atomic Structure,3,5,"Mass of total positive charge present in an atom is 23,881 times to that of the mass of an electron.  Identify the atomic number.",6,12,13,14,
+Atomic Structure,3,6,"If the mass of a proton is m, what should be the approximate mass of an α-particles?",m,2m,4m,6m,
+Atomic Structure,3,7,Identify the drawback of Thomson's atomic model.,Presence of electrons,Cancellation of positive and negative charges in order to maintain the neutrality of the atom,Coexistence of opposite charges in the atom,Both (b) and (c) ,
+Atomic Structure,3,8,"An element 'X' has the same number of protons, electrons and neutrons and its atomic mass is double the atomic number.  If the number of neutrons is 20, then the element 'X' is",CABD,Mg,Zn,Mg,
+Atomic Structure,3,9,Which of the following atomic numbers corresponds to the formation of tripositive ion?,10,11,12,13,
+Atomic Structure,3,10,"An atom of an element has the electronic configuration 2,8,18 and 8.  Identify the false statement regarding this element.",The atom has one incomplete shell,The atom cannot form any ion,The next electron enters the fourth shell,The given element is krypton,
+Atomic Structure,3,11,"An atom A of an element with atomic number Z has the electronic configuration a, a+b, 2b, and a.  Which of the following statements is false regarding the element?",The element has 2 incomplete shells,The element can have more electrons in its penultimate shell.,The element with Z+6 atomic number has 3 electrons in its valence shell,Atomic number of the atom is 24,
+Atomic Structure,3,12,The velocity of an electron decreases with an increase in the distance from the nucleus.  Identify the reason.,Increase in nuclear force of attraction,Decrease in nuclear force of attraction,Increase in Kinetic energy of electron,Increase in radius of the orbit.,
+Atomic Structure,3,13,Which postulate of Rutherford's theory was not based on the experimental results of α-ray scattering experiment?,Presence of small central nucleus,Presence of electrons outside the nucleus,Revolution of electrons around the nucleus,Presence of large empty space in the atom,
+Atomic Structure,3,14,"Amount the following sets of elements, which set contains the same number of valence electrons?","<sub>12A<sup>24, <sub>19B<sup>39","<sub>14A<sup>28, <sub>6B<sup>12","<sub>12A<sup>24, <sub>14B<sup>28","<sub>15A<sup>30, <sub>8B<sup>16",
+Atomic Structure,3,15,Match the values of Column A with those of Column B.,(i) -> (D);  (ii) -> (C); (iii) -> (B); (iv) -> (A),(i) -> (C); (ii) -> (A); (iii) -> (B); (iv) -> (D),(i) -> (C); (ii) ->(D); (iii) -> (A); (iv) -> (B),(i) -> (B); (ii) -> (A); (iii) -> (C); (iv) -> (D),X
+Atomic Structure,4,1,"The atomic numbers of some elements are given below.  Arrange the elements in the decreasing order of the number of valence electrons
+(A)  A-> 16  (B)  D-> 20  (C) C-> 14  (D) D->17  (E) E->13",DECAB,BECAD,BACED,DACED,
+Atomic Structure,4,2,"The number of electrons and neutrons in atoms of different elements are given below.  Arrange them in the decreasing order of their mass numbers.
+ (A)  38, 49   (B) 56, 81  (C) 76, 114  (D)  47, 61  (E)  44,57",CEDBA,CBDEA,ABDEC,AEDBC,
+Atomic Structure,4,3,"Assertion (A) :  <sub>1H<sup>1 and <sub>1H<sup>2 are the isotopes of hydrogen
+Reason (R) : Isotopes have the same mass number and different atomic number",Both A and R are true and R is the correct explanation of A,"Both A and R are true, but R is not the correct explanation of A",A is true and R is false,A is false and R is true,
+Atomic Structure,4,4,"Assertion (A) :  Atoms are divisible.
+Reason (R) : Atoms were found to contain fundamental particles.",Both A and R are true and R is the correct explanation of A,"Both A and R are true, but R is not the correct explanation of A",A is true and R is false,A is false and R is true,
+Atomic Structure,4,5,"The mass of total positively charged particles present in a dinegative ion of an element is 29,392 times that of an electron.  Identify the element among the following",<sub>8</sub>O<sup>16</sup>,<sub>10</sub>S<sup>32</sup>,<sub>14</sub>Si<sup>28</sup>,<sub>9</sub>F<sup>18</sup>,
+Atomic Structure,4,6,How many fundamental particles are present in an α-particle?,2,4,6,3,
+Atomic Structure,4,7,Name the scientist who first established the presence of nucleus in an atom,J. J. Thomson,Rutherford,Bohr,Dalton,
+Atomic Structure,4,8,Which of the following metals can be considered the best substitute of gold in α-ray scattering experiment?,Aluminium,Iron,Platinum,Copper,
+Atomic Structure,4,9,Which of the following atomic numbers corresponds to the formation of tripositive ion?,7,15,18,Both (a) and (b),
+Atomic Structure,4,10,The number of valence electrons present in noble gases is ______,6,18,8,4,
+Atomic Structure,4,11,"An atom of an element 'X' has the electronic configuration a, a+b, 2(b-1), and a.  Identify the atomic number of the element",20,22,24,26,
+Atomic Structure,4,12,Identify the false statement according to Bohr's theory,Electron absorbs energy when it moves from M shell to L shell,Electron releases energy when it jumps from M shell to K shell,Electron revolving in K shell does not lose energy at all,Energy of electron in a given orbit is constant.,
+Atomic Structure,4,13,What was the expected observation of α-ray scattering experiment if Thomson's atomic model would be correct?,All the α-particles would be completely rebounded,All the α-particles would be defected at very large angles,Absence of scintillations of ZnS scree.,All the α-particles would pass straight through the gold foil.,
+Atomic Structure,4,14,Total number of electrons present in the antepenultimate shell of an atom of an element with atomic number 24 is __________,2,8,13,1,
+Atomic Structure,4,15,Match the values of Column A with those of Column B.,(i) -> (B);  (ii) -> (C); (iii) -> (D); (iv) -> (A),(i) -> (B);  (ii) -> (A); (iii) -> (D); (iv) -> (C),(i) -> (B);  (ii) -> (D); (iii) -> (A); (iv) -> (C),(i) -> (D);  (ii) -> (C); (iii) -> (B); (iv) -> (A),

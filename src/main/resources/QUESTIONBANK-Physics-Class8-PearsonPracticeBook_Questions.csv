@@ -1,0 +1,817 @@
+ChapterName,TestNumber,QuestionNumber,QuestionDescription,Option1,Option2,Option3,Option4,Image?
+Measurements and Kinematics,Assessment Test I,1,"Asserattion (A) : The mass of body decreases as it moves to higher altitudes.
+Reason ( R) : The value off a g decrease as we move to higher altitudes.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false,Both A and R are false,
+Measurements and Kinematics,Assessment Test I,2,"Asserattion (A) : The SI unit of acceleratin is m  s-2  
+Reason ( R) : Acceleration is the rate of change in velocity.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false,Both A and R are false,
+Measurements and Kinematics,Assessment Test I,3,"Arrange the following steps in the proper sequences to calculate the volume of an irregular-shaped stone.
+(A) Immerse the stone intto the vessel and note the difference in the volume of the liquid.
+(B) Take a stone (irregular shaped) and a measuring cylindrical jar.
+(C) Pour a liquid like water into the jar and note the volume of the liquid.
+(D) The volume of the stone is equal to the increase in the volume of the liquid.",ABCD,BCAD,DBCA,DCBA,
+Measurements and Kinematics,Assessment Test I,4,"A hockey player hits the ball moving with a speed of 50 m s-1 in its same direction. 
+Because of this the velocity increases to 60 m s-1  in 0.1s. 
+Arrange the following steps in sequential order to calculate the acceleration of the ball.
+(A) Find the initial volicity of the ball and the velocity of the ball at the end of 0.1s. After it is being hit.
+(B) Write down the required equation of motion as υ = u+at, where υ, u, a and t are final velocity, initial velocity, acceleration and time, respectively.
+(C) Substitute the given values in the above equation and obtain the value of a.
+(D) Get the value of a as υ = u(υ- u)/1",ABCD,BDAC,DBAC,ADBC,
+Measurements and Kinematics,Assessment Test I,5,"Match the statements of Colums A with those of Column B
+(A) Physical quantity          (a) Volume of a drop of liquid
+(B) Burette                         (b) Measurable Quantity
+(C) Instataneous speed       ( c) Rate of change of velocity
+(D) Acceleratio                   (d) m s-1",A →b;  B→a;  C→d;  D→c,A→a;  B→b;  C→c;  D→d,A→d; B→c; C→b; D→a,A→d; B→c; C→a; D→b,
+Measurements and Kinematics,Assessment Test I,6,"For a given vernier caliper, one M.S.D.= 1/10 cm and the number of divisions of vernier scale is=20. What is 
+the least count of the vernier caliper ?",0.05cm,0.5mm,0.05mm,0.02cm,
+Measurements and Kinematics,Assessment Test I,7,One Centimeter of main scale of  vernier caliper is divided into 10 equal parts. M.S.R. and V.C.D. observed while measuring the length of the object is ______mm. (Take number of ,4.3,3.4,3.04,4.03,
+Measurements and Kinematics,Assessment Test I,8,The CGS unit of average speed is ___________,m s-1,cm s-1,ft s-1,km h-1,
+Measurements and Kinematics,Assessment Test I,9,The density of gold is 19 g  .Then the rrelattive density is ___________.,19/1000 kg m,19000 kg m-1,19,19/1000,
+Measurements and Kinematics,Assessment Test I,10,"A car is moving with 120 km h-1. On seeing a speed breaker, the driver applies the brakes and stops the car in 4s. What is the value of the deceleration produced in the car is _________ m s-1",175/5,8 1/3,25/3,25/3,
+Measurements and Kinematics,Assessment Test I,11,An athlete completes running track of length 330 m in 40 s and comes back to his original position. Find the average velocity of the athlete.,5 m s-1,0 m s-1,33/4 ms-1,33/2 ms-1,
+Measurements and Kinematics,Assessment Test I,12,"An aeroplane is moving with a uniform velocitty of 800km h-1, then its _________.",average velocity is 800 km h-1,instantaneous velocity is 800 km h-1,acceleration is zero,displacement is zero,
+Measurements and Kinematics,Assessment Test I,13,A car travel the first hour with 50 km h-1 and the second hour with 100 km h-1. What is the average speed of the car ?,120 km h-1,100 km h-1,150 km h-1,75 km -1,
+Measurements and Kinematics,Assessment Test I,14,"A body travel 100 m in 10 s. Then,
+(A) the average velocity of the body is 10 ms-1 only when the body travels in a straight path.
+(B) the average speed of the body is 10 ms-1 irrespective of its direction of motion.",Only A is true.,Only B is true,Both A and B are true.,Both  A are B are false.,
+Measurements and Kinematics,Assessment Test I,15,A bus starts from the rest and moves with uniform accelerration 2 ms -2 for 10 s. The average velocity of the bus is ___________,10 ms-1,20 ms -1,0 ms -1,40 ms-1,
+Measurements and Kinematics,Assessment Test II,1,"Asseration (A) : The mass of a body remains the same everywhere in the universe
+Reason ( R) Mass is the inherent property of the body.",A and R are the true R is the correct explanation of A.,"A and R are true, R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,
+Measurements and Kinematics,Assessment Test II,2,"Asseration (A) : The average speed of the vehicle is equal to the average velocity of the vehicle
+Reason ( R) The vehicle is moving in a straight path.",A and R are the true R is the correct explanation of A.,"A and R are true, R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,
+Measurements and Kinematics,Assessment Test II,3,"Arrange the following steps in the proper sequences to find the radious of a metalic sphere using standard vernier caliper.
+(A) Note M.S.R and V.S.R from the given data.
+(B) Place the metalic sphere between the jaw of a vernier caliper.
+( C) Here daimeter, (D)= M.S.R.+ ( V.S.R x L.C)
+(D) Substitute the values and obtain the diameter of the sphere.
+(E) The radius of the metalic sphere is equal to half the diameter.",BACDE,EABCD,AEDCB,DECAB,
+Measurements and Kinematics,Assessment Test II,4,"An MMTS train moving with 90 km-1 speed retards uniformly and comes to a halt by covering 200m. Arrange the following steps in sequential order to calculate the time taken by the train to comde to a halt.
+(A) Substitute the value of u,v and s in the above formula.
+(B) Write down the given data and convert the values into SI system of unit.
+( C) Write the equation of motion u+v/2 =s/t, where u,v,s and i are initial velocity, final velocity, displacement and time taken, respectively.
+(D) Obtain the value of t.",DABC,BCAD,BCDA,CABD,
+Measurements and Kinematics,Assessment Test II,5,"Match the statement of Column A with those of Column B.
+(A) Derived quantity                               (a) Ampere (A)
+(B) Displacement                                    (b) Hardware shop
+( C) Roman steel yard                             ( c) Vector quantity
+(D) Fundamental unit                              (d) Velocity.",A→d; B→c; C→b; D→a,A→a; B→d; C→d; D→c,A→b; B→a; C→d; D→b,A→b; B→d; C→a; D→c,
+Measurements and Kinematics,Assessment Test II,6,"While measuring the length of an object, using vernier caliper, the M.S.R and V.C.D. were observed to be 22 and 8, respectively. If M.S.D. =1/2 mm and L.C = 0.05 mm, the length of the object is ________.",0.14,1.14 mm,11.4 mm,11.4 mm,
+Measurements and Kinematics,Assessment Test II,7,"In a vernier caliper, 2 cm on main scale is divided into 20 equal parts and 1V.S.D is equal to 0.9 mm. What is the least count of the vernier caliper ?",0.1cm,0.1mm,1 mm,0.01 mm,
+Measurements and Kinematics,Assessment Test II,8,The CGS unit of amount of substance of _______.,Mol,Kelvin,Candela,non- exitent,
+Measurements and Kinematics,Assessment Test II,9,A stone of density 6 g cm-3  can be used as a sinker in a liquid of density_________.,11X 103 kg -3,7 g cm-3,2000 kg m-3,6000 kg m-3,
+Measurements and Kinematics,Assessment Test II,10,A ball is rolling with a velocity 20 ms -1 on a cement floor and stops in 10s. What is the acceleration produced in the ball ?, -20 m s-2, - 200 m s-2, -2 m s-2, + 20 m s-2,
+Measurements and Kinematics,Assessment Test II,11,A fan blade of length 1/3m moving with uniform velocity makes 1000 rotations in 20s. Calculate the average velocity of the fan at the end of 20s.,0 m s-1,50 m s-1,50 π m s-1 ,1/3  π m s-1,
+Measurements and Kinematics,Assessment Test II,12,"A toy car moves along the length and breadth of a rectangle as shown in the figure given below. If the length of the rectangle is 4m, then find the ratio of displacement to distance covered by the car.",,,,,X
+Measurements and Kinematics,Assessment Test II,13,"A cyclist moves the first-half of the distance with 10 km-1 speed and the second-half of the distance with speed V km h-1. If the average speed of the cycle is 15 km-1 , then the value of V  is ________km h-1  ",5      ,15      ,20      ,30      ,
+Measurements and Kinematics,Assessment Test II,14,"A body is moving in a stright path, Then,",its instantaneous speed is equal to its instantaneous velocity,its average speed is equal to its average velocity,its acceleration is equal to change in its velocity,Both (a) and (b),
+Measurements and Kinematics,Assessment Test II,15,"A person starts from his house on his bike at 9.a.m and returns to his house and at 8.p.m. If the odometer reading at 9 a.m. is 4700 km and the average speed of the bike is 20 km h-1, then the odometer reading of the bike at 8p.m is km.",4900,4920,4970,4810,
+Measurements and Kinematics,Assessment Test III,1,Which of the following physical quantities has Candela as its unit ?,Amount of substance ,Temperature,Luminous intensity,Electric current,
+Measurements and Kinematics,Assessment Test III,2,What is the least count of a vernier caliper whose 1 M.S.D is 1mm and 20 V.S.D. = 19mm,0.1 mm,0.01 mm,0.05 mm,05. mm,
+Measurements and Kinematics,Assessment Test III,3,Which of the following is true with respect to standard vernier calipers?,N vernier scale divisions = (N-2) main vernier scale divisions.,N vernier scale divisions = (N +1) main vernier scale divisions.,N vernier scale divisions = (N -1) main vernier scale divisions.,N vernier scale divisions = (N ) main vernier scale divisions.,
+Measurements and Kinematics,Assessment Test III,4,"If the relative density of ice is 0.9, its density is ________ kg m-3",0.9,900,9000,9,
+Measurements and Kinematics,Assessment Test III,5,"When 20 drops of a liquid are drained from a burette, the initial and final volumes of the liquid are found to be 10 mL and 50 mL, respectively. What is the volume of 1 drop of the liquid ?",0.5 mL,1mL,4 mL,2 mL,
+Measurements and Kinematics,Assessment Test III,6,The unit of pressure is pascal in SI system. If 1 pascal is equal to 1 kg m-1s-2.,10,100,1000,1,
+Measurements and Kinematics,Assessment Test III,7,"Match the statements of Column A with those of Column B.
+(A) Length                    (p) ampere
+(B) Electric current      (q) year
+( C) Time                      (r ) mile",A →q; B→p; C→r;,A→p; B→q; C→r,A→r; B→p; C→q,A→q; B→r; C→p,
+Measurements and Kinematics,Assessment Test III,8,"An object of volume 100 cm3 and another of volume 150 cm3, when placed on either sides of a physical balance, balance each other. Find the ratio of their densities.",03/May,03/Feb, 1/5,01/Feb,
+Measurements and Kinematics,Assessment Test III,9,Find the area of shaded region in the figure given below.,11.86 cm2,9.8 cm2,17.232,23.812,X
+Measurements and Kinematics,Assessment Test III,10,"The viscous force in case of a liquid is given by, F-nA v/x. Where A=area, v = velocity, x= distance and n is a constant. What is the unit of n?",N m s-1,N m-2  s-1,N m-2 s,N m3  s-1,
+Measurements and Kinematics,Assessment Test III,11,"A cylinder of unknown radious was held between the lower jaws of a vernier caliper. The main scale is divided into milimeters and vernier scale has 20 divisions. 
+The vernier coinciding division is 16. If the zeroth divison of the vernier scale lies between 12.3 cm and 12.4 cm of the main scale, the radious is ______mm.",41.9,61.9,81.8,88.5,
+Measurements and Kinematics,Assessment Test III,12,"The SI unit of a physical quantity is kg m s-2,  then the ratio of SI and CGS unit of the quantity is______.",14/Apr,105,102,105,
+Measurements and Kinematics,Assessment Test III,13,"If the principle used to construct a vernier caliper is N V.S.D = (N-2) M.S.D., its least count is _______mm. (1M.S.D = 1mm and N =10)",0.1,0.01,0.2,0.3,
+Measurements and Kinematics,Assessment Test III,14,"When an object is immersed into water, the volume of the water displaced is 200 cm3. What is the relative density; if the mass of the object is 400 g?",2,0.5,40,8,
+Measurements and Kinematics,Assessment Test III,15,"When an object is placed between the jaws of a vernier caliper, the zero of the vernier scale is found to be on the right of 7th division of the main scale. The 8th division of the vernier scale is found to coincide with one of the divisions of main scale. Arrange the following steps in sequential order to determine the length of the object. [1M.S.D.= 1mm, number of V.S.D=10]
+(A) Dertermine the length of the object.
+(B) Use the formula M.S.R + V.C.D x L.C
+(C) Note the M.S.R., V.C.D., 1 M.S.D. and number of V.S.D.
+(D) By using the information given determine the least count.",ACBD,CDBA,DBCA,ACDB,
+Measurements and Kinematics,Assessment Test IV,1,The speedometer of a vehicle indicates its __________.,instantaneous speed,average speed,instantaneous velocity,average velocity.,
+Measurements and Kinematics,Assessment Test IV,2,Calculate the value of 5 m s-1 in km h-1.,10,1.38,18,3.6,
+Measurements and Kinematics,Assessment Test IV,3,"If a body is moving with uniform velocity, then its acceleration is ________.",uniform,negative,positive,zero,
+Measurements and Kinematics,Assessment Test IV,4,The slope of displacement-time graph is________.,velocity,speed,acceleration,distance,
+Measurements and Kinematics,Assessment Test IV,5,"Asseration (A) : Velocity is a vector.
+Reason ( R) Velocity has both magnitude and direction.",A and R are true and R is the correct explanation of A,"A and R are true, R is the correct explanation of A.",A is true but R is false.,Both A and R are false.,
+Measurements and Kinematics,Assessment Test IV,6,"Match the statements of Column A with those of Column B.
+(A) Uniform velocity Derived quantity             (a) Total distance / time
+(B) Average speed                                              (b) m s-2
+( C) Average velocity                                         (c) Acceleration is zero
+(D) Acceleration                                                 (d) Ratio of toal displacement to total time taken",A→c;  B→a;  C→d;  D→b,A→a;  B→c;  C→b;  D→d,A→c;  B→a;  C→b;  D→d,A→a;  B→b;  C→c;  D→d,
+Measurements and Kinematics,Assessment Test IV,7,A car starts from rest and moves along a straight line with an acceleration of 6 m s-2. The displacement of the car in forth second is _________m.,48,21,0,20,
+Measurements and Kinematics,Assessment Test IV,8,8 m towards west and then moved 13 m  towards east. What is the total distance travelled and the magnitude of displacement ?,8 m and 8 m,21 m and 5 m,21 m and 8 m,21 m and 13 m,
+Measurements and Kinematics,Assessment Test IV,9,"A person on a rotating platform of radious7m, makes 3 ritatuibs 10 4 min. What is the magnitude of the displacement of the person (in m) ?",28,0,14,176,
+Measurements and Kinematics,Assessment Test IV,10,A boy kicks a football horizontally from the end roof of a building of height 6m. If the line joining the initial position ,6,6,,,
+Measurements and Kinematics,Assessment Test IV,11,A car moving with a constant acceleration covers 24 m in 4 s and 21 m in the next 2 s. What is the initial velocity of the car ?,3 km h-1,3 m s-1,1.5 km h-1,1.5 m s -1,
+Measurements and Kinematics,Assessment Test IV,12,"A car starts moving with uniform acceleration form its position of rest and it moves 100m in 10 s. On applying brakes, it stops after covering 50 m. Then magnitude of acceleration in the second part of its motion is ________.",20,200,40,4,
+Measurements and Kinematics,Assessment Test IV,13,which of the following graphs is impossible with respect to velicity-time graph?,x,x,x,x,x
+Measurements and Kinematics,Assessment Test IV,14,A passenger is at a distance 10 m from a bus when the bus starts with a constant acceration of 0.1 m s-1. The velocity with which the passenger should run towards the bus so as to catch the bus in 30 s is ________.,2.5 m s-1,2 m s-1,3.5 m s-1,1.83 m s-1,
+Measurements and Kinematics,Assessment Test IV,15,"Starting from rest a car moves with a uniform acceleration and attains a velocity of 10 m s-1 in 10 s. It then moves with uniform speed for 15 s and is then brought to rest in 12 s under uniform retardation. Arrange the following steps in sequential order to find the total distance covered using v-t graph.
+(A) Add the area of traingles and rectangles
+(B) Find the area under traingles and rectangles.
+(C) Draw the velocity-time graph by using the information given in the question.
+(D) Divide the graph into triangles and rectangles.",ACBD,CDAB,BACD,CDBA,
+Measurements and Kinematics,Assessment Test V,1,Which of the following is the SI unit of luminous intensity ?,Gram,Mole,Candela,Kelvin,
+Measurements and Kinematics,Assessment Test V,2,"Determine the number of vernier scale divisions required for a vermier caliper, so that the least count is 0.05 mm (I M.S.D.= 1 mm)",40,30,10,20,
+Measurements and Kinematics,Assessment Test V,3,Which of the following is incorrect with respect to a standard vernier caliper ?,L.C = 1 M.S.D/N,L.C= 1M.S.D.- 1 V.S.D,L.C= 1 M.S.D/ 1 V.S.D,1 M.S.D.=1mm,
+Measurements and Kinematics,Assessment Test V,4,"If the relative density of iron is 5, its density is ________ g cm-3.",5,5000,500,50000,
+Measurements and Kinematics,Assessment Test V,5,"The volume of a drop of a liquid is 0.3 mL. When 30 drops of the liquid are drained, the level of the liquid in the burrette is found to be 50 mL. What is the initial level of the liquid ?",150 mL,59 mL,50 mL,200 mL,
+Measurements and Kinematics,Assessment Test V,6,The unit of momentum is SI system is kg m s-1. Then 1 SI unit of momentum is equal to ________ CGS unit of momentum.,10 2,10 3,10 4,10 5,
+Measurements and Kinematics,Assessment Test V,7,"Match the statements of Column A with those of Column B.
+(A) amu                       (p) foot
+(B) Time                      (q) unit of mass
+( C) Length                  ( r) day",A→p;  B→q;  C→r,A→r;  B→p;  C→q; ,A→q;  B→r;  C→p,A→p;  B→r;  C→r,
+Measurements and Kinematics,Assessment Test V,8,"When two objects A and B are separately dropped into the water, the volume of water displaced is found to be the same. What is the ratio of the densities; if the masses of A and B are in the ratio 2:3, respectively ?",02:03,03:02,03:01,01:03,
+Measurements and Kinematics,Assessment Test V,9,Find the area of unshaded region in the figure given below,85.3 cm2,64.3 cm2,175.5 cm2,108.3cm2,
+Measurements and Kinematics,Assessment Test V,10,"The expression for a physical quantity is T/µ, where T= Force and µ=mass/length. What is the physical quantity ?",mass,speed,time,distance,
+Measurements and Kinematics,Assessment Test V,11,"1 M.S.D. of a vernier caliper is 1 mm and number of vernier scale divisions is 40 and the vernier coinciding divisioin is 28. What is the length of the object, if zeroth division of the vernier scale lies between 11.2 cm and 11.3 cm?",1137,112.7,142.8,11.3,
+Measurements and Kinematics,Assessment Test V,12,"The SI unit of a quantity is kg m2, its CGS unit is __________.",g cm2,g cm-2,g-1 cm-2,g-1 cm3,
+Measurements and Kinematics,Assessment Test V,13,"The number of vernier scale division choosen in a vernier calipers in 10, 1 M.S.D.= 1 mm, and the least count is 0.3 mm, then the principle used to design the vernier caliper is _______",(N) V.S.D.= (N-1) M.S.D.,(N) V.S.D = (N-2) M.S.D,(N) V.S.D = (N-3) M.S.D,(N) V.S.D = N  M.S.D,
+Measurements and Kinematics,Assessment Test V,14,"When an object floats on the surface of a liquid, half of the volume is immersed into the liquid. If the volume of the liquid displaced by it is 500 cm3 and mass of the object is 500 g, determine the density of the liquid.",1 g cm-3,0.5 g cm-3,2 g cm-3,4 g cm-3,
+Measurements and Kinematics,Assessment Test V,15,"The length of an object measured by using a vernier caliper is 6.3 mm. If the V.C.D.=3, 1 M.S.D.= 1mm and N =10, arrange the following steps to determine the main scale reading in proper sequence.
+(A) Use the formula, length= M.S.R.+ V.C.D x L.C.
+(B) Determine the lease amount.
+(C) Note the values of V.C.D., M.S.D AND number of vernier scale divisions.
+(D) Determine the M.S.R.",BACD,CBAD,ACBD,BCAD,
+Measurements and Kinematics,Assessment Test VI,1,The odometer of a car measure its ________.,speed,distance,displacement,Both (b) and ©,
+Measurements and Kinematics,Assessment Test VI,2,18 km h-1 = ________ms-1.,18,5,18000,0.018,18
+Measurements and Kinematics,Assessment Test VI,3,"If a body is moving with an increasing velocity, then its acceleration is",negative,positive,zero,None of the above,
+Measurements and Kinematics,Assessment Test VI,4,Slope of velocity-time gives __________.,velocity,displacement,speed,acceleration,
+Measurements and Kinematics,Assessment Test VI,5,"Assertion(A): Times is a scalar quantity.
+Reason ®: Time has both magnitude and direction.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A",A is true but R is false.,Both A and R are false.,
+Measurements and Kinematics,Assessment Test VI,6,"Match the statements of Columnn A with those of Column B.
+(A) Area under acceleration-time graph              (a) Velocity
+(B) Area under velocity-time graph                     (b) Acceleration
+ ( C) Slope of velocity-time graph                        (c) Displacement.
+",A→a;  B→c;  C→b,A→b;  B→c;  C→b,A→c;  B→a;  C→b,A→c;  B→a;  C→c,
+Measurements and Kinematics,Assessment Test VI,7,"If a bus starts from rest, moving along a straight line and travelling with an acceleration of 8 ms-2 then the displacement in the third second is _________m.",3.1,0.32,20,None,
+Measurements and Kinematics,Assessment Test VI,8,A particle moved 10 m towards east and then moved 10 m towards north. The magnitude of the displacement and the total distance covered are ______and _________ respectively.,"10√2m, 20m","20m, 20m","20m,10√2m","10m, 20m",
+Measurements and Kinematics,Assessment Test VI,9,A person on a merry-go-round of radious 7 m makes 1 1/2 rotations in 4s. What is the average velocity of the person (in ms-1) ?,14,16.5,3.5,3,
+Measurements and Kinematics,Assessment Test VI,10,"A boy kicks a football from the top of a building of height  10m. If the line joining the initial position of the football and point where it hits the ground makes an angle of 450 with the ground, then find ",10√2m,20 m,10(1+√2)m,10 m,
+Measurements and Kinematics,Assessment Test VI,11,A car moving with constant acceleration of 15 m s2 covers x m in 4 s and 21 m in the next 2 s. The initial velocity of the car is 3 m s-1 . Caluculate the value of x .,2.4 m,24 cm,24 m, 24 cm,
+Measurements and Kinematics,Assessment Test VI,12,The velocity-time graph of a body is shown below. Which among the following is the displacement time graph of the body.,x,x,x,x,x
+Measurements and Kinematics,Assessment Test VI,13,"A car starts moving with a uniform acceleration from its position of rest and it moves 24 m in 3s. On applying brakes, it stops after covering a distance d. What is the value of d, if its decelrationis 50/9 m s-2", 50/9 m,10 m,20 m,40 m,
+Measurements and Kinematics,Assessment Test VI,14,A person is at distance of d m from a bus when the bus starts with a uniform acceleration and attains a velocity of 0.5 m s-2 . The velocity with which the person should run towards  the bus is 1.5 m s-1 to catch the bus in 40s. Find the value of d.,50 m,10 m,20 m,40 m,
+Measurements and Kinematics,Assessment Test VI,15,"Starting from rest, a car moves with a uniform acceleration and attains a velocity of 20 m s-1 in 5 s. It thenmoves with a uniform speed for 10 s and is then brought to rest in t seconds under uniform retardation. Arrange the following steps to find t using a v=t graph, if total distance covered is 380m.
+(A) Add the area of triangle and rectangle.
+(B) Find the area under traingles and rectangle.
+(C) Draw the velocity-time graph by using the information given in the question.
+(D) Divide the graph into triangles any rectangles.",ACBD,CDBA,CBDA,CABD,
+Dynamics,Assessment Test I,1,"Arrange the following steps in sequential order to find the shift in the height of centre of gravity, when a rectagular lamina resting on the longer side is rotated by 900 in vertical plane.
+(A) When the rectanugla lamina is resting on longer side, the height of centre of gravity (h) is equal to half of the breadth (b/2) of the rectangel.
+(B) Let the dimensions of the rectangular lamina be length (l) and breadth (b).
+(C) When the rectangular lamina is rotated by 900 in the vertical plane, it is resting on the shorter side (breadth).
+(D)  The shift in the position of centre of gravity is equal to the difference in h and h'
+(E)  When the rectangular lamina is resting on the shorter side, the height of centre of gravity (h') is equal to half of the length (l/2) of the rectangle.",BACED,BEDAC,BCADE,BECAD,
+Dynamics,Assessment Test I,2,"The velocity of a body changes from xms-1 to  yms-1 in t s under the action of constant external force. Arrange the following steps in sequential order to calculate the magnitude of external froce acting on the body.
+(A) Determine the change in velocity , (y-x) ms -1.
+(B) The magnitude of external force acting on the body is x(y-x)/t N.
+(C) Let m be the mass of the body
+(D) The rate of change in velocity is acceleration of the body, that is, (y-x/t) ms-2 .",CADB,DCAB,BCAD,ABCD,
+Dynamics,Assessment Test I,3,"Match the statements of Column A with those of Coloumn B.
+(A) Frictinla force between hightly                                                                (a) Outside th body
+(B) Interaction between protons and neutrons                                                (b) Increases
+(C ) Centre of gravity of an annular ring                                                         (c) Decreases
+(D) When a person standing on a swing sits, the height of centre of gravity      (d) Nuclear forces
+                                                                                                                     (f) Electromagnetic forces",A→ c; B→f; C→e; D→b;,A→ b; B→f; C→e; D→c;,A→ b; B→d; C→a; D→c;,A→ b; B→d; C→ e; D→ c;,
+Dynamics,Assessment Test I,4,"Assertion (A): The work done by the gracity on an ascending body is negative.
+Reason (R ): The displacement and gravitational force are opposite in direction.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,
+Dynamics,Assessment Test I,5,"Assertion (A): When a person swims, he pushes the water in the same direciton as his motion.
+Reason (R ): Both action and reaction act on the same body.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,
+Dynamics,Assessment Test I,6,"To make two bodies A and B experience an equal acceleration, forces 6N and 4 N are applied, respectively. If the bodies are combined, then to produce the same acceleration, the force applied should be ____________ N.",1,3,6,10,
+Dynamics,Assessment Test I,7,Weightlessness is experienced by ____________,a person durng his free fall,astronauts on moon,a person who experiences reation force,a person during climbing a hill,
+Dynamics,Assessment Test I,8,"If a mass of a body is increase by 20%, then the momentum of body remains same, if the velocity approximately________",decreased by 17%,increased by 17%,decreased by 83%,increased by 32%,
+Dynamics,Assessment Test I,9,"Two spheres moving in opposite direction along a stright line can interchange their velocities on colliding with each other, if ________",the magnitudes of their velocities before collision are equal.,their masses are equal,their momenta before collision are equal.,their accelerations are equal.,
+Dynamics,Assessment Test I,10,"A ball of mass 200 g moving with a speed of 2ms-1 hits a wall normally and bounces back with the same speed. If the ball is in contact with the wall for 2 millisecond, the force exerted on the ball is _________ N.",200,400,600,800,
+Dynamics,Assessment Test I,11,"To lift a body vertically up from the surface of the Earth through a certain height, 20 J of work is required. If the same body is lifted uup vertically through an equal height on the surface of the Moon, then the work required is _________ J.
+g moon= g earch/6",2.22,3.33,4.44,5.65,
+Dynamics,Assessment Test I,12,A rod of 4m length is bent in the form of a square. What is the distance of the centre of gravity to any one of the vertices (in m)?,1,01/Jan, 1/2, 1/3,
+Dynamics,Assessment Test I,13,"A load of 10 kg weight is suspended at one end of a lever which is pivoted on a fulcrum at the other end, as shown in the given figure. What should be the effort (P) (in N), if we apply the effort at the centre of lever to balance it? (g = 10 m s-2) ",200,300,400,500,X
+Dynamics,Assessment Test I,14,"If a body of mass 5 kg is dragged along the frictinless inclined plane shown in the figure, then the effort (p) required to drag the body is ____________ (g=10 m s-2)",3X106 dyne,30 dyne,3N,3X102 N,X
+Dynamics,Assessment Test I,15,"What is the efficiency of the pulleys, if the pulleys used in following system are frictionless and the string used is massless?",0.8,1,0.5,0.25,X
+Dynamics,Assessment Test II,1,"Arrange the following steps in proper order to find the height of centre of gravity from the base of an equilateral triangular lamina.
+(A) Centroid divides the median in the ration 2:1, so divide the median in the ration 2:1 and find the length of the two parts.
+(B) Find the height of the median using Pythagoras therorem.
+(C) Divide the equilateral triangle into two right angel triangles by drawing a median on its base.
+(D) Centre of gravity of an equilateral triangular lamina lies at its centroid.
+(E) The height of centroid from the base gives the height of centre of gravity from the base of the triangle.",BCDEA,DABCE,DBCEA,DCBAE,
+Dynamics,Assessment Test II,2,"A crow bar of length 1.5m is used to lift a load of 75 kg weight by placing  the fulcrum at a distance of 20 cm from the load . Arrange the following steps is sequential order to find the effort (in N) applied on the crow bar to lift the load.
+(A) Substitute the values in the law of levers, i.e., load x load arm = effort x effrot arm.
+(B) The distance between the load and the fulcrum is taken as load arm.
+(C) Convert the load into newton by multiplying with g and convert the length of crow bar into cm.
+(D) By substracting the load arm from the length of the crow bar, we will get the length of effort arm.
+(E) Determine the effort, i.e. Effort = load x loar arm / effort arm",CDABE,CADBE,CBDAE,ADCBE,
+Dynamics,Assessment Test II,3,"Match the statements of Column A with those of Coloumn B.
+(A) Stream linging of bodies                                                            (a) Neutral equilibrium
+(B) Centre of gravity of boomerang                                                  (b) Within the body
+(C ) A cylindrical vessel resting on a cruved surface                          (c) Friction is removed
+(D) Centre of gravity of a solid right circular cone resting on its base (d) Minimized friction
+                                                                                                       (e) Outside the body
+                                                                                                       (f) Unstable equilibrium",A→ c; B→c;  C→f;  D→b;,A→ d; B→c; C→a; D→b;,A→ d; B→b; C→f; D→e;,A→ c; B→c; C→b; D→f;,
+Dynamics,Assessment Test II,4,"Assertion (A) : Work done by a force acting on a body towards the centre of a circular path is zero.
+Reason (R ): The direciton of force is perpendicular to its displacement.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,
+Dynamics,Assessment Test II,5,"Assertion (A) : When a person steps out of a boat, the boat moves bacwards.
+Reason (R ) : The reation force acting on the boat is in the opposite direction to the direction of movement of the person.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,
+Dynamics,Assessment Test II,6,"A force can produce an acceleration of 2m s-2 and 6 m s-2 on bodies A and B, respectively, when applied individually. What is the acceleration produced (in m s-2), if the bodies are combined and the same force is applied?",1..0,1.5,3..0,6..0,
+Dynamics,Assessment Test II,7,"Consider the Moon and an artificial satellite of earth, Weightlessness is experienced by a person _________",on the moon as well as the artificial satellite.,only in the artificial satellite.,only in the moon,neither on the moon nor in the artificial satellite ,
+Dynamics,Assessment Test II,8,"What is the percentage change in the momentum of the body, if the mass of a body is doubled and its velocity is redued by half?",0%,10%,50%,100%,
+Dynamics,Assessment Test II,9,"Two bodies A and B moving towards each other along a straight line, coalesce after collision. The system will move in the initial direction of A, if ________.",the velocity of A is more than the that of B before collision ,mass of A is more than that of B.,acceleration of A is more than that of B,the momentum of A is more than that of B before collision.,
+Dynamics,Assessment Test II,10,"A body 'A' of mass 5 kg moving with velocity of 5 ms-1 collides with a body B initially at rest and bounces back along same line with a velocity of 2 ms-1 What is the force exerted on body B by A (in N), if the collision takes place for 0.1 milli second?",20 x 104,30 x 104,35 x 104,40 x 104 ,
+Dynamics,Assessment Test II,11,A body of mass 1 kg is accelerated from rest to 2 ms-1 in 1 s. work done on it in 5 s is __________ joule.,50,8,0.4,10,
+Dynamics,Assessment Test II,12,"A certain quantity of mercury is present in a cylindrical vessel of cross section area 'A' upto a height , h. The mercury is then transferred to another cylindrical vessel of cross sectional are 2A. What is the shift in the centre of gravity of mercury with respect to the base of the cylindrical vessels?",h,h/2,2/3 h,h/4,
+Dynamics,Assessment Test II,13,"A spring balance is used to weight an object of mass M kg hanged from the centre of a level as shown in figure. What is the mass of the object (in kg), if the reading shown by the spring is 60 kg wt and the level is in equilibrium? (g=10 m s-2)",100,200,150,175,X
+Dynamics,Assessment Test II,14,"If the efficiency of a pulley system having four pulleys is 80%, then calculate its mechanical advantage.",2..0,4..0,1.6,3.2,
+Dynamics,Assessment Test II,15,A rectangular cuboid whose face ABCD shown with measurements in the figure is cut into two halves diagonally (along AC or BD) and the lower-half portion is used as an inclined plane. What is the mechanical advantage of the inclined plane formed?,3 3/5,2 2/5,2 3/5,5 2/3,
+Dynamics,Assessment Test III,1,Friciton in parts of a machine can be reduced by using _______,iron filings,lubricants,ball bearings,both (b) and (c ),
+Dynamics,Assessment Test III,2,"When a fast moving bus is stopped suddenly, the passengers sitting in it tend to fall forwards. This is due to _______.",inertia of rest,inertia of motion ,inertia of direction ,inertia of speed,
+Dynamics,Assessment Test III,3,What is the work done to lift a body of mass 5 kg to a height of 50 m from the ground (in j)? (g=10 m s-2),250,2.5 X 1010,2.5 X 1010 ,2.5 X 10-4,
+Dynamics,Assessment Test III,4,A machine is operated by an effort of 25 N and the effort has a downward displacement of 2.5 m in raising a load of weight 100 N through 10 cm. What is the efficiency of machine (in %)?,250,40,25,16,
+Dynamics,Assessment Test III,5,Forceps is an example of ___________ order lever.,1,2,3,1 or 2,
+Dynamics,Assessment Test III,6,1 N of force is equal to _________ dyne.,10 4,10.-7,10.-5,105,
+Dynamics,Assessment Test III,7,A constant force for 100 N acts on a body for 8 s for changing its momentum. What is the change of momentum of the body (in N) ?,400,800,200,100,
+Dynamics,Assessment Test III,8,The power delivered by a machine if it lifts an object of mass 1000 kg to 4m height in 1 minute is _____ kW,0.7,466,666.6,66.66,
+Dynamics,Assessment Test III,9,"Match the statements of Column A with those of Column B.
+(P) Newton's first law            (p) F = ma
+(Q) Newton's second law      (q) Recoil of a gun
+(R ) Newton's third law          (r ) Law of inertia","P →q;    Q→r,     R→p","p →P;    Q→r,     R→q","p →r;    Q→P,     R→q","P →q;    Q→p,     R→r",
+Dynamics,Assessment Test III,10,"A car of mass 1500 kg moving at a speed of 90 km h-1 collides with another car at rest. After collision, both have a common velocity of 50 km h-1. The mass of the car which is initially at rest is ________ kg.",1100,1200,1300,1400,
+Dynamics,Assessment Test III,11,The physics teacher gave a rod of length 'l' units to Ram and the teacher asked Ram to find the shift in the C.G. when 1/5 of the total length of the rod is removed. The anwer of Ram will be _______ units,0.4 l ,0.2 l,0.8 l,0.1 l ,
+Dynamics,Assessment Test III,12,"A crow bar of length 1.14m is used to move a block of mass 100 kg wt. If the effort arm is 100cm when it is used as I-order lever, then the minimum effort required to move the block is ________ milli dyne. (Take = 10 ms-2)",1.4 x 1010,1.4 x 108,140,1.4 x 105,
+Dynamics,Assessment Test III,13,"A system of pulleys is used to lift a load of 500 kg wt. If the velocity ratio and M.A. are 0.9 and 5, then the efficiency and effort required to lift the load are ______ and _______, respectively.","5.6, 105 N","5.6, 108 dyne","2.6, 107N","2.6, 107 dyne",
+Dynamics,Assessment Test III,14,"A car moving at 54 km h-1 is to be stopped by applying brakes in the next 5m. If the can weights 1800 kg wt, then the next external force acting on it is ______.",4 x 109  N,40 N,4 x 104  dyne,4 x 104  N,
+Dynamics,Assessment Test III,15,"Write the steps in sequential order to determine the difference in the height of C.G. of  a solid right circular cone of height 40cm resting on its base and a solid cylinder of length 1 m and diameter 30 cm resting on its lateral surface.
+(A) Find the difference between the height of C.G. from the base.
+(B) Determine the height of the C.G. from the base.
+(C) Note down the height of the solid cone and the diameter of the sphere.",ABC,BCA,ACB,CBA,
+Dynamics,Assessment Test IV,1,Frictional force in a machine can be reduced by _________.,using iron filings,lubricants,converting sliding motion into rolling motin ,both (b) and (c ),
+Dynamics,Assessment Test IV,2,Inertia is measured by _______ of the body.,momentum,mass ,volumne,density,
+Dynamics,Assessment Test IV,3,"If the work done to move a body a mass 6 kg to a height h is 4.8 x 109 erg, then h = ________ m. (take g = m s-2)",8,8 x 102,8 x 103,8 x 107,
+Dynamics,Assessment Test IV,4,"A machine is operated with an effort of 50 N in raising a load of weigth (W). What is the load, if the mechanical advantage is 2 ?",500 dyne,5 N,100 N,5 dyne,
+Dynamics,Assessment Test IV,5,The human hand is a III - order lever because _______ lies between fulcrum and ______.,"effort, elbow","effort, load","load, effort","elbow, effort",
+Dynamics,Assessment Test IV,6,The unit of impulse is same as the unit of _______.,weight,force,momentum,work,
+Dynamics,Assessment Test IV,7,"If the change in momentum of a body is 400 N s, then constant force applied on the body for 10 s is _____ kilo dyne.",40,40 x 102,40 x 103,4 x 102 ,
+Dynamics,Assessment Test IV,8,"If the power delivered by a machine if it lifts an object of mass 2000 kg to 6 m height is 2000 W. Then, time taken by the machine is ______ min. (g = 10 ms-2)",1,2,3,4,
+Dynamics,Assessment Test IV,9,"Match the entries of Column A with those of Column B.
+(P) Balanced force          (p) An apple falling down
+(Q) Unbalanced force      (q) Friction
+(R ) Contact force           (r ) A book resting on the table","P →q;    Q→p,     R→r","P →p;    Q→q,     R→r","p →r;    Q→q,     R→p","P →r;    Q→p,     R→q",
+Dynamics,Assessment Test IV,10,A car of mass 1200 kg moving at a speed of 72 km h-1 collides with another car  of mass 1500 kg which is at rest. What is the common velocity of the two cars. If they move togeter after the collision (m s-1)?,32.04,3.204,8.9,89,
+Dynamics,Assessment Test IV,11,The shift in the C.G. of rod is 5 cm when 1/4 of the rod is removed. The original length of the rod is _______ m.,0.75,0.125,0.4,40,
+Dynamics,Assessment Test IV,12,"A system of pulleys is used to lift a load of 1000 kg wt. If the velocity ratio and efficiency are 20 and 90%, respectively, then the effort required to lift the load is______ N.",5.6 x 107,5.6 x 10-3,5.6 x 103,560,
+Dynamics,Assessment Test IV,13,"A crow bar of length 120 cm is used to move a block of weight 1000 N. If the load arm is 30 cm when it is used as a II-order lever with maximum mechanical advantage, then the minimum effort required is _________N.",2.5 x 107,4,250,2.5 x 10-3,
+Dynamics,Assessment Test IV,14,"A car moving at 40 km h-1 is to be stopped by applying brakes in the next 4.0 m. If the average resultant force on it is 3.1 x 104 N, then mass of the car is ______kg.",2009,2500,1500,1600,
+Dynamics,Assessment Test IV,15,"A brick of dimentions 12 cm x 6 cm x 3 cm is resting on its larger area and a cylinder of length 'l' is resting on its circular plane are. Arrange the following steps in the correct sequence to determine the value of 'l' if the diffrence in the height of center of gravity is 15.5 cm.
+(A) Find the center of gravity of the brick and cylinder.
+(B) Note the dimentions of the brick and the diffrence in the height of center of gravity.
+(C) Find the valuse of difference in the height of center of gravity.
+(D) Equate it with the given value and find l. ",BACD,ACBD,BCAD,BDAC,
+Wave Motion and Sound,Assessment Test I,1,"Assertion (A) : It is not possible to take directly a person on the surface of the Moon.
+Reason (R ) : Sound waves are mechanical waves.",A and R are true and R is the correct explanation of A.,A and R are true and R is correct explanation of A.,A is true but R is false.,Both A and R are false.,
+Wave Motion and Sound,Assessment Test I,2,"Mach the statements of Column A with those Column B
+(A) Mechanical wave          (p) Crests and troughts
+(B) Non mechanical wave   (q) Compression and rarefactions
+(C ) Longitudinal wave       (r ) Light
+                                          (s) Ripples","A→s;    B→r,    C→p;     D→q","A→s;    B→r,    C→q;     D→p","A→r;    B→s,    C→p;     D→q","A→p;    B→r,    C→q ;     D→s",
+Wave Motion and Sound,Assessment Test I,3,"Arrange the following incidents in the decreasing order of time taken. 
+(A) The sound produced under a liquid at a depth of 100 m to reach the surface of liquid if the velocity of sound in the given liquid is 1500 m s-1.
+(B) A wave of frequency 100 Hz and wave length 2 m to travel through a distance of 50 m.
+(C ) A second pendulum to complete 50 oscillations.
+(D) Light to reach on the surface of earth from the sun. [ Distance between the sun and the earth is approximately 1496 x 103 km]",CDBA,ABCD,ACBD ,DCBA,
+Wave Motion and Sound,Assessment Test I,4,"Time period of a pendulum changes ___________
+(A) when the work done to osciallate the pendulum is changed.
+(B) when the bob is immersed in water.
+(C ) when the mass of the bob is increased.
+(D) when weight of the pendulum is increased without changing its mass.","B, C and D",B and D,"A, B, C and D","A, B and D",
+Wave Motion and Sound,Assessment Test I,5,Sound produced by a tuning fork travels from air to glass. Which of the following physical quantities remains the same?,Velocity,Frequency,Wavelength,Amplitude,
+Wave Motion and Sound,Assessment Test I,6,"If V1 and V2 are the velocities of sound in solid and liquid, respectively, then V1/V2.",≤ 1,> 1,<1,1,
+Wave Motion and Sound,Assessment Test I,7,The time period of a pendulum of length 'l' and mass of the bod 'm' is T. The time period of a pendulum with mass of the bob 2m and length l is _________.,T,2T,3T,4T,
+Wave Motion and Sound,Assessment Test I,8,"When a simple pendulum oscillates with a small smplitude 'a' its time period is T. What is its time period, when it oscillates with a small amplitude 2a?",T,2T,4T,8T,
+Wave Motion and Sound,Assessment Test I,9,"If the velocity of a wave is 200 m s-1 and the time period of its sourceis 0.001s, then its wave length is _____________.",2 m,20 cm,2 cm,2 mm,
+Wave Motion and Sound,Assessment Test I,10,"The frequency of vibration of a pendulum is 'n'. What is its time period, if the length of the pendulum is doubled?",√‾2 n,√‾2/ n,√‾n/ 2,2√‾n,
+Wave Motion and Sound,Assessment Test I,11,The displacement time graph of a simple pendulum is shown below. Calculate its frequency in Hz.,0.01,2,0.3,0.25,X
+Wave Motion and Sound,Assessment Test I,12,Which of the following statements is incorrect?,Sound requires a material medium to travel.,Sound waves are mechanical waves.,Sound waves are produced by vibrating bodies,Sound waves have the maximum velocity among all the waves.,
+Wave Motion and Sound,Assessment Test I,13,Sound of a thunder is heard 't' s after the flash of lightning is seen. Determine the distance of the cloud from the ground if velocity of sound is v m s-1 (Neglect the time take for the light to travle),v / t,vt,t/v,v + t,
+Wave Motion and Sound,Assessment Test I,14,"The frequency of two tuning forks A and B are 200 Hz and 100 Hz, respectively. What is the ration of the velocity of sound, when the sound is propagated through a given medium?",  2 : 1,  1 : 2,  1 : 1,  4 : 1,
+Wave Motion and Sound,Assessment Test I,15,"If length of a pendulum of time period T is doubled, its frequency is ________.",1/ √‾2T,1 / T,√‾2T,2 T,
+Wave Motion and Sound,Assessment Test II,1,"Assertion (A) : A person standing at equal distances from a source of sound which is placed in water and another source which is placed in air. If sound is produced by both the sources, the sound produced in the water is heard first.
+Reason (R ) : The speed of sound in liquid is more than that is gases. ",A and R are true and R is correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A  is true but R is false.,Bothe A and R are false.,
+Wave Motion and Sound,Assessment Test II,2,"Mathc the statement of Column A with those of Column B
+(A) Velocity of wave           (p) Velocity x Time period
+(B) Frequency of a wave     (q) Number of waves / time taken
+(C ) Wave length                 ® Depends on source
+(D) Frequency                    (s) Depends on medium","A→p;    B→q,    C→s;     D→r","A→s;    B→r,    C→q;     D→p","A→r;    B→s,    C→p;     D→q","A→s;    B→r,    C→p ;     D→q",
+Wave Motion and Sound,Assessment Test II,3,"Arrange the following incidents in the increasing order of frequency of occurrence.
+(A) Oscillaitions of a seconds pendulum.
+(B) Rotation of the Earth in its own axis.
+(C ) Sound waves produced in air from a siren. [Given velocity of sound through air 340 m s-1 and wave length is 2cm].
+(D) Waves to reach the sea shore. [Give time interval between two waves to reach the sea shore is 10 s]",ABDC,DBAC,BDAC,CBDA,
+Wave Motion and Sound,Assessment Test II,4,"Frequency of oscillation of pendulum changes with __________
+(A) time period
+(B) amplitude
+(C ) length of the pendulum
+(D) mass of the bob",A and C,"A, C and D",B and C,"B, A and C",
+Wave Motion and Sound,Assessment Test II,5,"As the sound propagates throught a medium, its _________ changes.",Velocity,wavelength,frequency,Amplitude,
+Wave Motion and Sound,Assessment Test II,6,"Sound produced by a tuning fork travels through a solid and liquid media. If f1 and f2 are the frequencies of sound in solid and liquid, then find the valud of f1/f2.", = 1,>1,≥ 1,< 1,
+Wave Motion and Sound,Assessment Test II,7,"What is the new time period of a pendulum, if the length of a pendulum of time period T is doubled?",T2,√‾ 2T,2T2,4T,
+Wave Motion and Sound,Assessment Test II,8,"If a pendulum make 2 oscillations per second, its time period is _________ s.",2,5,0.2,0.5,
+Wave Motion and Sound,Assessment Test II,9,"If the velocity of sound wave 330 m s-1 and the frequency of oscillations is 10 Hz, then the distance between and adjacent compression and rarefaction is _________ m.",33,16.5,66,44,
+Wave Motion and Sound,Assessment Test II,10,"What is the time period a body, if the frequency of a body is equal to the minimum value of the audible range of frequency?",0.05,0.5,0.2,2,
+Wave Motion and Sound,Assessment Test II,11,"From the graph shown below, determine the amplitude of oscillation.",80 cm,40 cm,20 cm,10 cm,X
+Wave Motion and Sound,Assessment Test II,12,"To increase the frequency of oscillation of a pendulum, its __________",length should be increased.,length should be decreased.,time period should be increased.,amplitude should be increased.,
+Wave Motion and Sound,Assessment Test II,13,Sound cannot travel through_______,solid,liquid,gas,vaccum,
+Wave Motion and Sound,Assessment Test II,14,The time taken to complete 100 waves is 50s. The frequency of the wave is __________Hz.,1,2,0.5,5,
+Wave Motion and Sound,Assessment Test II,15,"Sound produced by a source travels through two different media. If the ratio of the velocity of sound waves travelling through the media is 1 : 3, then ratio of the wavelength is ____________",   1 : 3,  3 : 1,  6 : 5,  9 : 1,
+Wave Motion and Sound,Assessment Test III,1,"Write down the steps to verify the third law of simple pendulum in a proper sequence.
+(A) Arrange a pendulum and determine its length.
+(B) Set the pendulum into oscillation and determine the time taken for 20 oscillations.
+(C ) Determine the time period of oscillation and determine the time taken for 20 oscillations.
+(D) Change the length of simple pendulum and repeat the experiment.
+(E) Note the value of l / T2 in each case.",CDBAE,ABCDE,CDABE,ABCED,
+Wave Motion and Sound,Assessment Test III,2,"If the distance between two successive troughs is 20 cm, then the distance between one of the crests to next trough is _________.",10 cm,20 cm,40 cm,50 cm,
+Wave Motion and Sound,Assessment Test III,3,An example for flute type instrument is _______,clarinet,piccolo,oboe,bassoon,
+Wave Motion and Sound,Assessment Test III,4,"Match the statements of Column A with those of Column B
+(A) Loudness       (a) Group of wave length
+(B) Pitch              (b) Single wave length
+(C ) High quality   (c ) Amplitude
+(D) Low qulaity    (d) Frequency","A→c;    B→d,    C→b;     D→a","A→c;    B→d,    C→a;     D→b","A→d;    B→c,    C→b;     D→a","A→d;    B→c,    C→a;     D→b",
+Wave Motion and Sound,Assessment Test III,5,Two persons are talking behing the wall. We can differentiate their voices by _________ evne if their pitch an amplitude are equal.,loudness,quality,timbre,Both (b) and ©,
+Wave Motion and Sound,Assessment Test III,6,The oscillation of a simple pendulum is graphically represented as shown in figure. The frequency of the simple pendulum is _______ Hz.,4,0.5,0.25,  1/6,X
+Wave Motion and Sound,Assessment Test III,7,"A wave of time period of 20 ms travels with a velocity of 2 m s-1 If the time period of another wave is 5 ms, then velocity of second wave and the ratio of their velocity are (wave length of the two waves is same)______ and respectively.","0.8 m s-1, 7/2 ","0.25 m s-1, 5/2 ","8 m s-1, 1/4",None of these,
+Wave Motion and Sound,Assessment Test III,8,"A sound wave is traveling from air to water. The velocity of the sound waves in air is 340 m S-1 and wavelength is 2m. If the wave length of the sound wave in water is 1050 cm, then its velocity of wave in water is _____.",1785 m s-1,1.785 m s-1,1.785 pm s-1,1585 m s-1,
+Wave Motion and Sound,Assessment Test III,9,"When a string fixed between two end is plucked, a wave propagates along the string and relfects at the other end. If the velocity and frequency of the wave is 330 m s-1 and 1200 Hz, then the distance of first node and first anti-node from the fixed end of the string are _______ and ______, respectively.","0.1375m, 0.6875 m","0.138 m, 0.6 m","0.1375 m, 0.06875 m",None of these,
+Wave Motion and Sound,Assessment Test III,10,"If the length of a seconds pendulum is first decreased by 10cm and its time period is measured and then increased by 15 cm and the time period is measured, then the ratio of the time periods in two cases is _______ (Take g = 9.8 s-2)",6 : √‾7, √‾6 : 7,√‾42 : 1, √‾6 : √‾7,
+Wave Motion and Sound,Assessment Test III,11,"When you speak to your friend, which of the following paramenters has a unique value in the sound produced?",frequency,velocity,amplitude,wavelength,
+Wave Motion and Sound,Assessment Test III,12,"The time period of a pendulum on the surface of a planet is 8 s and same simple pendulum is a second pendulum on the Earth surface. What is the value of x, if the acceleration due to gravity of the planet is 1/x times of that of the earth?",16,8,4,2,
+Wave Motion and Sound,Assessment Test III,13,"The velocity of sound increases by 50% when it enters a liquid from air and when it enters another liquid from air, increase in velocity is 150%. What is the ratio of % increase in the wavelength in two cases?", 1 : 1, 1 : 2, 1 : 4, 1 :3,
+Wave Motion and Sound,Assessment Test III,14,The length of a second pendulum on the Earth to be decreased to make it as a seconds pendulum on the surface of the Moon is _______ time its length on the Earth., 1/6, 11/6, 5/6 , 7/ 6,
+Wave Motion and Sound,Assessment Test III,15,Two sound waves 'P' and 'Q' travel with amplitude 3 mm and 4 mm. What is the ratio of their loudness?, √‾3 : 2,  9 : 16,2: √‾3, 16 : 9,
+Wave Motion and Sound,Assessment Test IV,1,"The time taken by a particle to move from one extreme position to the other extreme position is 0.1s. If the distance between two adjacent crests is 1.5m, write the steps in sequential order to determine the velocit of the wave.
+(A) Note down the wavelength (h) 
+(B) Find the frequency (f)
+(C ) Note down the time period (T)
+(D) Find the velocity by the formula v = fh",BCAD,CBAD,ABCD,ACBD,
+Wave Motion and Sound,Assessment Test IV,2,"What is the wavelength, if the distance between one crest to the next trough of a wave is 12.5 cm?",25m,25 cm,2.5 m,None of these,
+Wave Motion and Sound,Assessment Test IV,3,The musical instrument in which a membrance is excited to produce musical notes is called _______ instrument.,flute type,reed type,stringed,percussion,
+Wave Motion and Sound,Assessment Test IV,4,"Match the statements of Column A with those of Column B
+(A) Pitch                       (a) Hertz
+(B) Wavelength             (b) Centimetre
+(C ) Loudness               (c ) No unit
+(D) Amplitude               (d) Decibel","A→c;    B→b,    C→d;     D→b","A→a;    B→b,    C→d;     D→b","A→c;    B→d,    C→b;     D→a","A→c;    B→d,    C→a;     D→b",
+Wave Motion and Sound,Assessment Test IV,5,"If the loudness of sound of two persons is equal, then ________.",Their frequency of sound is equal ,Their amplitude of sound is equal,Their quality of sound is equal,Both (a) and (b),
+Wave Motion and Sound,Assessment Test IV,6,"The frequency and amplitude of simple pendulum are 2 Hz and 4 cm, respectively. What is the suitable graph for this simple pendulum?",x,x,x,x,
+Wave Motion and Sound,Assessment Test IV,7,"A wave of frequency 100 Hz travels with a velocity of 3 m s-1. If the time period of another wave is 8 ms, then its velocity and also the ratio of their velocities are ______ (Assume that the wavelength of the two waves is the same)."," 30/8 m s-1, 5/2"," 30/8 m s-1, 4/5"," 30/8 m s-1, 2/5",None of these,
+Wave Motion and Sound,Assessment Test IV,8,"A sound wave is traveling from air to glass. The velocity of the sound  in air is Va and wavelength is ha. What is the velocity in glass, if the wave length of the sound wave in the glass is hg?",ha vg/ va,hg vg/ ha,ha va/ vg,ha va/ hg,
+Wave Motion and Sound,Assessment Test IV,9,"When a string fixed between two end is plucked, a wave propagates along the string and relfects at the other end. If the frequency and distance of the first anti-node from first end of the string are 1000 Hz and 2m, respectively, the velocity of the wave is ______________",8000m s-1,8000cm s-1,8 x 10-3 cm s-1,9000m s-1,
+Wave Motion and Sound,Assessment Test IV,10,"The length of a second pendulum is first decreased by 10cm and its time period is found, then increased x cm and its time period is found. If the ratio of time periods in two cases is √‾3 : 2, then find the value of x",10,20,30,40,
+Wave Motion and Sound,Assessment Test IV,11,"When a sound wave is traveling from one medium to another medium, which of the following parameters have a unique value in the sound progation?",frequency,wavelength,Velocity,Speed,
+Wave Motion and Sound,Assessment Test IV,12,"The time period of a simple pendulum is 4 s on the surface of the earth. What is the length of the pendulum (in m), if it takes 2.3s to complete one oscillation on the surface of the planet whose 'g' value is thrice that of the earth ? (Take n2 =g)",1,2,3,4,
+Wave Motion and Sound,Assessment Test IV,13,The velocity of sound increases by 75% when it enters a liquid from air and their is  a 25% increase in the wavelength when it enters into another liquid from the first liquid. The velocity of sound in the second liquid is ________ if the velocity of sound in 1m liquid is 1100 m s-1.,"1,275 ms-1","1,375 ms-1","1,375 cms-1","1,275 cms-1",
+Wave Motion and Sound,Assessment Test IV,14,"The time period of a simple pendulum on the surface of the Earth is 5 s. To maintain the same time period on the surface of the planet of g value twice that of the earth, the change in the length of the pendulum is _________ (Take the value of acceleration due to gravity on the Earth as n2)",6.25 m,6.25 cm,62.5 nm,62.5 pm,
+Wave Motion and Sound,Assessment Test IV,15,"The % increase in the amplitude of sound is 20%, then % change in loudness is ________",11,22,33,44,
+Light,Assessment test I,1,"A light ray incident on a reflecting surface with an angle of incident of 30°, The angle of deviation is_______,",60°,30°,120°,90°,
+Light,Assessment test I,2,What is the nature of the images formed by a plane mirror ?,real,magnified,virtual,diminished,
+Light,Assessment test I,3,"what is the number images formed, when the angle between two mirrors is  72° ?",4,5,6,3,
+Light,Assessment test I,4,"A light ray travelling from medium 'A' to medium'B'undergoes refraction and another light ray travelling from 'A' to 'C' undergoes reflection. If A,Band C are transparent media and μA, μB and μC are their refractive indices, which of the following is necessarily true? ",μA > μB,μA < μB,μB > μC,μB < μC,
+Light,Assessment test I,5,"A light ray travels through three media A,B, and C as shown below. If ʋA,ʋB and ʋC are the velocities of the light in A,B,C respectively, then ",ʋB > ʋA,ʋB > ʋC,ʋC > ʋA,ʋB > ʋC,X
+Light,Assessment test I,6,"Assertion (A) :When vissible light is passed through a pris, violet colour is seen at the bottom of the screen.
+Reason( R ) : prism has the highest refractive index for voilet light.",A and R are true and R is the correct explanation of A.,A and R are true but R is not the correct explanation of A.,A is true but R is false.,Both A and R are false.,
+Light,Assessment test I,7,"Assertion (A) :A convex lens placed in air always forms a real images.
+Reason( R ) : Any light ray passing through a convex lens is converged.",,,,,
+Light,Assessment test I,8,"objects are placed infront of a convex lens of local length 20 cm at the following positions, Arrange these positions in the increasing order of the size of their image.
+(A) At 2F1  
+ (B) At F1 
+(C) Between 2F1 and F1
+ (D) Infinity ",,,,,
+Light,Assessment test I,9,a light ray travells from air to four different media as shown below. Arrange them in the increasing order of wave length of light rays in these media.,ACBD,DBCA,DCDB,CBDB,X
+Light,Assessment test I,10,"Match the statements of Coloumn A with those of Coloumn B
+(A) Blue colour of Sky                                  (a) Total internal reflection
+(B)  Mirage                                                    (b) Scattering of light
+(C)  Twinkling of Stars                                  (c) Dispertion
+(D) Formation of  rainbow                             (d) Refraction","A -> b;  B -> a; C -> d, D -> c","A -> a;  B -> b; C -> c, D ->d","A -> b;  B -> c; C -> b, D -> a","A ->c;  B -> d; C -> b, D -> a",
+Light,Assessment test I,11,Which of the following takes place in periscopes in which prisms are used.,refraction,total internal reflection,reflection,scattering,
+Light,Assessment test I,12,"The velocities of light through media 'A' and 'B' are V and 2V, respectively, The value of sin C is ________[ where 'C' is the critical angle].",1/2.,1/3.,3,2,
+Light,Assessment test I,13,An object of height 5 cm is placed infront of a convex lens of local length 20cm at a distance of 30 cm. what is the height of the image (in cm)?,20,30,10,40,
+Light,Assessment test I,14,The focal length of a eye lens is ʄ. What is the value pof the diameter of the eye ball?,ʄ,2ʄ,3ʄ,ʄ/2,
+Light,Assessment test I,15,A glass slab of thickness 5 cm and refractive 3/2 is placed over a photo. The apparent shift in position of the photo is _________cm.,7/3.,5/3.,5/2.,5/4.,
+Light,Assessment test II,1,"When a light ray incident on a reflecting surface, the angle of deviation is found to be 90°. What is the value of the angle of reflection?",45°,90°,160°,120°,
+Light,Assessment test II,2,"Image formed on a convex mirror is ___________.
+(A) real  (B) magnified (C) virtual  (D) dimished",,,,,
+Light,Assessment test II,3,The number of images formed by the combination of two mirrors is 9. What is the angle between the two mirrors ?,36°,40°,90°,both (a) and (b),
+Light,Assessment test II,4,"When a light ray travells from a medium P and Q,  it undergoes total internal reflection. Then, avoiding normal incidence _________",any light ray travelling from P to Q undergoes reflection,any light ray travelling from Q to P undergoes reflection,any light ray travelling from Q to P undergoes refraction,None of these,
+Light,Assessment test II,5,"A light ray travels from medium P to Q and R as shown below. If μP, μQ and μR are the refractive indices of the media P,Q and R, respectively, then find the relation between them.   ",μP > μQ,μR > μQ,μR > μP,μP > μQ,X
+Light,Assessment test II,6,"Assertion (A) : Voilet and red light entering from air, traveling same distance through a glass slab travel for same time interval.
+Reason (R ) : Velocities of voilet and red light travelling through glass slab are same.",A and R are true and R is the correct explanation of A.,A and R are true but R is not the correct explanation of A.,A is true but R is false.,Both A and R are false.,
+Light,Assessment test II,7,"Assertion (A) : A convex lens placed in air always forms virtual image
+Reason (R ) : Any light ray passing through a concave lens is diverged.",A and R are true and R is the correct explanation of A.,A and R are true but R is not the correct explanation of A.,A is true but R is false.,Both A and R are false.,
+Light,Assessment test II,8,"When an object is moved away from a convex mirror, what happens to the image?",becomes smaller,moves closer to the focus,becomes inverted,Both (a) and (b),X
+Light,Assessment test II,9,A light ray travels from a medium 'm' to four different media as shown below. Arrange them in the increasing order of critical angle. ,ABCD,DCBA,CABD,DBAC,
+Light,Assessment test II,10,"Match the statements of coloumn A with those of coloumn B,
+      Coloumn A                                                                   Coloumn B
+(A) Optic fibre communicatio                        (a) Reflection
+(B)  Apparent depth of swimming pool          (b) Scattering 
+(C)  Formation of image by a plane mirror     (c) Total internal reflection
+(D) Orange colour of Sky                              (d) Refraction",,,,,
+Light,Assessment test II,11,The periscopes in which mirror are used. __________ takes place,reflection,total internal reflection,refraction,scattering,
+Light,Assessment test II,12,"The Critical angle of a pair of media is 'C'. If velocity of light through the denser medium is V, the velocity of the light through the rarer medium is _______,",,Sin,,V Sin C,
+Light,Assessment test II,13,"When an object of height 3 cm is placed infront of a convex lens of focal length 20 cm, the height of the real image is found to be 6cm. What is the distance between the object and image?",20,30,10,40,
+Light,Assessment test II,14,"The focal length of the defective eye lens of a person is less than the diameter of the eye ball. Then the person is suffering from ________,",short sightedness,long sightedness,defect in cornia nerves,defect in optical nerve,
+Light,Assessment test II,15,"A bird is flying horizontally above a swimming pool at a distance of 30m above the surface of water. If the refractive index of water is 4/3, the apparent shift in position of the bird's image is _______, ",10 m,20 m ,15 m,12 m,
+Light,Assessment test III,1,Choose the correct statement (S),An object is visible only if the light is reflected from it,Light is the only form of energy which causes the sensation of vision.,Formation of a shadow is due to the rectilinear propogation of light.,All of the above,
+Light,Assessment test III,2,"The Point of intersection of reflected rays is _______,",a real object,a real image,a virtual image,a virtual object,
+Light,Assessment test III,3,"An optical instrument is placed inside the box as shown below. The incident rays and emergent rays are also shown. The optical instrument could be _____,",Only a plane mirror,only a convex mirror,only a concave mirror,both plane mirror and convex mirror,X
+Light,Assessment test III,4,Light rays are incident onb a plane mirror as shown below. What is the image distance with proper sign convertion ?,+20 cm,-20 cm,+40 cm,-40 cm,X
+Light,Assessment test III,5,A concave mirror of focal length 30 cm forms a real image whose size is thrice the size of the object which is at the distance of _______cm.,60,50,40,70,
+Light,Assessment test III,6,What should be the shift in the position of a plance mirror so that the shift in position of the image is 20 cm towards the mirrors?,20 cm,40 cm,10 cm,80 cm,
+Light,Assessment test III,7,The velocity of light in air is 3 x        m       . What is the velocity of light in a medium whose refractive index is 1.8?,1.6 x        m ,1.32 x        m ,2.22 x        m ,2.8 x        m ,
+Light,Assessment test III,8,"When a person suffering from long sightedness looks at an object very close to him, the image distance of the eye lens is ______ that of a normal eye.",lesser than,equal to,greater than,half of,
+Light,Assessment test III,9,"In the outer space, the sky appears _________,",blue due to scattering,Orange due to refraction,dark as there is no scattering,while as there is no scattering,
+Light,Assessment test III,10,"Match the statements of coloumn A with those of coloumn B,
+Coloumn A                                                        Coloumn B
+(A) Scatering                                  (a) Twinkling of stars
+(B)  Total internal reflection         (b) Formation of image by a plane mirror
+(C) Refraction                                 (c) Sparking of diamond
+(D) Reflection                                 (d) Blue colour of the sky",,,,,
+Light,Assessment test III,11,"Arrange the following steps of an experiment to determine the focal length of a concave mirror in proper order.
+(A) Focus the mirror to a distant object
+(B) Place the concave mirror on a V shaped stand
+(C ) Measure the distance between the screen and the mirror
+(D) Adjust the position of the screen, such that a clear image is formed on it",,,,,
+Light,Assessment test III,12,"A convex lens made of glass, with refractive index 3/2, is placed in a medium of refractive index 5/2, A parallel beam of light entering the lens ______,",diverges,converges,undergoes no refraction,comes out as a parallel beam by itself.,
+Light,Assessment test III,13,"The height of the image of an objject placed in front of a convex lens is 4 cm, If the magnification produced by the lens is -2, the height of the object is ______ cm and it is a _______ image.","2, real","8, real","8, virtual","2, virtual",
+Light,Assessment test III,14,"The critical angle of a prism is 42°, Choose the correct statement of a light ray incident on a prism as shown below.",The angle of refraction on the surface AB is 30°,The angle of reflection on the surface AB is 60°,The angle of reflection on the surface AB is 30°,The angle of refraction on the surface AB is 42°,X
+Light,Assessment test III,15,"If a coin is placed at the bottom of a tank filled with water, upto a height 2m, it appears to be at a depth of ________from the surface of the water. (Refractive index of water is = 4/3) ",3/4.,2/3.,4/3.,3/2.,
+Light,Assessment test IV,1,Choose the wrong statement (S),The formation of an image is always due to the reflection,Real images can not be formed due to the reflection of light,The formation of a real image is always due to the refraction of the light rays.,All of the above,
+Light,Assessment test IV,2,"The point of intersection of incident rays is _________,", a real object,a real image,a virtual image,a vertual object,
+Light,Assessment test IV,3,"An optical instrument is placed inside a box as shown below. The incident rays and emergent rays are also shown. The optical instrument could be _______,",a convex mirror,a concave mirror,a concave lens,either a concave lens or a convex mirror,X
+Light,Assessment test IV,4,Converging light rays incident on a convex mirror is as shown below. What is the image distance with proper sign convention ?,+10 cm,-10 cm,+20 cm,-20 cm,X
+Light,Assessment test IV,5,A convex mirror of focal length 20 cm forms an image whose size is one third of the size of the object. The object distance is ________cm.,60,40,50,80,
+Light,Assessment test IV,6,A plane mirror is shifted towards an object by 5 c. What is the shift in position of the image?,5 cm,10 cm,20 cm,40 cm,
+Light,Assessment test IV,7,"The velocity of light in two media 'X' and 'Y' are 10^8 m s6-1 and 1.5 x 10^8 m s^-1, respectively. The refractive index of Y with respect to X is ________,",,2,,,
+Light,Assessment test IV,8,"When a person suffering from short sightedness looks at an object at infinite distance, the focal length of the eye lens is _______ that of a normal eye.",equal to,lessthan,greater than,double,
+Light,Assessment test IV,9,"In the evening hours, Sky appears _______, ",Orange or red as light rays travel long distance,blue due to the scattering of light with lower wavelength,dark as there is no scattering taking place in the sky,white as there is no scattering taking place in the sky,
+Light,Assessment test IV,10,"Match the statements of coloumn A with those of coloumn B,
+    Coloumn A                                                    Coloumn B
+(A) Dispersion                                             (a) Mirage
+(B)  Scattering                                             (b) pin hole camera 
+(C)  Total internal reflection                          (c) Red light used as traffic signal
+(D) Rectilinear propagation                           (d) Rainbow",,,,,
+Light,Assessment test IV,11,"Arrange the following steps to determine the focal length of a convex lens in proper order.
+(A) Focus the lens to a distant object
+(B) Measure the distance between the lens and the screen
+(C ) Place the lens on a stand.
+(D) Adjust the position of the screen to obtain a clear image on it.
+",CABD,CBAD,CADB,CBAD,
+Light,Assessment test IV,12,"A Concave lens made of a material of refractive index 3/2 is placed in atransparent liquid of refractive index 1.8. A parallel beam of light rays after passing through the lens ________,",diverges,converges,undergoes not refraction,emerges out as a parallel beam itself.,
+Light,Assessment test IV,13,"The height of the object placed in front of a convex lens is 20 cm. if the magnification is +3, the height of the image is _________cm and it is formed in the _________side of the object.","60, same","60, opposite","20/3, same","20/3, opposite",
+Light,Assessment test IV,14,"The critical angle of the prism shown below is 42°, If the light ray enter a prism as shown below, Choose the correct statement. 
+(A) Light ray emerges out from the side AC
+(B) Angle of deviation is 180°
+(C ) Light ray does not undergo any refraction on the surface AB.",,,,,X
+Light,Assessment test IV,15,A stamp placed under a glass slab appears to be at a distance 4 cm from the top surface. Then the thickness of glass slab is ______cm. ( Refractive index of glass = 3/2),16,9,6,8,
+Electricity,Assessment Test I,1,What happens when a glass rod is rubbed with silk cloth?,the electrons flow from glass rod to silk cloth.,the glass rod becomes a negatively charged body.,the glass rod becomes a positively charged body.,Both (a) and (c),
+Electricity,Assessment Test I,2,"What happens when two identical bodies 'A' and 'B', which have +10 C and +5 C, respectively, are connected to each other by means of a metal wire?",the conventional current flows from A to B.,the electronic current flows from A to B.,the electronic current flows from B to A.,Both (a) and (c),
+Electricity,Assessment Test I,3,"An electrical conducting wire (ABCD) of negligible resistance is connected parallel to the resistor of R = 100Ω as shown in the figure. If 2 x 10¹³ electrons are pushed into the the circuit in every one second, then the current flowing through the conductor (ABCD) is __________________. (charge of an electron = 1.6 x 10⁻¹⁹)",8 x 10⁻⁶ A,1.6 x 10⁻¹³,1.6 x 10⁻⁶ A,3.2 x 10⁻⁶ A,x
+Electricity,Assessment Test I,4,An electric device of 50 W is made to run for 20 h per day. If one unit costs ₹ ______________ .,125,150,75,50,
+Electricity,Assessment Test I,5,In which of the following electric circuits does the electric bulb shown glow?,x,x,x,x,
+Electricity,Assessment Test I,6,"Assertion (A) : When current is supplied by a cell, the cell gains electrons. Reason (R): The number of electrons coming out of the cell to the circuit is equal to the number of electrons entering the cell from the circuit.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,
+Electricity,Assessment Test I,7,Assertion (A) : Mica sheets are placed on either side of the heating elemet. Reason (R): Mica does not conduct electricity but transfer the heat.,A and R are true but R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,
+Electricity,Assessment Test I,8,"Match the statement of Column A with those of Cloumn B.
+Column A Column B
+A. Chemical decomposition reaction a. NH₄Cl
+B. Dichromate cell. b. Metallugical applications.
+C. Chemical effect of electricity c. Electrolyte
+D. Leclanche cell d. K₂Cr₂O₇ + H₂SO₄",A → a; B → d; C → c; D → b,A → a; B → d; C → d; D → c,A → c; B → d; C → b; D → a,A → c; B → b; C → d; D → a,
+Electricity,Assessment Test I,9,"Two identical copper coins are melted and two wires 'A' and 'B' are made out of them. What is the resistance of B, if the lenght of A is twice that of B?",equal to the resistance of A,equal to half the resistance of A,equal to quarter the resistance of A,equal to 1/8 times the resistance of A,
+Electricity,Assessment Test I,10,An electric fan consumes 1500 J of electrical energy in half-minute. The power of the fan is __________ .,50 watt,150 J s¹⁻,45 watt,200 J s¹⁻,
+Electricity,Assessment Test I,11,"Based on the figure given below, four statements are given. Choose the correct statement among them.","Bulbs A,C and D are in series.","Bulbs A,B and D are in parallel.",Bulbs A and B are in series.,Bulbs C and D are in parallel to bulbs A and B,x
+Electricity,Assessment Test I,12,"Leclanche cell consists of porous pot and a zinc rod placed in a solution of NH₄Cl in a glass jar, the porus pot contains powsered carbon and MnO₂ with carbon rod dipped in it.
+A. Carbon rod acts as a positive electrode
+B. zinc rod acts as a negative electrode",Both A and B are correct,A is correct and B is incorrect,A is incorrect and B is correct,Bulbs A and B are incorrect.,
+Electricity,Assessment Test I,13,"In which of the following, the principle of chemical effects of electricity is used?",Telephones,Electroplating,Electric bell,Electric motor,
+Electricity,Assessment Test I,14,"In a domestic use, two fans of 100 W, there bulbs of 60 W each and 120 W of washing machine are used continuously for 10 h. Arrange the following steps to determine the amount of electrical energy consumed in proper sequence. 
+A. Use the formula P = E/t
+B. Find the wattage of different electrical appliances and time for which they are used.
+C. Find the electrical energy consumed by each appliance.
+D. Add them all and get the total electrical energy consumed.",DABC,BACD,DACB,BCAD,
+Electricity,Assessment Test I,15,An electron revolves around a nucleas of an atom in an orbit of radius 'r' with a speed 'u'. Which is the electric current due to the motion the electron? (charge of the electron is represented as 'e'),ev/2πr²,ev²/2π,ev/2π,ev/πr,
+Electricity,Assessment Test II,1,What happens when an ebonite rod is rubbed with fur?,the electrons flow from fur to ebonite rod.,the protons flow from fur to ebonite rod.,the ebonite rod becomes a positively charged body.,Both b and c,
+Electricity,Assessment Test II,2,A charged body of charge -100⁰ C is connected to the ground. Then ________________.,the conventional current flows from the body to the ground.,the conventional current flows from the ground to the body.,the electronic current flows from the ground to the body because ground is at zero potential.,Both a and c,
+Electricity,Assessment Test II,3,"An electrical conducting wire PQRS of negligible resistance is connected parallel to bulbs B₁, B₂, B₃ as shown in the figure. If 4 x 10¹⁸ electrons are emitted from the cell into the circuit, in each second, then the current flowing through the bulb B₂ is ______________ (The magnitude of charge of an electron is 1.6 x 10⁻¹⁹ C).",12:00 AM,0.64 A,0.4 A,6.4 A,x
+Electricity,Assessment Test II,4,"Two electric bulbs of 100 W each are used for 10 h per day in the month of September. If the price of one unit is ₹ 3, then the electricity bill for two bulbs would be ₹ ____________ .",300,380,180,280,
+Electricity,Assessment Test II,5,"In which of the electrical circuit diagrams given below, does electric bulb show a glow?",x,x,x,x,
+Electricity,Assessment Test II,6,"Assertion (A) : Insulators cannot conduct electricity.
+Reason (R) : The electricity flowing through the solids is due to the flow of free electrons in them and insulators have less number of free electrons.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,
+Electricity,Assessment Test II,7,"Match the statement of Column A with those of Column B.
+Column A Column B
+A. Gold covering a. Heating effect of electricity
+B. Button cell b. Chemical effect of electricity.
+C. EMF c. Volt
+D. An electric stove. d. Zinc acts as anode",A → d; B → a; C → b; D → c,A → b; B → d; C → c; D → a,A → b; B → a; C → c; D → d,A → a; B → c; C → b; D → d,
+Electricity,Assessment Test II,8,"Assertion (A) : Magnesium oxide or quartz sand is used in a heater.
+Reason (R) : Magnesium oxide or quartz sand has high electrical resistance and is the most preferred material for the preperation of heating elements.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,
+Electricity,Assessment Test II,9,"The lenght of two silver rods 'A' and 'B', having the same mass, are in the ratio 2:3 and the resistance of A is ___________ times the resistance of B.",15/14,14/15,04/Sep,05/Mar,
+Electricity,Assessment Test II,10,"An electric geyser consumes 10,000 J of electrical energy in 300 s to boil water. What is the power of the electric greaser?",666.6 W,333.33 W,33.33 W,3 W,
+Electricity,Assessment Test II,11,"Five bulbs 'A', 'B', 'C', 'D' and 'E' are connected to each other as shown in the figure. Identify the correct statement from the statements given below.","Bulbs A, B, C, D and E are connected in series.",The bulb E is connected in series to bulbs C and A.,The bulb C and D are in series and are parallel to the combination of A and B and also parallel to E.,Both b and c,x
+Electricity,Assessment Test II,12,"Choose the correct statement(s)
+A. In a dry cell, the powdered carbon present in the electrolyte enhances the flow of charge through it.
+B. In lead-acid storage battery, the electrodes are made up of zince or carbon.",Both A and B are correct,A is correct and B is in correct,A is incorrect and B is correct,Both A and B are incorrect,
+Electricity,Assessment Test II,13,Which of the following statements is not true with regards to Daniel cell?,It consists of glass container which is divided into two unequal portions by a porous membrane,One portion contains ZnSO₄ solution with a zinc rod dipped in it.,Another portion contains CuSO₄ solution with a copper rod dipped in it.,Electrons get accumulated over the zinc rod.,
+Electricity,Assessment Test II,14,"In a factory, 100 bulbs of 100 W, 100 fans of 60 W and 100 tube lights of 40 W are used for 10 h per day for 30 days. Arrange the following steps to calculate the total energy consumed, in a proper sequence.
+A. Find the energy consumed by bulbs, fans and tube lights
+B. Find the wattage of diferent electrical appliances from given data.
+C. Find the total number of hours they are used in 30 days.
+D. Add all the energies consumed by all appliances to get total energy.
+E. Use P = E/t",EABCD,BECAD,BCEAD,ECABD,
+Electricity,Assessment Test II,15,"If a stream of He²⁺ ions passes through a cross section at the rate 2 x 10¹⁹ ions per second, then electric current due to the flow of ions is ________ A.",3.2,6.4,7.2,"1,6",
+Electricity,Assessment Test III,1,SI unit of electromotive force is ____________ .,newton,volt,ohm,coulomb,
+Electricity,Assessment Test III,2,In an electric circuit electrons always move from ____________ to ____________ of the cell.,lower potential to higher potential,negative terminal to positive terminal,higher potential to lower potential,Both a and b,
+Electricity,Assessment Test III,3,"Match the statments of Coloumn A with those of Coloumn B.
+Column A Column B
+A. Dry cell p. 1.5V
+B. Voltaic cell q. 2 V
+C. Bichromate cell r. 1.08 V
+D. Leclanche cell s. 1.2 V ",A → s; B → q; C → r; D → p,A → p; B → r; C → q; D → p,A → s; B → r; C → p; D → q,A → s; B → p; C → q; D →r,
+Electricity,Assessment Test III,4,"Two bulbs each of 40 W and 50 W power are used for 1/5th of a day and 3/5th of a day, respectively. Write the following steps in a sequential order to find the total number of units consumed by them when they are used for 15 days.
+A. Convert the time into hours.
+B. Find the total energy (E) consumed by them in one day, i.e., E = E₁ + E₂
+C. Write the energy in terms of units, i.e., commercial unit of electric energy.
+D. Find the electric energy consumed by each bulb in a day using E₁ = P₁t₁ and E₂ = P₂t₂ .
+E. Note down the powers of the bulbs and the time for which they are used per day as P₁,P₂ and t, t₂ respectively.
+F. Now multiply E with 15 to get the energy consumed by them in 15 days.",AEDBFC,EADBCF,EADBFC,EABDCF,
+Electricity,Assessment Test III,5,The number of free electrons present in a certain volume of silver is _____________ than the number of free electrons present in the same volume of aluminium.,lesser,greater,neither greater nor lesser,None of these,
+Electricity,Assessment Test III,6,Choose the correct one from the following.,Resistance is the amount of charge crossing unit cross-section of a conductor in 1s,Resistance is inversely proportional to the square of the two charges.,Electrostatic force depends on the medium between the two charges.,Both b and c,
+Electricity,Assessment Test III,7,Which of the following has the defects like local action and polarization?,Daniel cell,Voltaic cell,Leclanche cell,Dry cell,
+Electricity,Assessment Test III,8,What happens when a nutral body is brought in contact with a negatively charged body?,it becomes positively charged,it becomes negatively charged,the net charge is zero,it consists of equal positive and negative charges,
+Electricity,Assessment Test III,9,"If an electric current of 5 A flows through a circuit which consists of a bulb, then the number of electrons passing through the bulb in 2 minutes is _____ .",3750 x 10¹⁹ electrons,3.75 x 10²¹ electrons,3.75 x 10¹⁹ electrons,3.75 x 10⁻¹⁹ electrons,
+Electricity,Assessment Test III,10,A 60 W bulb is switched ON for 20 h. What is the energy consumed in commercial unit?,120 kWh,120 unit,1.2 unit,3 unit,
+Electricity,Assessment Test III,11,"What is the charge developed, if a body gains 50 x 10¹⁸ electrons by rubbing it with another body?",2 C,16 C,8 C,-8 C,
+Electricity,Assessment Test III,12,"A 60 W bulb is used 10 h per day. If the cost of electricity is ₹ 4 per unit, then the bill for the month of February in an leap year is _________.",₹ 240,₹ 70,₹ 120,₹ 75,
+Electricity,Assessment Test III,13,"The lenght and radius of 'a' wire are 'l' and 'r', respectively, and its resistance is 'R'. If the lenght and radius are doubled, then its new resistance _______.",remains same,is doubled,is R/2,is R/4,
+Electricity,Assessment Test III,14,"If l₁ , l₂ and r₁ , r₂ are the lenght and radius of cross-section of two wires made of the same material and l₁r₂²/ l₂r₁² = 1/4 , then the ratio of resistance of two wires is _______. ",04:01,01:16,01:04,16:01,
+Electricity,Assessment Test III,15,"Six identical bulbs B₁, B₂, B₃, B₄, B₅ and B₆ are connected to a cell in the following lowing manner.
+If V = 20 V and the resistance of the each bulb is = 2 Ω, then total current in the given circuit is __________",40A,11.11A,16.6 A,1.6A,x
+Electricity,Assessment Test IV,1,SI unit of an electric charge is ______,volt,ampere,coulomb,farady,
+Electricity,Assessment Test IV,2,Inside a cell conventional current flows from ____________,negative terminal to positive terminal,lower potential to higher potential,higher potential to lower potential,both a and b,
+Electricity,Assessment Test IV,3,"Match the enteries of Column A with those of Column B by using a relation,
+F = 1/4πε₀ q₁q₂/r² 
+Column A Column B
+A. Electrostatic force between the charges q₁,q₂ at a distance 2r is p. 16F
+B. Coulomb force between the charges 2q₁, 2q₂, at r/2 distance is, q. 0 8/9F
+C. Force between the charges 2q₁, q₂ at 2r distance is r. F/4
+D. Force between the charges q₁, 2q₂ at 3r/2 distance is s. F/2",A → r; B → s; C → p; D → q,A → r; B → p; C → q; D → s,A → p; B → r; C → s; D → q,A → r; B → p; C → s; D → q,
+Electricity,Assessment Test IV,4,"If 4 of current flows through a conductor in one minute, how many number of charge carried passed through it? Write following steps in a sequential order to find the number of electrons that passed through a conductor in one minute.
+A. Equate 1 and 2, to find the number of electrons.
+B. Find the charge (Q) that follows through the circuit using Q = ___________ (current x time) _________ (1).
+C. Note the given data about current (i) and time (t).
+D. The number of electrons (n) flowing through the circuit can be found using Q = ne. ___________ (2)",BCDA,CBDA,CDBA,CDAB,
+Electricity,Assessment Test IV,5,The number of free electrons per unit volume is more in _______________,glass,graphite,iron,water,
+Electricity,Assessment Test IV,6,Choose the incorrect one from the following.,Charge density is the product of charge and surface area.,Carbon is not used as positive electrode in lead-acid storage battery.,Polarisation and local action are the defects of Leclanche cell,both a and c,
+Electricity,Assessment Test IV,7,Which of the following has ammonium chloride as an electrolyte.,Voltaic cell,Dry cell,Leclanche cell,Both b and c,
+Electricity,Assessment Test IV,8,"When a neutral body conceded to earth is brought closer to a negatively charged body, then",it becomes negatively charged,it consists of equal positive and negative charge,it becomes positively charged,no change in charge on it.,
+Electricity,Assessment Test IV,9,"If the power of the bulb is 40 W and its resistance is 10 Ω, then the amount of current passing through it in 1 s is ___________.",04:00 AM,05:00 AM,40 A,02:00 AM,
+Electricity,Assessment Test IV,10,"A bulb consumes 4,000 J of energy in 50 s, then the power of the bulb is __________.",60 W,40 W,80 W,100 W,
+Electricity,Assessment Test IV,11,"What is the charge on 'X', if a body X loses 125 x 10¹⁸ electrons by rubbing it with another body 'Y' ?",20C,2C,-8C,-20C,
+Electricity,Assessment Test IV,12,"The cost of one unit of electricity is ₹5. If the bill is ₹200, then the number of units consumed is _____________ .",20units,60 units,50 units,40 units,
+Electricity,Assessment Test IV,13,"Two wires of the same lenght but different radii are having their resistance ration 1:9. If the radius of the first wire is 'r', then the radius of the second wire is ____________ .",r/3,r/2,r,r/9,
+Electricity,Assessment Test IV,14,"Two wires made of same material are having the lenghts l₁,l₂ and ratio r₁,r₂. If l₁:l₂ = 1:1 and r₁:r₂=1:2, the ratio of their resistance R₁:R₂ is ____________.",02:01,01:04,04:01,01:02,
+Electricity,Assessment Test IV,15,"In the figure given below, what is the ratio of potential across AB and CD, if all the bulbs are identical?",01:01,05:04,04:01,04:05,x
+Magnetism and Our Universe,Assessment Test I,1,"Assertion (A): Direct Current (DC) and alternating current (AC) both are used for the electrical method of magnetisation.
+Reason (R) : Direct Current and alternating current produce constant magnetic field.",A and R are true and R is the correct explanation of A,A and R are true and R is not the correct explanation of A,A is true but R is false,Both A and R are false,
+Magnetism and Our Universe,Assessment Test I,2,"Arrange the following steps in sequential order to magnetize a steel bar with a strong permanant magnet.
+A. Keep the steel bar to be magnetized on a wooden table
+B. Take a strong permanat magnet and bring one pole (say north pole) of the magnet near one end of the steel bar and gently rub from one end.
+C. Once it has reached the other end, lift the magnet gently away from the steel bar and again bring it to the starting end.
+D. Repeat this process several times so that the steel bar is magnetized with the starting end as the north pole and the other end as the south pole.",ACBD,BACD,ABCD,ADBC,
+Magnetism and Our Universe,Assessment Test I,3,A substance which is feebly repelled by a magnet is a ____________.,diamagnetic substance,paramagnetic substance,ferromagnetic substance,none of the above,
+Magnetism and Our Universe,Assessment Test I,4,The equatorial meridian of a magnet _____________ .,bisects the magnetic axis perpendicularly.,is parallel to the magnetic axis.,makes a certain angle with the magnetic equator.,contains both the poles of the magnet.,
+Magnetism and Our Universe,Assessment Test I,5,"Match the statemnt of Column A with those of Column B.
+Column A. Column B
+A. Like poles a. Attraction
+B. Unlike poles b. Attraction
+C. Null points c. Magnetic flux
+D. Magnetic field line passing d. Repulsion 
+perpendicular to a given area",A → d; B → b; C → a; D → c,A → d; B → a; C → b; D → c,A → b; B → d; C → a; D → c,A → c; B → a; C → d; D → b,
+Magnetism and Our Universe,Assessment Test I,6,"Assertion (A): Magnetic lines of force never intersect each other.
+Reason (R) : If they intersect, there will be two directions for the magnetic field which is impossible.",A and R are true and R is the correct explanation of A,A and R are true and R is not the correct explanation of A,A is true but R is false,Both A and R are false,
+Magnetism and Our Universe,Assessment Test I,7,"In the diagram given below, if 'x' is a neutral point, magnetic poles 'A' and 'B' are ____ and _____ respectively.","North,South","North,North","South,North","South,South",x
+Magnetism and Our Universe,Assessment Test I,8,Magnetic field lines are ___________,closed continuous curves.,directed from north pole to south pole in the magnetic field.,directed from south pole to north pole inside the magnet.,All of the above.,
+Magnetism and Our Universe,Assessment Test I,9,Magnetic induction depends on _______________ .,nature of the medium,strenght of inducing the magnet,nature of the magnetic substance,Both b and c,
+Magnetism and Our Universe,Assessment Test I,10,"In the sun, hydrogen is converted to ____________",helium,oxygen,carbon,nitrogen,
+Magnetism and Our Universe,Assessment Test I,11,1 light year = ________ m,9.46 x 10¹⁵,2.46 x 10¹⁵,15 x 10¹⁵,20 x 10¹⁵,
+Magnetism and Our Universe,Assessment Test I,12,The angle of declination is ______________ .,90⁰ at the poles,0⁰ at the equator,variable,constant,
+Magnetism and Our Universe,Assessment Test I,13,"The magnetic moment of a bar magnet 'A' and its lenght are half thet of another bar magnet 'B'. Arrange the following steps in sequential order to find the ratio of their pole strenghts.
+A. Write the given values of magnetic moment (M) and magnetic lenght (2l) of the bar magnets A and B.
+B. Write the expression for pole strenght (m) for each magnet using M/2l.
+C. Divide the two expressions to get the ratio of mA to mB",BAC,ACB,BCA,ABC,
+Magnetism and Our Universe,Assessment Test I,14,What happens when a magnet is broken into two parts?,the smaller part acts like the north pole,the bigger part acts like the north pole,both the parts will have both the poles,polarity of each part depends upon the material,
+Magnetism and Our Universe,Assessment Test I,15,Choose a suitable option for a current carrying straight conductor.,south and north pole do not exist,south and north pole are present but cannot be found,one face is the north pole and the other is the south pole,no lines of force can be drawn,
+Magnetism and Our Universe,Assessment Test II,1,"Assertion (A): When an iron piece is magnetized, its lenght silghtly increases.
+Reason (R) : The closed molecular chains break down and all molecules align themselves in the direction of external magnetic field.",A and R are true and R is the correct explanation of A,A and R are true and R is not the correct explanation of A,A is true but R is false,Both A and R are false,
+Magnetism and Our Universe,Assessment Test II,2,"Arrange the following steps in sequence for ploting the magnetic lines of force around a bar magnet.
+A. Place a bar magnet NS on the line such that its axial lines conincides with the line on the paper and mark its boundry.
+B. Draw a line in the middle of a white paper fixed on a drawing board.
+C. Repeat the procedure by shifting the compass and mark the points 2,3,4 etc.
+D. Take a plotting compass and place it near the north pole of the bar magnet and mark the point 1 in the direction in which the north pole of the plotting compass points.
+E. Join the points 1,2,3 ................... by a smooth curve.",ABCDE,BADCE,ACBDE,BACDE,
+Magnetism and Our Universe,Assessment Test II,3,Which is the example of diamagnetic substance?,Platinum,Iron,Gold,Nickel,
+Magnetism and Our Universe,Assessment Test II,4,Physical lenght of a bar magnet is _______________ magnetic lenght,less than,greater than,equal to,may be less than or greater than,
+Magnetism and Our Universe,Assessment Test II,5,"Match the statement of Column A with those of Column B.
+Coloumn A Coloumn B
+A. Magnetic Field. a. Same angle of declination
+B. Magnetic field lines b. Angle of dip is zero
+C. Isogonic Line c. Never intersect
+D. Aclinic line d. Region in space where the effect of a maget is felt.",A → d; B → c; C → a; D → b,A → d; B → c; C → b; D → a,A → c; B → d; C → a; D → b,A → b; B → c; C → d; D → a,
+Magnetism and Our Universe,Assessment Test II,6,"Assertion (A): Steel is used for making a permanant magnet.
+Reason (R) : Retentivity of steel is high.",A and R are true and R is the correct explanation of A,A and R are true and R is not the correct explanation of A,A is true but R is false,Both A and R are false,
+Magnetism and Our Universe,Assessment Test II,7,"In the diagram, the magnetic poles 'X' and 'Y' are ____ and _____ respectively.","South,North","North,South","South,North","North,North",x
+Magnetism and Our Universe,Assessment Test II,8,Which of the following is the test for magnetism?,conduction,induction,repulsion,attraction,
+Magnetism and Our Universe,Assessment Test II,9,Light year is the unit of ___________,time,average intensity of sunlight in one year,distance,period of revolution of earth around sun,
+Magnetism and Our Universe,Assessment Test II,10,"If it takes 8 min and 20 s for sunlight to reach the Earth, the distance between the Earth and the Sun is ___________ .(The velocity of light is 3 x 10⁸ ms⁻¹)",5 x 10¹⁰m,10 x 10¹⁰ m,15 x 10¹⁰ m,20 x 10¹⁰ m,
+Magnetism and Our Universe,Assessment Test II,11,"The angle made by the Earth's magnetic field with its vertical component is 60⁰, the angle of dip at the place is ______________",60⁰,30⁰,90⁰,0⁰,
+Magnetism and Our Universe,Assessment Test II,12,"A bar magnet has a pole strength of 10 A -m. If the distance from its centre to either of the poles is 5cm, arrange the following steps in sequential order to find its magnetic moment in SI unit.
+A. Substitute the values in the above formula to get the value of M.
+B. Write the given value of pole strenght (m) of the magnet.
+C. Find the value of magnetic lenght (2l) of the magnet from the problem and convert it into SI unit.
+D. Write the required formula, i.e. magnetic moment (M) = mx 2l",BCDA,ABDC,BDCA,ABCD,
+Magnetism and Our Universe,Assessment Test II,13,"Magnetic keepers, used to prevent loss of magnetism, must be made of _____________",wood,copper,soft iron,Both b and c,
+Magnetism and Our Universe,Assessment Test II,14,What happens when a small steel rod is brought near a bar magnet?,magnetism is induced in the steel rod and it gets attracted to the magnet.,the steel rod becomes the magnet and the bar magnet loses its magnetism.,the steel rod first gets attracted and then magnetism is induced in it.,the steel rod destroys the magnetic properties of the bar magnet.,
+Magnetism and Our Universe,Assessment Test II,15,Why do meteors seldom reach the Earth?,freezing caused when they pass through the atmosphere,greater force of attraction towards the Sun,greater force of attraction towards the Moon,vapourization is caused when they pass through the atmosphere.,
+Magnetism and Our Universe,Assessment Test III,1,In our solar system which of the following planets has hight orbital speed?,Earth,Mars,Mercury,Jupiter,
+Magnetism and Our Universe,Assessment Test III,2,"Among the following, pick out the odd one.",Phobos,Shoemaker levy,Deimos,Moon,
+Magnetism and Our Universe,Assessment Test III,3,The retentivity is high for _________,soft iron bar,steel bar,aluminium bar,copper bar,
+Magnetism and Our Universe,Assessment Test III,4,"Match the statements of Coloumn A with those of Column B
+Column A Column B
+A. SI unit of pole strenght a. A - m
+B. Magnetic Keeper b. Tesla
+C. SI unit of magnetic moment c. A - m
+D. SI unit of magnetic field induction d. Prevents loss of magnetism.",A → c; B → b; C → d; D → a,A → c; B → d; C → b; D → a,A → c; B → d; C → a; D → b,A → d; B → c; C → a; D → b,
+Magnetism and Our Universe,Assessment Test III,5,"Following are steps to magnetize a steel bar. Arrange them in a sequential order.
+A. The end at which current enters in an anti-clockwise direction will become the north pole and the other end becomes the south pole.
+B. Keep the steel bar to be magnetized inside a long coil of insulated copper wire.
+C. Pass a strong direct current through the coil for sometime.
+D. The specimen of steel bar will get magnetized.",CBDA,BDCA,BADC,BCDA,
+Magnetism and Our Universe,Assessment Test III,6,"Arrange the following diagrams in a sequential order from a new moon day to full moon day
+A. x
+B. x
+C. x
+D. x
+E. x",EABDC,DABCE,EACBD,ECABD,
+Magnetism and Our Universe,Assessment Test III,7,Synodic month is of _________,29 1/2 days from one new moon to the next new moon.,30 days from one new moon to the next new moon.,15 days from one new moon to the next new moon.,27 1/2 days from one new moon to the next new moon.,
+Magnetism and Our Universe,Assessment Test III,8,Which of the following material is/are feebly repelled by a magnet?,Water,Aluminium,Platinum,both a and b,
+Magnetism and Our Universe,Assessment Test III,9,Ewing's molecular theory could not explain ____________,ferromagnetism,saturation of magnetism,the existance of dipoles,both a and c,
+Magnetism and Our Universe,Assessment Test III,10,Angle of inclination is always ______________,remains constant,varies from 0⁰ to 90⁰,varies from 0⁰ to 30⁰,varies from 0⁰ to 60⁰,
+Magnetism and Our Universe,Assessment Test III,11,The strenght of a magnetic flux density increases as _________________,the distance between magnetic poles increases,the magnetic strenght increases,the number of magnetic lines of force passing through a given area increases,both b and c,
+Magnetism and Our Universe,Assessment Test III,12,"From the figure given below, chose the point where the net magnetic field induction is zero",B,C,A,D,x
+Magnetism and Our Universe,Assessment Test III,13,Choose the planet from the following that rotates from east to west.,Venus,Mars,Sturn,Jupiter,
+Magnetism and Our Universe,Assessment Test III,14,A bar magnet of pole strenght 2 x 10 A-m has its effective lenght 8 cm. What is its magnetic momet?,16 x 10⁻⁴ A-m,1.6 x 10⁻³ A-m²,16 m A-m²,16 x 10⁻³ A-m,
+Magnetism and Our Universe,Assessment Test III,15,Geostationary satellite is launched in the orbit at a height __________ from the Earth's surface.,"30,000km","36,000km","36,000m","30,000m",
+Magnetism and Our Universe,Assessment Test IV,1,Which of the following planet has the minimum orbital speed?,Saturn,Venus,Jupiter,Neptune,
+Magnetism and Our Universe,Assessment Test IV,2,Pick out the correct one that is similar to the planet Saturn?,Uranus,Jupitor,Neptune,All of the above,
+Magnetism and Our Universe,Assessment Test IV,3,What does retentivity mean?,magnetism in the presence of applied magnetic firld.,retaining magnetism in the absence of applied magnetic field.,an ability of the medium to allow magnetic lines of force.,the force of attraction or repulsion between two magnetic poles.,
+Magnetism and Our Universe,Assessment Test IV,4,"Match the statements of Column A with those of Column B.
+Column A Column B
+A. Jovian planets a. Soft iron
+B. Espionage b. Steel
+C. Permanant magnet c. Saturn
+D. Electromagnet. d. Spying the movement of enemy troops.",A → c; B → b; C → d; D → a,A → c; B → d; C → b; D → a,A → c; B → b; C → a; D → d,A → d; B → c; C → a; D → b,
+Magnetism and Our Universe,Assessment Test IV,5,"The strenght of a bar magnet is 10 A-m. If the distance from its center to either of the poles is 10cm. Arrange the following sentences in sequential order to find its magnetic moment in SI unit. 
+P. Note down the value of lenght 'l' of the magnet from the problem and convert it into SI unit. 
+Q. Substitute the values in the above formula to get the value of M.
+R. Write the given values of pole strength 'm' of the magnet.
+S. Write the formula, magnetic moment, (M) = m x 2l",PQRS,SPQR,RPSQ,PRSQ,
+Magnetism and Our Universe,Assessment Test IV,6,"Arrange the following planets in the increasing order of their orbital speed around the Sun.
+A. Earth
+B. Venus
+C. Mars
+D. Jupiter",EDBA,ADCB,CBDA,DCAB,
+Magnetism and Our Universe,Assessment Test IV,7,The average time gap between one full moon and the next full moon is __________ days,15,30,29.5,None of these,
+Magnetism and Our Universe,Assessment Test IV,8,Which of the following material is /are strongly attracted by a magnet?,Chromium,Cobalt,Gold,Aluminium,
+Magnetism and Our Universe,Assessment Test IV,9,Ewing's molecular theory explained ______________,saturation of magnetism,directionality,attractive (or) repulsive nature of poles,All of the above,
+Magnetism and Our Universe,Assessment Test IV,10,What is angle of inclination?,the angle made by the Earth's magnetic field with its horizontal component.,the angle made by magnetic meridian with geographic meridian,the angle made by the Earth's magnetic field with its vertical component.,the angle made by Earth's geographic meridian with its horizontal component.,
+Magnetism and Our Universe,Assessment Test IV,11,The magnetic force between any poles id _____________,directly proportional to the product of their pole strenght,directly proportional to the square of the distance between them.,inversely proportional to the square of the distance between them.,Both a nad c,
+Magnetism and Our Universe,Assessment Test IV,12,"From the figure given below, chose the points where we will observe approximately similar magnetic field strenght.",A and D,B and C,C and D,A and D,x
+Magnetism and Our Universe,Assessment Test IV,13,Which of the following called Canis Major?,Alpha Century,Sun,Orion,Sirius,
+Magnetism and Our Universe,Assessment Test IV,14,"Consider a bar magnet of pole strenght 'm' and with effective lenght '2l'. If the bar magnrt is made into two pices along its equatorial line, then its magnetic moment is ____________.",lm,lm/2,2lm,lm/4,
+Magnetism and Our Universe,Assessment Test IV,15,What is the time period of a geostationary satelite?,24min,30 h,48 h,one mean solar day,
+Heat,Assessment Test I,1,What will happen when heat energy flws from one body to another ?, There is always change in tempreture .,There is always a physical contact between two bodies , There is always  a change in state of substance , There is no change at all ,
+Heat,Assessment Test I,2,"Temperatures of three bodies A, B and C are 20 o C, 20K and 20 o F, respectively. Which among them as the highest temperature?", A,B,C, All of them have the same temperature.,
+Heat,Assessment Test I,3,The normal human body temperature is 98.4o  F. If the body temperature of the person is 313 K. then the person----------., has normal temperarture ., high feaver., as temperature less than normal temperature., nothing can be said about his health condition.,
+Heat,Assessment Test I,4,"A piece of ice is floating in water. The temperature of both water and and ice is 0 C. What will happen when the surrounding temperature is -5 o C?
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+", The quantity of ice increases, The quantity of water increases,The quantity of water and ice remains the same., the quantiry of water and ice increases.,
+Heat,Assessment Test I,5,"If thousand cal of heat energy is supply to water at 30 o C, then-----------.",(a) Water starts to boil, Water completely converts to steam, It will either remain in liquid state or convert to steam depending on its mass, quantity of water in the container will decrease.,
+Heat,Assessment Test I,6,1000 cal of heat energy is supplied to a body'X' and 2000 cal of heat energy is supplied to body 'Y' and they are kept in contact. Then ,(a) the heat energy flows from Y to X, The heat energy flows from X to Y, The heat energy may flow from X to Y or Y to X depending upon their specific heat capacity.,the heat energy may flow from X to Y or Y to X depending upon their temperature.,
+Heat,Assessment Test I,7,"Match the statements of column A with those of column B
+  Column A                                               Column B
+(A) Temperature                                       (a) form of energy
+(B) Heat                                                      (b) depends on mass
+© Specific heat                                          (c) does not depends on mass
+(d) Heat capacity                                       (d) degree of hotness
+
+
+", DACB,ACBD, ACDB, BCDA,
+Heat,Assessment Test I,8,What is the specific heat capacity of water?, 1 cal g-1 o C-1, 4186 J g-1o C-1, 4186kj g-1o C-1, 0.04186 J g-1o C-1,
+Heat,Assessment Test I,9,Which of the following plays an important role when water is used as a coolant?, Specific heat capacity, Melting point, Boiling point, Density,
+Heat,Assessment Test I,10,The length of mercury column in a thermometer at the melting point of ice is 2 cm and the boiling point of water is 10 cm. What is the temperature of a body if the mercury thread is at 5 cm?, 25 o C, 30 o C, 50 o C,(d) 60 o C,
+Heat,Assessment Test I,11,"Assertion (A): Cooking becomes difficult on the top of a mountain. 
+Reason ®: At higher altitude the pressure is less, and hence, the boiling point of water decreases with altitude.", A and R are true and R is the correct explanation of A," A and R are true, but R is not the correct explanation of A", A is true but R is false, Both A and R are false,
+Heat,Assessment Test I,12,"Assertion (A): The sea and the land breezes are formed due to convection current of air
+Reason: During the day time, sea water gets heated faster than the land", A and R are true and R is the correct explanation of A," A and R are true, but R is not the correct explanation of A", A is true but R is false, Both A and R are false,
+Heat,Assessment Test I,13,"Choose the correct statement
+(A) Two piecesa of ice can be joined to form a single piece by pressing them with high pressure.
+(B) As the pressure increases the melting point of ice decreases.
+", Only (A) is correct, Only (B) is correct, Both (A) and (B) are correct,Both (A) and (B) are incorrect,
+Heat,Assessment Test I,14,"Arrange the following substance in the increasing order of their specific heat capacities.
+(A) 100 cal heat is required to change the temperature of 10g of a substance from 10 o C to 20 o C
+(B) 200 cal heat is required to change the temperature of 5 g of a substance 200 K to 230 K.
+© 420 joule of heat is required to change temperature of a substance os mass 50 g from 0 o C to 5p  C.", ABC, BCA, ACB, CBA,
+Heat,Assessment Test I,15,Which among the following Physical quantities is expressed in erg g-1?, Specific heat capacity, Heat capacity,Heat energy, Specific latent heat,
+Heat,Assessment Test II,1,When does the tempreture of a body change?, Only when a body absorbs heat., Only when a body is kept in contact with another body at a lower temperature., Only when a body is heated in a heating device, None of these,
+Heat,Assessment Test II,2,"The temperature of three bodies A,B,C, are increases by 1o C, 1o F and 1 K respectively. What will be the relation between these temperature, if these change in temperature are representated by AC, AF and AK respectively?", AC=AF=AK, AC = AK > AF, AF > AC > AK, AF = AC>AK,
+Heat,Assessment Test II,3,The temperature of a body 'A' is 60o C and the temperature of a body 'B' is 122o F. What will happen when they are in contact with each other?, The heat flows from A to B , The heat flows from B to A , They are in thermal equilibrium., Heat flows from A to B or B to A depending upon surrounding temperature.,
+Heat,Assessment Test II,4,A body at 110o C is dropped into water at 100o  C. What happens to the water to the quantity of water in the container.,remains the same, increases , decreases,The body covert to the liquid state.,
+Heat,Assessment Test II,5,1000cal of heat energy is supplied to 100 o g of ice at 0 o what is the final  tempreture of the content?, 0 o C, 20 o C, 5 o C, 3 o C,
+Heat,Assessment Test II,6,"What will happen to the body in its solid state, when it is dropped into its liquid form ( Neglet the flow of heat to the surroundings)?", The body melts, The liquid form converts to its solid form,No changes take place, Either A or C depending upon their temperature,
+Heat,Assessment Test II,7,"Match the statements of Column A with those of Column B
+Column A                                                           Column B
+(A) Absolute scale of   tempareture       (A) Expansion on Heating
+(B) Bimetallic strip              (B) Kelvin
+© Radiation                       © No medium is required
+ (d) Convection                (D) Medium is required         ",BCAD,BACD,ACBD,DBCA,
+Heat,Assessment Test II,8,"Arrange the following processes in the increasing order of time taken. In all the following processes, a similar heating device is used.
+(A) 10 g of Ice is just melted 
+(B) 10g of Water at its bioling point is just concerted to steam. 10g of water at 0 C is boiled
+( C)10 g of water 00 C is boiled
+
+",ABC,ACB,CBA,BCA,
+Heat,Assessment Test II,9,Which of the following properties plays an important role when water if use for fermentation ?,Specific heat capacity,Density,Boiling point,Melting point,
+Heat,Assessment Test II,10,"The length of the mercury thread in thermometer at 100 D C and 50 D C is 10 cm and 4 cm, respectively. What is the length of mercury thread when it is kept contact with melting ice?",0,2 cm,1 cm,3 cm,
+Heat,Assessment Test II,11,"Assertion : If the humiidity is high the chance of rainfall is high 
+Reason: If huminidity is high, water vapour will condense to form rain.",A and R are true and R is the correct explanation of A,"A and R are true, but R is not the correct explanation of A",A is true but R is false.,Both A and R are false.,
+Heat,Assessment Test II,12,"Assertion: As we move away from the surface of the earth in the atmosphere, the temperature increases .
+Reason: As we move away from the surface of the earth we are more close to the sun",A and R are true and R is the correct explanation of A,"A and R are true, but R is not the correct explanation of A",A is true but R is false.,Both A and R are false.,
+Heat,Assessment Test II,13,"Choose the correct statement
+A. The melting point of all substance ecrease with increase in pressure
+B The boiling point of water increases with addition of impurities.",Only (A) is correct,Only (B) is correct,Both (A) and (B) are correct,Both (A)and (B) are incorrect.,
+Heat,Assessment Test II,14,"Arrange the following substances in the increasing order of their heat capacity
+Substance               Mass             Initial temperature               Final temperature               Heat Energy absorbed
+  a                            10g                   5 C                                       10 C                              100 cal
+  b                            20g                  20 C                                      50 C                              200 cal
+  c                            30g                  40 C                                      50 C                              400 cal",ABC,BAC,CAB,ACB,
+Heat,Assessment Test II,15,Which among the following physical quantities is expressed in erg C-1?,Specific heat capacity,Heat capacity,Specific talent heat,Heat energy,
+Heat,Assessment Test III,1,Thermal capacity of a given substance depends on its __________.,Specific heat capacity,volume,temparature,mass,
+Heat,Assessment Test III,2,"Match the statements of Column A with those of Column B
+Column A                                                           Column B
+(A) Melting point of wax                           (p) 0.5 cal g-1s C-1
+(B) Absolute zero temparature                    (q) 600 C
+(C ) Specific heat capacity of ice                (r) 4200 J kg0 C-1
+(D) Specific heat capacity of warer             (s) -2730C","A→q;    B→s,    C→r;     D→p","A→q;    B→r,    C→p;     D→q","A→q;    B→s,    C→p;     D→r","A→q;    B→r,    C→s ;     D→p",
+Heat,Assessment Test III,3,Which of the following has more energy?,Water at 100oC,Steam at 100oC,Oli at 100oC,Both (a) and (b) ,
+Heat,Assessment Test III,4, A medium is necessary for the transmission of heat'. Which of the following is related to the given statement?,Conduction,Convection ,Radiation,Both (a) and (b) ,
+Heat,Assessment Test III,5,Choose the one from the following where less thermal transmission takes place,White and rough surface,White and smoothe surface,Smooth and black surface,Black and rough surface,
+Heat,Assessment Test III,6,"15g of water at 100o C is mixed with 15g of ice at 0o C, what is the temparature of the mixture?",50oC,66.6oC,10oC,61.3oC,
+Heat,Assessment Test III,7,Choose the correct one from the following,The rate of conduction of heat depends upon the nature of the medium.,"When the room temparature is raised, then a pendulum clock loses time.",The heat supplied during change of state at constant temperature is called latent heat.,All of the above.,
+Heat,Assessment Test III,8,"Arrange the following steps in proper sequence for the construction and calibration of Fahrenheit thermometer.
+(P) The distance between the two fixed points is called fundamental interval.
+      It is divided into 180 equal divisions in Fahrenheit scale.
+
+(Q) Take a thick walled capillary tube with thin walled glass bulb and fill it with mercury with the help of a funnel.
+
+(R ) Mark the upper fixed point with the help of hypsometer.
+
+(S) Place the glass bulb in a hot oil bath while filling the mercury to remove the air bubbles.
+
+(T) Lower fixed point is marked by immersing the bulb of the thermometer in melting ice taken in a funnel.",SRTPQ,QSRPT,QSRTP,QRSTP,
+Heat,Assessment Test III,9,Two identical metallic balls of temparature 20oC and 80oC are kept in contact with each other. Then the ration of heat lost by one ball to heat gained by another ball?,2 :: 1,3 :: 2,1 ::1,2::3,
+Heat,Assessment Test III,10,The ration of Fahrenheit reading to Celsius readin is 3. What is the reading on Celsius scale?,40/3 C,20/3 C,80/3 C,None of these,
+Heat,Assessment Test III,11,Specific latent heat of ice is __________,336 J g-1,"3,36,000 kg-1",80 cal g-1,All of the above.,
+Heat,Assessment Test III,12,"A 200 W water heater is used to heat 1000g of water. The heater is switched ON for 4.2 minutes and the initial temparature of water is 350C, then the final temparature of water is _____",40oC,45oC,70oC,47oC,
+Heat,Assessment Test III,13,"What will be the amount of mercury, if the specific heat capacity of mercury is 0.14 J g-1 C-1 and heat capacity is 140 Jg-1o C-1?",1 kg,100g,10g,200g,
+Heat,Assessment Test III,14,"An immenrsion heater of power 20W just keeps 200g of solid metal at its melting point. The heater is switched ON and temperature starts raising after 4 min, then the specific heat of fusion of the metal is ___________",24 J g-1,24 cal g-1,24 cal kg-1,24 J kg-1,
+Heat,Assessment Test III,15,A body at the temparature T1 is mixed with another body of equal mass at the temparature T2 and both have the same heat capacity. If  T1 > T2 then the rise in temparature of the cold body is equal to the fall in temperature of the hot body. What is the final temperature of mixture ?,zero,T1 + T2 / 2,T1 - T2 / 2,T1 - T2,
+Heat,Assessment Test IV,1,Specific heat capacity of a given substance is independent of _____________,mass,temparature,volume,All of these,
+Heat,Assessment Test IV,2,"Match the statement of Column A with those of Column B.
+Column A                                                              Column B
+(A) Bimetallic strip                                           (p) J kg-1
+(B) Clinical thermometer                                   (q) Unequal expansion of metals
+(C ) 5. I unit of latent heat of vapourization        (r)  J K-1
+(D) S1 unit of heat capacity                              (s) Cannot measure boilin point of water
+
+","A→q;    B→s,    C→r;     D→p","A→q;    B→s,    C→p;     D→r","A→q;    B→r,    C→p;     D→s","A→q;    B→p,    C→r ;     D→s",
+Heat,Assessment Test IV,3,Which of the following has less energy?,A substance at absolute zero temperature,Water 0o C,Ice 0o C,Both (b) and ©,
+Heat,Assessment Test IV,4,A medium is not required for the transmission of heat. Choose the correct one from the following which is related to above statement.,Radiation,Conduction,Convection,All of the above.,
+Heat,Assessment Test IV,5,Choose a good radiator of thermal energy from the followin:,Black surface,Green - coloured surface,White surface,Yellow - coloured surface,
+Heat,Assessment Test IV,6,"10g of water at 60o C is mixed with 15g of water t2. If the templerature of the mixture is 40oC, then the value of t1 is ________",13.3oC,13oC,26oC,26.6oC,
+Heat,Assessment Test IV,7,Choose the incorrect one from the following:,∆C/180=   ∆F/180=  ∆K/100,"Under normal conditions, naphthalene undergoes sublimation","When pressure is increased, then the boiling point of the substance increased",Boiling point of water is 1000C at normal atmospheric preasure. ,
+Heat,Assessment Test IV,8,"Write the following statements in the sequential order to find the amount of heat required to convert 50g of ice at - 5o C into steam 110oC.
+(P) Further ice at 0o C is converted into water at 0o C by utilizing the amount of heat Q2=Mwater  Lfusion
+(Q) By consuming Q3=mn Sm (100-0) of heat, the water at 0o C rises the temperature to 100oC
+(R ) Sum of Q1, Q2, Qy Q4 and Q5 then we get the total quantity of heat required to convert 50g of ice at 5o C to steam at 110oC
+(S) Calculate the amount of heat used to increase the temperature of ice upto 0oC
+(T) Next, water 100oC converts into steam at 100oC by taking the heat Q4 = mw L....., Finally steam increases its temperature up to 110oC by taking Q5 = ma sa (110-100) of heat",SPTQR,SPTRQ,SPQTR,SQPTR,
+Heat,Assessment Test IV,9,"What is the final temperature of the mixture, when the water at 10oC is mixed with same amount of water 90oC ?",45oC,70oC,40oC,50oC,
+Heat,Assessment Test IV,10,"If the ratio of Celsius to Kelvin reading is 4, then the reading of Kelvin scale is ________",  - 91 K,373 K,91 K,1092 K,
+Heat,Assessment Test IV,11,Specific latent heat of ice is __________,2260 J g-1,540 cal g-1,226 X 104 J g-1,both (a) and (c ),
+Heat,Assessment Test IV,12,"What is the power of a heater, if the heater is used to warm the water of 100 g mass from 20oC to 80o C for 2 min?",240 W,210 W,240 J,420 J,
+Heat,Assessment Test IV,13,The mass of copper is 0.120kg. If the specific heat capacity is 100 cal g-1 C -1 then thermal capacity in Sl unit is ________,120 cal,50.4 J,12 J,50.4 cal,
+Heat,Assessment Test IV,14,"The specific latent heat of fusion of ice 80 cal g-2 An immersion heater of power 25 W is kept in 100 g of ice at its melting point. If the heat is switched ON, then the time after which the temperature of ice starts raising is ________",320 min,320s,8.3 min,22.4 min,
+Heat,Assessment Test IV,15,"An equal amount of water is taken in two different containers and their temperatures are 90oC and 30oC, respectively. If the rise in temperature of the cold water is equal to the fall in temperature of the hot water, then common temperature of the mixture is _______",45oC,66oC,30oC,60oC,

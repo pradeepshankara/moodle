@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$cat1$/top/Atomic Structure</text>
+    </category>
+    <info format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Question Bank for&nbsp;Atomic Structure</p>]]></text>
+    </info>
+    <idnumber>CHE08ATOMICSTRUCTURE</idnumber>
+  </question>
+
+<!-- question: 6  -->
+  <question type="multichoice">
+    <name>
+      <text>ATOMICSTRUCTURE-CH1-PEARSN-Q1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Which of the following is a contradiction to Dalton's Atomic theory?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber>ATOMICSTRUCTURE-CH1-PEARSN</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Discovery of Isotops<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Law of Definite proportions<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Law of conservation of mass<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Discovery of nucleus<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>PEARSN</text>
+</tag>
+      <tag><text>CHE08</text>
+</tag>
+      <tag><text>EASY</text>
+</tag>
+      <tag><text>ATOMICSTRUCTURE</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 7  -->
+  <question type="multichoice">
+    <name>
+      <text>ATOMICSTRUCTURE-CH1-PEARSN-Q2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr">An atomic model is represented by the figure given below</p><p dir="ltr"><br></p><p dir="ltr">Identify the fact (from following statements) which could be successfully explained by the given atomic model.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Total positive charge is equal to total negative charge<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Positively charged particles are shielded from negatively charged particles<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">The existence of nucleus in an atom<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Electrons are universal constituents of matter<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>PEARSN</text>
+</tag>
+      <tag><text>CHE08</text>
+</tag>
+      <tag><text>EASY</text>
+</tag>
+      <tag><text>ATOMICSTRUCTURE</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 8  -->
+  <question type="multichoice">
+    <name>
+      <text>ATOMICSTRUCTURE-CH1-PEARSN-Q3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">An atom 'X' has a mass of protons 36,740 times that of electrons.&nbsp; Identify the correct representation of the atom.&nbsp; The number of neutrons is 1 unit less than the protons.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<sub>10</sub>X<sup>20</sup>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><sub>10</sub>X<sup>22</sup><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><sub>20</sub>X<sup>40</sup><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><sub>20</sub>X<sup>99</sup><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>PEARSN</text>
+</tag>
+      <tag><text>CHE08</text>
+</tag>
+      <tag><text>EASY</text>
+</tag>
+      <tag><text>ATOMICSTRUCTURE</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 9  -->
+  <question type="multichoice">
+    <name>
+      <text>ATOMICSTRUCTURE-CH1-PEARSN-Q4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr">Assertion (A) : In α-ray scattering experiment, most of the α particles were completely rebounded.</p><p dir="ltr">Reason (R) :&nbsp; The entire positive charge is concentrated in the small central part known as nucleus.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Both A and R are true and R is the correct explanation of A<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Both A and R are true, but R is not the correct explanation of A<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">A is true and R is false<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">A is false and R is true<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>PEARSN</text>
+</tag>
+      <tag><text>CHE08</text>
+</tag>
+      <tag><text>EASY</text>
+</tag>
+      <tag><text>ATOMICSTRUCTURE</text>
+</tag>
+    </tags>
+  </question>
+
+</quiz>
