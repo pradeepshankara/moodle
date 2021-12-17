@@ -13,7 +13,7 @@
     <idnumber>@idnumber</idnumber>
   </question>
   <!-- question: 7  -->
-  <question type="multichoice">
+  <question type="multichoiceset">
     <name>
       <text>@questionname</text>
     </name>

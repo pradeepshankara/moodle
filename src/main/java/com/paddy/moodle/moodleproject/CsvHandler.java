@@ -29,7 +29,7 @@ import java.util.stream.Collectors;
 public class CsvHandler {
 
     public void getXmlDocument() throws IOException, XMLStreamException {
-        File file = readFileFromResources("quiz.xml");
+        File file = new FileUtil().readFileFromResources("quiz.xml");
         XMLInputFactory f = XMLInputFactory.newFactory();
         XMLStreamReader sr = f.createXMLStreamReader(new FileInputStream(file));
         sr.next();
@@ -39,8 +39,8 @@ public class CsvHandler {
         System.out.println("End");
     }
 
-    public void processXmlDocument(String questionsFileName,String answersFileName,String classTag,String publisherTag, String difficultyTag,String questionTypeTag,String subjectTag) throws ParserConfigurationException, IOException, SAXException, TransformerException {
-        File file = readFileFromResources("quiz_template.xml");
+    private Document getQuizTemplateAsDocument() throws ParserConfigurationException, IOException, SAXException {
+        File file = new FileUtil().readFileFromResources("quiz_template.xml");
         DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
         dbf.setCoalescing(false);
         dbf.setFeature(XMLConstants.FEATURE_SECURE_PROCESSING, true);
@@ -50,7 +50,13 @@ public class CsvHandler {
         //Document newDoc = db.newDocument();
         //newDoc.appendChild(doc.getFirstChild().cloneNode(true));
         doc.getDocumentElement().normalize();
+        return doc;
+    }
 
+
+
+    public void processXmlDocument(String questionsFileName,String answersFileName,String classTag,String publisherTag, String difficultyTag,String questionTypeTag,String subjectTag) throws ParserConfigurationException, IOException, SAXException, TransformerException {
+        Document doc = getQuizTemplateAsDocument();
         System.out.println("Root Element :" + doc.getDocumentElement().getNodeName());
         System.out.println("------");
         NodeList list = doc.getElementsByTagName("question");
@@ -65,7 +71,7 @@ public class CsvHandler {
 
         int z=0;
         for (String[] x : allrecords) {
-            if(z==2) break;
+            //if(z==2) break;
             Node newNode = finalTemplateNode.cloneNode(true);
             NodeList childNodeList = newNode.getChildNodes();
             List<Node> answerNodes = new ArrayList<>();
@@ -150,11 +156,11 @@ public class CsvHandler {
             doc.getElementsByTagName("quiz").item(0).appendChild(newNode);
             z++;
         }
-        writeToFile(doc);
+        new FileUtil().writeToFile(doc);
     }
 
     private String appendImageFileTag(String questionText,Node textNode,Document doc){
-        File file = readFileFromResources("PPBC4A1Q3.JPG");
+        File file = new FileUtil().readFileFromResources("PPBC4A1Q3.JPG");
         String tag = "<p dir=\"ltr\" style=\"text-align: left;\"><img src=\"@@PLUGINFILE@@/SOMERANDOMIMAGE.JPG?time=1638678515074\" alt=\"\" width=\"503\" height=\"180\" role=\"presentation\" class=\"img-responsive atto_image_button_text-bottom\"><br></p>";
         Element fileElement = doc.createElement("file");
         fileElement.setAttribute("name","SOMERANDOMIMAGE.JPG");
@@ -215,17 +221,7 @@ public class CsvHandler {
 
     }
 
-    private void writeToFile(Document doc) throws IOException, TransformerException {
-        DOMSource source = new DOMSource(doc);
-        FileWriter writer = new FileWriter(new File("/home/pradeep/Documents/moodle/output.xml"));
-        StreamResult result = new StreamResult(writer);
 
-        TransformerFactory transformerFactory = TransformerFactory.newDefaultInstance();
-        Transformer transformer = transformerFactory.newTransformer();
-        transformer.setOutputProperty(OutputKeys.OMIT_XML_DECLARATION, "no");
-        transformer.setOutputProperty("method", "html");
-        transformer.transform(source, result);
-    }
 
 
 
@@ -233,7 +229,7 @@ public class CsvHandler {
     public List<String[]> readDataLineByLine(String fileName)
     {
         try {
-            FileReader filereader = new FileReader(readFileFromResources(fileName));
+            FileReader filereader = new FileReader(new FileUtil().readFileFromResources(fileName));
             CSVReader csvReader = new CSVReaderBuilder(filereader)
                     //.withFieldAsNull(CSVReaderNullFieldIndicator.EMPTY_SEPARATORS)
                     // Skip the header
@@ -250,8 +246,5 @@ public class CsvHandler {
         }
         return null;
     }
-    public File readFileFromResources(String fileName){
-        ClassLoader classLoader = getClass().getClassLoader();
-        return new File(classLoader.getResource(fileName).getFile());
-    }
+
 }
