@@ -52,7 +52,7 @@ class MoodleprojectApplicationTests {
 			questionMetadata.setForClass("CLASS7");
 			questionMetadata.setPublisher("BETOPPERS");
 			questionMetadata.setSubject("PHYSICS");
-			moodleQuizHandler.generateMoodleFile(questionMetadata,"BeToppers-Physics-Class-7-30-11-2021.csv");
+			moodleQuizHandler.generateMoodleFileForChapterNumber(questionMetadata,"BeToppers-Physics-Class-7-30-11-2021.csv",3);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

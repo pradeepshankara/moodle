@@ -67,6 +67,33 @@ public class MoodleQuizBuilder {
         //new FileUtil().writeToFile(doc);
     }
 
+    public Document buildQuestionsFromCsvForChapterNumber(QuestionMetadata questionMetadata,String questionsFileName,int chapterNumber) throws Exception {
+        List<String[]> questionsStringArray = readDataLineByLine(questionsFileName);
+        //List<String[]> answerRecords = readDataLineByLine(answersFileName);
+        assert questionsStringArray != null;
+        List<MoodleQuiz> questionsArray = buildQuestionsList(questionsStringArray);
+        int i=0;
+        for (MoodleQuiz question: questionsArray
+        ) {
+            if(i>400) break;
+            if(chapterNumber!= question.chapterNumber) continue;
+            if(question.getImageFileName().equalsIgnoreCase("X")) continue;
+            if(question.getAnswerOptions().size()<=0) continue;
+            if(question.getAnswerOptions().get(0).equalsIgnoreCase("DUMMY")) continue;
+            //if(question.getQuestionType().equalsIgnoreCase("FIB")) continue;
+
+            Node newNode = setQuestionText(question);
+            setQuestionName(newNode,question);
+            setAnswerNodes(newNode,question);
+            setTags(newNode,question,questionMetadata);
+            setQuestionIdNumber(newNode,question,questionMetadata);
+            doc.getElementsByTagName("quiz").item(0).appendChild(newNode);
+            i++;
+        }
+        return doc;
+        //new FileUtil().writeToFile(doc);
+    }
+
     private String getAnswerFraction(MoodleQuiz question) throws Exception {
         if(question.getAnswerOptions().size()==1) return String.valueOf("100.0");
         if(question.getAnswerOptions().size()==2) return String.valueOf("50.0");

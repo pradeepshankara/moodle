@@ -156,7 +156,7 @@ public class CsvHandler {
             doc.getElementsByTagName("quiz").item(0).appendChild(newNode);
             z++;
         }
-        new FileUtil().writeToFile(doc);
+        new FileUtil().writeToFile(doc,"output");
     }
 
     private String appendImageFileTag(String questionText,Node textNode,Document doc){
