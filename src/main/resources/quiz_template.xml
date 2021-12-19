@@ -1,18 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quiz>
-  <!-- question: 0  -->
-  <question type="category">
-    <category>
+  <question type="shortanswer">
+    <name>
+      <text>@questionname</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr">@questiontext</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
       <text></text>
-    </category>
-    <info format="html">
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
       <text>
-        <![CDATA[<p dir="ltr" style="text-align: left;"></p>]]>
+
       </text>
-    </info>
-    <idnumber>@idnumber</idnumber>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+
+    <tags>
+      <tag>
+        <text/>
+      </tag>
+    </tags>
   </question>
-  <!-- question: 7  -->
+
+  <question type="multichoice">
+    <name>
+      <text>@questionname</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr">@questiontext</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text>
+        <![CDATA[<p dir="ltr" style="text-align: left;">@option1<br></p>]]>
+      </text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>
+        <![CDATA[<p dir="ltr" style="text-align: left;">@option2<br></p>]]>
+      </text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>
+        <![CDATA[<p dir="ltr" style="text-align: left;">@option3<br></p>]]>
+      </text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>
+        <![CDATA[<p dir="ltr" style="text-align: left;">@option4<br></p>]]>
+      </text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text/>
+      </tag>
+    </tags>
+  </question>
   <question type="multichoiceset">
     <name>
       <text>@questionname</text>

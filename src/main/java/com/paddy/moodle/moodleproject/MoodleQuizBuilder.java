@@ -21,10 +21,12 @@ import java.util.stream.Collectors;
 public class MoodleQuizBuilder {
 
     Document doc;
+    Document quizTemplateDocument = null;
 
     public MoodleQuizBuilder() {
         try {
-            this.doc = getQuizTemplateAsDocument();
+            this.doc = getQuizDocument();
+            getQuestionTemplateNode();
         } catch (ParserConfigurationException | IOException | SAXException e) {
             e.printStackTrace();
         }
@@ -44,21 +46,20 @@ public class MoodleQuizBuilder {
         //List<String[]> answerRecords = readDataLineByLine(answersFileName);
         assert questionsStringArray != null;
         List<MoodleQuiz> questionsArray = buildQuestionsList(questionsStringArray);
-        Node templateNode = getQuestionTemplateNode();
         int i=0;
         for (MoodleQuiz question: questionsArray
              ) {
-            if(i>200) break;
+            if(i>400) break;
             if(question.getImageFileName().equalsIgnoreCase("X")) continue;
             if(question.getAnswerOptions().size()<=0) continue;
             if(question.getAnswerOptions().get(0).equalsIgnoreCase("DUMMY")) continue;
-            if(question.getQuestionType().equalsIgnoreCase("FIB")) continue;
-            Node newNode = templateNode.cloneNode(true);
-            NodeList childNodeList = newNode.getChildNodes();
-            setQuestionText(childNodeList,question);
-            setQuestionName(childNodeList,question);
-            setAnswerNodes(childNodeList,question);
-            setTags(childNodeList,question,questionMetadata);
+            //if(question.getQuestionType().equalsIgnoreCase("FIB")) continue;
+
+            Node newNode = setQuestionText(question);
+            setQuestionName(newNode,question);
+            setAnswerNodes(newNode,question);
+            setTags(newNode,question,questionMetadata);
+            setQuestionIdNumber(newNode,question,questionMetadata);
             doc.getElementsByTagName("quiz").item(0).appendChild(newNode);
             i++;
         }
@@ -74,8 +75,21 @@ public class MoodleQuizBuilder {
         throw new Exception("No answered specified for "+question.getChapterName() + " " +question.getQuestionNumber());
     }
 
-    private void setTags(NodeList childNodeList,MoodleQuiz question,QuestionMetadata questionMetadata) throws Exception {
+    private void setQuestionIdNumber(Node newNode,MoodleQuiz question,QuestionMetadata questionMetadata) throws Exception {
+        Node idChild = null;
+        NodeList childNodeList = newNode.getChildNodes();
+        for (int i = 0; i < childNodeList.getLength(); i++) {
+            if (childNodeList.item(i).getNodeName().equalsIgnoreCase("idnumber")) {
+                idChild = childNodeList.item(i);
+            }
+        }
+        assert idChild != null;
+        idChild.setTextContent(question.getChapterName()+"-"+question.getSubChapterName()+"-"+question.getQuestionClassification()+"-"+question.getQuestionNumber()+"-"+questionMetadata.getPublisher());
+    }
+
+    private void setTags(Node newNode,MoodleQuiz question,QuestionMetadata questionMetadata) throws Exception {
         Node tagsChild = null;
+        NodeList childNodeList = newNode.getChildNodes();
         for (int i = 0; i < childNodeList.getLength(); i++) {
             if (childNodeList.item(i).getNodeName().equalsIgnoreCase("tags")) {
                 tagsChild = childNodeList.item(i);
@@ -85,7 +99,8 @@ public class MoodleQuizBuilder {
         buildTags(doc, tagsChild, question,questionMetadata);
     }
 
-    private void setAnswerNodes(NodeList childNodeList,MoodleQuiz question) throws Exception {
+    private void setAnswerNodes(Node newNode,MoodleQuiz question) throws Exception {
+        NodeList childNodeList = newNode.getChildNodes();
         List<Node> answerNodes = new ArrayList<>();
         for (int i = 0; i < childNodeList.getLength(); i++) {
             if (childNodeList.item(i).getNodeName().equalsIgnoreCase("answer")) {
@@ -93,6 +108,12 @@ public class MoodleQuizBuilder {
                 Node answerChild = childNodeList.item(i);
                 answerNodes.add(answerChild);
             }
+        }
+        if (question.getQuestionType().equalsIgnoreCase("FIB")) {
+            answerNodes.get(0).getChildNodes().item(1).setTextContent(question.getOption1());
+            NamedNodeMap namedNodeMap = answerNodes.get(0).getAttributes();
+            namedNodeMap.getNamedItem("fraction").setTextContent(getAnswerFraction(question));
+            return;
         }
         if (answerNodes.size() > 0) {
             String newAns = answerNodes.get(0).getChildNodes().item(1).getFirstChild().getNextSibling().getTextContent().replace("@option1", question.getOption1());
@@ -136,15 +157,18 @@ public class MoodleQuizBuilder {
         }
     }
 
-    private void setQuestionName(NodeList childNodeList,MoodleQuiz question){
+    private void setQuestionName(Node newNode,MoodleQuiz question){
+        NodeList childNodeList = newNode.getChildNodes();
         for (int i = 0; i < childNodeList.getLength(); i++) {
             if (childNodeList.item(i).getNodeName().equalsIgnoreCase("name")) {
-                childNodeList.item(i).getChildNodes().item(1).setTextContent(question.getChapterName() + "-" + question.getQuestionClassification() + "-" + question.getQuestionNumber());
+                childNodeList.item(i).getChildNodes().item(1).setTextContent("Chapter "+question.getChapterNumber() + "-" +question.getChapterName() + "-" + question.getSubChapterName()+ "-"  + question.getQuestionClassification() + "-" + question.getQuestionNumber());
             }
         }
     }
 
-    private void setQuestionText(NodeList childNodeList,MoodleQuiz question) throws IOException {
+    private Node setQuestionText(MoodleQuiz question) throws Exception {
+        Node newNode = getQuestionTemplateNode(question);
+        NodeList childNodeList = newNode.getChildNodes();
         for (int i = 0; i < childNodeList.getLength(); i++) {
             if (childNodeList.item(i).getNodeName().equalsIgnoreCase("questiontext")) {
                 Node questionTextNode = childNodeList.item(i);
@@ -159,13 +183,14 @@ public class MoodleQuizBuilder {
                 //CDATASection cdata = doc.createCDATASection("data");
                 //cdata.setTextContent(temp);
                 cdataChild.setTextContent(modifiedQuestionText);
-
+                break;
             }
         }
+        return newNode;
     }
 
     private String appendImageFileTag(MoodleQuiz question,String questionText,Node textNode,Document doc) throws IOException {
-        File file = new FileUtil().readFileFromPath("/home/pradeep/Documents/moodle/BeToppers-Physics-Class-7/"+question.getImageFileName()+".png");
+        File file = new FileUtil().readFileFromPath("/home/pradeep/Documents/moodle/Class7/BeToppers-Physics-Class-7/"+question.getImageFileName()+".png");
         String tag = "<p dir=\"ltr\" style=\"text-align: left;\"><img src=\"@@PLUGINFILE@@/"+question.getImageFileName()+".png"+"?time=1638678515074\" alt=\"\" width=\"503\" height=\"180\" role=\"presentation\" class=\"img-responsive atto_image_button_text-bottom\"><br></p>";
         Element fileElement = doc.createElement("file");
         fileElement.setAttribute("name",question.getImageFileName()+".png");
@@ -180,32 +205,81 @@ public class MoodleQuizBuilder {
         return questionText + tag;
     }
 
-    private Node getQuestionTemplateNode() throws ParserConfigurationException, IOException, SAXException {
-        doc = getQuizTemplateAsDocument();
-        System.out.println("Root Element :" + doc.getDocumentElement().getNodeName());
+    private void getQuestionTemplateNode() throws ParserConfigurationException, IOException, SAXException {
+        File file = new FileUtil().readFileFromResources("quiz_template.xml");
+        DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+        dbf.setCoalescing(false);
+        dbf.setFeature(XMLConstants.FEATURE_SECURE_PROCESSING, true);
+        DocumentBuilder db = dbf.newDocumentBuilder();
+        quizTemplateDocument = db.parse(file);
+    }
+    private Node getQuestionTemplateNode(MoodleQuiz question) throws Exception {
+        Node templateNode = null;
+        if((question.getQuestionType().equalsIgnoreCase("MCQ") || question.getQuestionType().isEmpty()) && question.getAnswerOptions().size()==1)
+            return getMultiChoiceTemplateNode();
+        if(question.getQuestionType().equalsIgnoreCase("FIB"))
+            return getShortAnswerTemplateNode();
+        if(question.getQuestionType().equalsIgnoreCase("MAQ") || question.getAnswerOptions().size()>1)
+            return getMultiChoiceSetTemplateNode();
+        throw new Exception("Wring Question Type");
+    }
+    private Node getShortAnswerTemplateNode() throws Exception {
+
+        System.out.println("Root Element :" + quizTemplateDocument.getDocumentElement().getNodeName());
         System.out.println("------");
-        NodeList list = doc.getElementsByTagName("question");
+        NodeList list = quizTemplateDocument.getElementsByTagName("question");
         Node templateNode = null;
         for (int temp = 0; temp < list.getLength(); temp++) {
             templateNode = list.item(temp);
+            String type = templateNode.getAttributes().getNamedItem("type").getNodeValue();
             System.out.println("templateNode=>"+templateNode.getAttributes().getNamedItem("type"));
+            if(type.equalsIgnoreCase("shortanswer"))
+                return doc.importNode(templateNode,true);
         }
-        doc.getElementsByTagName("quiz").item(0).removeChild(templateNode);
-        return templateNode;
+        throw new Exception("Error in Quiz template!!");
+    }
+    private Node getMultiChoiceTemplateNode() throws Exception {
+        System.out.println("Root Element :" + quizTemplateDocument.getDocumentElement().getNodeName());
+        System.out.println("------");
+        NodeList list = quizTemplateDocument.getElementsByTagName("question");
+        Node templateNode = null;
+        for (int temp = 0; temp < list.getLength(); temp++) {
+            templateNode = list.item(temp);
+            String type = templateNode.getAttributes().getNamedItem("type").getNodeValue();
+            System.out.println("templateNode=>"+templateNode.getAttributes().getNamedItem("type"));
+            if(type.equalsIgnoreCase("multichoice"))
+                return doc.importNode(templateNode,true);
+        }
+        throw new Exception("Error in Quiz template!!");
+    }
+    private Node getMultiChoiceSetTemplateNode() throws Exception {
+        System.out.println("Root Element :" + quizTemplateDocument.getDocumentElement().getNodeName());
+        System.out.println("------");
+        NodeList list = quizTemplateDocument.getElementsByTagName("question");
+        Node templateNode = null;
+        for (int temp = 0; temp < list.getLength(); temp++) {
+            templateNode = list.item(temp);
+            String type = templateNode.getAttributes().getNamedItem("type").getNodeValue();
+            System.out.println("templateNode=>"+templateNode.getAttributes().getNamedItem("type"));
+            if(type.equalsIgnoreCase("multichoiceset"))
+                return doc.importNode(templateNode,true);
+        }
+        throw new Exception("Error in Quiz template!!");
     }
 
-    private Document getQuizTemplateAsDocument() throws ParserConfigurationException, IOException, SAXException {
-        File file = new FileUtil().readFileFromResources("quiz_template.xml");
+    private Document getQuizDocument() throws ParserConfigurationException, IOException, SAXException {
+        //File file = new FileUtil().readFileFromResources("quiz_template.xml");
         DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
         dbf.setCoalescing(false);
         dbf.setFeature(XMLConstants.FEATURE_SECURE_PROCESSING, true);
         // parse XML file
         DocumentBuilder db = dbf.newDocumentBuilder();
-        Document doc = db.parse(file);
-        //Document newDoc = db.newDocument();
-        //newDoc.appendChild(doc.getFirstChild().cloneNode(true));
-        doc.getDocumentElement().normalize();
-        return doc;
+        //Document doc = db.parse(file);
+        Document newDoc = db.newDocument();
+        Element root = newDoc.createElement("quiz");
+        newDoc.appendChild(root);
+        newDoc.getDocumentElement().normalize();
+        return newDoc;
     }
 
     private List<MoodleQuiz> buildQuestionsList(List<String[]> questionsStringArray) throws Exception {

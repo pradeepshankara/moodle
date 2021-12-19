@@ -1,5 +1,5 @@
-Chapter Number,ChapterName,SubChapterName,TestNumber,QuestionNumber,"Metal with electronic configuration 2,8, 14, 2 can form two different hydrox- ides A and B. Both the hydroxides on reaction with sulphuric acid give two",Option1,Option2,Option3,Option4,Image?,Answer,AnswerDescription,QuestionType
-1,Measurement,6.Multiples in Ten,Formative Worksheet,1,"Amount of work done is 10 Joule, here 10 stands for ",Unit,Numerical value ,Both (1) and (2),None of these,,"A,B,C,D",,
+Chapter Number,ChapterName,SubChapterName,Classification,QuestionNumber,QuestionText,Option1,Option2,Option3,Option4,Image?,Answer,AnswerDescription,QuestionType
+1,Measurement,6.Multiples in Ten,Formative Worksheet,1,"Amount of work done is 10 Joule, here 10 stands for ",Unit,Numerical value ,Both (1) and (2),None of these,,C,,
 1,Measurement,6.Multiples in Ten,Formative Worksheet,2,Which plysical quantity unit is ame in all systems,Length,Mass,Time,Temperature,,C,,
 1,Measurement,6.Multiples in Ten,Formative Worksheet,3,1 Cm<sup>2</sup> = _______________,10<sup>4</sup> m<sup>2</sup>,10<sup>3</sup> m<sup>2</sup>,10<sup>2</sup> m<sup>2</sup>,10<sup>2</sup> nm<sup>2</sup>,,a,,
 1,Measurement,6.Multiples in Ten,Formative Worksheet,4,10 kg m<sup>-3</sup> = ____________ g cm<sup>3</sup>,1000,1,10<sup>-2</sup>,100,,c,,
@@ -334,8 +334,8 @@ some distance along with the rotation",MCQ
 2,Motion,Chapter-2-Motion,Conceptive Worksheet,6,A book lying on the table is at ____________,Rest,,,,,,,FIB
 2,Motion,Chapter-2-Motion,Conceptive Worksheet,7,A body is said to be in _____ if it changes its position with respect to surroundings with time,Motion,,,,,,,FIB
 2,Motion,Chapter-2-Motion,Conceptive Worksheet,8,Can a body execute both rotatory and translatory motion simulatneously?,Yes,No,Rotatory only,translatory only,,A,,
-2,Motion,Chapter-2-Motion,Conceptive Worksheet,9,Motion of pendulum of a clock is an example of ________ motion.,,,,,,Periodic,,FIB
-2,Motion,Chapter-2-Motion,Conceptive Worksheet,10,The heartbeat of a normal resting person is ____________.,,,,,,Periodic Motion,,FIB
+2,Motion,Chapter-2-Motion,Conceptive Worksheet,9,Motion of pendulum of a clock is an example of ________ motion.,Periodic,,,,,,,FIB
+2,Motion,Chapter-2-Motion,Conceptive Worksheet,10,The heartbeat of a normal resting person is ____________.,Periodic Motion,,,,,,,FIB
 2,Motion,5. Distance and Displacement,Formative Worksheet,11,Raju travels the path HS to reach his school from home and SH to reach his home back from school.  He leaves to school every day at 9.00 AM and back to home by 3.30 PM.  Find the displacement and distance tranversed by him in this time.,"Distance covered = 10km, displacement = 1cm","Distance covered = 5km, displacement = 0","Distance covered = 4km, displacement = 0","Distance covered = 14km, displacement = 0",CH2-FW11,C,,
 2,Motion,5. Distance & Displacement,Formative Worksheet,12,Find the distance and displacement if the body moves from A to B along the path AQB,"Distance covered = 11cm, displacement = 7cm","Distance covered = 21cm, displacement = 17cm","Distance covered = 10cm, displacement = 7cm","Distance covered = 11cm, displacement = 7m",CH2-FW12,A,,
 2,Motion,5. Distance & Displacement,Formative Worksheet,13,Find the distance and displacement if the body moves from A to B along the path APQB,"Distance covered = 2m, displacement = 4m","Distance covered = 12m, displacement = 4m","Distance covered = 12m, displacement = 4cm","Distance covered = 12cm, displacement = 4m",CH2-FW13,B,,
@@ -391,14 +391,14 @@ The Speed of the ant is",1 cm/s,3 cm/s,6 cm/s,9 cm/s,CH2-FW35,,,
 2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,25,A bus travels a certain distance with a speed 30 ms<sup>-1 and returns with a speed 200 ms<sup>-1?then find average speed during total journey?,25 m/sec,20 m/sec,24 m/sec,15 m/sec,,C,,
 2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,26,When body starts at 'A' and comes to 'A' again us shown by gi.  Then the displacement is (r is radius),2πr,2r,0,r/2,CH2-CW26,C,,
 2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,27,Speedometer of a car measures?,Average speed ,Uniform speed,Instantaneous speed,Distance travelled ,,C,,
-2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,28,"A body cover 20 m in 1<sup>st</sup> second, 25 m is 2<sup>nd</sup> second and 45 m in 3<sup>rd</sup> second.  What is the average speed of the body?",,,,,,30 m/s,"
+2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,28,"A body cover 20 m in 1<sup>st</sup> second, 25 m is 2<sup>nd</sup> second and 45 m in 3<sup>rd</sup> second.  What is the average speed of the body?",30 m/s,,,,,,"
 ",FIB
-2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,29,A car starts at point A with a speed of 40 kmph and reaches point B.  Then the car returns to the starting point A with a speed of 60 kmph.  What is average speed of the car?,,,,,,48 kmph,,FIB
+2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,29,A car starts at point A with a speed of 40 kmph and reaches point B.  Then the car returns to the starting point A with a speed of 60 kmph.  What is average speed of the car?,48 kmph,,,,,,,FIB
 2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,30,"In the clock, the average speed is minimum for the tip of?",Seconds hand,Minutes Hand,Hours hand,All the above,,C,,
-2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,31,A crokroach covers a distance of 30 m in 1.5 minutes.  What is the speed of cockroach?,,,,,,0.33 ms<sup>-1</sup>,,FIB
-2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,32,A train moves at a speed of 120 km/h.  How long will it take to cover a distance of 15 km?,,,,,,7.5minutes,,FIB
-2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,33,1 kmph = _____________ m/s ?,,,,,,5/18 m/s,,FIB
-2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,34,A horse runs a distance of 1200m in 3 min and 20s.  What is the speed of horse?,,,,,,6 m/s,,FIB
+2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,31,A crokroach covers a distance of 30 m in 1.5 minutes.  What is the speed of cockroach?,0.33 ms<sup>-1</sup>,,,,,,,FIB
+2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,32,A train moves at a speed of 120 km/h.  How long will it take to cover a distance of 15 km?,7.5minutes,,,,,,,FIB
+2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,33,1 kmph = _____________ m/s ?,5/18 m/s,,,,,,,FIB
+2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,34,A horse runs a distance of 1200m in 3 min and 20s.  What is the speed of horse?,6 m/s,,,,,,,FIB
 2,Motion,6. Distance and Time Graphs,Conceptive Worksheet,35,"The following graph shows the distance travelled by Rajni from home to school and the time take. 
 Study it and answer the following questions:
 i) What distance did Rajni travel in first two minutes?
@@ -426,9 +426,9 @@ So, their speeds are same.
 As the distance covered by them is same, they
 take same time to reach the ending points
 ",
-2,Motion,6. Distance and Time Graphs,Summative Worksheet,3,"The peregrine falcon (Falco peregrinus) is the fastest living creature, reaching speeds as much as 310 kmph when swooping from great heights during territorial displays or while catching pry birds in midair.  Express this speed in metre per second.", ,,,,,86.1 m/s,,FIB
-2,Motion,6. Distance and Time Graphs,Summative Worksheet,4,"Sudha, Vijay, Shruthi and Rahit participated in a 100 m race.  The took 20s, 22s, 25s and 28s respectively to reach the finishing line.  Who do you think run the fastest and the slowest in the race.  Also express their speed in m/s.",,,,,,3.57 m / s,,FIB
-2,Motion,6. Distance and Time Graphs,Summative Worksheet,5,"Cheetah is the fastest land animal and can achieve a peak velocity of 100 km/h upto distances less than 500 m.  If it spots its prey ata distance of 100 m, what is the minimum time it will take to get its prey, if the average velocity attained by it is 90 km/h?",,,,,,4 sec,,FIB
+2,Motion,6. Distance and Time Graphs,Summative Worksheet,3,"The peregrine falcon (Falco peregrinus) is the fastest living creature, reaching speeds as much as 310 kmph when swooping from great heights during territorial displays or while catching pry birds in midair.  Express this speed in metre per second.",86.1 m/s,,,,,,,FIB
+2,Motion,6. Distance and Time Graphs,Summative Worksheet,4,"Sudha, Vijay, Shruthi and Rahit participated in a 100 m race.  The took 20s, 22s, 25s and 28s respectively to reach the finishing line.  Who do you think run the fastest and the slowest in the race.  Also express their speed in m/s.",3.57 m / s,,,,,,,FIB
+2,Motion,6. Distance and Time Graphs,Summative Worksheet,5,"Cheetah is the fastest land animal and can achieve a peak velocity of 100 km/h upto distances less than 500 m.  If it spots its prey ata distance of 100 m, what is the minimum time it will take to get its prey, if the average velocity attained by it is 90 km/h?",4 sec,,,,,,,FIB
 2,Motion,6. Distance and Time Graphs,Summative Worksheet,6,One of the following graphs represents the motion of snail.  Identify it.,,,,,x,DUMMY,,
 2,Motion,6. Distance and Time Graphs,Summative Worksheet,7,"The graph given below represents the motion of four animals A, B,C and D along a straight line.  Identify the one that is moving fastest among the four",A,B,C,D,CH2-SW7,C,,
 2,Motion,6. Distance and Time Graphs,Summative Worksheet,8,"A delivery by Brett Lee from Australia was bowled at 161.8 kmph at Brisbane on November 23, 2000.  It was considered as the fastest ball ever bowled by a bowler in One day International Match by then.  Now, imagine the following hypothetical situations.  A straight road from Brisbane (Australia) and Kingston Jamaica (West Indies) A car is moves on this road with a uniform speed equal to Brett Lee's ball mentioned above.  If the Also the distance between them is 14488.92 km, predict how many days approximately would it take by the car to reach Kingstone Jamaica.", 3.73 days,89.54 days,4 days,None of these,,A,,
@@ -595,27 +595,27 @@ D)  Convex         Englarged",,,,,,B,,
 3,Light,11. Uses of Spherical Mirros,Formative Worksheet,39,A convex mirror tends to diverge a falling parallel beam of light. This property of convex mirrors is used in,Solar furnaces,Dentists' mirrors,Reflector in toch lights,Reflector in street lamps,,D,,
 3,Light,11. Uses of Spherical Mirros,Formative Worksheet,40,Dentist use concave mirrors for investigations because concave mirrors form,Real images,Inverted images,Magnified images,Diminished images,,C,,
 3,Light,11. Uses of Spherical Mirros,Formative Worksheet,41,Convex mirrors are used as surveillance mirrors in libraries because of they form,"Real, erect, and magnified images","Real, erect, and diminished images","Virtual, erect, and magnified images","Virtural, erect, and diminished images",,D,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,21,The spherical surfaces that have a property of reflection and that are highly polished are called,Spherical mirror,Plane mirror,plane glass plate,Both 1 and 2,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,22,Concave mirror acts as,Converging mirror,Diverging mirror,Both (A) and (B),Plane mirror,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,23,Convergence of concave mirror can be decreased by dipping in,Water ,Oil,Both Oil </sup> Water ,Neither Oil nor Water,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,24,The image formed by convex mirror is always,Virtual ,Erect,Diminished,Real and bigger in size,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,25,Which of the following forms a virtual and erect image for all positions of a real object,Plane mirror,Convex mirror,Concave Mirror,All the above,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,26,The diameter of spherical mirror in which reflection takes place is called,Radius of curvature,Centre of curvature,Linear aperture,Focal length,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,27,For a concave mirror when object is placed at infinity the image is formed at,Pole,Principal focus,Centre of curvature ,Infinity,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,28,The focal length of concave mirror is -40 cm.  Its radius of curvature is,-20 cm,-20 cm,-80 cm,+80 cm,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,29,Choose the correct statement,Convex mirror acts as converging mirror,Image formed by convex mirror is virtual ,Foree a conacve mirror when object is placed at infinity the images is formed at principal focus,Convex mirror acts as diverging mirror,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,30,Convex mirror can be used as,A solar furnace,A dentists mirror,Reflectors of torches,Side-view mirror in cards,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,31,Images formed by a ,Convex mirror are always diminished,Concave mirror are always diminished,Concave mirror are always enlarged,Concex mirror are always enlarged,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,32,The dentist's mirror is a device used by dentists to check the position and size of cavity in teeth. The dentist's mirror basically a type of,Plane mirror,Convex mirror,Concave mirror,Parabolic Mirror,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,33,Which of the following morrors are used by cosmetologists for their work?,Parabolic,Concave,Convex ,Plane,,,,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,21,The spherical surfaces that have a property of reflection and that are highly polished are called,Spherical mirror,Plane mirror,plane glass plate,Both 1 and 2,,A,,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,22,Concave mirror acts as,Converging mirror,Diverging mirror,Both (A) and (B),Plane mirror,,A,,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,23,Convergence of concave mirror can be decreased by dipping in,Water ,Oil,Both Oil </sup> Water ,Neither Oil nor Water,,D,,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,24,The image formed by convex mirror is always,Virtual ,Erect,Diminished,Real and bigger in size,,"A,B,C",,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,25,Which of the following forms a virtual and erect image for all positions of a real object,Plane mirror,Convex mirror,Concave Mirror,All the above,,"A,B",,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,26,The diameter of spherical mirror in which reflection takes place is called,Radius of curvature,Centre of curvature,Linear aperture,Focal length,,C,,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,27,For a concave mirror when object is placed at infinity the image is formed at,Pole,Principal focus,Centre of curvature ,Infinity,,B,,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,28,The focal length of concave mirror is -40 cm.  Its radius of curvature is,-20 cm,-20 cm,-80 cm,+80 cm,,C,,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,29,Choose the correct statement,Convex mirror acts as converging mirror,Image formed by convex mirror is virtual ,Foree a conacve mirror when object is placed at infinity the images is formed at principal focus,Convex mirror acts as diverging mirror,,"A,B,C",,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,30,Convex mirror can be used as,A solar furnace,A dentists mirror,Reflectors of torches,Side-view mirror in cards,,D,,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,31,Images formed by a ,Convex mirror are always diminished,Concave mirror are always diminished,Concave mirror are always enlarged,Concex mirror are always enlarged,,A,,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,32,The dentist's mirror is a device used by dentists to check the position and size of cavity in teeth. The dentist's mirror basically a type of,Plane mirror,Convex mirror,Concave mirror,Parabolic Mirror,,C,,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,33,Which of the following morrors are used by cosmetologists for their work?,Parabolic,Concave,Convex ,Plane,,B,,
 3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,34,"The _____i____mirror isued as side view mirror in vehicels.  It can form images of objects spread over a _____ii____ area.
 The information in which alternative completes the given statements?
          (i)                             (ii)
 A)  Concave                     Large
 B)  Concex                      Small
 C)  Convex                      Large
-D)  Concave                     small",,,,,,,,
-3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,35,Concave mirrors cannot be used as,Side-view mirror in cars,Reflectors of torches,Dentist's mirror,Solar furnace,,,,
+D)  Concave                     small",,,,,,C,,
+3,Light,11. Uses of Spherical Mirros,Conceptive Worksheet,35,Concave mirrors cannot be used as,Side-view mirror in cars,Reflectors of torches,Dentist's mirror,Solar furnace,,A,,
 3,Light,13. Sunlight,Formative Worksheet,42,"Farman finds it difficult to read small-sized text from one of his books.  He wants to use an optical instrument that helps him to read the book with ease 
 Which of the following optical instruments should Farman choose?",Concave lens,Convex lens,Concave mirror,Convex Mirror ,,B,,
 3,Light,13. Sunlight,Formative Worksheet,43,A magnifying glass is simply a ,Convex lens,Concave lens,Convex mirror,Concave mirror,,A,,
@@ -641,70 +641,72 @@ Which colour is the third colour in a rainbow from the bottom and top respective
 3,Light,13. Sunlight,Formative Worksheet,55,"Tom is playing with a spinner.  The spinner has all the seven colors of the rainbow painted on it, as shown in the figure.
 When the spinner is rotatingm its colour will appear to be",Red,Black,White,Yellow,x,C,,
 3,Light,13. Sunlight,Formative Worksheet,56,White light is composed of seven different colours.  These colours can be seen in a rainbow.  Which of the following colours is not present in a rainbow?,Green,Red,Black,Blue,,C,,
-3,Light,13. Sunlight,Conceptive Worksheet,36,Which type of lens is called a converging lens ?,Concave,Plano Concave,Convex,All,,,,
-3,Light,13. Sunlight,Conceptive Worksheet,37,Which type of lens is called a diverging lens?,Concave,Plano Concave,Convex ,All,,,,
-3,Light,13. Sunlight,Conceptive Worksheet,38,Which type of image is formed by a convex lens?,Real,Inverted,Virtual,All,,,,
-3,Light,13. Sunlight,Conceptive Worksheet,39,Which type of image is formed by a concave lens?,Real,Inverted,Virtual,All,,,,
-3,Light,13. Sunlight,Conceptive Worksheet,40,Which of the following acts a magnifying lens?,Concave,Plano Concave,Convex,All,,,,
-3,Light,13. Sunlight,Conceptive Worksheet,41,Which type of image is formed by a convex lens when an object is placed closer to it?,Real,Inverted,Virtual,All,,,,
-3,Light,13. Sunlight,Conceptive Worksheet,42,The spliting of white light into ints constituent colours is called,Reflection,Refraction,Diospersion,Diffraction,,,,
-3,Light,13. Sunlight,Conceptive Worksheet,43,The scientist who suggested that white light is a mixture of seven colours,Snell,Newton,Enstein,Rutherford,,,,
-3,Light,13. Sunlight,Conceptive Worksheet,44,"Red, Blue and Green are called",Primary Colours,Secondary Colours,Tetiary Colours,Universal Colours,,,,
-3,Light,13. Sunlight,Conceptive Worksheet,45,White light is composed of ,Three colours,Five colours,Seven colours,Nine colours,,,,
-3,Light,13. Sunlight,Conceptive Worksheet,46,Rainbow is formed due to _____ of light,Reflection,Refraction,Dispersion ,Diffraction,,,,
+3,Light,13. Sunlight,Conceptive Worksheet,36,Which type of lens is called a converging lens ?,Concave,Plano Concave,Convex,All,,C,,
+3,Light,13. Sunlight,Conceptive Worksheet,37,Which type of lens is called a diverging lens?,Concave,Plano Concave,Convex ,All,,A,,
+3,Light,13. Sunlight,Conceptive Worksheet,38,Which type of image is formed by a convex lens?,Real,Inverted,Virtual,All,,D,,
+3,Light,13. Sunlight,Conceptive Worksheet,39,Which type of image is formed by a concave lens?,Real,Inverted,Virtual,All,,C,,
+3,Light,13. Sunlight,Conceptive Worksheet,40,Which of the following acts a magnifying lens?,Concave,Plano Concave,Convex,All,,C,,
+3,Light,13. Sunlight,Conceptive Worksheet,41,Which type of image is formed by a convex lens when an object is placed closer to it?,Real,Inverted,Virtual,All,,C,,
+3,Light,13. Sunlight,Conceptive Worksheet,42,The spliting of white light into ints constituent colours is called,Reflection,Refraction,Diospersion,Diffraction,,C,,
+3,Light,13. Sunlight,Conceptive Worksheet,43,The scientist who suggested that white light is a mixture of seven colours,Snell,Newton,Enstein,Rutherford,,B,,
+3,Light,13. Sunlight,Conceptive Worksheet,44,"Red, Blue and Green are called",Primary Colours,Secondary Colours,Tetiary Colours,Universal Colours,,A,,
+3,Light,13. Sunlight,Conceptive Worksheet,45,White light is composed of ,Three colours,Five colours,Seven colours,Nine colours,,C,,
+3,Light,13. Sunlight,Conceptive Worksheet,46,Rainbow is formed due to _____ of light,Reflection,Refraction,Dispersion ,Diffraction,,C,,
 3,Light,13. Sunlight,Conceptive Worksheet,47,"Statement I : A concave lens in used as a converging lens.
-Statement II : A convex lens is used a a diverging lens","I is true, II is false","I is false, II is true",Both are true,Both are false,,,,
+Statement II : A convex lens is used a a diverging lens","I is true, II is false","I is false, II is true",Both are true,Both are false,,D,,
 3,Light,13. Sunlight,Conceptive Worksheet,48,"Statement I : A rainbow is formed by dispersion of light when it passes through tiny droplets of water suspended in air
-Statement II : This band of seven colours is called spectrum or visible spectrum","I is true, II is false","I is false, II is true",Both are true,Both are false,,,,
+Statement II : This band of seven colours is called spectrum or visible spectrum","I is true, II is false","I is false, II is true",Both are true,Both are false,,C,,
 3,Light,13. Sunlight,Conceptive Worksheet,49,"Statement I : A real image can be obtained on the screen.
-Statement II : A virtual image can be obtained on the screen.","I is true, II is false","I is false, II is true",Both are true,Both are false,,,,
+Statement II : A virtual image can be obtained on the screen.","I is true, II is false","I is false, II is true",Both are true,Both are false,,A,,
 3,Light,13. Sunlight,Conceptive Worksheet,50,"Statement I : Rainbow is not formed during noon.
-Statement II : In the noon earth is in the direction opposite to the sun and hence the rainbow on the earth is not seen.","I is true, II is false","I is false, II is true",Both are true,Both are false,,,,
-3,Light,13. Sunlight,Conceptive Worksheet,51,Which type of lens is used to make fire with it during day time ?,Concave,Plano Concave,Convex,All,,,,
-3,Light,13. Sunlight,Hots Worksheet,1,"An object is placed at a distance of 20 cm infront of a plane mirror.  If the mirror mvoes towards the object by a distance of 20 cm, then find the displacement of the image.",,,,,,,,
-3,Light,13. Sunlight,Hots Worksheet,2,"An object is placed at a certain distance infront of a plane mirror.  If both object and plane mirror moves towards each other through a distance of 15 cm, then find the distance through which the image moves.",,,,,,,,
-3,Light,13. Sunlight,Hots Worksheet,3,"If both object and mirror mvoes away from each other with a speed of 20 m/s, then find (a) the speed of the image (b) speed of the image with respect to object (c) speed of the image with respect to mirror.",,,,,,,,
-3,Light,13. Sunlight,Hots Worksheet,4,"Two mirrors are inclined at a certain angle Ѳ.  If a light ray is incident on the first mirror parallel to the second mirror and reflected from the second parallel to the first mirror, then find the value of Ѳ.",,,,,,,,
-3,Light,13. Sunlight,Hots Worksheet,5,A man 180 cm high stands in front of a plane mirror.  His eyes are at a height of 170 cm from the floor.  Then the minimum length of 170 cm from the floor.  Then the minimum length of plane mirror for him to see his full image is _________. ,,,,,,,,
-3,Light,13. Sunlight,Hots Worksheet,6,Two plance mirrors are inclined to each other at an angle of 70<sup>0</sup>. A ray is incident on one mirror at an angle Ѳ.  The rays reflected from this mirror fall on the second mirror from where it is reflected parallel to the first mirror.  What is the value of Ѳ?,,,,,,,,
-3,Light,13. Sunlight,Hots Worksheet,7,Two plane mirrors are inclined at an angle of 60<sup>0</sup> as shown in the figure.  A ray of light parallel to Mirror1 strikes the Mirror2.  At what anglewith the ray finally emerge?,,,,,x,,,
-3,Light,13. Sunlight,Hots Worksheet,8,"Two plane mirrors are placed to each other.  The distance between the mirrors is 10 cm.  An object is placed between the mirrors at a distance of 40 cm from one of them, say M<sub>1</sub>.  What is the distance between the first image at M<sub>1</sub> and the second image formed at M<sub>2</sub>?",,,,,,,,
-3,Light,13. Sunlight,Hots Worksheet,9,A plane mirror is moved away from a stationary object with a speed of 20 cm/s.  What is the speed of the image?,,,,,,,,
-3,Light,13. Sunlight,Hots Worksheet,10,The incident ray and the reflected ray are at right angles.  Then find the angle of incidence and the angle of reflection.,45<sup>0</sup> each,90<sup>0</sup> each,30<sup>0</sup> each,50<sup>0</sup> each,,,,
-3,Light,13. Sunlight,Hots Worksheet,11,"A ray of light is incident on a horizontal plane mirror at an angle of 45<sup>0</sup>.  After reflection, from M<sub>1</sub>, some of the light is incident on another plane mirror.  If the ray reflected by the second plane mirror travels horizontally, find the angle between the mirrors.",50<sup>0</sup>,22<sup>1/2</sup>,67<sup>1/2</sup>,90<sup>0</sup>,,,,
-3,Light,13. Sunlight,Hots Worksheet,12,Two plance mirrors are inclined at an angle 'Ѳ'.  It is found that a ray incident on one mirror at any angle is rendered parallel to itself after reflection from both the mirros.  Find the value of 'Ѳ'.,90<sup>0</sup>,45<sup>0</sup>,35<sup>0</sup>,75<sup>0</sup>,,,,
-3,Light,13. Sunlight,Hots Worksheet,13,"Two plane mirrors are inclined at 70<sup>0</sup>. A ray incident on one mirror at an angle Ѳ, after reflection, the reflected ray makes an angle of 30<sup>0</sup> with the second mirror.  Find Ѳ.",20<sup>0</sup>,10<sup>0</sup>,30<sup>0</sup>,40<sup>0</sup>,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),1,Mirrors cast images because they,Absorb lgiht,Reflect light,Refract light,Transmit light,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),2,"Regardless of the positioning of an object, which of the following optical devices never produces a magnified or a diminished image?",Plane mirror,Convex lens,Concave lens,Convex mirror,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),3,A mirror can form images but a plane glass slab cannot.  This is because a mirro,Reflects light while a plane glass slab absorbs light,Refracts light while a plane glass slab refracts light,Reflects light while a plane glass slab refracts light,Refracts light while a plane glass slab absorbs light,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),4,An image of a pencil is formed by a plane mirror at a distance of 40 cm from the pencil.  The pencil is moved 5 cm towards the mirror.  What will be the new image distance from the mirror?,10 cm,15 cm,30 cm,35 cm,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),5,A pencil of length 5 cm is kept vertical at a distance of 10 cm from a plane mirror.  This pencil is then replaced by another pencil of length twice than that of the earlier one.  What is the ditance of the image of this new pencil from the mirror?,5 cm,10 cm,15 cm,20 cm,,,,
+Statement II : In the noon earth is in the direction opposite to the sun and hence the rainbow on the earth is not seen.","I is true, II is false","I is false, II is true",Both are true,Both are false,,C,,
+3,Light,13. Sunlight,Conceptive Worksheet,51,Which type of lens is used to make fire with it during day time ?,Concave,Plano Concave,Convex,All,,C,,
+3,Light,13. Sunlight,Hots Worksheet,1,"An object is placed at a distance of 20 cm infront of a plane mirror.  If the mirror mvoes towards the object by a distance of 20 cm, then _______ is the displacement of the image.",40cm,,,,,,FIB,
+3,Light,13. Sunlight,Hots Worksheet,2,"An object is placed at a certain distance infront of a plane mirror.  If both object and plane mirror moves towards each other through a distance of 15 cm, then ______ is the distance through which the image moves.",45cm,,,,,,FIB,
+3,Light,13. Sunlight,Hots Worksheet,3,"If both object and mirror mvoes away from each other with a speed of 20 m/s, then find (a) the speed of the image (b) speed of the image with respect to object (c) speed of the image with respect to mirror.",,,,,,DUMMY,,
+3,Light,13. Sunlight,Hots Worksheet,4,"Two mirrors are inclined at a certain angle Ѳ.  If a light ray is incident on the first mirror parallel to the second mirror and reflected from the second parallel to the first mirror, then ___ is the value of Ѳ.",60,,,,,,FIB,
+3,Light,13. Sunlight,Hots Worksheet,5,A man 180 cm high stands in front of a plane mirror.  His eyes are at a height of 170 cm from the floor.  Then the minimum length of 170 cm from the floor.  Then the minimum length of plane mirror for him to see his full image is _________. ,90cm,,,,,,FIB,
+3,Light,13. Sunlight,Hots Worksheet,6,Two plance mirrors are inclined to each other at an angle of 70<sup>0</sup>. A ray is incident on one mirror at an angle Ѳ.  The rays reflected from this mirror fall on the second mirror from where it is reflected parallel to the first mirror.  ______ is the value of Ѳ?,50,,,,,,FIB,
+3,Light,13. Sunlight,Hots Worksheet,7,Two plane mirrors are inclined at an angle of 60<sup>0</sup> as shown in the figure.  A ray of light parallel to Mirror1 strikes the Mirror2.  At what anglewith the ray finally emerge?,,,,,x,DUMMY,,
+3,Light,13. Sunlight,Hots Worksheet,8,"Two plane mirrors are placed to each other.  The distance between the mirrors is 10 cm.  An object is placed between the mirrors at a distance of 40 cm from one of them, say M<sub>1</sub>.  What is the distance between the first image at M<sub>1</sub> and the second image formed at M<sub>2</sub>?",,,,,,DUMMY,,
+3,Light,13. Sunlight,Hots Worksheet,9,A plane mirror is moved away from a stationary object with a speed of 20 cm/s.  What is the speed of the image?,,,,,,DUMMY,,
+3,Light,13. Sunlight,Hots Worksheet,10,The incident ray and the reflected ray are at right angles.  Then find the angle of incidence and the angle of reflection.,45<sup>0</sup> each,90<sup>0</sup> each,30<sup>0</sup> each,50<sup>0</sup> each,,DUMMY,,
+3,Light,13. Sunlight,Hots Worksheet,11,"A ray of light is incident on a horizontal plane mirror at an angle of 45<sup>0</sup>.  After reflection, from M<sub>1</sub>, some of the light is incident on another plane mirror.  If the ray reflected by the second plane mirror travels horizontally, find the angle between the mirrors.",50<sup>0</sup>,22<sup>1/2</sup>,67<sup>1/2</sup>,90<sup>0</sup>,,DUMMY,,
+3,Light,13. Sunlight,Hots Worksheet,12,Two plance mirrors are inclined at an angle 'Ѳ'.  It is found that a ray incident on one mirror at any angle is rendered parallel to itself after reflection from both the mirros.  Find the value of 'Ѳ'.,90<sup>0</sup>,45<sup>0</sup>,35<sup>0</sup>,75<sup>0</sup>,,DUMMY,,
+3,Light,13. Sunlight,Hots Worksheet,13,"Two plane mirrors are inclined at 70<sup>0</sup>. A ray incident on one mirror at an angle Ѳ, after reflection, the reflected ray makes an angle of 30<sup>0</sup> with the second mirror.  Find Ѳ.",20<sup>0</sup>,10<sup>0</sup>,30<sup>0</sup>,40<sup>0</sup>,,DUMMY,,
+3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),1,Mirrors cast images because they,Absorb lgiht,Reflect light,Refract light,Transmit light,,B,,
+3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),2,"Regardless of the positioning of an object, which of the following optical devices never produces a magnified or a diminished image?",Plane mirror,Convex lens,Concave lens,Convex mirror,,A,,
+3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),3,A mirror can form images but a plane glass slab cannot.  This is because a mirro,Reflects light while a plane glass slab absorbs light,Refracts light while a plane glass slab refracts light,Reflects light while a plane glass slab refracts light,Refracts light while a plane glass slab absorbs light,,C,,
+3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),4,An image of a pencil is formed by a plane mirror at a distance of 40 cm from the pencil.  The pencil is moved 5 cm towards the mirror.  What will be the new image distance from the mirror?,10 cm,15 cm,30 cm,35 cm,,B,,
+3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),5,A pencil of length 5 cm is kept vertical at a distance of 10 cm from a plane mirror.  This pencil is then replaced by another pencil of length twice than that of the earlier one.  What is the ditance of the image of this new pencil from the mirror?,5 cm,10 cm,15 cm,20 cm,,B,,
 3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),6,"A candle and its image are at a distance of 30 cm from each other, as shown in the given figure
 In this case, a __i__ mirror is used, which is placed ___ii__ from the candle.
-The information in which alternative completes the given statement?",,,,,x,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),7,A convex mirror always produces a,Real image smaller than the object,Real image larger than the object,Virtual image larger than the object,Virtual image smaller than the object,,,,
+The information in which alternative completes the given statement?",,,,,x,B,,
+3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),7,A convex mirror always produces a,Real image smaller than the object,Real image larger than the object,Virtual image larger than the object,Virtual image smaller than the object,,D,,
 3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),8,"An activity is performe using a candle and an optical instrument as shown in the given figure
-Which optical instrument has been used in the activity?",Concave lens,Convex lens,Concave Mirror,Convex Mirror,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),9,The side view mirror of a car forms an,Erect and real image,Erect and virtual image,Inverted and real image,Inverted and virtual image,,,,
+Which optical instrument has been used in the activity?",Concave lens,Convex lens,Concave Mirror,Convex Mirror,,C,,
+3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),9,The side view mirror of a car forms an,Erect and real image,Erect and virtual image,Inverted and real image,Inverted and virtual image,,B,,
 3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),10,"Mirrors are placed at different corners of a certain store.  A small but complete view of the store is possibel through these mirros.  The given figure shows one such mirror.
-Which type  of mirror is described here?",Plane,Convex,Concave,Parabolic,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),11,A rear-view mirror is a functional type of mirror found on atuomobiles and other vehicles.  It is designed to allo the driver to see the are behind the vehicle. The rear-view mirror of an automobile is a ,Plane mirror,Convex mirror,Concave mirror,Cylindrival mirror,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),12,A convex mirror tends to diverge a falling parallel beam of light. This property of convex mirrors is used in,Solar furnaces,Dentists' mirrors,Reflector in toch lights,Reflector in street lamps,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),13,Concave mirrors cannot be used as,Side-view mirror in cars,Reflectors of torches,Dentist's mirror,Solar furnace,,,,
+Which type  of mirror is described here?",Plane,Convex,Concave,Parabolic,,B,,
+3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),11,A rear-view mirror is a functional type of mirror found on atuomobiles and other vehicles.  It is designed to allo the driver to see the are behind the vehicle. The rear-view mirror of an automobile is a ,Plane mirror,Convex mirror,Concave mirror,Cylindrival mirror,,B,,
+3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),12,A convex mirror tends to diverge a falling parallel beam of light. This property of convex mirrors is used in,Solar furnaces,Dentists' mirrors,Reflector in toch lights,Reflector in street lamps,,D,,
+3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),13,Concave mirrors cannot be used as,Side-view mirror in cars,Reflectors of torches,Dentist's mirror,Solar furnace,,A,,
 3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),14,"Farman finds it difficult to read small-sized text from one of his books.  He wants to use an optical instrument that helps him to read the book with ease 
-Which of the following optical instruments should Farman choose?",Concave lens,Convex lens,Concave Mirror,Convex Mirror,,,,
+Which of the following optical instruments should Farman choose?",Concave lens,Convex lens,Concave Mirror,Convex Mirror,,B,,
 3,Light,13. Sunlight,IIT JEE Worksheet (Single Correct Answer Type),15,"Rajesh took out the lens from his father's old spectacles and kept in in between sun rays and a paper.  He varied the distance but he found that the paper.  He varied the distance but he found that the paper did not burn.  He became upset and looked at the old spectacles through this lens.
-Appearance of the spectacles through the lens is",Erect and large,Erect and small,Inverted and large,Inverted and small,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),16,Which of the following forms a virtual image?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),17,Which of the following forms a real image?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),18,Which of the following forms an image of same size?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),19,Which of the following forms a magnified image?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),20,Which of the following forms a diminished image?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),21,Which of the following forms only virtual images?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),22,Which of the following forms only real images?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Integer Type)),26,"You are standing in front of a plane mirror, which  is approaching you with a speed of 10 cm/sec.  Then the speed of the image approaching you will be _________ cm/s.",,,,,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Integer Type)),27,A snake is approaching a stationary plane mirror with a speed of 5 m/s.  Then it observes that its image is approaching it will a speed of ________ m/s.,,,,,,,,
-3,Light,13. Sunlight,IIT JEE Worksheet (Integer Type)),28,Raju is standing at a distance of 15 cm from the plane mirror. The distance between him and his image is _________ cm,,,,,,,,
+Appearance of the spectacles through the lens is",Erect and large,Erect and small,Inverted and large,Inverted and small,,B,,
+3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),16,Which of the following forms a virtual image?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,"A,B,C,D",,
+3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),17,Which of the following forms a real image?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,"C,D",,
+3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),18,Which of the following forms an image of same size?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,"A,C,D",,
+3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),19,Which of the following forms a magnified image?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,"C,D",,
+3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),20,Which of the following forms a diminished image?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,"B,C,D",,
+3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),21,Which of the following forms only virtual images?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,"A,B",,
+3,Light,13. Sunlight,IIT JEE Worksheet Multiple correct answer type),22,Which of the following forms only real images?,Plane mirror,Convex mirror,Concave mirror,Convex lens,,"C,D",,
+3,Light,13. Sunlight,IIT JEE Worksheet (Integer Type)),26,"You are standing in front of a plane mirror, which  is approaching you with a speed of 10 cm/sec.  Then the speed of the image approaching you will be _________ cm/s.",20,,,,,,FIB,
+3,Light,13. Sunlight,IIT JEE Worksheet (Integer Type)),27,A snake is approaching a stationary plane mirror with a speed of 5 m/s.  Then it observes that its image is approaching it will a speed of ________ m/s.,10,,,,,,FIB,
+3,Light,13. Sunlight,IIT JEE Worksheet (Integer Type)),28,Raju is standing at a distance of 15 cm from the plane mirror. The distance between him and his image is _________ cm,7,,,,,,FIB,
+3,Light,13. Sunlight,IIT JEE Worksheet,29,Match the following,A-r; B-t; C-p; D-q; E-s,A-p; B-t; C-r; D-q; E-s,A-s; B-t; C-r; D-q; E-p,A-p; B-t; C-r; D-s; E-q,CH3-JW29,A,,
+3,Light,13. Sunlight,IIT JEE Worksheet,30,Match the following,A-p; B-r; C-q; D-qs; E-pr,A-p; B-pr; C-qst; D-qst; E-pr,A-q; B-r; C-p; D-qs; E-pr,A-q; B-qs; C-p; D-r; E-pr,CH3-JW30,B,,
 4,Electric Current and Its effects,Chapter-4 - Electric Current and Its effects,Formative Worksheet,1,A flow of 10<sup>7</sup> electrons per second in a conducting wire.  How much current do they constitute?,,,,,,,,
 4,Electric Current and Its effects,Chapter-4 - Electric Current and Its effects,Formative Worksheet,2,"If the electronic charge is 1.6 x 10<sup>-19</sup> C, then find the number of electrons passing through a section of a wire poer second, when the wire carries a current of 4 ampere.",,,,,,,,
 4,Electric Current and Its effects,Chapter-4 - Electric Current and Its effects,Formative Worksheet,3,"A polythene piece rubbed with wool is found to have a negative charge of 3.2 x 10<sup>7</sup>C.
