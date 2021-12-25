@@ -24,9 +24,9 @@ public class FileUtil {
         return new File(fileName);
     }
 
-    public void writeToFile(Document doc,String outputFileName) throws IOException, TransformerException {
+    public void writeToFile(Document doc,String outputFileName,int index) throws IOException, TransformerException {
         DOMSource source = new DOMSource(doc);
-        FileWriter writer = new FileWriter(new File("/home/pradeep/Documents/moodle/"+outputFileName+".xml"));
+        FileWriter writer = new FileWriter(new File("/home/pradeep/Documents/moodle/"+outputFileName+"-"+index+".xml"));
         StreamResult result = new StreamResult(writer);
 
         TransformerFactory transformerFactory = TransformerFactory.newDefaultInstance();

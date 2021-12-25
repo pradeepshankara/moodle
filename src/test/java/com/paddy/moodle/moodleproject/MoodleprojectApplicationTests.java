@@ -45,6 +45,62 @@ class MoodleprojectApplicationTests {
 		}
 	}
 
+
+
+	@Test
+	void generateForDishaFoundationPhysicsClass8(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS8");
+			questionMetadata.setPublisher("DISHAFOUNDATION");
+			questionMetadata.setSubject("PHYSICS");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Physics/DishaFoundation/IMAGES-DISHA-CLASS-8-PHYSICS/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"DISHA-Class-8-PHYSICS.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForMTGChemistryClass8(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS8");
+			questionMetadata.setPublisher("MTG");
+			questionMetadata.setSubject("BIOLOGY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Chemistry/MTG/IMAGES-MTG-CLASS-8-CHEMISTRY/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"MTG-Class-8-Chemistry-V1.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForMTGBiologyClass8(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS8");
+			questionMetadata.setPublisher("MTG");
+			questionMetadata.setSubject("BIOLOGY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Biology/IMAGES-MTG-CLASS-8-BIOLOGY/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"MTG-Class-8-Biology-V1.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void testReplaceSpecialCharacters(){
+		System.out.println(moodleQuizHandler.getMoodleQuizBuilder().replaceSpecialCharacters("abcdx^2&zzz"));
+		System.out.println(moodleQuizHandler.getMoodleQuizBuilder().replaceSpecialCharacters("abcdx~2*zzz"));
+	}
+
 	@Test
 	void generateForBeToppersPhysicsClass7(){
 		try {
