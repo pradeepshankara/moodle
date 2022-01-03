@@ -1,0 +1,863 @@
+Chapter Number,ChapterName,SubChapterName,Classification,QuestionNumber,QuestionText,Option1,Option2,Option3,Option4,Image?,Answer,AnswerDescription,QuestionType
+1,Measurement,Summative Exercise,,1,The MKS unit of force is ___________,,,,,,kg m s^-2&,,FIB
+1,Measurement,Summative Exercise,,2,The SI unit of power is _________,,,,,,Watt,,FIB
+1,Measurement,Summative Exercise,,3,m^3& is the MKS unit of ________,,,,,,Volume,,FIB
+1,Measurement,Summative Exercise,,4,1 quintal1______________ kg,,,,,,100,,FIB
+1,Measurement,Summative Exercise,,5,The physical quantity can be expressed as _______,,,,,,Numerical value x unit ,,FIB
+1,Measurement,Summative Exercise,,6,For all physical quantities which are required to estimate them to the exact values ___________,,,,,,Units,,FIB
+1,Measurement,Summative Exercise,,7,A velocity of 18/5 km h^-1&  is equal to. m s^-1&,,,,,,1,,FIB
+1,Measurement,Summative Exercise,,8,1 litre = __________ cm^3&,,,,,,1000,,FIB
+1,Measurement,Summative Exercise,,9,Metre scale is used to measure __________.,,,,,,Length,,FIB
+1,Measurement,Summative Exercise,,10,The least value measured with metre-scale is (if the metre scale is divided into 1000) ____________,,,,,,Millimetre,,FIB
+1,Measurement,Summative Exercise,,11,Least count of vernier scale is _____________,,,,,,0.1 mm,,FIB
+1,Measurement,Summative Exercise,,12,The principle of vernier callipers can be expressed as _________,,,,,,N(VSD) = (N -1)MSD,,FIB
+1,Measurement,Summative Exercise,,13,"If the zero of a vernier scale is on the right side of zero of main scale, the error is __________",,,,,,Positive,,FIB
+1,Measurement,Summative Exercise,,14,The space occupied by the object is called _________,,,,,,Volume,,FIB
+1,Measurement,Summative Exercise,,15,Quantity of matter contained in a body is __________,,,,,,Mass,,FIB
+1,Measurement,Summative Exercise,,16,Mass per unit volume is _________,,,,,,Density,,FIB
+1,Measurement,Summative Exercise,,17,Measuring vessel to measure volume of irregular shaped solid is ______________,,,,,,Measuring Jar,,FIB
+1,Measurement,Summative Exercise,,18,Measuring vessel to measure density of liquids is ___________,,,,,,Specific gravity bottle,,FIB
+1,Measurement,Summative Exercise,,19,Observed reading = M.S.R + _____________,,,,,,VSD x LC,,FIB
+1,Measurement,Summative Exercise,,20,"1 MSD / x = least count, where x = __________",,,,,,Number of divisions on the vernier,,FIB
+1,Measurement,Summative Exercise,,21,1560 grams = ___________ kg,,,,,,1.56,,FIB
+1,Measurement,Summative Exercise,,22,"Density of mercury is 13.6 g cm^-3&, then the value in MKS system is_________",,,,,,1.36 x 10^3& kg m^-3&,,FIB
+1,Measurement,Summative Exercise,,23,1 light year = __________ m,,,,,,9.46 x 10^15&,,FIB
+1,Measurement,Summative Exercise,,24,Size of atom is measured in __________,,,,,,Angstroms,,FIB
+1,Measurement,Summative Exercise,,25,Unit of plane angle is _____________,,,,,,Radian,,FIB
+1,Measurement,Summative Exercise,,26,Symbol for steradian is _____________,,,,,,Sr,,FIB
+1,Measurement,Summative Exercise,,27,"In railways and airlines, _________ hour system is being adopted.",,,,,,24,,FIB
+1,Measurement,Summative Exercise,,28,"Ifthe zero of the vernier lies between 3.2 and 3.3 cm on main scale, the MSR is ___________",,,,,,3.2,,FIB
+1,Measurement,Summative Exercise,,29,The RD of any substance is numerically equal to its density in the _____________ system of units.,,,,,,CGS,,FIB
+1,Measurement,Summative Exercise,,30,_________ cm make 3.25 km,,,,,,3.25 x 10^5&,,FIB
+1,Measurement,Summative Exercise,,31,"The number of times a standard quantity is present in a given physical quantity, is called its units.",,,,,,0,,TF
+1,Measurement,Summative Exercise,,32,"The standard quantity, used for comparison, is called fundamental quantity.",,,,,,0,,TF
+1,Measurement,Summative Exercise,,33,Internal jaws of a vernier calipers is used to measure the diameter of a sphere.,,,,,,0,,TF
+1,Measurement,Summative Exercise,,34,Unit of relative density is kg m^-3&.,,,,,,0,,TF
+1,Measurement,Summative Exercise,,35,Standard of unit is reproducible.,,,,,,1,,TF
+1,Measurement,Summative Exercise,,36,Measurement of time is done in terms of velocity of light as standard.,,,,,,0,,TF
+1,Measurement,Summative Exercise,,37,The density of silver is 13.6 times greater than that of water.,,,,,,0,,TF
+1,Measurement,Summative Exercise,,38,Density of a material varies with temperature.,,,,,,1,,TF
+1,Measurement,Summative Exercise,,39,Unit of density and relative density are same.,,,,,,0,,TF
+1,Measurement,Summative Exercise,,40,Pressure is a standard unit of time.,,,,,,0,,TF
+1,Measurement,Summative Exercise,,41,Parsec is a unit of time.,,,,,,0,,TF
+1,Measurement,Summative Exercise,,42,Derived units can be defined in terms of one or two of all the fundamental units in them.,,,,,,1,,TF
+1,Measurement,Summative Exercise,,43,Burette and Pipette are used to measure mass.,,,,,,0,,TF
+1,Measurement,Summative Exercise,,44,"In a standard vernier callipers, when the jaws are in contact with each other if the 5^th& division on the main scale coincides with 4^th& division on the vernier scale, then the zero error is negative.",,,,,,1,,TF
+1,Measurement,Summative Exercise,,45,"If the relative density of a solid is 1.2, then 12 g of that substance occupies 10 m^3&.",,,,,,0,,TF
+1,Measurement,Summative Exercise,,46,"In a burette, the zero mark on the graduation scale is near its mouth.",,,,,,1,,TF
+1,Measurement,Summative Exercise,,47,Match the following,"A - r, B - p, C - q, D-wr, E-u, F- v, G-t, H-s","A - w, B - s, C - q, D- r, E-u, F- v, G-t, H-p","A - w, B – r, C - q, D- p, E-u, F- v, G-t, H-s","A - w, B - p, C - q, D- r, E-u, F- v, G-t, H-s",CH-1-47-ROW-48,d,,MCQ
+1,Measurement,Summative Exercise,,48,Match the following,"A-t, B-p, C- s, D- q, E -r, F-u","A-t, B-u, C- s, D- p, E -r, F-q","A-u, B-t, C- s, D- q, E -r, F-p","A-t, B-u, C- s, D- q, E -r, F-p",CH-1-48-ROW-49,d,,MCQ
+1,Measurement,Summative Exercise,,49,Match the following,"A -s, B-r, C-p, D- q, E-u","A -r, B-s, C-p, D- q, E-u","A-u, B-s, C-p, D- q, E-r","A -r, B-p, C-s, D- q, E-u",CH-1-49-ROW-50,b,,MCQ
+1,Measurement,Summative Exercise,,50,Match the following,"A-q, B-s, C-p, D-t, E -r","A-t, B-s, C-p, D-q, E -r","A-p, B-s, C-q, D-t, E -r","A-q, B-t, C-p, D-s, E -r",CH-1-50-ROW-51,a,,MCQ
+1,Measurement,Summative Exercise,,51,Match the following,"A-v, B-t, C-p, D-r, E-u","A-u, B-p, C-t, D-r, E-v","A-u, B-t, C-p, D-r, E-Vv","A-u, B-t, C-p, D-v, E-r",CH-1-51-ROW-52,c,,MCQ
+1,Measurement,Further Practice,,1,Which of the following is not a characteristic of the standard unit?,It should be of convenient size,It should change with respect to space and time.,It should not be perishable.,It should be easily reproducible.,,B,,MCQ
+1,Measurement,Further Practice,,2,Density of mercury in MKS is 13600 kg m^-3& then in CGS is:,1.36 g cm^-3&,13.6 g cm^-3&,13.6 g cm^-3&,1.36 g cm^-3&,,C,,MCQ
+1,Measurement,Further Practice,,3,Harish runs faster than suresh in a given length. To compare the Harish and Suresh in this the fundamental physical quantities involved are,Length only,Time only,Length and Time,Neither Length nor Time,,C,,MCQ
+1,Measurement,Further Practice,,4,Express a speed of 360 cmh^-1& in km s^-1&,10^-6&,10^-5&,36 x 10^-6&,360 x 10^-6&,,A,,MCQ
+1,Measurement,Further Practice,,5,Metre scales have bevelled edges because:,to increase the grip between scale and the measured surface,to avoid errors due to parallax,to look good,None of these,,B,,MCQ
+1,Measurement,Further Practice,,6,"In the fig below, the length of the object is:",3.4 Units,3.5 units,3.6 units,3.3 units,CH-1-6-ROW-58,B,,MCQ
+1,Measurement,Further Practice,,7,The length of a curved surface is measured by using,Metre scale only,Thread only,Both Metre scale and Thread,None of these,,C,,MCQ
+1,Measurement,Further Practice,,8,A vernier has a negative zero error. When the jaws J~1* and J~2* are brought in contact the zero of the vernier must:,coincide with the zero of the main scale.,be to the right of the zero of the main scale.,be to the left of the zero of the main scale.,None of the above,,C,,MCQ
+1,Measurement,Further Practice,,9,"In vernier callipers, if L, C = l and pitch is P then is l/P is :",always less than 1,always greater than 1,equal to 1,None of these,,A,,MCQ
+1,Measurement,Further Practice,,10,If the M.S.D of a reading is 81 and the pitch of the scale is 0.05 cm then the main scale reading is:,40.5 cm,4.05 cm,4.1 cm,0.45 cm,,B,,MCQ
+1,Measurement,Further Practice,,11,The zero error of a vernier is +2. Its zero correction is (take L.C = 0.011cm),0.2 cm,-0.2 cm,-0.02 cm,+0.02 cm,,C,,MCQ
+1,Measurement,Further Practice,,12,A vernier having a positive zero error of +5 is used to measure the side of a 2 cm cube. The length as measured by the vernier will be: (use L.C = 0.01 cm),1.95 cm,2 cm,2.05 cm,Cannot say,,C,,MCQ
+1,Measurement,Further Practice,,13,If 1 g cm^-3& = 10^3& kg m^-3& then 10^6& kg m^-3& =,10^-3& g cm^-3&,10^6& g cm^-3&,10^3& g cm^-3&,10^-6& g cm^-3&,,B,,MCQ
+1,Measurement,Further Practice,,14,"Relative density = Density of substance / x, Where 's' is :",Density of substance,Density of water,Density of bottle,Density of gas,,B,,MCQ
+1,Measurement,Further Practice,,15,An object is placed in two different liquids separately. If the density of object is greater than liquid 2 and less than liquid 1 then the object is found to float in,Liquid 1,Liquid 2,Both (1) and (2),Does not float,,A,,MCQ
+1,Measurement,Further Practice,,16,1 litre is equal to,10^3& cm^3&,1 dm^3&,10^-3& m^3&,All the above,,D,,MCQ
+1,Measurement,Further Practice,,17,"Ifthe length of a vernier scale having 20 divisions corresponding to 19 main scale divisions and given that 1 MSD = 1 mm, then the least count of the vernier callipers is",0.1 mm,50 m m,0.05 mm,1 x 10^-4& cm,,C,,MCQ
+1,Measurement,Further Practice,,18,The ratio of densities of two substances a and b is 3:1 and the relative density of object b is 4. The density of substance a is,12 x 10^3& kg m^-3&,1.1 g cm^-3&,120 g cm^-3&,0.75 g cm^-3&,,A,,MCQ
+1,Measurement,Further Practice,,19,The time taken to complete 20 oscillations by a seconds pendulum is,20 s,50 s ,40 s,5 s,,C,,MCQ
+1,Measurement,Further Practice,,20,1^0& A is _______,10 nm,0.1 nm,100 nm,1 nm,,B,,MCQ
+1,Measurement,Further Practice,,21,1 litre is equal to _________,1000 ml,100 cm&3&,10 ml,10 cm^3&,,A,,MCQ
+1,Measurement,Further Practice,,22,The density of a cuboid of mass 200 g with dimensions 2 cm x 4 cm x 5 cm is,1000 kg m^-3&,3000 kg m^-3&,5000 kg m^-3&,2000 kg m^-3&,,C,,MCQ
+1,Measurement,Further Practice,,23,10^4& cm^3& is equal to ,1/1000 m^3&,1/100 m^3&,10 m^3&,10 m^3&,,B,,MCQ
+1,Measurement,Further Practice,,24,The total mass of two objects of mass 1050 kg and 12 tonnes is,22.5 quintals,225 tonnes,11.2 tonnes,12 x 10^4& kg,,A,,MCQ
+1,Measurement,Further Practice,,25,4.15 p.m. in 12 hour system is writen as _______ in 24 hours clock system.,11 hours 45 minutes,4 hours 15 minutes,22 hours 15 minutes,16 hour 15 minutes,,D,,MCQ
+1,Measurement,Further Practice,,1,Which of the following instruments can be used to measure the volume ofa liquid?,Measuring cylinder,Vernier callipers,Pipette,Measuring flask,,"A, C, D",,MAQ
+1,Measurement,Further Practice,,2,Which of the following statements about the vernier calipers are true?,It can be used to measure internal diameters,It can be used to measure external diameters.,It is accurate up to 0.1 em,zero error may be present,,"A, B, D",,MAQ
+1,Measurement,Further Practice,,3,Among the following identify derived quantities?,Speed,Temperature,volume,Mass,,"A, C",,MAQ
+1,Measurement,Further Practice,,4,Which of the following in unit not a time?,Parsec,Light year,Micron,Second,,"A, C",,MAQ
+1,Measurement,Further Practice,,5,Density of water is:,1 g cm^-3&,100 kg m^-3&,1000 kg m^-3&,None,,"A, C",,MAQ
+1,Measurement,Further Practice,,6,A device used to measure volume of liquids is,burette,density bottle,pipette,common balance,,"A, C",,MAQ
+1,Measurement,Further Practice,,7,"An object is placed in 3 beakers containing liquids A, B and C respectively. If the density of object (d) when compared to densities of liquids A, B and C is given by d~A* < d < d~B* < d~C* then the body sinks in",Liquid A,Liquid B,Liquid C,All the three liquids,,"B, C",,MAQ
+1,Measurement,Further Practice,,8,Choose the correct answer from the following,An area of one square centimetre is 10^4& times greater than one square metre.,1 hour 18 min is equal to 3618 seconds.,SI unit of volume is cubic metres,Metre is the standard unit to measure length.,,"C, D",,MAQ
+1,Measurement,Further Practice,,9,Choose the correct statement from the following,Distance between earth and nearest star is of order in parsec,Thousand millimetre make one metre.,1 tonne is equal to 10^6& g.,A simple pendulum is used to measure the mass of a bob.,,"A, B, C",,MAQ
+1,Measurement,Further Practice,,10,"Ifthe length of a vernier scale having 25 divisions corresponding to 24 main scale divisions and given that 1 MSD = Imm, then the least count of vernier calipers is",0.004 cm,4 micrometer,0.04 nm,0.04 m,,"A, C",,MAQ
+1,Measurement,Further Practice,,1,"Assertion : nm is not same as mN.
+Reason : 1nm = 10^-9& m and 1mN = 10^-3& N",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+1,Measurement,Further Practice,,2,"Assertion : The value of 1 micron is equal to 10^-6& m.
+Reason : Micron is the unit for measuring microscopic distance.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,B,,AR
+1,Measurement,Further Practice,,3,"Assertion : Mass, length and time are fundamental physical quantities.
+Reason : They are independent of each other.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+1,Measurement,Further Practice,,4,"Assertion : Nowadays a standard metre is defined as in terms of the wavelength of light.
+Reason : Light has no relation with length.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,C,,AR
+1,Measurement,Further Practice,,5,"Assertion : When we change the unit of measurement of a quantity, its numerical value changes.
+Reason : Smaller the unit of measurement smaller is its numerical value.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,C,,AR
+1,Measurement,Further Practice,,6,"Assertion : The least count of vernier callipers is dependent on its design.
+Reason: The L.C of V.C = Pitch / No. of VSD",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+1,Measurement,Further Practice,,7,"Assertion : Density of a substance is the ratio of mass of the substance to its volume
+Reason : Relative density is the ratio of density of substance to the density of water at 4^0&C.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+1,Measurement,Further Practice,,8,"Assertion : The time period of a simple pendulum is independent of its length.
+Reason : The length of a pendulum is the distance between point of suspension and centre of the bob.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,D,,AR
+1,Measurement,Further Practice,,9,"Assertion : Though milligram is the unit of mass, it is not a fundamental unit.
+Reason : All practical units need not be fundamental unit.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+1,Measurement,Further Practice,,10,"Assertion : 100 years make 10 decades.
+Reason : Every century is divided into 10 decades.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+1,Measurement,Further Practice,,1,"Passage - I
+A vernier callipers has a pitch of 0.1 cm and 10 vernier scale divisions coincide exactly with 9 main scale divisions. It is used to measure the volume of a given sphere. Thegram while measuring the diameter of the sphere is given below.
+
+i) What is the least count of the instrument?",0.1 cm,0.01 cm,1 m,0.01 mm,CH-1-1-ROW-98,B,,MCQ
+1,Measurement,Further Practice,,2,"Passage - I
+A vernier callipers has a pitch of 0.1 cm and 10 vernier scale divisions coincide exactly with 9 main scale divisions. It is used to measure the volume of a given sphere. Thegram while measuring the diameter of the sphere is given below.
+
+What is the radius of the sphere?",1.64 cm,0.82 cm,0.41 cm,3.28 cm,,B,,MCQ
+1,Measurement,Further Practice,,3,"Passage - I
+A vernier callipers has a pitch of 0.1 cm and 10 vernier scale divisions coincide exactly with 9 main scale divisions. It is used to measure the volume of a given sphere. Thegram while measuring the diameter of the sphere is given below.
+
+What is the volume of the sphere?",1.31 cm^3&,2.31 cm^3&,3.31 cm^3&,4.31 cm^3&,,B,,MCQ
+1,Measurement,Further Practice,,1,Find the CGS unit of the following derived quantities: Give the relation of these CGS units with respect to their SI units.,A,B,C,D,CH-1-1-ROW-101,DUMMY,,FIB
+1,Measurement,Further Practice,,2,Find the SI unit of the following derived quantities : Infer are the MKS units of these derived quantities same as their SI units.,A,B,C,D,CH-1-2-ROW-102,DUMMY,,FIB
+1,Measurement,Further Practice,,3,"1 km h^-1& = p m s^-1&, then find the value of p.",A,B,C,D,,5/18,,FIB
+1,Measurement,Further Practice,,4,If OLYMPIAD' is the unit of a new physical quantity. How many times more then 1 Mega OLYMPIAD when compared to ten milli OLYMPIAD?,A,B,C,D,,DUMMY,,FIB
+1,Measurement,Further Practice,,5,A satellite was orbiting the Earth at an altitude of 300 km. What is the altitude in millimetres?,A,B,C,D,,3 x 10^8& mm,,FIB
+1,Measurement,Further Practice,,6,"Express 'mile', in terms of kilometre. (1 mile = 1.760 yards, 1 yard = 36 inches and 1 inches = 2.54 cm).
+[Note: Mile, yard and inch are practical units of length].",A,B,C,D,,DUMMY,,FIB
+1,Measurement,Further Practice,,7,If 1 km^2& = 10^8& mm^2& then find the value of a.,A,B,C,D,,12,,FIB
+1,Measurement,Further Practice,,8,The unit used to measure the liquids is litre. One litre is equal to 1000 millilitre and one millilitre is equal to 1 cm^3&. Deduce a relationship between S.I. unit of volume and litre.,A,B,C,D,,DUMMY,,FIB
+1,Measurement,Further Practice,,9,"The least count of a vernier callipers is 0.01 cm. It has an error of +0.02 cm while measuring the radius of a eylinder. The main scale reading is 3.60 em and the 8th vernier scale division coincides with main scale, then what will be the correct radius of the cylinder?",A,B,C,D,,1.83 cm,,FIB
+1,Measurement,Further Practice,,10,"The LC of a vernier callipers is 0.01 cm and its zero error is - 0.03 cm while measuring the length of a rod. The main scale reading is 4.6 cm and the sixth division on the vernier is in line with a marking on the main scale, then what will be the length of the rod ?",A,B,C,D,,4.69 cm,,FIB
+1,Measurement,Further Practice,,11,"The main scale of a vernier callipers reads 4.7 cm, the 3rd division on the vernier scale coincides with a main scale division while measuring the length of a rod. The least count of the vernier callipers 0.1 mm. What is the length of the rod?",A,B,C,D,,4.73 cm,,FIB
+1,Measurement,Further Practice,,12,"If 5 litres of kerosene has a mass of 5 kg, then what is the density of kerosene?",A,B,C,D,,1000 kg m^-3&,,FIB
+1,Measurement,Further Practice,,13,"You are studying (seriously) and suddenly you thought of calculating mass of air enclosed in your room. You found that the length, breadth and height of your room are 5 m, 4 m and 3 m respectively. If the density of air enclosed in your room is 1.2 kg m^-3&, what is the mass of air enclosed in your room?",A,B,C,D,,72 kg,,FIB
+1,Measurement,Further Practice,,14,Calculate the mass of a body in tonnes whose volume is 2 m^3& and R.D is 5.2.,A,B,C,D,,1.04 tonnes,,FIB
+1,Measurement,Further Practice,,15,"The mass of an wooden cube of edge 10 cm is 800 g. If the mass of an equal volume of water is 1 kg, then find the relative density of a wooden cube.",A,B,C,D,,0.8,,FIB
+1,Measurement,Further Practice,,16,A vernier callipers measures the diameter of rod as 1.24 cm. The vernier callipers has 10 divisions which slides over main scale of 1 MSD = 0.5 mm. Find the main scale reading and vernier coincidence.,A,B,C,D,,VCD = 8,,FIB
+1,Measurement,Further Practice,,17,Two spheres are having the ratio of their densities 1:3 and masses in 3:4 respectively. Find the ratio of their volumes,A,B,C,D,,9 : 4,,FIB
+1,Measurement,Further Practice,,18,A uniform wire of diameter 0.8 mm is wound on a scale in turns such that it covers a distance of 8 divisions. The scale taken has each cm being calibrated to 10 divisions. Find the number of turns wound.,A,B,C,D,,10 turns,,FIB
+1,Measurement,Further Practice,,19,"A vendor has 3 stones each measuring masses of 2 kg, 5 kg and 6 kg respectively. If the vendor has to measure 1 kg, 3 kg, 4 kg and 7 kg using of the above stone how does he m asure it.",A,B,C,D,,4 cm^3&,,FIB
+1,Measurement,Further Practice,,20,"Two identical lead balls are immersed into a measuring jar containing water, the level of water raises from 26 cm^3& to 38 cm^3&. If one of the above lead ball and another metallic ball are immersed simultaneously than level of water in measuring jar rises from 26 cm^3& to 36 cm^3&. Find the volume of the lead ball and metallic ball.",A,B,C,D,,DUMMY,,FIB
+1,Measurement,Further Practice,,1,A light year is unit of ,Acceleration,Distance,Speed,Time,,B,,MCQ
+1,Measurement,Further Practice,,2,"A wire of length 50 cm has a mass of 20 gr. It its radius is halved by stretching, its new mass per unit length will be",0.4 g cm^-1&,0.2 kg m^-1&,0.1 g cm^-1&,0.2 g cm^-1&,,C,,MCQ
+1,Measurement,Further Practice,,3,Velocity of light in centimeter per nano second is __________,,,,,,30 cm ns^-1&,,FIB
+1,Measurement,Further Practice,,4,(A) Micro-gram (m.m.)^-3& = _____ kgm^-3&,,,,,,1 kg m^-3&,,FIB
+1,Measurement,Further Practice,,401,(B) Nanometer min^-2& = _________ msec^-2&,,,,,,5/18 x 10^6& m s^-2&,,FIB
+1,Measurement,Further Practice,,402,(C) Kgf cm^-2& = ______Nm^-2& (kgf = 10 N),,,,,,10^-3& N m^-2&,,FIB
+1,Measurement,Further Practice,,403,(D) 440 rad min^-2&? = ________,,,,,,7/360 rev s^-2&,,FIB
+1,Measurement,Further Practice,,404,(E) kg m^2& s^-2& = ... gr cm^2& s^-2&,,,,,,10^7& g cm^2& s^2&,,FIB
+1,Measurement,Further Practice,,5,Light takes approximately 8 minute to reach the earth from Sun. The distance between earth and Sun in kilometers is,,,,,,144 x 10^6& km,,FIB
+1,Measurement,Further Practice,,6,Thickness of the page on which your are writing is the order of,0.1 cm,0.1 micrometer,0.1 angstrom,0.1 mm,,D,,MCQ
+1,Measurement,Further Practice,,7,1 horse power is equal to ________ watt,746,500,546,700,,A,,MCQ
+1,Measurement,Further Practice,,8,Which of the following is the smallest unit?,millimetre,angstrom,fermi,metre,,C,,MCQ
+1,Measurement,Further Practice,,9,Which of the following is not a unit of time?,Hour,Nano second,Microsecond,Light year,,D,,MCQ
+1,Measurement,Further Practice,,10,Light year is a unit of:,Time,Speed,Distance,None of these,,C,,MCQ
+1,Measurement,Further Practice,,11,The volume of a cube in m^3& is equal to the surface area of the cube in m^2&. The volume of the cube is,64 m^3&,216 m^3&,512 m^3&,196 m^3&,,B,,MCQ
+1,Measurement,Further Practice,,12,Which of the following quantity is expressed as force per unit area?,Work,Pressure,Volumne,Area,,B,,MCQ
+1,Measurement,Further Practice,,13,How many wave lengths of Kr^86& are there in 1 metre?,1553164.13,1650763.73,2348123.73,652169.13,,B,,MCQ
+1,Measurement,Further Practice,,14,One second is defined to be equal to:,1650763.73 periods of krypton clock,652189.63 periods of krypton clock,1650755.73 periods of cesium clock,"9, 19, 26, 31, 770 periods of cesium clock",,D,,MCQ
+2,Force and Friction,Summative Exercise,,1,"In SI units a force is numerically equal to the _________, when the force is applied to it.",,,,,,Acceleration of Standrad Kilogram,,FIB
+2,Force and Friction,Summative Exercise,,2,Mass is a ________ quantity.,,,,,,Scalar,,FIB
+2,Force and Friction,Summative Exercise,,3,The opposing force that is caused due to relative motion between two surfaces in contact is called __________,,,,,,Friction,,FIB
+2,Force and Friction,Summative Exercise,,4,"With increase of temperature, the frictional force acting between two surfaces ___________",,,,,,Decreases,,FIB
+2,Force and Friction,Summative Exercise,,5,"In general, the realtion between limiting friction __________ Kinetic friction",,,,,,>,,FIB
+2,Force and Friction,Summative Exercise,,6,The force of friction which does not allow one body to slide upon another is called ________.,,,,,,Static friction,,FIB
+2,Force and Friction,Summative Exercise,,7,The maximum of friction which does not allow one body to slide upon another is called _________.,,,,,,Limiting friction,,FIB
+2,Force and Friction,Summative Exercise,,8,Limiting friction is slightly greater than ______ friction.,,,,,,Sliding,,FIB
+2,Force and Friction,Summative Exercise,,9,The coefficient of limiting friction between the surfaces of contact is the ratio of the ________ friction to the normal reaction.,,,,,,Limiting,,FIB
+2,Force and Friction,Summative Exercise,,10,Limiting friction is allso called as ___________.,,,,,,Maximum force of friction,,FIB
+2,Force and Friction,Summative Exercise,,11,__________ is a self adjusting force.,,,,,,Force of friction,,FIB
+2,Force and Friction,Summative Exercise,,12,The force of friction is ________ the normal reaction between the surfaces.,,,,,,Directly proportional to,,FIB
+2,Force and Friction,Summative Exercise,,13,Frictional force in a ceiling fan is reduced by using _________,,,,,,Ball bearings,,FIB
+2,Force and Friction,Summative Exercise,,14,Aeroplanes are streamlined to reduce _______ friction.,,,,,,Fluid,,FIB
+2,Force and Friction,Summative Exercise,,15,The force with which a magnet attracts objects like iron is called ____________.,,,,,,Magnetic force,,FIB
+2,Force and Friction,Summative Exercise,,16,The force of gravity cannot act at a distance.,,,,,,0,,TF
+2,Force and Friction,Summative Exercise,,17,A force cannot be seen but the effect of the force can be felt.,,,,,,1,,TF
+2,Force and Friction,Summative Exercise,,18,"When a force is exerted on a stationary object, it will move.",,,,,,0,,TF
+2,Force and Friction,Summative Exercise,,19,An force can change the shape and volume of an object.,,,,,,0,,TF
+2,Force and Friction,Summative Exercise,,20,An astronaut whose mass is 84 kg on earth will have a mass of approximately 14 kg on the moon.,,,,,,0,,TF
+2,Force and Friction,Summative Exercise,,21,The depressions and elevations present on the surface of objects causes friction.,,,,,,1,,TF
+2,Force and Friction,Summative Exercise,,22,Rolling friction always greater than static friction.,,,,,,0,,TF
+2,Force and Friction,Summative Exercise,,23,The efficiency of machine is reduced due to friction.,,,,,,1,,TF
+2,Force and Friction,Summative Exercise,,24,The friction between moving surfaces in contact can be increased by polishing them.,,,,,,0,,TF
+2,Force and Friction,Summative Exercise,,25,The maximum value of static friction is called limiting friction.,,,,,,1,,TF
+2,Force and Friction,Summative Exercise,,26,Friction is a force that opposes motion.,,,,,,1,,TF
+2,Force and Friction,Summative Exercise,,27,Friction should always be avoid.,,,,,,0,,TF
+2,Force and Friction,Summative Exercise,,28,"when a car ccelerates, rightwards the friction acts towards leftwards.",,,,,,1,,TF
+2,Force and Friction,Summative Exercise,,29,The arrow with a pointed tip can move faster in air than that of with a blunt tip.,,,,,,1,,TF
+2,Force and Friction,Summative Exercise,,30,Friction does not depend on the nature of the surface in contact.,,,,,,0,,TF
+2,Force and Friction,Summative Exercise,,31,Match the following,"A-q, s; B-p,r; C-q,s; D- p, r","A-q, s; B-p,r; C-q,s; D- q,r","A-q, s; B-q,s; C-q,s; D- p, r","A-q, s; B-q,r; C-q,s; D- p, r",CH-2-31-ROW-169,a,,MCQ
+2,Force and Friction,Summative Exercise,,32,Match the following,"A-  r;  B-q, s ; C-q,s; D-p, q","A- q, r;  B-q, s ; C-q,s; D-p, q","A- q, s;  B-q, s ; C-q,s; D-p, r","A- s, r;  B-q, s ; C-q,s; D-p, q",CH-2-32-ROW-170,b,,MCQ
+2,Force and Friction,Further Practice,,1,Which of the following effects cannot be produced by a force?,Changing the mass of an object,Changing the shape of an object,Changing the position of an object,Changing the direction of movement of an object,,A,,MCQ
+2,Force and Friction,Further Practice,,2,An object is weighed in the following places using a spring balance.  In which place will it weight the heaviest?,On the Moon,At the equator,Al the pole,In outer space,,C,,MCQ
+2,Force and Friction,Further Practice,,3,why does an astronaut experience weightlessness in outer space?,No gravitational force acts on him,No frictional force acts on him,There is no air resistance in outer space,There is a vacuum in outer space,,A,,MCQ
+2,Force and Friction,Further Practice,,4,What principle is used in a newton spring balance?,The mass of an object depends on its density.,The mass of an object depends on the gravity pulling it.,The weight of an object is directly proportional to its mass.,The extension of the spring is directly proportional to the force pulling it.,,D,,MCQ
+2,Force and Friction,Further Practice,,5,Mass differs from weight in that:,weight is a force where as mass is not a force.,the mass of an object is always more than its weight.,mass can be expressed only in the metric system.,there is no difference,,A,,MCQ
+2,Force and Friction,Further Practice,,6,The mass of a body:,is slightly different at different places on earth.,is independent of the free-fall acceleration.,is the same for all bodies of the same volume.,can be measured most accurately on a spring scale.,,B,,MCQ
+2,Force and Friction,Further Practice,,7,"An object placed on a equal-arm balance requires 12 kg to balance it. When placed on a spring scale, the scale reads 12 kg. Everything (balance, scale, set of weights and object) is now transported to the Moon where the free-fall acceleration is one-sixth that on Earth. The new readings of the balance and spring scale (respectively) are:","12 kg, 12 kg","2 kg, 2 kg","12 kg, 2 kg","2 kg, 12 kg",,C,,MCQ
+2,Force and Friction,Further Practice,,8,Equal forces F act on isolated bodies A and B as shown. The mass of B is three times that of A. The magnitude of the acceleration of A is:,three times that of B,1/3 that of B,nine times that of B,1/9 that of B,CH-2-8-ROW-178,A,,MCQ
+2,Force and Friction,Further Practice,,9,A car travels east with a certain constant velocity. The direction of net force on the car is,East,West,Up,Zero,,A,,MCQ
+2,Force and Friction,Further Practice,,10,An object rests on a horizontal frictionless surface. A horizontal force of magnitude F is applied. This force produces an acceleration.,only if F is larger than the weight of the object,only while the object suddenly changes from rest to motion,Always,only if the inertia of the object decreases,,C,,MCQ
+2,Force and Friction,Further Practice,,11,"A book rests on a table, exerting a downward force on the table. The reaction to this force is",the force of Earth on the book,the force of the table on the book,the force of Earth on the table,the inertia of the book,,B,,MCQ
+2,Force and Friction,Further Practice,,12,A lead block is suspended from your hand by a string. The reaction due to the force of gravity on the block is the force exerted by:,the string on the block,the block on the string,the string on the hand,the block on Earth,,D,,MCQ
+2,Force and Friction,Further Practice,,13,Frictional force exists in which of the following cases _______,exists only for moving bodies,exists only for bodies which are at rest,exists for both moving and non-moving bodies,None of these,,C,,MCQ
+2,Force and Friction,Further Practice,,14,A person is moving on a rough horizontal surface towards east. Then the direction of friction force is towards,West,East,North,South,,A,,MCQ
+2,Force and Friction,Further Practice,,15,"When the applied force is doubled, then friction becomes:",Doubled,Halved,Quadrupled,Zero,,A,,MCQ
+2,Force and Friction,Further Practice,,16,It is difficult to move a cycle with brakes on because,rolling friction opposes motion on road,sliding friction opposes motion on road,rolling friction is more than sliding friction,sliding friction is more than rolling friction,,B,,MCQ
+2,Force and Friction,Further Practice,,17,It is easier to pull a lawn roller than to push it because pulling:,involves sliding friction,involves rolling friction,increases the effective weight,decreases normal reaction,,B,,MCQ
+2,Force and Friction,Further Practice,,18,"To avoid slipping while walking on ice, one should take smaller steps because:",frictional force of ice is large,of larger normal reaction,frictional force of ice is smal1,of smaller normal reaction,,C,,MCQ
+2,Force and Friction,Further Practice,,19,Why a horse need to pull harder during the first few steps in pulling the cart?,Limiting friction is greater than dynamic friction.,Sliding friction is greater than rolling friction.,No frictional force acts after the cart comes in motion.,Air friction is greater is greater during first few steps of motion.,,A,,MCQ
+2,Force and Friction,Further Practice,,20,How does the proper inflation of tyre save fuel?,Normal reaction decreases,Normal reaction increases,Sliding contact with the road decreases,Slidingcontact with the road increases,,C,,MCQ
+2,Force and Friction,Further Practice,,1,Which of the statements about force are true?,It can be seen,It causes an object to move,It is pull or a push,It can change the motion of an object,,"B, C, D",,MAQ
+2,Force and Friction,Further Practice,,2,In which following events is a pushing force involved?,Badminton,Javelin,Archery,Bowling,,"A, C, D",,MAQ
+2,Force and Friction,Further Practice,,3,Which of the following describe a frictional force?,Frictional force always opposes the motion of an object.,Frictional force is parallel to the surface in contact.,Frictional force always produces heat.,Frictional force can be increased or reduced.,,"A, B, D",,MAQ
+2,Force and Friction,Further Practice,,4,The magnitude of a frictional force depends on:,the surface area of contact,the weight of the object.,the condition of the surface in contact.,None ,,"B, C",,MAQ
+2,Force and Friction,Further Practice,,5,The application of decreasing friction includes:,ball bearing used in moving parts of a machine,the streamlined shape of an aircraft,the layer of air between the hull of a hovecraft,None of these,,"A, B, C",,MAQ
+2,Force and Friction,Further Practice,,6,Frictional force is important for motor racing. This is because frictional force.,can help a car to slow down,can help a car to move faster,can help a car move around the corners without skidding,None of these,,"A, C",,MAQ
+2,Force and Friction,Further Practice,,1,"Assertion : The mass of the object is a scalar quantity.
+Reason : It is the fundamental property of matter.",,,,,,A,,AR
+2,Force and Friction,Further Practice,,2,"Assertion : The weight of an object changes from place to place but not mass.
+Reason : The weight of the object is independent of the value of 'g'.",,,,,,C,,AR
+2,Force and Friction,Further Practice,,3,"Assertion : There will be no action of external force on an object moving with uniform velocity.
+Reason : The force acting on an object need not cause motion. It may deform the dimen sions of it.",,,,,,C,,AR
+2,Force and Friction,Further Practice,,4,"Assertion : 1 dyne = 10^-5& newton
+Reason : dyne is the CCS unit of work while newton is the SI unit of work.",,,,,,C,,AR
+2,Force and Friction,Further Practice,,5,"Assertion : The forces acting on a body can be replaced by the resultant force only as regards the motion of the body as a whole.
+Reason : The resultant forece can not replace the several forces acting on a body in other respects.",,,,,,C,,AR
+2,Force and Friction,Further Practice,,6,"Assertion : In a tug-of-war game, both teams exert a force on the other through the rope.
+Reason : The team that pulls the rope harder wins.",,,,,,A,,AR
+2,Force and Friction,Further Practice,,7,"Assertion : In order to reduce sliding friction, lubricants are used.
+Reason : Lubrication changes the conditions of rubbing, replacing the sliding friction by rolling friction, thereby reducing the force of frietion.",,,,,,A,,AR
+2,Force and Friction,Further Practice,,8,"Assertion : A car can run on road because of force applied by road on the car.
+Reason : Friction provides the necessary force for translatory motion for a car starting from rest.",,,,,,A,,AR
+2,Force and Friction,Further Practice,,9,"Assertion : Static frictional force is self adjusting, for the given two surfaces.
+Reason : Sliding frictional force between two given solid surfaces is independent of surface area of contact.",,,,,,B,,AR
+2,Force and Friction,Further Practice,,10,"Assertion : We can live very happily if the friction is not present in nature.
+Reason : Aeroplane shape is stream lined to reduce the effort of frictional force.",,,,,,D,,AR
+2,Force and Friction,Further Practice,,1,"Passage - I
+Ramu applied a force of 10 N on a body to move it from rest. He wants to express the applied force is in terms of various system of units.
+i) Express 10 N force in terms of dynes",10^5&,10^6&,10^7&,10^8&,,B,,MCQ
+2,Force and Friction,Further Practice,,2,"Passage - I
+Ramu applied a force of 10 N on a body to move it from rest. He wants to express the applied force is in terms of various system of units.
+ii) Express 10 N force is",98 kgf,56 kgf,100 kgf,84 kgf,,C,,MCQ
+2,Force and Friction,Further Practice,,3,"Passage - I
+Ramu applied a force of 10 N on a body to move it from rest. He wants to express the applied force is in terms of various system of units.
+Iii) Express 10 N force is",10^5& g cm s^-2&,10^6& g cm s^-2&,10^6& g cm s^-2&,10^4& g cm s^-2&,,B,,MCQ
+2,Force and Friction,Further Practice,,1,Which of the following is NOT attributable to application of force?,Rowing of a boat,Bursting of a balloon while blowing,Pedaling a cycle,Catching a moving cricket ball,,B,,MCQ
+2,Force and Friction,Further Practice,,2,"In the picture shown below, the man is:",applying force on the stool,applying pressure on the stool,not applying any force on the stool,adding to the gravitational pull of earth on the stool,CH-2-2-ROW-211,A,,MCQ
+2,Force and Friction,Further Practice,,3,The speed of a falling body increases continuously. This is because:,No force acts on it,It is very light,air exerts a frictional force along the direction of motion,the earth attracts it,,D,,MCQ
+2,Force and Friction,Further Practice,,4,A book remains at rest on a table. It is so because of:,no force acts on it,friction between the book and the surface of table,"force exerted by book on the table, is same as the force exerted by the table on the book",All of the above,,D,,MCQ
+2,Force and Friction,Further Practice,,5,Deep sea divers put on special suit to:,maintain their body temperature in cold sea water,protect against sea animals,maintain pressure,Keep them dry,,C,,MCQ
+2,Force and Friction,Further Practice,,6,"A coin flicked across a table will stop, because",it is heavy,no force is acting on it,earth attracts the coin,table exerts a frictional force,,D,,MCQ
+2,Force and Friction,Further Practice,,7,The magnitude of non-contact force depends upon:,distance between two bodies,mass of the two bodies,chemical properties of the two bodies,All of the above,,A,,MCQ
+2,Force and Friction,Further Practice,,8,A ball placed on a table starts rolling when table is tilted. Which is the force which causes this motion?,Friction,Push by table,Rolling force,Gravitational pull by earth,,D,,MCQ
+2,Force and Friction,Further Practice,,9,"Four forces are acting on a body. If the body doesn't change its position or shape, the forces:",must be of equal magnitude,must be parallel & opposite,must add up to zero when taken as vectors,must be in a single line,,D,,MCQ
+2,Force and Friction,Further Practice,,10,A body of weight 50 N is placed on a smooth surface. If the force required to move the body on the surface is 30 N the coefficient of friction is:,0.6,1.2,0.3,1.67,,A,,MCQ
+2,Force and Friction,Further Practice,,11,"A body of mass 10 kg lies on a rough horizontal surface an acceleration of 5 m s^-2& and when the horizontal force us doubled, it gets an acceleration of 18 m s^-2&. Then the coefficient of friction between the body and the horizontal surface is:
+(assume g 10 m s^-2&)",0.2,0.8,0.4,0.6,,B,,MCQ
+2,Force and Friction,Further Practice,,12,An iron block of sides 50 cm x 8 cm x 15 cm has to be pushed along the floor. The force required will be minimum when the surface in contact with ground is:,8 cm x 15 cm surface,5 cm x 15 cm surface,8 cmx 5 cm surface,force is same for all surfaces,,D,,MCQ
+2,Force and Friction,Further Practice,,13,"Two bodies having the same mass, 2 kg have different surface areas 50 m^2& and 100 m^2& in contact with a horizontal plane.  If the coefficient of friction is 0.2, the forces of friction that come into play when they are in motion will be in the ratio.",1 : 1,1 : 2,2 : 1,1 : 4,,A,,MCQ
+2,Force and Friction,Further Practice,,14,"Avan is moving with a speed of 72 km h^-1& on a level road, where the coefficientof friction between its tyres and road is 0.5. The minimum radius of curvature, the road mush have, for safe driving of van is (g = 10 m s^-2&).",80 m,40 m,20 m,4,,A,,MCQ
+2,Force and Friction,Further Practice,,15,A body of mass 5 kg rests on a rough horizontal surface of coefficient of friction 0.2. The body is pulled through a distance of 10 m by a horizontal force of 25 N. The kinetic energy acquired by it is:,200 J,150 J,100 J,50 J,,B,,MCQ
+3,Simple Machines,Summative Exercise,,1,"In a second order lever, the effort arm is always _____ than load arm.",,,,,,Greater,,FIB
+3,Simple Machines,Summative Exercise,,2,A wheel barrow is an example of _______,,,,,,2nd Order Level,,FIB
+3,Simple Machines,Summative Exercise,,3,________ is used to separate two objects into pieces.,,,,,,Wedge,,FIB
+3,Simple Machines,Summative Exercise,,4,A flat plank can be used as an _______,,,,,,Inclined plane,,FIB
+3,Simple Machines,Summative Exercise,,5,_________ is used to pull water from a well.,,,,,,A pulley,,FIB
+3,Simple Machines,Summative Exercise,,6,Third class levers acts as __________ multipliers,,,,,,Speed,,FIB
+3,Simple Machines,Summative Exercise,,7,An external force applied to a simple machine to over come the load is ____________,,,,,,Effort,,FIB
+3,Simple Machines,Summative Exercise,,8,An egg beater is an example of ______________,,,,,,Third order level,,FIB
+3,Simple Machines,Summative Exercise,,9,A bottle opener is an example of ___________,,,,,,Second order level,,FIB
+3,Simple Machines,Summative Exercise,,10,Mechanical advantage = ______________,,,,,,Load by effort,,FIB
+3,Simple Machines,Summative Exercise,,11,See saw is a first order lever.,,,,,,1,,TF
+3,Simple Machines,Summative Exercise,,12,"In a fishing rod, effort is applied in between load and fulcrum.",,,,,,1,,TF
+3,Simple Machines,Summative Exercise,,13,A simple pulley reduces the effort required to lifßt a heavy load.,,,,,,1,,TF
+3,Simple Machines,Summative Exercise,,14,The mechanical advantage of a second order lever is equal to 1.,,,,,,0,,TF
+3,Simple Machines,Summative Exercise,,15,Gang plank is an example of inclined plane.,,,,,,1,,TF
+3,Simple Machines,Summative Exercise,,16,"The more gradual the slope of an inclined plane, then more effort is required to push a load up.",,,,,,1,,TF
+3,Simple Machines,Summative Exercise,,17,A door knob is an example of screw.,,,,,,0,,TF
+3,Simple Machines,Summative Exercise,,18,A lever is a rigid bar that can rotate about a fixed point called fulerum.,,,,,,1,,TF
+3,Simple Machines,Summative Exercise,,19,A pulley makes our work easier by changing the direction of the force.,,,,,,1,,TF
+3,Simple Machines,Summative Exercise,,20,A crow bar is used for tearing a part a piece of wood.,,,,,,0,,TF
+3,Simple Machines,Summative Exercise,,21,Match the following,"A -t, B - s, C - q, D- p, E - r","A -s, B -t, C - q, D- p, E - r","A -t, B - r, C - q, D- p, E – s","A -p, B - s, C - q, D- t, E - r",,a,,MCQ
+3,Simple Machines,Summative Exercise,,22,Match the following,"A - p, B-s, C- q, D-t, E-r","A - s, B-p, C- q, D-t, E--r","A - s, B-r, C- q, D-t, E-p","A - q, B-p, C- s, D-t, E-r",,b,,MCQ
+3,Simple Machines,Summative Exercise,,23,Match the following,"A-r, B- s, C- t, D - q, E -p","A-r, B- p, C- t, D – s, E -q","A-s, B- p, C- t, D - q, E -r","A-r, B- p, C- t, D - q, E -s",,d,,MCQ
+3,Simple Machines,Further Practice,,1,The stair case used by the airline passengers is a modified form of:,Lever,Wedge,Inclined plane,Pulley,,C,,MCQ
+3,Simple Machines,Further Practice,,2,"In a first order lever, by keeping the load constant the effort applied decreases if",the fulcrum is moved towards the load.,the fulcrum is moved away from the load.,the fulcrum is moved towards the effort.,Both (B) and (C) ,,A,,MCQ
+3,Simple Machines,Further Practice,,3,"Raju weighs 40 N while Ravi weighs 10 N lighter than Raju. Four positions A, B, C are marked on a see saw shown in the figure. Identify the probable point where Rai must sit, so that the see saw indicated in figure will be in equilibrium.
+(Figure is not to the scale)",A ,B ,C ,D ,CH-3-3-ROW-250,D,,MCQ
+3,Simple Machines,Further Practice,,4,Four simple machines are given below. Identify the pair of simple machines that belong to class II levers.,A and B,C and D,B and C,D and A,CH-3-4-ROW-251,C,,MCQ
+3,Simple Machines,Further Practice,,5,"Which of the following are correct examples of first, second and third class levers?",I and II only,II and III only,III and I only,"I, II and III",CH-3-5-ROW-252,C,,MCQ
+3,Simple Machines,Further Practice,,6,"Look at figure
+Which of the following statements are not true?
+I.  Both are second class levers
+II.  Both are simple machines
+III. Both have a fulerum between a load and a force",I and II only,II and III only,I and III only,"I, II and III",CH-3-6-ROW-253,B,,MCQ
+3,Simple Machines,Further Practice,,7,Based on figure what could be the force for P and Q?,I and II only,II and III only,I and III only,"I, II and III",CH-3-7-ROW-254,A,,MCQ
+3,Simple Machines,Further Practice,,8,"Table shows the weights of three students sitting on a see-saw.
+In which of the following figures is the see-saw in equilibrium?",A,B,C,D,CH-3-8-ROW-255,D,,MCQ
+3,Simple Machines,Further Practice,,9,In which of the following class of levers distance moved by load is always greater than distance moved by the effort?,First class lever,Second class lever,Third class lever,Both first and second class,,C,,MCQ
+3,Simple Machines,Further Practice,,10,Calculate the value of X in the figure above.,140 N,105 N,99 N,70 N,CH-3-10-ROW-257,A,,MCQ
+3,Simple Machines,Further Practice,,11,The diagram shows a lever in action. Where is the fulcrum of this lever?,P,Q,R,S,CH-3-11-ROW-258,C,,MCQ
+3,Simple Machines,Further Practice,,12,Which of the following are first-class levers?,I and II only,I and III only,II and III only,"I, II and III",CH-3-12-ROW-259,C,,MCQ
+3,Simple Machines,Further Practice,,13,"Which of the following matches its load (L), fulcrum (F) and effort (E) correctly? For the figure shown.",A,B,C,D,CH-3-13-ROW-260,C,,MCQ
+3,Simple Machines,Further Practice,,14,Which class of lever is shown in the figure above?,First class,Second class,Third class,None of the above,CH-3-14-ROW-261,C,,MCQ
+3,Simple Machines,Further Practice,,15,Which of the following levers are in equilibrium?,A,B,C,D,CH-3-15-ROW-262,D,,MCQ
+3,Simple Machines,Further Practice,,16,"As the inclination of the screw increases, the distance between the threads",Increases ,Decreases,Remains the same,May increase or decrease,,B,,MCQ
+3,Simple Machines,Further Practice,,1,A screw is preferred over a nail to insert into wood because:,screw holds more firmly than a nail.,less force is needed to insert a screw.,tip of a screw has more area of contact than nail.,"fulerum, of the screw is at its head.",,"A, B, D",,MAQ
+3,Simple Machines,Further Practice,,2,A simple machine is a device that makes work easier by:,multiplying force,multiplying speed,applying force at a convenient point,applying force in a convenient direction,,"A, B, C, D",,MAQ
+3,Simple Machines,Further Practice,,3,Which of the following statements is NOT correct?,"In a first order lever, the fulerum is placed between the effort and the load.",The mechanical advantage of a second class levers is greater than 1 as load is situated in between to effort and fulcrum.,"An inclined plane in a hospital, helps in pushing a wheel chair easily.",A crow bar is an example of second class lever.,,"A, B, C",,MAQ
+3,Simple Machines,Further Practice,,4,The effort moves through a larger distance than the load by applying a small fore. Identify the examples of devices from the following using the type of lever described.,Pilers,Diving board,Nut cracker,Ice tongs,,"A, B, C",,MAQ
+3,Simple Machines,Further Practice,,5,Which of the following devices are not simple machines?,Saw,Screw,Bicyle,Crane,,"C, D",,MAQ
+3,Simple Machines,Further Practice,,6,Which of these devices have the fulcrum between the load and the effort?,Claw hammer,Scissors,Fishing rod,Crow bar,,"A,B D",,MAQ
+3,Simple Machines,Further Practice,,7,"Based on the diagram above, the effort needed to pull the nail out of the wooden plank is small if.",the distance of the load from the fulcrum is increased.,a large movement is used on the claw hammer.,less power is used to move the claw hammer,the distance of the load is less than the distance of the effort from the fulcrum.,CH-3-7-ROW-270,"A, C, D",,MAQ
+3,Simple Machines,Further Practice,,1,"Assertion : A crowbar is used to lift heavy loads.
+Reason : A simple machine can be used as a force multiplier.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+3,Simple Machines,Further Practice,,2,"Assertion : A lemon erusher is a 2nd order lever.
+Reason : In a 2nd order lever, effort arm is greater than load arm.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+3,Simple Machines,Further Practice,,3,"Assertion : A load when lifted vertically up requires greater effort than to roll the same load up the ramp.
+Reason : The work done in lifting the load vertically up is less.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,C,,AR
+3,Simple Machines,Further Practice,,4,"Assertion : Mechanical advantage increases as the angle of inclination decreases
+Reason : Angle of inclination increases with respect to vertical height of inclined plane.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+3,Simple Machines,Further Practice,,5,"Assertion : A second order lever needs a larger force to over come a resistive force ().
+Reason : In a second order lever effort is in between load and the fulcrum.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,E,,AR
+3,Simple Machines,Further Practice,,6,"Assertion : Firetong is an example of third order lever.
+Reason : The effort moves a larger distance than the load applied in a third order lever",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+3,Simple Machines,Further Practice,,1,"Passage - I
+Akhil has to lift a load of 800 N onto a platform of 2 m height. Instead, he pushes the load up a ramp 4 m long.
+i) Find the force required to lift the load vertically up",200 N,600 N,400 N,800 N,,D,,MCQ
+3,Simple Machines,Further Practice,,2,"Passage - I
+Akhil has to lift a load of 800 N onto a platform of 2 m height. Instead, he pushes the load up a ramp 4 m long.
+Ii) Find the force required to roll the load up the ramp",600 N,800 N,300 N,400 N,,D,,MCQ
+3,Simple Machines,Further Practice,,3,"Passage - I
+Akhil has to lift a load of 800 N onto a platform of 2 m height. Instead, he pushes the load up a ramp 4 m long.
+ii) Find the workdone by Akhil in lifting the load vertically up",800 J,1600 J,400 J,200 J,,B,,MCQ
+3,Simple Machines,Further Practice,,4,"Passage - I
+Akhil has to lift a load of 800 N onto a platform of 2 m height. Instead, he pushes the load up a ramp 4 m long.
+iv) Find the workdone by Akhil to roll the load up using an inclined plane.",600 J,200 J,400 J,1600 J,,D,,MCQ
+3,Simple Machines,Further Practice,,1,Distance between the successive threads of a screw's called:,Arm length,Principle of screw,Pitch of screw,Least count,,C,,MCQ
+3,Simple Machines,Further Practice,,2,Example of wheel and axle is:,Egg-beaters,Egg-Whiskers,Clocks,Electric Saw,,B,,MCQ
+3,Simple Machines,Further Practice,,3,Screw is a/an :,Lever,Gear,Inclined plane,Wheel,,C,,MCQ
+3,Simple Machines,Further Practice,,4,Modified inclined plane is a:,Lever,Wheel,Screw,Axle,,C,,MCQ
+3,Simple Machines,Further Practice,,5,"Mechanical advantage of wheel and axle is: (R = radius of the wheel, r = radius of the axle)",R + r,R/r,r/R,R - r,,B,,MCQ
+4,Fluid Pressure,Summative Exercise,,1,The S.I. unit of pressure is ____________,,,,,,Pascal,,FIB
+4,Fluid Pressure,Summative Exercise,,2,1 pascal is equal to __________ N m^-2&,,,,,,1,,FIB
+4,Fluid Pressure,Summative Exercise,,3,1 bar = ___________ pascals,,,,,,10^5&,,FIB
+4,Fluid Pressure,Summative Exercise,,4,dynes cm^-2& is the CGS unit of __________,,,,,,Pressure,,FIB
+4,Fluid Pressure,Summative Exercise,,5,The ratio of S.I. unit of thrust to the C.G.S unit of force is _______,,,,,,10^5& : 1,,FIB
+4,Fluid Pressure,Summative Exercise,,6,"When a body rests on a surface, it exerts a force equal to its _______",,,,,,Weight,,FIB
+4,Fluid Pressure,Summative Exercise,,7,"Types of forces a fluid exerts are _______, _______ and _________",,,,,,DUMMY,,FIB
+4,Fluid Pressure,Summative Exercise,,8,The blanket of air above earth's surface is __________,,,,,,Atmosphere,,FIB
+4,Fluid Pressure,Summative Exercise,,9,The space above the mercury column in a barometer is _________,,,,,,Torricellian Vacuum,,FIB
+4,Fluid Pressure,Summative Exercise,,10,Atmospheric pressure decreases with _________ in height.,,,,,,Increase,,FIB
+4,Fluid Pressure,Summative Exercise,,11,Pressure varies with area (A) as provided thrust is same.,,,,,,1,,TF
+4,Fluid Pressure,Summative Exercise,,12,Pressure at any point inside a liquid is directly proportional to density of the liquid.,,,,,,1,,TF
+4,Fluid Pressure,Summative Exercise,,13,"As the depth of a liquid increases, the pressure of liquid decreases.",,,,,,0,,TF
+4,Fluid Pressure,Summative Exercise,,14,Liquids exert pressure in all directions,,,,,,1,,TF
+4,Fluid Pressure,Summative Exercise,,15,Sideways pressure exerted by a liquid is called its lateral pressure.,,,,,,1,,TF
+4,Fluid Pressure,Summative Exercise,,16,76 cm of Hg pressure is equivalent to 76 pascal,,,,,,0,,TF
+4,Fluid Pressure,Summative Exercise,,17,A substance which flows from one point to another point is called a fluid.,,,,,,1,,TF
+4,Fluid Pressure,Summative Exercise,,18,Animals like camels walk easily in desert as broad feet exert great pressure on sandy ground.,,,,,,1,,TF
+4,Fluid Pressure,Summative Exercise,,19,Atmospheric pressure decreases with increase in height.,,,,,,1,,TF
+4,Fluid Pressure,Summative Exercise,,20,The ratio of the C.G.S unit of pressure to the S.I unit of pressure is 10.,,,,,,0,,TF
+4,Fluid Pressure,Summative Exercise,,21,Match the following,"A- p, r, B -r, C- p, q, D -s","A- p, B -r, C- p, q, D -s","A- p, B -p,r, C- p, q, D -s","A- p, q, B -r, C- p, q, D -s",CH-4-21-ROW-306,d,,MCQ
+4,Fluid Pressure,Further Practice,,1,With the increase in the weight of an object the pressure,Increases ,Decreases,is not affected,None of these,,A,,MCQ
+4,Fluid Pressure,Further Practice,,2,"With the increase in the area of contact of an object the pressure
+(Note: Thrust remains same)",Increases ,Decreases,is not affected,None of these,,B,,MCQ
+4,Fluid Pressure,Further Practice,,3,One pascal is the pressure generated by:,force of 1 N on 1 m^2&,force of 1 kg on 1m^2&,force of on 1 N an 1000 cm^2&,force of 1 N on 1 cm^2&,,A,,MCQ
+4,Fluid Pressure,Further Practice,,4,Pressure exerted by a body on a surface is:,force x area,force + area,area ¸ force,force of 1 N on 1 cm^2&,,B,,MCQ
+4,Fluid Pressure,Further Practice,,5,"A rectangular iron block is kept over a table with different faces touching the table. In different cases, the block exerts:",same thrust and same pressure,same thrust and different pressure,different thrust and same pressure,different thrust and different pressure,,B,,MCQ
+4,Fluid Pressure,Further Practice,,6,Pressure varies with force (F) as (provided area is same),F,1/F,F^2&,1/F^2&,,A,,MCQ
+4,Fluid Pressure,Further Practice,,7,Find the odd one out:,Density ,Pressure,Thrust,Volume,,C,,MCQ
+4,Fluid Pressure,Further Practice,,8,1 millibar is equal to a pressure of:,10^5& pa,100 pa,1000 pa,10^-3& pa,,B,,MCQ
+4,Fluid Pressure,Further Practice,,9,The pair of physical quantities having the same unit is:,thrust and pressure,thrust and weight,force and pressure,weight and pressure,,B,,MCQ
+4,Fluid Pressure,Further Practice,,10,The pressure exerted by a women wearing shoes with pointed heels is _______ than what an elephant with one foot can exert on ground>,much lesser,much greater,both equal,None of these,,B,,MCQ
+4,Fluid Pressure,Further Practice,,11,Pressure exerted by a sharp needle on a surface is:,more than the pressure exerted by a blunt needle,less than the pressure exerted by a blunt needle.,equal to the pressure exerted by a blunt needle.,None of these,,A,,MCQ
+4,Fluid Pressure,Further Practice,,12,Liquid pressure at a point in a liquid does not depend on the:,density of liquid,shape of the vessel in which the liquid is kept,depth of the point from the surface,acceleration due to gravity,,B,,MCQ
+4,Fluid Pressure,Further Practice,,13,"If the density of a liquid increases, the pressure at a point inside the liquid at a given depth:",Decreases,remains same,increases,sometimes decreases and some times increases,,C,,MCQ
+4,Fluid Pressure,Further Practice,,14,Standing liquid exerts pressure on the bottom due to its:,Mass,Weight,Both mass and weight,None of these,,B,,MCQ
+4,Fluid Pressure,Further Practice,,15,Pressure in a fluid is independent of,height of the liquid column,density of the liquid,area of cross-section,None of these,,C,,MCQ
+4,Fluid Pressure,Further Practice,,16,"Pressure at a certain depth in river water is p~1* and at the same depth in sea water is p~2*
+Then (Density of sea water is greater than that of river water)",P~1* = P~2*,P~1* > P~2*,P~1* < P~2*,P~1* - P~2* = atmospheric pressure,,C,,MCQ
+4,Fluid Pressure,Further Practice,,17,It is better to use a sharp tipped nail than a blunt nail because:,the tip with the smallest area will produce a higher pressure when a small force is applied.,a sharp tipped nail needs a larger force to drive it into the wooden surface,the sharp tip saves cost as less raw materials are required to make such nails,the sharp tip has a spiralling effect when the nail is hit on the head,,A,,MCQ
+4,Fluid Pressure,Further Practice,,18,Why does a sharp knife enable us to cut through things more easily?,The pressure exerted is lesser when the same force is used,The pressure exerted is greater when the same force is used,The sharp edge can pass through the material slowly,The sharp edge is not felt when cutting through the material,,B,,MCQ
+4,Fluid Pressure,Further Practice,,19,Which of the objects exerts the most pressure on the floor? (All objects have the same mass).,a,b,c,d,CH-4-19-ROW-325,A,,MCQ
+4,Fluid Pressure,Further Practice,,20,A block of mass of a 2 kg with dimensions 5 cm x 20 cm x 10 cm respectively. The ratio of minimum to maximum pressure it exerts on the change in orientation is:,1 : 1,1 : 2,1 : 4,4 : 1,,D,,MCQ
+4,Fluid Pressure,Further Practice,,1,Which of the following are units used to measure pressure?,kg m^-2&,pascal (Pa),newton per m^2&,joules,,"B, C",,MAQ
+4,Fluid Pressure,Further Practice,,2,Which of the following factors affect pressure?,Area,Acceleration,Force,None,,"A, C",,MAQ
+4,Fluid Pressure,Further Practice,,3,Identify the following shows the application of pressure in our everyday life?,The blade of Ice-skating shoe is very sharp.,It is easier to drive a sharp tipped nail into wood.,Sharp knife cuts better,Foundation of high-rise building are kept narrow.,,"A, B, C, D",,MAQ
+4,Fluid Pressure,Further Practice,,4,Pressure at a point in a fluid is directly proportional to:,depth of the point from the surface,density of the fluid,acceleration due to gravity,the area of cross section,,"A, B, C",,MAQ
+4,Fluid Pressure,Further Practice,,5,Choose the correct statement from the following?,Pressure is same at all points in the horizontal plane,Ali quid seeks its own level.,The lateral pressure exerted by a liquid decreases with the increase in depth of the liquid.,The upper surface of a stationary liquid is always horizontal,,"A, B, D",,MAQ
+4,Fluid Pressure,Further Practice,,1,"Assertion : Animals like camels walk easily in deserts as broad feet exeri less pressure on sandy ground.
+Reason : Pressure decreases with increase in surface area.",,,,,,A,,AR
+4,Fluid Pressure,Further Practice,,2,"Assertion : The pressure at a point is the ratio of force to the area on which force is acting.
+Reason : Pressure is the thrust acting per unit area.",,,,,,A,,AR
+4,Fluid Pressure,Further Practice,,3,"Assertion : The force exerted by the fluid is due to the collisions of molecules with their surroundings.
+Reason : The normal force exerted by the fluid particles on the walls of the container results pressure.",,,,,,D,,AR
+4,Fluid Pressure,Further Practice,,4,"Assertion : The excess pressure above atmospheric pressure is usually called as gauge pressure.
+Reason : Gauge pressure = (Total pressure) - (atmospheric pressure)",,,,,,A,,AR
+4,Fluid Pressure,Further Practice,,5,"Assertion : Pressure applied to an enclosed fluid is transmitted undiminished to every portion of the fluid and the walls of the containing vessel.
+Reason : Fluids cannot distribute the external pressure equally to all portions.",,,,,,C,,AR
+4,Fluid Pressure,Further Practice,,1,"Passage - I
+Ahydraulic lift is used to lift a car of mass 3000 kg. The cross sectional area of the lift on which car is supported is 5 x 10^-2& m^2& and that of smaller piston is 10^-4& m^2&.
+i) Find the mechanical advantage of the hydraulic lift.",500,2 x 10^-3&,5,200,,A,,MCQ
+4,Fluid Pressure,Further Practice,,2,"Passage - I
+Ahydraulic lift is used to lift a car of mass 3000 kg. The cross sectional area of the lift on which car is supported is 5 x 10^-2& m^2& and that of smaller piston is 10^-4& m^2&.
+ii) What is a pressure on the smaller piston if both the pistons are at same horizonta level? (Take g = 10 m s^-2&)",3 Pa,4 x 10^3& Pa,6 x 10^5& Pa,1000 Pa,,C,,MCQ
+4,Fluid Pressure,Further Practice,,3,"Passage - I
+Ahydraulic lift is used to lift a car of mass 3000 kg. The cross sectional area of the lift on which car is supported is 5 x 10^-2& m^2& and that of smaller piston is 10^-4& m^2&.
+iii) Find the thrust acting on the smaller piston?",300 N,60 N,50 N,100 N,,B,,MCQ
+4,Fluid Pressure,Further Practice,,1,Deep sea divers put on special suit to:,maintain their body temperature in cold sea water,protect against sea animals,maintain pressure,keep them dry,,C,,MCQ
+4,Fluid Pressure,Further Practice,,2,A rubber sucker sticks to a surface because of.,property of rubber,gravitational force,elastic spring force,atmospheric pressure,,D,,MCQ
+4,Fluid Pressure,Further Practice,,3,A body submerged in the sea is brought upto its surface. Which of the following graphs represents correctly the variation of the pressure on the body with decrease in the depth?,a,b,c,d,CH-4-5-ROW-342,B,,MCQ
+4,Fluid Pressure,Further Practice,,4,Vacuum above the mercury level in a barometer is called:,Torricelli vacuum,Archimedes vacuum,Newtons vacuum,Pascal vacuumn,,A,,MCQ
+4,Fluid Pressure,Further Practice,,5,"If the force on the surface is doubled and the area is reduced to half, pressure will",become 2 times,become 3 times,become 4 times,remain unchanged,,C,,MCQ
+5,Heat ,Summative Exercise,,1,Heat is a form of __________,,,,,,Energy,,FIB
+5,Heat ,Summative Exercise,,2,The most important naturally occurring source of heat is ________,,,,,,Sun,,FIB
+5,Heat ,Summative Exercise,,3,Heat always flows from ________ temperature to ______ temperature.,,,,,,DUMMY,,FIB
+5,Heat ,Summative Exercise,,4,The degree of hotness or coldness of the body is called ________,,,,,,Temperature,,FIB
+5,Heat ,Summative Exercise,,5,The unit of heat in SI system ___________,,,,,,Joules,,FIB
+5,Heat ,Summative Exercise,,6,The S.I. unit of specific heat capacity is _______,,,,,,J kg^-1& ^0&C^-1&,,FIB
+5,Heat ,Summative Exercise,,7,1 calorie is equal to ________,,,,,,4.18 joules,,FIB
+5,Heat ,Summative Exercise,,8,The quantity of heat required to raise the temperature of unit mass of a given bod through 1 ^0&C is known as _________,,,,,,Specific heat,,FIB
+5,Heat ,Summative Exercise,,9,"If two systems are in thermal equilibrium, then they should have same ___________",,,,,,Temperature,,FIB
+5,Heat ,Summative Exercise,,10,"If1 cal = 4.2 J, then 0.2 cal g^-1&^0&C^-1&-= ________ J kg^-1&K^-1&",,,,,,840 mc (t~2* - t~1*),,FIB
+5,Heat ,Summative Exercise,,11,The quantity of heat given out by 'm g of copper in cooling it from t~2* ^0&C to t~1* ^0&C is ___________,,,,,,mc (t~2* - t~1*),,FIB
+5,Heat ,Summative Exercise,,12,The quantity of heat needed to raise the temperature of 'M' g of water from t~1* ^0&C to t~2* ^0&C ________,,,,,,M C (t~1* - t~2*),,FIB
+5,Heat ,Summative Exercise,,13,Thermal capacity = _________ x __________,"Mass, specific heat",,,,,DUMMY,,FIB
+5,Heat ,Summative Exercise,,14,Heat capacity has SI units as _________,,,,,,J K^-1&,,FIB
+5,Heat ,Summative Exercise,,15,The temperature at which a liquid is converted into vapour (gas) is called _________,,,,,,Hoiling point,,FIB
+5,Heat ,Summative Exercise,,16,"The temperature at which a solid is converted into liquid, is called its ___________",,,,,,Melting point,,FIB
+5,Heat ,Summative Exercise,,17,The temperature at which a gas is converted into a liquid is called its ___________,,,,,,Condensation point,,FIB
+5,Heat ,Summative Exercise,,18,The temperature at which a liquid is converted into a solid is called its ____________,,,,,,Freezing point,,FIB
+5,Heat ,Summative Exercise,,19,During change of state __________ remains constant,,,,,,Temperature,,FIB
+5,Heat ,Summative Exercise,,20,The process during which a liquid on heating changes to vapour state is called _________,,,,,,boiling,,FIB
+5,Heat ,Summative Exercise,,21,The melting point of pure ice is __________,,,,,,0 ^0&C,,FIB
+5,Heat ,Summative Exercise,,22,"During solidification, heat energy is __________",,,,,,liberated,,FIB
+5,Heat ,Summative Exercise,,23,The process of a liquid changing into vapour even below its boiling point is called _________,,,,,,Evaporation,,FIB
+5,Heat ,Summative Exercise,,24,The quantity of heat absorbed by a substance during the change of its state without rising its temperature is called _________,,,,,,Latent heat,,FIB
+5,Heat ,Summative Exercise,,25,The amount of heat required to change from solid to liquid state without rise in its temperature is called ______,,,,,,Latent heat,,FIB
+5,Heat ,Summative Exercise,,26,The amount of heat required to change from liquid state to gaseous state without rise in its temperature is called ________,,,,,,Latent heat of vapourisation,,FIB
+5,Heat ,Summative Exercise,,27,When a hot substance is mixed with a cold substance then the temperature of hot substance gradually decreases.,,,,,,1,,TF
+5,Heat ,Summative Exercise,,28,Water is used in car radiators due to its low specific heat.,,,,,,0,,TF
+5,Heat ,Summative Exercise,,29,Latent heat depends on the mass of the substance.,,,,,,1,,TF
+5,Heat ,Summative Exercise,,30,"Accordingto principle of calorimetry, heat absorbed by cold bodies is equal to heat released by hot bodies",,,,,,1,,TF
+5,Heat ,Summative Exercise,,31,Heat travels much faster in insulators than in conductors.,,,,,,0,,TF
+5,Heat ,Summative Exercise,,32,"Numerically, calorie is bigger than joule.",,,,,,1,,TF
+5,Heat ,Summative Exercise,,33,Boiling is a surface phenomenon.,,,,,,0,,TF
+5,Heat ,Summative Exercise,,34,Condensation is the change of state from a gas to a liquid.,,,,,,1,,TF
+5,Heat ,Summative Exercise,,35,"When condensation takes place, heat is given out.",,,,,,1,,TF
+5,Heat ,Summative Exercise,,36,Match the following,"A-q, B - s, C-t, D- p, E- u","A-p, B - s, C-t, D- q, E- u","A-q, B – u, C-t, D- p, E- s","A-p, B - s, C-t, D- q, E- u",CH-5-36-ROW-380,a,,MCQ
+5,Heat ,Summative Exercise,,37,Match the following,"A - s, B -r, C -t, D- q, E-p","A - r, B - s, C -t, D- q, E-p","A - r, B - s, C -p, D- q, E-t","A - r,s B – p, C -t, D- q, E-p",CH-5-37-ROW-381,b,,MCQ
+5,Heat ,Further Practice,,1,Four beakers given below contain same liquid. Which of the following beakers conntain the more amount of heat energy?,a,b,c,d,CH-5-1-ROW-382,C,,MCQ
+5,Heat ,Further Practice,,2,"A body having 1680J of energy is supplied to 1000 g of water. If the entire amount energy is converted into heat, the rise in temperature of water (sp. heat of water = 4200 J kg^-1&^0&C^-1&)",0.4 ^0&C,40^0&C,4^0&C,44^0&C,,A,,MCQ
+5,Heat ,Further Practice,,3,A fan produces a feeling of comfort because:,a fan supplies cool air,of the evaporation of sweat,fan increases the humidity in air,fan decreases the humidity in air,,B,,MCQ
+5,Heat ,Further Practice,,4,The ratio of thermal capacities of two aluminium spheres of radii 8 cm and 16 cm is,4 : 1,1 : 4,1 : 8,8 : 1,,C,,MCQ
+5,Heat ,Further Practice,,5,Latent heat of fusion of ice is,336 kJ kg^-1&,663 kJ kg^-1&,363 kJ kg^-1&,636 kJ kg^-1&,,A,,MCQ
+5,Heat ,Further Practice,,6,How much heat is required to raise the temperature of 100 g of water from 5 ^0&C to 95 ^0&C?,900 kcal,90 kcacl,10 kcal,9 kcal,,D,,MCQ
+5,Heat ,Further Practice,,7,How much heat is required to raise the temperature of 150 g of iron from 20 ^0&C to 25 ^0&C? (Specific heat of iron = 480 J kg^0-1& ^0&C^-1&),350 J,345 J,360 J,330 J,,C,,MCQ
+5,Heat ,Further Practice,,8,2000 cal of heat is supplied to 200 gof water. Find the rise in temperature. (Specific heat of water = 1 cal g^-1& ^0&C^-1&),10 ^0&C,20 ^0&C,30 ^0&C,40 ^0&C,,A,,MCQ
+5,Heat ,Further Practice,,9,How much amount of heat is required to raise the temperature of 100 g of water from 30 C to 100 ^0&C? The specific heat of water = 4.2 J g^-1& ^0&C^-1&.,25.5 kJ,29.4 kJ,30 kJ,40 kJ,,B,,MCQ
+5,Heat ,Further Practice,,10,500 g of hot water at 60 ^0&Cis kept in the open till its temperature falls to 40 ^0&C. Calculate the heat energy lost to the surroundings by the water. (Specific heat of water 4200 J kg^-1& ^0&C^-1&),2400 J,5000 J,40000 J,42000 J,,D,,MCQ
+5,Heat ,Further Practice,,11,Find the heat lost by a copper cube of mass 400 g when it cools from 100 ^0&C to 30 ^0&C. (Specific of heat of copper = 390 J kg^-1& ^0&C^-1&).,50000 J,10000 J,10920 J,10900 J,,C,,MCQ
+5,Heat ,Further Practice,,12,What quantity of heat would be given out by 200 gm of copper in cooling from 80 ^0&C to 20 ^0&C (Specific heat of copper = 0.09 calg^-1& ^0&C^-1&)?,1080 cal,1000 cal,1500 cal,1100 cal,,A,,MCQ
+5,Heat ,Further Practice,,13,"400 g of vegetable oil of specific heat capacity 1.98 J g^-1& ^0&C^-1& is cooled from 100 ^0&C. Find the final temperature, if the heat energy given out by oil is 47376 J.",30.2 ^0&C,40.2 ^0&C,50.2 ^0&C,43.2 ^0&C,,B,,MCQ
+5,Heat ,Further Practice,,14,"When an unknown amount of water at 70 ^0&C is added to 175 g of water at 30 ^0&C, the equilibrium temperature becomes 42 ^0&C. Find the mass of water added.",10 g,25 g,75 g,100 g,,C,,MCQ
+5,Heat ,Further Practice,,15,"5 kg of water at 80 ^0&C is taken in a bucket of negligible heat capacity, 15 kg of water at 20 ^0&C is added to it. What is the temperature of the mixture?",45 ^0&C,65 ^0&C,85 ^0&C,35 ^0&C,,D,,MCQ
+5,Heat ,Further Practice,,16,10 kg of hot water in a bucket at 70 ^0&C is cooled for taking a bath adding to it 20 kg water at 20 ^0&C. What is the temperature of the mixture? (Neglect the thermal capacity of the bucket),3037 ^0&C,36.67 ^0&C,60.67 ^0&C,46.67 ^0&C,,B,,MCQ
+5,Heat ,Further Practice,,17,500 g of water at 100 C is mixed with 300 g at 30 ^0&C. Find the temperature of the mixture. Specific heat of water = 4.2 Jg^-1& ^0&C^-1&.,73.8 ^0&C,53.8 ^0&C,40 ^0&C,60 ^0&C,,A,,MCQ
+5,Heat ,Further Practice,,18,What will be the amount of heat required to convert 50 g of ice at 0 ^0&C to water at 0 ^0&C?,400 cal,4000 cal,3000 cal,300 cal,,B,,MCQ
+5,Heat ,Further Practice,,19,Caleulate the amount of heat required to convert 500 g of ice into water without change of temperature (L~ice* = 3.34 x 10^5* J kg^-1&),1.67 x 10^5& J,1.50 x 10^5& J,1.26 x 10^5& J,1 x 10^5& J,,A,,MCQ
+5,Heat ,Further Practice,,20,Find the heat needed to convert 10 g of water into vapour (Latent heat of vapourisation of water = 2.24 x 10 J kg^-1&),2.20 x 10^6& J,2.30 x 10^6& J,2.24 x 10^6& J,2.24 x 10^4& J,,D,,MCQ
+5,Heat ,Further Practice,,21,Calculate the amount of heat required to convert 5 kg of ice at 0^0&C to vapour at 100^0&C.,1.5 x 10^7& J,2.5 x 10^7& J,3.5 x 10^7& J,4.5 x 10^7& J,,A,,MCQ
+5,Heat ,Further Practice,,22,"Calculate the quantity of heat required to convert 1.5 kg of ice at 0 ^0&C to water at 15 ^0&C. 3.34 x 10 Jkg^-1&, C~water* = 4180 J kg^-1& ^0&C^-1&)",5.85 x 10^5& J,5.95 x 10^5& J,3.95 x 10^5& J,4.95 x 10^5& J,,B,,MCQ
+5,Heat ,Further Practice,,1,Choose the correct statements among the following:,Heat flow between two bodies is due to difference in their temperatures.,The change in temperature in celsius and Kelvin scale are same,kelvin is the standard temperature scale.,Heat is cause while temperature is the effect.,,"A, B, C, D",,MAQ
+5,Heat ,Further Practice,,2,Choose the correct statements among the following:,Water has highest specific heat compared to all solids and liquids.,Water is used in car radiators due to its high specific heat.,When heat is supplied to a body is greater the specific heat of a substance lesser will be the change in temperature.,Specific heat of a substance does not depend on the nature of material.,,"A, B, C",,MAQ
+5,Heat ,Further Practice,,3,Choose the correct statements among the following.,Heat capacity is the product of mass and specific heat.,"In SI system, thermal capacity and water equivalent are numerically equal.",Heat always flows from higher temperature body to lower temperature body.,"At thermal equilibrium, rate of heat flow from hot body equals to the rate of heat flow from cold body.",,"A, C, D",,MAQ
+5,Heat ,Further Practice,,4,The specific heat capacities of two bodies A and B is 1:2 and masses in the ratio 3:4 respectively. The ratio of their heat capacities is:,3 : 2,2 : 3,6 : 16,3 : 8,,"C, D",,MAQ
+5,Heat ,Further Practice,,5,"Two cubes, one silver and one iron, have the same mass and temperature. A quantity of heat is removed from each cube which of the following properties do not causes tne final temperature of the cubes to be different?",Density,Specific heat capacity,Volume,Mass,,"A, C, D",,MAQ
+5,Heat ,Further Practice,,1,"Assertion : Two bodies at the same temperature may contain different amounts of heat.
+Reason : Two bodies may require different amounts of heat to maintain or acquire same temperature.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,MCQ
+5,Heat ,Further Practice,,2,"Assertion : The flow of heat energy from one body to the other depends upon the amount of heat energy in them.
+Reason : Heat flows from lower temperature of the body to higher temperature of the body.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,C,,MCQ
+5,Heat ,Further Practice,,3,"Assertion : Specific heat does not depend upon the mass of the substance.
+Reason : Thermal capacity depends on the mass of the substance.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,B,,MCQ
+5,Heat ,Further Practice,,4,"Assertion : If melting point of ice is 0 ^0&C, then solidification point of water is also 0 ^0&C.
+Reason : If the boiling point of water is 100 ^0&C, then liquefaction point of steam is also 100 ^0&C.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,MCQ
+5,Heat ,Further Practice,,5,"Assertion : Latent heat of fusion of ice is 336000 J kg^-1&.
+Reason : Latent heat refers to change of state without any change in temperature.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,B,,MCQ
+5,Heat ,Further Practice,,6,"Assertion : Two bodies at different temperatures, if brought in thermal contact do not necessary settle to the mean temperature.
+Reason : The two bodies may have different thermal capacities.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,MCQ
+5,Heat ,Further Practice,,7,"Assertion : Specific heat of a body is always more than its thermal capacity.
+Reason : Thermal capacity is the heat required for raising temperature of unit mass of the body through unit degree.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,DUMMY,,MCQ
+5,Heat ,Further Practice,,8,"Assertion : A brass tumbler feels much colder than a wooden tray on a chilly day.
+Reason : The ability to conduct heat of brass is less than that of wood.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,C,,MCQ
+5,Heat ,Further Practice,,9,"Assertion : Snow is better insulator than ice.
+Reason : Snow contain air packet and air is good insulator of heat.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,MCQ
+5,Heat ,Further Practice,,10,"Assertion : Two thin blankets put together are warmer than a single blanket of double the thickness.
+Reason : Thickness increases because of air layer enclosed between the two blankets.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,C,,MCQ
+5,Heat ,Further Practice,,1,"Passage - I
+In a process 10 g of ice at -5 ^0&C is converted into the steam at 100 ^0&C.
+i) If specific heat of ice is 0.5 cal g^5& ^0&C^-1&, then the amount of heat required to convert 10 g of ice from -5 ^0&C to 0 ^0&C.",15 cal,25 cal,50 cal,100 cal,,B,,MCQ
+5,Heat ,Further Practice,,2,"Passage - I
+In a process 10 g of ice at -5 ^0&C is converted into the steam at 100 ^0&C.
+ii) If latent heat of fusion of ice is 80 cal g^-1&, then the amount of heat required to convert 10 g of ice at 0 ^0&C into 10 g of water at same temperature is:",400 cal,800 cal,1200 cal,1600 cal,,B,,MCQ
+5,Heat ,Further Practice,,3,"Passage - I
+In a process 10 g of ice at -5 ^0&C is converted into the steam at 100 ^0&C.
+iii) If specific heat of water 1 cal gr^-1& ^0&C, the heat required to rise the temperature water 10g from 0 ^0&C to 100 ^0&C",100 cal,1000 cal,10^4&,10^5& cal,,B,,MCQ
+5,Heat ,Further Practice,,1,The quantity of heat required to change the temperature of 1 kg of a substance by 1 ^0&C is called its:,Specific heat,Latent heat,Total energy,Heat of fusion,,A,,MCQ
+5,Heat ,Further Practice,,2,The specific heat of water is 1 cal^-1& g^-1& ^0&C^-1&. Its value in S.I. units is approximately,1,4.2,420,4200,,D,,MCQ
+5,Heat ,Further Practice,,3,"Mathematically, specifc heat is related as:",a,b,c,d,CH-5-3-ROW-424,B,,MCQ
+5,Heat ,Further Practice,,4,Among the following which is having maximum specific heat?,Ice ,Water,Steam,Alcohol,,B,,MCQ
+5,Heat ,Further Practice,,5,Equal masses of oil and water are given equal amounts of heat. Then which of the following statement is true ?,Temperature rise in oil is less than temperature rise in water.,Temperature rise in oil is more than temperature rise in water.,Temperature rise in oil is equal to the temperature rise in water.,None of these,,D,,MCQ
+6,Sound,Summative Exercise,,1,Sound travels faster in _________ than in liquids ,,,,,,Solids,,FIB
+6,Sound,Summative Exercise,,2,The instruments that produce sound by vibrating strings are called ______,,,,,,String instruments,,FIB
+6,Sound,Summative Exercise,,3,"A sound wave travels with a speed of 330 ms^-1& in air. If the wavelength of the wave is 3.30 m, then the frequency of the wave is _______",,,,,,100 Hz,,FIB
+6,Sound,Summative Exercise,,4,Sound waves are ________ F466.waves,,,,,,Mechanical,,FIB
+6,Sound,Summative Exercise,,5,Sound travels _________ times faster in water than in air.,,,,,,Four,,FIB
+6,Sound,Summative Exercise,,6,Manjira is an example of _________.,,,,,,Ghana vadya,,FIB
+6,Sound,Summative Exercise,,7,The frequencies below 20 Hz are known as ________ sounds.,,,,,,Infrasonic,,FIB
+6,Sound,Summative Exercise,,8,Megaphone works on the principle of _________ of sound.,,,,,,Reflection,,FIB
+6,Sound,Summative Exercise,,9,The sound heard after reflectionfrom a rigid surface is called _______,,,,,,Echo,,FIB
+6,Sound,Summative Exercise,,10,The periodic vibrations of sound produces __________,,,,,,Music,,FIB
+6,Sound,Summative Exercise,,11,Pitch of sound depends upon _____ of a vibrating body.,,,,,,Frequency,,FIB
+6,Sound,Summative Exercise,,12,The minimum distance between source of sound and reflecting body is ___________,,,,,,17 m,,FIB
+6,Sound,Summative Exercise,,13,Sound is produced when air is blown through the reeds. These instruments are called __________ instruments.,,,,,,Reed,,FIB
+6,Sound,Summative Exercise,,14,The frequency range of audible sound is _________,,,,,,20 Hz to 20 kHz,,FIB
+6,Sound,Summative Exercise,,15,Loudness does not change with change in ________,,,,,,Frequency,,FIB
+6,Sound,Summative Exercise,,16,Medium is necessary for sound to propagate.,,,,,,1,,TF
+6,Sound,Summative Exercise,,17,The speed of sound in air is 5100 m s^-1&,,,,,,0,,TF
+6,Sound,Summative Exercise,,18,Two sounds can differ only by the difference in their loudness.,,,,,,0,,TF
+6,Sound,Summative Exercise,,19,The pitch of sound of a stringed instrument can be varied by varying its length.,,,,,,1,,TF
+6,Sound,Summative Exercise,,20,SONAR is an instrument used for finding the heights of a mountain.,,,,,,0,,TF
+6,Sound,Summative Exercise,,21,Sound obeys the laws of reflection.,,,,,,1,,TF
+6,Sound,Summative Exercise,,22,A frequency of 15/6 Hz cannot be perceived by human ear.,,,,,,1,,TF
+6,Sound,Summative Exercise,,23,"A tuning fork produces 1083 vibrations in 3 seconds, then its frequency is 361 Hz.",,,,,,1,,TF
+6,Sound,Summative Exercise,,24,All inaudible sounds produces frequencies less than 20 Hz.,,,,,,0,,TF
+6,Sound,Summative Exercise,,25,Sound travels faster in denser medium.,,,,,,1,,TF
+6,Sound,Summative Exercise,,26,Match the following,"A-p, B -q, C -t, D-r, E-s","A-r, B -t, C -q, D- p, E-s","A-r, B -q, C -t, D- s, E-p","A-r, B -q, C -t, D- p, E-s",CH-6-26-ROW-452,d,,MCQ
+6,Sound,Summative Exercise,,27,Match the following,"A-p, B-t, C-s, D-4, E-r","A-t, B-s, C-p, D-4, E-r","A-t, B-p, C-s, D-4, E-r","A-s, B-p, C-t, D-4, E-r",CH-6-27-ROW-453,c,,MCQ
+6,Sound,Summative Exercise,,28,Match the following,"A-q, B -r, C-t, D -p, E-s","A-s, B -r, C-t, D -p, E-q","A-r, B -s, C-t, D -p, E-q","A-s, B -p, C-t, D -r, E-q",CH-6-28-ROW-454,b,,MCQ
+6,Sound,Further Practice,,1,Sound cannot travel through,Solids ,Liquids,Vacuum,Gases,,C,,MCQ
+6,Sound,Further Practice,,2,Vibrating bodies produce ________,Sound,Heat,Light,None of these,,A,,MCQ
+6,Sound,Further Practice,,3,Which of the following statements is true?,Sound and light both.require medium for propagation.,"Sound can travel through vacuum, but light cannot","Sound needs medium, but light doesn't need medium for its propagation.",Sound and light both can not travel in a medium.,,C,,MCQ
+6,Sound,Further Practice,,4,The sound travels fastest in:,Solids ,Liquids,Gases,None of these,,A,,MCQ
+6,Sound,Further Practice,,5,The instrument used in the laboratory to produce sound of a fixed frequency is :,simple pendulum,tuning fork,thermometer,meter scale,,B,,MCQ
+6,Sound,Further Practice,,6,Echo is a type of,reflected sound,refracted sound,neither reflected sound nor refracted sound,None of these,,A,,MCQ
+6,Sound,Further Practice,,7,Which on of the following material will reflect sound better?,Thermocole,Curtain made from cloth,Steel,Paper,,C,,MCQ
+6,Sound,Further Practice,,8,A man stands at a distance of 255 m from a cliff. He fires a gun and heard the echo after 1.5 seconds. What will be the velocity of the sound?,330 m s^-1&,340 m s^-1&,320 m s^-1&,335 m s^-1&,,B,,MCQ
+6,Sound,Further Practice,,9,"An echo returned in 3 s. What is the distance of the reflecting surface from the source, given that the speed of sound is 342 m s^-1&?",520 m,515 m,530 m,513 m,,D,,MCQ
+6,Sound,Further Practice,,10,Elephants communicate with:,sonic sound,infrasonic sound,ultrasonic sound,None of these,,B,,MCQ
+6,Sound,Further Practice,,11,A device which is used to find the depth of sea is called:,RADAR,SONAR,ECHO,None of these,,B,,MCQ
+6,Sound,Further Practice,,12,"A sonar device on a submarine send out a signal and receives an echo 5 seconds later. Calculate the speed of sound in water, if the distance of the object from the submarine is 3625 m.",1440 m s^-1&,1460 m s^-1&,1450 m s^-1&,1470 m s^-1&,,C,,MCQ
+6,Sound,Further Practice,,13,Regular periodic vibrations produce:,musical sound,Noise,Both (A) and (B),None of these,,A,,MCQ
+6,Sound,Further Practice,,14,_________ is the characteristic of a musical sound by which a loud sound can be distinguished from a faint sound even though both have the same pitch.,Loudness,Pitch,Quality,None of these,,A,,MCQ
+6,Sound,Further Practice,,15,Loudness of sound is directly proportional to the,amplitude of the wave,distance from the source of sound,frequency of the wave,wavelength of the wave,,A,,MCQ
+6,Sound,Further Practice,,16,"The greater the surface area of the vibrating body, the , is the loudness of sound.",Lesser,Greater,Remains same,None of these,,B,,MCQ
+6,Sound,Further Practice,,17,Which of the following instrument is not a percussion instrument?,Mri dangam,Dholak,Ghatam,Tabla,,C,,MCQ
+6,Sound,Further Practice,,18,To and fro motion ofa particle about its mean position is called:,Frequency,amplitude,Vibration,Wavelength,,C,,MCQ
+6,Sound,Further Practice,,19,A shrill sound has a ________ pitch and a dull sound has a _____ pitch.,"High, Low","Low, High","Low, Low","High, High",,A,,MCQ
+6,Sound,Further Practice,,20,Higher the frequency of a musical sound ______ is its pitch,Lower,Higher,Remains same,None of these,,B,,MCQ
+6,Sound,Further Practice,,1,Choose the correct statements (s) from the following?,Mechanical waves need medium for their propagation.,Sound cannot travel through vacuum.,Mechanical waves transport energy from one place to another.,Sound waves are non mechanical waves,,"A, B, C",,MAQ
+6,Sound,Further Practice,,2,"A tuning fork having a frequency of 480 Hz produces waves of wavelength 2.5 m, then the velocity of sound in medium is:",6/5 kms^-1&,1200 ms^-1&,12 cms^-1&,1200 mms^-1&,,"A, B",,MAQ
+6,Sound,Further Practice,,3,"We are able to hear the sounds made by a source, if the frequency of sound is:",within audible range in air,within audible range in vacuum,within audible range in water,within audible range in CO~2*,,"A, C, D",,MAQ
+6,Sound,Further Practice,,4,"The frequency, wavelength and speed of a sound wave are related as:",l = vT, l = v/v,v = v/l,l = vv,,"A, B, C",,MAQ
+6,Sound,Further Practice,,5,Loudness of sound increases with:,the amplitude of vibrating body.,the increase in surface area of vibrating body.,the decrease in frequency of vibrating body.,the increase in distance from the source of sound.,,"A, B",,MAQ
+6,Sound,Further Practice,,1,"Assertion : Echo is produced only when sound is incident on hard and polished surface.
+Reason : Sound energy can be totally reflected by objects with soft and loose texture.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,C,,AR
+6,Sound,Further Practice,,2,"Assertion : The sound produced by a flute is more shrill than the sound produced by a tabla.
+Reason : Frequency produced by flute will be greater than the frequency produced by tabla.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+6,Sound,Further Practice,,3,"Assertion : Sound waves do not travel through vacuum.
+Reason : The speed of sound is too small when compared to speed of light.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,B,,AR
+6,Sound,Further Practice,,4,"Assertion : Sound waves cannot pass through vacuum.
+Reason : Sound waves are mechanical waves, which require a medium for their propagation",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+6,Sound,Further Practice,,5,"Assertion : Every vibrating body is a source of sound.
+Reason : All sounds are audible.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,C,,AR
+6,Sound,Further Practice,,1,"Passage - I
+Two tuning forks A, B vibrate with frequencies in the ratio 2:7 and their wavelength in the ratio 3:4 respectively.
+
+i) Find the tuning fork producing greater velocity of sound.",Tuning fork A,Tuning fork B,Both (A) and (B),cannot be determined,,B,,MCQ
+6,Sound,Further Practice,,2,"Passage - I
+Two tuning forks A, B vibrate with frequencies in the ratio 2:7 and their wavelength in the ratio 3:4 respectively.
+
+ii) The tuning fork A produces relatively:",shrill sound than tuning fork B,flat sound than tuning fork B,louder sound than tuning fork B,wave of more wavelength than that of tuning fork B3,,B,,MCQ
+6,Sound,Further Practice,,3,"Passage - I
+Two tuning forks A, B vibrate with frequencies in the ratio 2:7 and their wavelength in the ratio 3:4 respectively.
+
+iii) The wave producing greater wavelength is:",Tuning fork A,Tuning fork B,Both (A) and (B),cannot be determined,,B,,MCQ
+6,Sound,Further Practice,,1,"The membrane of a drum vibrates to produce sound. Similarly the string of a sitar ibrates to produce sound. Based on these two examples answer the following questions.
+Which part of a whistle virbates to produce sound?",Body of whistle,Air,Mouth of the person,All of the above,,B,,MCQ
+6,Sound,Further Practice,,2,Bv changing length of the scale protruding out of table and vibrating it we can produce sounds of different frequecies.  This is possible due to,change in frequency,change in velocity,change in amplitude,all of the above,CH-6-2-ROW-489,A,,MCQ
+6,Sound,Further Practice,,3,"If you go on increasing the stretching force on a wire in a guitar, its frequency.",Increases ,Decreases,remains unchanged,None of the above,,A,,MCQ
+6,Sound,Further Practice,,4,A bomb explodes on the moon. How long will it take for the sound to reach the earth?,10 seconds,1000 seconds,1 day,None of these,,D,,MCQ
+6,Sound,Further Practice,,5,A vibrating body:,will always produce scund,may or may not produce sound if the amplitude of vibration is low,will produce sound which depends upon frequency,None of the above,,C,,MCQ
+6,Sound,Further Practice,,6,Quality of sound is used to distinguish between:,Noise and Music,Two different vibrating bodies,Two notes produced by same vibrating body,All the above,,B,,MCQ
+6,Sound,Further Practice,,7,The amplitude of vibration and its frequency can change suddenly in a:,Pitch,Musical sound,Noise,All of the above,,C,,MCQ
+6,Sound,Further Practice,,8,Match the following and choose the correct answer.,"A-1,B-2, C-3, D-4","A-2, B-1, C-4, D-3","A-3, B-1, C-4, D-2","A-4, B-3, C-2, D-1",CH-6-8-ROW-495,C,,MCQ
+6,Sound,Further Practice,,9,The frequency of a source is 20 kHz. The frequencies of sound wave produced by it in water and air will be:,same as that of source = 20 kHz,> 20 kHz,< 20 kHz,Depends upon velocity,,A,,MCQ
+7,Light,Summative Exercise,,1,The phenomenon by which the incident light falling on a surface is sent back into the same medium is known as ________,,,,,,Reflection,,FIB
+7,Light,Summative Exercise,,2,When light is incident on a polished surface ___________ reflection takes place.,,,,,,Regular ,,FIB
+7,Light,Summative Exercise,,3,"According to the laws of reflection, ________is equal to ________","Angle of incident ray, angle of reflected ray",,,,,DUMMY,,FIB
+7,Light,Summative Exercise,,4,The image formed by a plane mirror is always ______ inverted.,,,,,,Laterally,,FIB
+7,Light,Summative Exercise,,5,__________ image that can be obtained on a screen.,,,,,,Virtual,,FIB
+7,Light,Summative Exercise,,6,Light is a form of __________,,,,,,Energy,,FIB
+7,Light,Summative Exercise,,7,The impression of an image on the brain for one-sixteenth of a second is called _________,,,,,,Persistance of vision,,FIB
+7,Light,Summative Exercise,,8,________ is used to see enemy movements from trenches.,,,,,,Periscop,,FIB
+7,Light,Summative Exercise,,9,"In the case of plane mirror, from the mirror distance of the image = distance of the __________",,,,,,Object,,FIB
+7,Light,Summative Exercise,,10,________ image cannot be caught on a screen,,,,,,Virtual,,FIB
+7,Light,Summative Exercise,,11,________ images can be caught on a screen.,,,,,,Real,,FIB
+7,Light,Summative Exercise,,12,________ is used in submarines to see objects above the water surface.,,,,,,Periscope,,FIB
+7,Light,Summative Exercise,,13,Light travels in ________ lines,,,,,,Striaght,,FIB
+7,Light,Summative Exercise,,14,The path along which light travels is called a ___________,,,,,,Ray,,FIB
+7,Light,Summative Exercise,,15,________ are drawn on light rays to show the direction in which light travels,,,,,,Arrows,,FIB
+7,Light,Summative Exercise,,16,A _________ of light consists of a bundle of light rays.,,,,,,Beam,,FIB
+7,Light,Summative Exercise,,17,Reflection is the __________ of light off a surface.,,,,,,Bouncing,,FIB
+7,Light,Summative Exercise,,18,________ ray is the ray of light striking a surface.,,,,,,Incident,,FIB
+7,Light,Summative Exercise,,19,________ ray is the ray of light reflected from a surface.,,,,,,Reflected,,FIB
+7,Light,Summative Exercise,,20,________ 18 an imaginary line perpendicular to the surface where the retlection occurs.,,,,,,Normal,,FIB
+7,Light,Summative Exercise,,21,Angle of incidence is the angle between Incident ray and the ________,,,,,,Normal,,FIB
+7,Light,Summative Exercise,,22,Angle of reflection is the angle between _______ and the normal,,,,,,Reflected Ray ,,FIB
+7,Light,Summative Exercise,,23,A real image is always _________,,,,,,Inverted,,FIB
+7,Light,Summative Exercise,,24,A virtual image is formed by a ________,,,,,,Plane mirror,,FIB
+7,Light,Summative Exercise,,25,You can clearly see through opaque objects.,,,,,,0,,TF
+7,Light,Summative Exercise,,26,"the light from a flashlight hits a mirror at a 60^0& angle, the angle of the reflected beam will be 120^0&.",,,,,,0,,TF
+7,Light,Summative Exercise,,27,The reflection from a concrete sidewalk is a diffused reflection,,,,,,1,,TF
+7,Light,Summative Exercise,,28,Clouds are white because of light scattering off of water droplets.,,,,,,1,,TF
+7,Light,Summative Exercise,,29,You can clearly see through a blue-tinted drinking glass.,,,,,,0,,TF
+7,Light,Summative Exercise,,30,The final image formed using a perisecope is not bright due to successive reflections,,,,,,1,,TF
+7,Light,Summative Exercise,,31,In a plane mirror the image formed is real.,,,,,,0,,TF
+7,Light,Summative Exercise,,32,Luminous objects emit light on their own.,,,,,,1,,TF
+7,Light,Summative Exercise,,33,In convergent beam of light all the light rays meet at a point.,,,,,,1,,TF
+7,Light,Summative Exercise,,34,Wood is an example of opaque object.,,,,,,1,,TF
+7,Light,Summative Exercise,,35,Match the following,"A- q, B - y, C-x, D -w, E -v, F - u, G - t, H- s, I -r, J-z, K-p, L-o","A- y, B -zy, C-x, D -w, E -v, F - u, G - t, H- s, I -r, J-q, K-p, L-o","A- z, B - y, C-x, D -w, E -v, F - u, G - t, H- s, I -r, J-q, K-o, L-p","A- z, B - y, C-x, D -w, E -v, F - u, G - t, H- s, I -r, J-q, K-p, L-o",CH-7-35-ROW-531,d,,MCQ
+7,Light,Summative Exercise,,36,Match the following,"A- r, B -t,C- p, D -q, E-s","A- p, B -t,C- r, D -q, E-s","A- s, B -t,C- p, D -q, E-r","A- r, B -p,C- t, D -q, E-s",CH-7-36-ROW-532,a,,MCQ
+7,Light,Further Practice,,1,We are able to see objects around us because:,the objects absorb all the light.,the light reflected from the object enters our eyes.,light can be refracted.,light travels in straight lines.,,B,,MCQ
+7,Light,Further Practice,,2,An object placed 2 m from a plane mirror is shifted by 0.5 m away from the mirror What is the distance between the object and its image?,2,1.5 m,5 m,3 m,,C,,MCQ
+7,Light,Further Practice,,3,"What is the angle between the incident and reflected rays when a ray of light is ingident
+normally on a plane mirror?",90^0&,45^0&,180^0&,0^0&,,D,,MCQ
+7,Light,Further Practice,,4,A ray of light is incident on a plane mirror and the angle of incidence is 25^0&. What is the angle of reflection?,0,50^0&,90^0&,25^0&,,D,,MCQ
+7,Light,Further Practice,,5,A ray of light is incident on a plane mirror and the angle of reflection is 50^0&. Calculate the angle between the incident ray and the reflected ray.,50^0&,25^0&,90^0&,100^0&,,D,,MCQ
+7,Light,Further Practice,,6,Butter paper is an example for _______ object.,a transparent,a translucent,an opaque,a luminous,,B,,MCQ
+7,Light,Further Practice,,7,Find the angle between the incident ray and reflected ray.,60^0&,90^0&,80^0&,40^0&,CH-7-7-ROW-539,C,,MCQ
+7,Light,Further Practice,,8,Find the angle of incidence and angle of reflection from the diagram.,"45^0&, 40^0&",55^0&. 55^0&,"60^0&, 60^0&","30^0&, 30^0&",CH-7-8-ROW-540,B,,MCQ
+7,Light,Further Practice,,9,The words UNIFIED are flashed infront of mirror. Which set of alphabets on laterally inversion seem to appear differently?,UIFD,NFED,FIED,UIFE,,B,,MCQ
+7,Light,Further Practice,,10,Aman sitting on a chair looks into a plane mirror which is 2.5 m away from him. He sees the image ofa chart which faces the mirror and is 0.5 m behind him. How far away from him does the image of chart appear to be?,6.5 m,5.5 m,7.5 m,3.5 m,,B,,MCQ
+7,Light,Further Practice,,11,Which of the following part protects the eye and gives it shape?,Choroid,Sclera,Yellow spot,Ciliary muscles,,B,,MCQ
+7,Light,Further Practice,,12,"If the angle of incidence is 80^0&, what will be the angle of reflection with respect to the normal drawn perpendicular at the point of reflection?",80^0&,100^0&,160^0&,20^0&,,A,,MCQ
+7,Light,Further Practice,,13,"When the angle between two plane mirrors is 60^0&, how many multiple images will be formed by the mirrors?",5,6,7,8,,A,,MCQ
+7,Light,Further Practice,,14,"If the angle of incidence is 70^0&, then calculate the angle between the incidence ray and the reflected ray.",50^0&,140^0&,130^0&,80^0&,,B,,MCQ
+7,Light,Further Practice,,15,"When a light ray is reflected repeatedly by a set of parallel plane mirrors, the intensity of light rays decreases after some reflections. This is because of:",poor reflection from mirrors,absorption of some amount of light by mirrors,dispersion of light when the rays travel through the atmosphere,scattering of light by the mirrors,,B,,MCQ
+7,Light,Further Practice,,16,When the distance between the object and the plane mirror increases:,the image remains same,the size of the image will become less than the size of the object,the distance between the image and the plane mirror increases,the distance between the image and the plane mirror decreases,,C,,MCQ
+7,Light,Further Practice,,17,In lateral inversion:,right side of the object will be right side of the image,left side of the object will be left side of the image,upside of the object will be down side of the object,right side of the object will be left side of the image,,D,,MCQ
+7,Light,Further Practice,,18,"In a periscope, the reflecting mirrors will be:",perpendicular to each other,parallel to each other,at an angle of 45^0&,at an angle of 60^0&,,C,,MCQ
+7,Light,Further Practice,,19,Which of the following statements about human eye is NOT true?,The iris gives a distinct colour to the eye,The yellow spot is extremely sensitive to light,The space between lens and cornea is filled with ciliary muscles,The optic nerves enters the eye near the blind spot,,C,,MCQ
+7,Light,Further Practice,,20,A ray of light is incident on a plane mirror at an angle of incidence of 30^0&. The deviation produced by the mirror is:,30^0&,60^0&,90^0&,120^0&,,D,,MCQ
+7,Light,Further Practice,,1,Which objects use the reflection of light?,Sun glasses,Periscope,Mirror,Side mirror ofa car,,"B, C, D",,MAQ
+7,Light,Further Practice,,2,Which surfaces will reflects most of the light falling on them?,Flat surface,Shiny surface,Smooth surface,Opaque surface,,"A, B, C",,MAQ
+7,Light,Further Practice,,3,Which of the following are the properties of plane mirror images?,The image is the same size as the object,The image is virtual,The image is inverted,Image distance is equal to object distance,,"A, B, D",,MAQ
+7,Light,Further Practice,,4,"In case of reflection by a plane mirror, which of the following statements are not correct?",It can never give real inmage,It can never give inverted image,It changes left into right,It changes front into back,,"A, B, D",,MAQ
+7,Light,Further Practice,,5,In case of image formation by plane mirrors:,object can be real and image virtual,object can be virtual and image real,both object and image can be real,both object and image can be virtual,,"A, D",,MAQ
+7,Light,Further Practice,,1,"Assertion : A plane mirror produces virtual, erect image for any position of the object.
+Reason : Plane mirror has finite focal length.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,C,,AR
+7,Light,Further Practice,,2,"Assertion : A butter paper acts as a translucent medium for light.
+Reason : Translucent substances allow only apart of light through them.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+7,Light,Further Practice,,3,"Assertion : When an object is placed between two plane parallel mirrors, then all the images found are of equal intensity.
+Reason : In case of plane parallel mirrors, only two images are possible.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,C,,AR
+7,Light,Further Practice,,4,"Assertion : A ray incident along normal to the mirror retraces its path.
+Reason : In reflection, angle of incidence is always equal to angle of reflection.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+7,Light,Further Practice,,5,"Assertion : Virtual object can't be seen by human eye.
+Reason : Virtual object is formed by converging rays.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,E,,AR
+7,Light,Further Practice,,1,"Passage - I
+Alight ray makes an angle of incidence 60^0&, when it falls on a plane reflecting sheet.
+i) The galancing angle of reflection will be:",60^0&,30^0&,45^0&,90^0&,,B,,MCQ
+7,Light,Further Practice,,2,"Passage - I
+Alight ray makes an angle of incidence 60^0&, when it falls on a plane reflecting sheet.
+ii) The angle of reflection will be:",60^0&,30^0&,45^0&,90^0&,,A,,MCQ
+7,Light,Further Practice,,3,"Passage - I
+Alight ray makes an angle of incidence 60^0&, when it falls on a plane reflecting sheet.
+iii) The angle of deviation will be:",20^0&,40^0&,60^0&,80^0&,,C,,MCQ
+7,Light,Further Practice,,1,Which of the following letters will be seen without any change in a plane mirror?,S,T,L,P,,B,,MCQ
+7,Light,Further Practice,,2,An ideal mirror:,absorbs all the amount of light incident on it,refracts all the light,reflects all the light,None of the above,,C,,MCQ
+7,Light,Further Practice,,3,Plane mirrors are used in the construction of :,periscope,kaleidoscope,elescope,thermoscope,,"A, B",,MAQ
+7,Light,Further Practice,,4,A series of fast moving still pictures can create an illusion of movement because :,the eye can focus on very rapidly changing pictures,eye is quicker than the brain,eye can separate two images only when the interval of separation between them is one-tenth of a second,the optical cortex can see through the rapidly moving images.,,C,,MCQ
+7,Light,Further Practice,,5,Internal reflections of light is prevented in human eye by:,Iris,Pupil,Choroid,Blind spot,,C,,MCQ
+7,Light,Further Practice,,6,"For a normal eye, in case of an adult, the least distance of distinct vision is:",5 to 8 cm,10 to 15 cm,20 to 25 cm,30 to 35 cm,,C,,MCQ
+7,Light,Further Practice,,7,The human eye part which can be used again and again for forming different images a is called:,Iris,Pupil,Cornea,Retina ,,D,,MCQ
+7,Light,Further Practice,,8,The image formed by the eye lens on the retina is :,"real, upright and enlarged","real, upright and diminished","real, inverted and diminished","virtual, inverted and diminished",,C,,MCQ
+7,Light,Further Practice,,9,Power of accommodation of eye implies:,control intensity,prevent internal reflection of light,change of focal length of eye lens,All the above,,C,,MCQ
+8,Basics of Electromagnetism,Summative Exercise,,1,The most suitable material to be used as the core of an electromagnet is _________,,,,,,Steel,,FIB
+8,Basics of Electromagnetism,Summative Exercise,,2,When the N-pole of a magnet is placed near the S-pole of another magnet than it _________ the south pole.,,,,,,Attracts,,FIB
+8,Basics of Electromagnetism,Summative Exercise,,3,Lode stone is a ________,,,,,,Natural magnets,,FIB
+8,Basics of Electromagnetism,Summative Exercise,,4,__________ is a big natural magnet.,,,,,,Earth,,FIB
+8,Basics of Electromagnetism,Summative Exercise,,5,Monopoles __________,,,,,,Does not exist,,FIB
+8,Basics of Electromagnetism,Summative Exercise,,6,A _________ is a region arounda magnet where magnetic lines of force act.,,,,,,Magnetic field,,FIB
+8,Basics of Electromagnetism,Summative Exercise,,7,Like poles ____________,,,,,,Repel,,FIB
+8,Basics of Electromagnetism,Summative Exercise,,8,Unlike poles ________,,,,,,Attracts,,FIB
+8,Basics of Electromagnetism,Summative Exercise,,9,__________ is used in making electromagnets.,,,,,,Soft Iron,,FIB
+8,Basics of Electromagnetism,Summative Exercise,,10,Magnetic lines of force are _________ lines.,,,,,,Imaginary,,FIB
+8,Basics of Electromagnetism,Summative Exercise,,11,___________ is present around the magnet.,,,,,,Magnetic field,,FIB
+8,Basics of Electromagnetism,Summative Exercise,,12,___________ is used to drive the ship to the destination.,,,,,,compass,,FIB
+8,Basics of Electromagnetism,Summative Exercise,,13,North and south poles repel each other.,,,,,,0,,TF
+8,Basics of Electromagnetism,Summative Exercise,,14,North and south poles in a magnet cannot be separated.,,,,,,1,,TF
+8,Basics of Electromagnetism,Summative Exercise,,15,Natural magnets are more powerful than artificial magnets.,,,,,,0,,TF
+8,Basics of Electromagnetism,Summative Exercise,,16,Magnetic lines of force are curved lines.,,,,,,1,,TF
+8,Basics of Electromagnetism,Summative Exercise,,17,Magnetic lines of force do not intersect,,,,,,1,,TF
+8,Basics of Electromagnetism,Summative Exercise,,18,Magnetic lines of force emanate from.south pole and enter into north pole.,,,,,,0,,TF
+8,Basics of Electromagnetism,Summative Exercise,,19,Soft iron can be easily magnetised and demagnetised.,,,,,,1,,TF
+8,Basics of Electromagnetism,Summative Exercise,,20,Match the following,"A-s, B -r, C - t, D -q, E- p","A-p, B -r, C - t, D -q, E- s","A-s, B -q, C - t, D- r, E- p","A-s, B -r, C - t, D -p, E- q",CH-8-20-ROW-594,a,,MCQ
+8,Basics of Electromagnetism,Further Practice,,1,Which of the following can be magnetic material?,Wood,Plastic,Ceramic,Iron,,D,,MCQ
+8,Basics of Electromagnetism,Further Practice,,2,The magmet is strongest near the:,poles of the magnet,ends of the magnet,centre of the magnet,one quarter point from the poles of the magnet,,A,,MCQ
+8,Basics of Electromagnetism,Further Practice,,3,To find the S-pole of a compass is to find the end of the compass needle that:,is attracted to an iron,points to the north,repel by the S-pole of a magnet,attract by the S-pole of a magnet,,C,,MCQ
+8,Basics of Electromagnetism,Further Practice,,4,A metal bar is confirmed to be a magnet when it:,attracts all metal,attracts another magnet,attracts a piece of iron,repels a compass needle,,D,,MCQ
+8,Basics of Electromagnetism,Further Practice,,5,What does a student need to do to find out whether a material is a magnet?,Find out if the material is a metal or a non-metal,Find out if the material is a conductor or a non-conductor,Find out if the material can be attracted to a steel plate.,Find out if the material can be repelled by a compass,,C,,MCQ
+8,Basics of Electromagnetism,Further Practice,,6,What is the reason to pivot the compass needle on a sharp pin?,To minimise the magnetic effect on the pin,To maximize the magnetic effect on the pin,To minimise the friction between the pin and the compass needle,To ensure that the compass needle will not drop from the pivoted point,,C,,MCQ
+8,Basics of Electromagnetism,Further Practice,,7,"When the S-pole of a magnet is placed near an unknown pole of another magnet, the two magnets",repel each other because the unknown pole is a N - pole,repel each other because the unknown pole is a S- pole,attract each other because the unknown pole is a S - pole,can either attract or repel.,,B,,MCQ
+8,Basics of Electromagnetism,Further Practice,,8,Why does a compass always points to the north?,The compass is made of a magnetic material,The compass is a magnet with the pointer as the south seeking pole,The compass is a magnet with the pointer as the north seeking pole,The compass is an electromagnet that is charged by rubbing when the needle is turning.,,C,,MCQ
+8,Basics of Electromagnetism,Further Practice,,9,"When one end of a magnet is placed near a compass, the pointer (N-pole) of the compass turns and points at the magmet because",the pointer points at any end of a magnet,the end near the compass is a N-pole,the end near the compass is a S-pole,a magnet always attracts the pointer of a compass.,,C,,MCQ
+8,Basics of Electromagnetism,Further Practice,,10,"When one end of an iron rod is placed near a compass,",it is always the N-pole of the compass that points towards it.,it is always the S-pole of the compass that points towards it.,any pole of the compass may points towards it.,the compass needle will not be affected by iron rod.,,C,,MCQ
+8,Basics of Electromagnetism,Further Practice,,11,When electricity is passed through a coil,magnetic field is produced,heat is developed in the coil,energy is lost in the form of heat,all the above,,D,,MCQ
+8,Basics of Electromagnetism,Further Practice,,12,The strength of magnetic field around a charge at rest,depends on the strength of the charge,depends on mass of the particle carrying charge,is zero,is unity,,C,,MCQ
+8,Basics of Electromagnetism,Further Practice,,13,Study of relationship between electricity and magnetism is called,current electricity,electric magnetism,magneto electricity,electromagnetism,,D,,MCQ
+8,Basics of Electromagnetism,Further Practice,,14,A current carrying conductor,experiences a force when it is in magnetic field,does not experience a force when it is in magnetic field,experiences the force only when the field is electromagnetic in nature,None of the above,,A,,MCQ
+8,Basics of Electromagnetism,Further Practice,,15,When the strength of the current flowing through a coil is increased,strength of the magnetic field decreases,strength of the magnetic field increases,amount of heat generated due to resistance decreases,strength of the magnetic field remains constant,,B,,MCQ
+8,Basics of Electromagnetism,Further Practice,,16,The magnetic field around a current-carrying coil lasts,for three hours,as long as current flows through it,till its half-life period,field is permanent,,B,,MCQ
+8,Basics of Electromagnetism,Further Practice,,17,A current is induced in a coil by electromagnetic induction,only when coil moves in the magnetic field,only when a magnet is moved into a coil,only when the coil and magnet move with respect to each other,None of the above,,C,,MCQ
+8,Basics of Electromagnetism,Further Practice,,18,An electromagnet is a,temporary magnet,permanent magnet,both the above,none of the above,,A,,MCQ
+8,Basics of Electromagnetism,Further Practice,,19,The soft-iron core of an electromagnet loses its magnetism once the current passing through the electromagnetic coil stops because,domains lose their alignment when the current is stopped,iron cannot hold alignment for longer time even when the current is passing through the coil,magnetic properties of iron are weak,domains inside the iron get aligned in north to south direction,,A,,MCQ
+8,Basics of Electromagnetism,Further Practice,,20,"A coil is connected a 1.5 V battery. Now, the battery is replaced by 3 V. The magnetic field around the coil",Increases ,Dereases,Does not change,May increase or decrease,,A,,MCQ
+8,Basics of Electromagnetism,Further Practice,,21,When the current through the electromagnet of a relay reaches a particular value,it breaks the circuit,it opens the circuit by pulling in an iron contact,it closes the circuit by pulling in an iron contact,Both A or C,,D,,MCQ
+8,Basics of Electromagnetism,Further Practice,,22,When the switch of an electric bell is pushed,flow of the current stops through the electromagnet in the bell,current starts to flow through the electromagnet,voltage decreases in the current flowing through the electromagnet,circuit is closed in the electric bell,,B,,MCQ
+8,Basics of Electromagnetism,Further Practice,,23,When a coil is placed in a changing magnetic field,current decreases,current increases,current is induced,the strength of the magnetic field decreases,,C,,MCQ
+8,Basics of Electromagnetism,Further Practice,,24,In alternating current,the direction of current is always positive,the direction of current is always negative,the direction of current changes constantly,the direction of current is either positive or negative,,C,,MCQ
+8,Basics of Electromagnetism,Further Practice,,25,In the direct current,the direction of current is always positive,the direction of current is always negative,the direction of current changes constantly,the direction of current is always in the same direction,,D,,MCQ
+8,Basics of Electromagnetism,Further Practice,,1,Choose the correct answer from the following:,A single magnetic pole exists,Like poles repel each other,Unlike poles attract each other,Lode stone is an example of natural magnet,,"B, C, D",,MAQ
+8,Basics of Electromagnetism,Further Practice,,2,Choose the correct statement from the following:,Magnetic lines of force never intersect.,Magnetic lines of force emanate from north pole,Magnetic lines of force travel in straight lines.,Magnetic lines of force are curved lines,,"A, B, D",,MAQ
+8,Basics of Electromagnetism,Further Practice,,3,Choose the correct statement from the following,Soft iron is used as the core of transformer,The strength of an electromagnet increases than the current in the coil is inereased,An electric bell works on the principle of an electromagnet,The direction of a magnetic field due to current in a straight conductor is obtained using right hand grip rule.,,"A, B, C, D",,MAQ
+8,Basics of Electromagnetism,Further Practice,,4,Which of the following is a magnetic material?,Steel,Copper,Nickel,Cobalt,,"A, C, D",,MAQ
+8,Basics of Electromagnetism,Further Practice,,5,The directive property of a magnet is used in the:,construction of compass,construction of transformer,construction of generator,none of the above,,A,,MAQ
+8,Basics of Electromagnetism,Further Practice,,1,"Assertion : The property of attracting magnetic substances is called magnetism.
+Reason : Magnetic poles never repel other pole.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,C,,AR
+8,Basics of Electromagnetism,Further Practice,,2,"Assertion : Iron behaves as magnet
+Reason : In a magnet, the molecular magnets are aligned in same direction",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,D,,AR
+8,Basics of Electromagnetism,Further Practice,,3,"Assertion : An unmagnetised piece of iron is attracted to a bar magnet.
+Reason : an atom is equivalent to a current loop",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,B,,AR
+8,Basics of Electromagnetism,Further Practice,,4,"Assertion : The earth's magnetic field is due to iron present in its core.
+Reason : At a high temperature magnet losses its magnetic property or magnetism.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,D,,AR
+8,Basics of Electromagnetism,Further Practice,,5,"Assertion : The ends of a magnet suspended freely point out always along north south
+direction.
+Reason : Earth behaves as a huge magnet.",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,A,,AR
+8,Basics of Electromagnetism,Further Practice,,6,"Assertion : A compass needle when placed on the magnetic north pole of the earth rotates
+in vertical direction.
+Reason : The earth has only horizontal component of its magnetic field at the north
+poles",If both assertion and reason are CORRECT and reason is the CORRECT explanation of the assertion.,"If both assertion and reason are CORRECT, but reason is NOT THE CORRECT explanation of the assertion.","If assertion is CORRECT, but reason is INCORRECT.",If both assertion and reason is INCORRECT.,,E,,AR
+8,Basics of Electromagnetism,Further Practice,,1,The study of earth's magnetic field is called,Geography,Terrestrial magnetism,Terrestrial electricity,Magnetic study,,B,,MCQ
+8,Basics of Electromagnetism,Further Practice,,2,A space or region around a magnet in which a force is experienced by magnetic pole is called,Magnetic field,Magnetic force,Magnetic moment,Magnetic axis,,A,,MCQ
+9,Chemical Effects of Electric Current,Summative Exercise,,1,The decomposition of an electrolyte when electricity is passed through it is called _________,,,,,,Electrolysis,,FIB
+9,Chemical Effects of Electric Current,Summative Exercise,,2,The electrical process of coating an inexpensive conductor with a metal is called ________,,,,,,Electroplating,,FIB
+9,Chemical Effects of Electric Current,Summative Exercise,,3,_________ is used in the extraction of metals from their ores.,,,,,,Electrolysis,,FIB
+9,Chemical Effects of Electric Current,Summative Exercise,,4,_________ is used for refining certain metals such as copper and zinc.,,,,,,Electroplating,,FIB
+9,Chemical Effects of Electric Current,Summative Exercise,,5,The process of depositing a layer of any desired metal on another material by means of electricity is called _____________,,,,,,Electroplating,,FIB
+9,Chemical Effects of Electric Current,Summative Exercise,,6,____________ does not conduct electricity.,,,,,,Insulator,,FIB
+9,Chemical Effects of Electric Current,Summative Exercise,,7,An electrode connected to the negative terminal of a battery is called __________,,,,,,Cathode,,FIB
+9,Chemical Effects of Electric Current,Summative Exercise,,8,An electrode connected to the positive terminal of a battery is called _________,,,,,,Anode,,FIB
+9,Chemical Effects of Electric Current,Summative Exercise,,9,___________ plating is done to make the object scratch proof and appear shiny.,,,,,,Chromium,,FIB
+9,Chemical Effects of Electric Current,Summative Exercise,,10,In __________ conduction is due to the motion of free electrons.,,,,,,Solids,,FIB
+9,Chemical Effects of Electric Current,Summative Exercise,,11,Good conductors of electricity which allow electric current to pass through them.,,,,,,1,,TF
+9,Chemical Effects of Electric Current,Summative Exercise,,12,During electrolysis negative terminal used is called anode.,,,,,,0,,TF
+9,Chemical Effects of Electric Current,Summative Exercise,,13,Pure water can be used as an electrolyte in the process of electrolysis.,,,,,,0,,TF
+9,Chemical Effects of Electric Current,Summative Exercise,,14,During electrolysis cations move towards cathode.,,,,,,1,,TF
+9,Chemical Effects of Electric Current,Summative Exercise,,15,The byproducts of electrolysis of impure water are hydrogen and oxygen.,,,,,,1,,TF
+9,Chemical Effects of Electric Current,Summative Exercise,,16,Match the following,"A -p, B-s, C-q, D-t, E-r","A -s, B-q, C-p, D-t, E-r","A -q, B-s, C-r, D-t, E-p","A -q, B-s, C-p, D-t, E-r",CH-9-16-ROW-648,d,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,1,Current is the flow of,Matter ,Electrons,Protons,Charge,,D,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,2,"In electrolytic solutions, carrier of charge is",Proton,Electrons,Neutron,Ion,,D,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,3,Insulators:,conduct electricity.,do not conduct electricity,conduct electricity only at low temperatures,conduct electricity at room temperature,,B,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,4,Which of the following is an insulator?,Wood,Iron,Carbon,Silver,,A,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,5,"In a cell, electrons move from:",positive electrode to negative electrode.,negative electrode to positive electrode,Both A and B,electrons do not move and only negative charge moves from one place to another place.,,B,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,6,When an electron moves from negative electrode to positive electrode:,negative charge moves from negative electrode to positive electrode.,positive charge moves from positive electrode to negative electrode.,no charge flows from either electrode to other electrode.,Both A and B,,D,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,7,When the ends of metal wire are not connected to a battery:,electrons move from positive electrode to negative electrode.,electrons move from negative electrode to positive electrode.,electrons move in random directions.,protons move in random direction in such a way that their net movement in a unit volume is zero.,,C,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,8,Which of the following statements are true?,"During electrolysis, charge flows through electrolytic solution via electrons",The randomly moving electrons in a metal wire will start moving in a particular direction when a potential difterence is applied across it,A negatively charged particle has higher electric potential than a positively charged particle,Charge flows only through negative charge carriers like electrons,,B,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,9,A cell converts:,electrical energy into chemical energy,chemical energyinto electrical energy,magnetic energy into electrical energy,electrical energy into mechanical ener,,B,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,10,An electrolyte:,has positive charge,has negative charge,should be able to conduct charge without dissociating,should able to form positive and negative ions,,D,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,11,_________ present in the lemon juice acts as electrolyte,Sulphuric acid,Nitric acid,Hydrochloric acid,Citric acid,,D,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,12,Anode is :,positively charged electrode,negatively charged electrode,wire used to connect the electrodes,electrolyte which conducts electricity,,A,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,13,Cathode is :,positively charged electrode,negatively charged electrode,a positively charged ion formed in the electrolyte,a negatively charged ion formed in the electrolyte,,B,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,14,Copper electrode:,donates electrons to hydrogen ions,accepts electrons from hydrogen ions,donates electrons to sulphate ions,accepts electrons from sulphate ions,,A,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,15,"When copper rod donates electrons to hydrogen ions, it gains _______ charge",Positive,Negative,No charge,Can't Say,,A,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,16,The electrolyte in dry cell is:,copper sulphate,zinc sulphate,sulphuric acid,ammonium chloride,,D,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,17,In dry cell _______ acts as positive terminal.,Carbon rod,manganese dioxide,manganese dioxide and powdered carbon,metal cap on the carbon rod,,D,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,18,The common dry cell produces a voltage of,1.5 V,4 V,+2V,3V,,A,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,19,"When electric current flows through a conduetor, some amount of.",electrical energy is converted into heat energy,electrical energy is converted into mechanical energy,mechanical energy is converted into electrical energy,heat energy is converted into electrical energy,,A,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,20,Nichrome is an alloy made of:,nickel and chromium,nitrogen and chromium,"nitrogen, chlorine and chromium","nickel, chromium and manganese",,A,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,21,When current is passed through molten sodium chloride:,sodium is deposited at the positive electrode and chlorine gas is formed at the negative electrode,sodium is evaporated and chloride ions are formed at the negative electrode,sodium is deposited at the positive electrode and chlorine is deposited at the negative electrode,sodium is deposited at the negative electrode and the chlorine gas is formed at the positive electrode,,D,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,22,Splitting a compound using electricity is called:,electrolysis,electrolyte,electrokinesis,none of the above,,A,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,23,Which of the following is a good conductor of electricity?,Tap water,Distilled water,Sea Water,Rain water,,C,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,24,A compass placed in an electrie field will be deflected due to:,heating effect of current,magnetic effect of current,conducting effect,resistance of the needle to the electric field,,B,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,25,The most common industrial application of chemical effects of electric current is:,electroplating,galvanising,anodising,electrolysis,,B,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,26,"Tin cans, used for storing food are made by electroplating:",chrome onto tin,iron onto tin,tin onto iron,chrome onto iron,,C,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,27,"To protect iron from corrosion and rust, it is coated by:",Tin,Copper,Zinc,Mercury,,C,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,1,"In a cell, by convention, charge is taken to be flowing from:",positive electrode to negative electrode,negative electrode to positive electrode.,Both A and B,None of the above,,A,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,2,Metals are good conductors because:,outer electrons are strongly bound to the atom.,outer electrons are loosely bound to the atom.,inner electrons are loosely bound to the atom.,protons can detach from the nucleus and conduct electricity.,,B,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,3,"On electrolysis, water splits into:",positively charged hydrogen ions and negatively charged oxygen ions.,negatively charged hydrogen ions and positively charged oxygen ions.,hydrogen and oxygen atoms having positive and negative charges respectively.,hydrogen and oxygen atoms having negative and positive charges respectively.,,A,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,4,In electrolysis:,positive ions move towards the positive electrode and negative ions towards the negative electrode.,positive ions move towards the negative electrode and negative ions towards the positive electrode.,both ions move towards both the electrodes in equal amounts until they are balanced.,none of the above,,B,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,5,Dilute sulphuric acid splits into:,oxygen ions and hydrogen ions.,"oxygen ions, hydrogen ions and sulphur ions","hydrogen ions, oxygen ions and sulphate ions.",hydrogen ions and sulphate ions.,,D,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,6,Sulphate ions move towards:,copper electrode,battery,electrolyte,zinc electrode,,D,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,7,Ammonium chloride in dry cell is:,a paste,in liquid state,in solid state,in gaseous state,,A,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,8,Bulb does not glow when the probes are hanged in air. The reason is:,air absorbs the electricity.,air is a bad conductor of electricity.,electricity is discharged into air.,air disperses the electricity.,,B,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,9,Iron vessels are coated with tin to:,give better shining,increase the strength,increase weight,prevent rusting,,D,,MCQ
+9,Chemical Effects of Electric Current,Further Practice,,10,The chemical reaction due to passage of electric current depends on:,electrode,magnitude of current,density of liquid,all of the above,,A,,MCQ
+10,Natural - Phenomenon,Summative Exercise,,1,"When an ebonite rod is rubbed with fur, the charge acquired by the fur is _______",,,,,,Positive,,FIB
+10,Natural - Phenomenon,Summative Exercise,,2,A positively charged body has deficiency of __________,,,,,,Electrons,,FIB
+10,Natural - Phenomenon,Summative Exercise,,3,__________ are charge carriers in conductors.,,,,,,Electrons,,FIB
+10,Natural - Phenomenon,Summative Exercise,,4,"A conductorAB has its end A at a low potential and the end B at a higher potential then
+the direction of flow of electron in it is from A to __________",,,,,,B,,FIB
+10,Natural - Phenomenon,Summative Exercise,,5,___________ instrument is used to find the quantity of electricity on different bodies.,,,,,,Electroscope,,FIB
+10,Natural - Phenomenon,Summative Exercise,,6,Lightning conductor is made up of __________,,,,,,Copper,,FIB
+10,Natural - Phenomenon,Summative Exercise,,7,Atoms normally have equal number of protons and electrons.,,,,,,1,,TF
+10,Natural - Phenomenon,Summative Exercise,,8,Objects with the same type of charges attract each other.,,,,,,0,,TF
+10,Natural - Phenomenon,Summative Exercise,,9,A spark of lightning occurs when negative charges jump from one charged cloud to another.,,,,,,1,,TF
+10,Natural - Phenomenon,Summative Exercise,,10,Lightning conductors are used to save the building from earthquakes.,,,,,,0,,TF
+10,Natural - Phenomenon,Summative Exercise,,11,Seismic waves recorded by an instrument is called seismograph,,,,,,1,,TF
+10,Natural - Phenomenon,Summative Exercise,,12,Match the following,"A-q, B-p, C- s, D -r","A-r, B-p, C- s, D -q","A-p, B-q, C- s, D -r","A-q, B-p, C- r, D -s",CH-10-12-ROW-697,a,,MCQ
+10,Natural - Phenomenon,Further Practice,,1,The force present between two charged bodies is:,electrostatic force,electromagnetic force,gravitational force,frictional force,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,2,When two bodies are rubbed against each other:,they acquire equal and similar charges,they acquire equal and opposite charges,they acquire different charges but in different amounts depending upon their masses,they do not acquire any charge,,B,,MCQ
+10,Natural - Phenomenon,Further Practice,,3,Suppose you are in a car and it is raining heavily with thunderstorms. Then what is the best way to protect yourself from a possible thunder storm falL?,Remain in the car,Get out of the car and take cover under the car,Run to a nearby tree,Get out and stand under an electric pole,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,4,Electric charge is measured in:,coulombs,amperes,olts,watts,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,5,An ebonite rod rubbed with fur and a glass rod rubbed with silk cloth are brought nearer to each other. Then:,they will attract each other,they will repel each other,nothing will happen to them,they will get heated up,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,6,"When a glass rod is rubbed with silk cloth, it acquires positive charge because:",electrons are added to it,electrons are removed from it,protons are added to it,protons are removed from it,,B,,MCQ
+10,Natural - Phenomenon,Further Practice,,7,Electroscope is used:,to detect and test small electric charges,to calculate the amount of electric charge flowing through the conductor in the given interval of time,to find out the presence of antimatter,to test the presence of magnetic field,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,8,A lightning conductor installed in a building:,does not allow the lightning to fall on the building,repels the lightning,forces the lightning to fall in an area where there are no buildings,conducts electric charge to the ground when lightning strikes the building,,D,,MCQ
+10,Natural - Phenomenon,Further Practice,,9,Lightning rods are made of:,Copper,Plastic,Bakelite,Sand paper,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,10,"When you touch a charged body, the charge flows through you into the earth. This is called",Induction,Conduction,Capacitance,Earthing,,D,,MCQ
+10,Natural - Phenomenon,Further Practice,,11,How do cyclones decrease the fertility of the soil in the coastal areas?,By flooding the land with saline water,By dissolving soil and rocks,By increasing the water table of the place,By decreasing the water table of the place,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,12,Which of the following is the first sign of an approaching cyclone?,Rains accompanied by lighting,High temperature and humidity,Cool breeze and rains,Powerful water waves,,D,,MCQ
+10,Natural - Phenomenon,Further Practice,,13,Which of the following plays an important role in the early-warning systems for cyclones?,Helicopters,Submarines,Satellites,Stars,,C,,MCQ
+10,Natural - Phenomenon,Further Practice,,14,Which of the following is the best thing to do during heavy lightning?,Lying on the ground in an open place,Going into the nearest water body,Staying indoors away from metallic doors or windows,Standing under a tall tree,,C,,MCQ
+10,Natural - Phenomenon,Further Practice,,15,"When we remove polyester or woolen cloth in dark, we can see spark and hear a cracking sound. These are due to:",static electricity,current electricity,reflection of light,refraction of light,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,16,Electrical charge can be transferred from a charged object to another through:,vacuum,air is a bad conductor of electricity.,Insulator,Conductor,,D,,MCQ
+10,Natural - Phenomenon,Further Practice,,17,The streaks of bright light seen during lightning is essentially the path followed by:,UV rays from sun,cosmic rays,accumulated electric charges,none of the above,,C,,MCQ
+10,Natural - Phenomenon,Further Practice,,18,Which of the following is safest way to protect yourself from lightning?,Run to an open field,Open an umbrella for cover,Take shelter under a tree,Squat low on ground,,D,,MCQ
+10,Natural - Phenomenon,Further Practice,,19,A thunderstorm is accompanied by:,Lightning,Cyclone,Hurricane,Tornado,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,20,High speed winds are accompanied by:,increased pressure,reduced pressure,water vapour,static electricity,,B,,MCQ
+10,Natural - Phenomenon,Further Practice,,21,During a cyclone air moves from:,region of high pressure to low pressure,region of high pressure to high pressure,region of low velocity to high velocity,region of high pressure to low velocity,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,22,A typhoon is essentially:,a flood,a cyclone,earthquake,None of these,,B,,MCQ
+10,Natural - Phenomenon,Further Practice,,23,The natural calamity that cannot be predicted accurately in advance:,Flood,Cyclone,earthquake,Famine,,C,,MCQ
+10,Natural - Phenomenon,Further Practice,,24,Earthquakes can cause:,Flood,Land slide,Tsunami,all of the above,,D,,MCQ
+10,Natural - Phenomenon,Further Practice,,25,Which of the following event can cause earthquake?,Volcanic eruption,Meteor hitting earth,Underground nuclear explosion,all of the above,,D,,MCQ
+10,Natural - Phenomenon,Further Practice,,26,"The weak zones around the boundaries of plates underneath earth, which are prone to slide and cause earthquake are commonly known as:",Fault zone,Eruption zone,Explosive zone,sliding zone,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,27,A student named the various layers of earth as shown in the figure wrongly. What is the correct sequence starting from the uppermost layer.,a,b,c,d,CH-10-27-ROW-724,C,,MCQ
+10,Natural - Phenomenon,Further Practice,,28,Magnitude of earthquake is measured by:,Electroscope ,Richter scale,Seismograph,Coulomb,,B,,MCQ
+10,Natural - Phenomenon,Further Practice,,29,In which of the following state earthquake is most likely to occur:,Gujarat,Chhatisgarh,Chennai,Kerala,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,30,Which of the following country in the world is most prone to earthquake?,India,America,China,Japan,,D,,MCQ
+10,Natural - Phenomenon,Further Practice,,1,"Anegatively charged rod is brought close to two metal spheres which are in contact with each other, and the spheres are separated in the presence of the rod. Then",the sphere close to the rod acquires a negative charge and the other sphere acquires a positive charge,the sphere close to the rod acquires a positive charge and the other sphere acquires a negative charge,both the spheres will acquire positive charge,both the spheres will acquire negative charge,,B,,MCQ
+10,Natural - Phenomenon,Further Practice,,2,According to law of electrostatics,a charged body attracts similar charged bodies but repels uncharged bodies,a charged body attracts the bodies carrying similar charge and repels the bodies possessing opposite charge,charged body repels the bodies possessing similar charge and attracts the bodies with opposite charge,a charged body attracts all types of other charged bodies,,C,,MCQ
+10,Natural - Phenomenon,Further Practice,,3,Which of the following will rise the highest?,Airat 10^0&C,Air at 40^0&C,Air at 20^0&C,Air at-5^0&C,,B,,MCQ
+10,Natural - Phenomenon,Further Practice,,4,Which of the following is most likely to be in the 'eye' of a cyclone?,It is an area of high pressure,It is an area of a low pressure,It has lots of clouds and rains,It has high speed winds,,B,,MCQ
+10,Natural - Phenomenon,Further Practice,,5,"During the formation of rain, when water vapour changes back to liquid in the form of rain drops:",heat is absorbed,heat is released,heat is first absorbed and then released,there is no exchange of heat,,B,,MCQ
+10,Natural - Phenomenon,Further Practice,,6,Which of the following statement is NOT true?,Lightning and spark from woolen clothing are essentially the same phenomena.,"When you rub a plastic scale on your dry hair, it acquires a chargge","Charge acquired by a glass rod when it is rubbed with silk is called as negative
+charge.","Static charges are called so, because they do not move by themselves",,B,,MCQ
+10,Natural - Phenomenon,Further Practice,,7,Earthing is provided in buildings to protect it from:,Lightning ,Leakage of electric current,Cyclone,Thunderstorm,,B,,MCQ
+10,Natural - Phenomenon,Further Practice,,8,Wind currents are generated due to:,shape of earth,change in atmospheric pressure,thunderstorm,cyclone,,A,,MCQ
+10,Natural - Phenomenon,Further Practice,,9,The fragmented outermost layers of earth are known as:,Crusts,Plates,Cores,Zones,,B,,MCQ
+10,Natural - Phenomenon,Further Practice,,10,"Earthquake at two places A and B were measured by a seismograph which recorded the
+magnitude as 2 and 4. The magnitude of tremors and its destructive energy at A and B
+can be compared as under:",tremor at B are two times that at place 'A',tremor at B are four times that at place 'A',tremor at B are 100 times that at place 'A',tremor at B are 1000 times that at place 'A',,C,,MCQ

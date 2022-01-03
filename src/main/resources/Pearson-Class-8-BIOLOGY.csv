@@ -1,0 +1,333 @@
+Chapter Number,ChapterName,SubChapterName,Classification,QuestionNumber,QuestionText,Option1,Option2,Option3,Option4,Image?,Answer,AnswerDescription,QuestionType
+1,Cell -  The Basic Unit of Life,,,1,The first living cell was discovered by ________,,,,,,Anton Van Leeuwenhoek,,FIB
+1,Cell -  The Basic Unit of Life,,,2,________ is the basic structural and functional unit of life.,,,,,,Cell,,FIB
+1,Cell -  The Basic Unit of Life,,,3,"Take the odd one out.
+Amoeba, Bacteria, Plant, Honeybee.",,,,,,Bateria (All others are eukaryotes),,FIB
+1,Cell -  The Basic Unit of Life,,,4,The concept ‘Omnis cellula e cellula’ was put forward by ________.,,,,,,Rudolf Virchow,,FIB
+1,Cell -  The Basic Unit of Life,,,5,The term ‘protoplasm’ was coined by ________.,,,,,,Purkinje,,FIB
+1,Cell -  The Basic Unit of Life,,,6,The smallest cell is ________.,,,,,,Mycoplasma,,FIB
+1,Cell -  The Basic Unit of Life,,,7,The largest cell is ________.,,,,,,Ostrich egg,,FIB
+1,Cell -  The Basic Unit of Life,,,8,Lactobacillus is ________ shaped.,,,,,,Rod,,FIB
+1,Cell -  The Basic Unit of Life,,,9,Mycoplasma lacks ________.,,,,,,Cell Wall,,FIB
+1,Cell -  The Basic Unit of Life,,,10,Phosphate granules are examples for ________.,,,,,,Inclusion Bodies,,FIB
+1,Cell -  The Basic Unit of Life,,,11,The inner foldings of the mitochondrial inner membrane are called ________.,,,,,,Cristae,,FIB
+1,Cell -  The Basic Unit of Life,,,12,Chlorophylls are present in ________.,,,,,,Thylakoids,,FIB
+1,Cell -  The Basic Unit of Life,,,13,________ is known as the energy currency of the cell.,,,,,,ATP,,FIB
+1,Cell -  The Basic Unit of Life,,,14,Detoxification of poisons takes place in ________.,,,,,,Smooth endolasmic reticulum,,FIB
+1,Cell -  The Basic Unit of Life,,,15,Thylakoids of different grana are connected by ________.,,,,,,Stroma lamellae,,FIB
+1,Cell -  The Basic Unit of Life,,,16,"Specialized peroxisomes in plants are called
+________.",,,,,,Glyoxysomes,,FIB
+1,Cell -  The Basic Unit of Life,,,17,Thin thread-like structure present inside the nucleus is called ________.,,,,,,Chromatin Material,,FIB
+1,Cell -  The Basic Unit of Life,,,18,The membrane surrounding vacuole is called ________.,,,,,,Tonoplast,,FIB
+1,Cell -  The Basic Unit of Life,,,19,"In plant, reserve food is stored in the form of ________.",,,,,,Starch,,FIB
+1,Cell -  The Basic Unit of Life,,,20,Plant cell wall is made up of ________.,,,,,,Cellulose,,FIB
+1,Cell -  The Basic Unit of Life,,,21,Site for protein manufacture is,Cell Wall,Cytoplasm,Ribosome,Inclusion bodies,,c,,MCQ
+1,Cell -  The Basic Unit of Life,,,22,The longest cell is,Mycoplasma,Neuron,PPLO,Ostrich egg,,b,,MCQ
+1,Cell -  The Basic Unit of Life,,,23,"Which of the following can change its shape?
+(i) Amoeba      (ii) Neuron        (iii) WBC        (iv) RBC",(i) only,(i) and (ii),(i) and (iii),"(i), (ii), (iv)",,c,,MCQ
+1,Cell -  The Basic Unit of Life,,,24,Nucleoid is the region where ________ is/are located,Genetic material,Proteins,Pigments,Nutrients,,a,,MCQ
+1,Cell -  The Basic Unit of Life,,,25,Bacterial cell wall is made up of,Cellulose,Peptidoglycan,Hemicellulose,Pectin,,b,,MCQ
+1,Cell -  The Basic Unit of Life,,,26,Match the following,a,b,c,d,CH-1-26-ROW-27,d,,MCQ
+1,Cell -  The Basic Unit of Life,,,27,Select the wrong statement.,"Plant cells are surrounded by a living, rigid outer layer called cell wall.",Plant cell wall is made up of cellulose.,Bacterial cell wall is made up of peptidoglycan.,Both prokaryotic and eukaryotic plasma membranes are composed of lipids and proteins,,a,,MCQ
+1,Cell -  The Basic Unit of Life,,,28,Adjacent plant cells are joined together by,Middle lamella,Plasmodesmata,Mesosomes,Plasma membrane,,a,,MCQ
+1,Cell -  The Basic Unit of Life,,,29,Which of the following is the correct statement?,Endoplasmic reticulum is the site of protein manufacture in bacteria.,The membrane-bound inclusion bodies help in the storage of nutrients in prokaryotes.,The living material inside the cell is called protoplasm.,Mesosome is the cell wall extension that helps in photosynthesis.,,c,,MCQ
+1,Cell -  The Basic Unit of Life,,,30,"Which one of the followings are included in protoplasm?
+(i) Nucleus           (ii) Cytoplasm
+(iii) Organelles    (iv) Nucleoplasm",(i) and (ii),"(i), (ii), (iii)",(ii) only,"(i), (ii), (iii), (iv)",,d,,MCQ
+1,Cell -  The Basic Unit of Life,,,31,Ribosomes are composed of ________ and ________,"Lipids, proteins","RNA, proteins","DNA, proteins",Proteins only,,b,,MCQ
+1,Cell -  The Basic Unit of Life,,,32,The organelle that is involved in the formation of lysosome is,Golgi apparatus,Mitochondria,Endoplasmic reticulum,Vacuole,,a,,MCQ
+1,Cell -  The Basic Unit of Life,,,33,Which of the following organelles are covered by single membrane?,Ribosome and lysosome,Lysosome and nucleus,Ribosome and vacuole,Lysosome and vacuole,,d,,MCQ
+1,Cell -  The Basic Unit of Life,,,34,"Select the correct statements.
+A. Ribosomes are covered by a double-layered membrane.
+B. Ribosomes are composed of RNA and proteins.
+C. Chlorophyll is absent in chromoplast.
+D. Elaioplasts store protein.",A and D,B and C,C and D,B and D,,b,,MCQ
+1,Cell -  The Basic Unit of Life,,,35,Which of the following organelles possess their own DNA and ribosomes?,Mitochondria and plastids,Plastids and endoplasmic reticulum,Mitochondria and Golgi complex,Golgi complex and endoplasmic reticulum,,a,,MCQ
+1,Cell -  The Basic Unit of Life,,,36,Energy is produced in the form of _________,ATP,GTP,AMP,ADP,,a,,MCQ
+1,Cell -  The Basic Unit of Life,,,37,Which of the following statement is wrong?,Vacuoles are either absent or small in animal cells.,Centrosomes are absent in animal cells,Centrosomes are absent in plant cells,Centrosomes help in cell division,,b,,MCQ
+1,Cell -  The Basic Unit of Life,,,38,Glycosomes are specialized peroxisomes found in,Animals,Plants,Protists,Bacteria,,c,,MCQ
+1,Cell -  The Basic Unit of Life,,,39,Functional segments of DNA are called,Genes,Chromosomes,Chromatin,Centrosome,,a,,MCQ
+1,Cell -  The Basic Unit of Life,,,40,Which of the following cell lacks nucleus?,Mature RBC,Mature WBC,Neutrophils,Paramoecium,,a,,MCQ
+2,Tissues and Body Movements,,,1,The second phase of mitosis is ________.,,,,,,Metaphase,,FIB
+2,Tissues and Body Movements,,,2,Meristematic tissue that increases width of plant body is ________.,,,,,,Lateral meristem,,FIB
+2,Tissues and Body Movements,,,3,The dead simple permanent tissue is ________.,,,,,,Sclerenchyma,,FIB
+2,Tissues and Body Movements,,,4,The element of xylem that provides structural support is ________.,,,,,,Xylem fibres,,FIB
+2,Tissues and Body Movements,,,5,The thick waxy coating present on the surface of epidermal cells is ________.,,,,,,Cuticle,,FIB
+2,Tissues and Body Movements,,,6,Phloem parenchyma mainly functions in ________.,,,,,,Storage,,FIB
+2,Tissues and Body Movements,,,7,Meristematic tissue converts to permanent tissue through a process called ________.,,,,,,Differentiation,,FIB
+2,Tissues and Body Movements,,,8,After meiosis ________ daughter cells are produced.,,,,,,Four,,FIB
+2,Tissues and Body Movements,,,9,In binary fission ________ division occurs first.,,,,,,Nuclear division,,FIB
+2,Tissues and Body Movements,,,10,Mode of cell division in prokaryotes is ________.,,,,,,Binary fission,,FIB
+2,Tissues and Body Movements,,,11,Bone tissue constitutes cells called ________.,,,,,,Osteocytes,,FIB
+2,Tissues and Body Movements,,,12,Muscles seen on heart wall are ________.,,,,,,Cardiac Muscle,,FIB
+2,Tissues and Body Movements,,,13,The part of neuron which contains nucleus is ________.,,,,,,Cell body,,FIB
+2,Tissues and Body Movements,,,14,Locomotory structure present in Paramoecium is ________.,,,,,,Cilia,,FIB
+2,Tissues and Body Movements,,,15,Axial skeleton of the human body is made up of ________ bones.,,,,,,80 bones,,FIB
+2,Tissues and Body Movements,,,16,The wrist bones are also known as ________,,,,,,Carpal Bones,,FIB
+2,Tissues and Body Movements,,,17,Long curved bones that form the ribcage are ________.,,,,,,Ribs,,FIB
+2,Tissues and Body Movements,,,18,The joints that allow limited movement are ________.,,,,,,Cartilaginous joints,,FIB
+2,Tissues and Body Movements,,,19,The longest bone in human body is ________.,,,,,,Thigh bone or femur,,FIB
+2,Tissues and Body Movements,,,20,Skeletal muscles are under ________ control.,,,,,,Voluntary,,FIB
+2,Tissues and Body Movements,,,21,Meiosis results in the formation of daughter cells with,Half the number of chromosomes.,Double the number of chromosomes.,One chromosome less than the parent.,One chromosome higher than the parent.,,a,,MCQ
+2,Tissues and Body Movements,,,22,Type of cell division that occurs during gamete formation is,Mitorsis,Meiosis,Binary fission,Budding,,b,,MCQ
+2,Tissues and Body Movements,,,23,"Which of the following statements are wrong?
+(i) Mitosis involves two sequential divisions, mitosis I and mitosis II.
+(ii) Meiosis results in the formation of four daughter cells with half the number of chromosomes.
+(iii) Simple permanent tissues are made up of only one type of cell.
+(iv) Collenchyma provides stiffness to the plant body.",B and C,A and D,C and D,B and D,,b,,MCQ
+2,Tissues and Body Movements,,,24,Meristem that occurs between mature tissues is,Lateral meristem,Cambium,Intercalary meristem,Apical meristem,,c,,MCQ
+2,Tissues and Body Movements,,,25,Which one the following is a dead tissue?,Parenchyma,Collenchyma,Sieve-tube cells,Xylem tracheids,,d,,MCQ
+2,Tissues and Body Movements,,,26,Match the following,a,b,c,d,CH-2-26-ROW-67,c,,MCQ
+2,Tissues and Body Movements,,,27,The type of tissue present in coconut husk is,Sclerenchyma,Collenchyma,Parenchyma,Meristem,,a,,MCQ
+2,Tissues and Body Movements,,,28,Which one of the following is not an element of xylem tissue?,Sieve tube,Parenchyma ,Fibre,Vessels,,a,,MCQ
+2,Tissues and Body Movements,,,29,Which of the following is a dead tissue?,Sieve tube,Companion cells,Parenchyma,Fibres,,d,,MCQ
+2,Tissues and Body Movements,,,30,The stomata are enclosed by,Parenchyma,Cuticle,Lignin,Guard cells,,d,,MCQ
+2,Tissues and Body Movements,,,31,"Assertion (A) : Meiosis is also known as reduction division.
+Reason (R) : Meiosis involves formation of daughter cells with half the number of chromosomes than that of parent cell.",Both A and R are true and R is the correct explanation for A.,Both A and R are true and R is the not the correct explanation for A.,A is true and R is false,A is false and R is true,,a,,MCQ
+2,Tissues and Body Movements,,,32,Cells present in nervous tissue that protect neurons are,Axons,Neuroglial cells,Osteocytes,Chondrocytes,,b,,MCQ
+2,Tissues and Body Movements,,,33,The matrices of bones are made up of,Calcium and magnesium,Magnesium and phosphate,Calcium and potassium,Calcium and phosphate,,d,,MCQ
+2,Tissues and Body Movements,,,34,Which one of the following muscles shows rhythmic contraction and relaxation throughout life?,Skeletal muscle,Cardiac muscle,Heart muscle,Both (b) and (c),,d,,MCQ
+2,Tissues and Body Movements,,,35,The tissues that prevent friction between bones are,Cartilage,Blood tissue,Epithelial tissue,Muscle tissue,,a,,MCQ
+2,Tissues and Body Movements,,,36,The tissue that connects bone to bone is,Tendon,Areolar tissue,Ligament,Adipose tissue,,c,,MCQ
+2,Tissues and Body Movements,,,37,Match the following,a,b,c,d,CH-2-37-ROW-78,a,,MCQ
+2,Tissues and Body Movements,,,38,Which one of the following is a correct statement?,Sperm cells use cilia to travel through female reproductive tract.,Red blood corpuscles are capable of showing amoeboid movement,Palm bones are also known as metacarpals.,Knee joint is an example for cartilaginous joint.,,c,,MCQ
+2,Tissues and Body Movements,,,39,The hard protective covering of brain is called,Vertebral column,Cranium,Sternum,Ribs,,b,,MCQ
+2,Tissues and Body Movements,,,40,Adult human body comprises,206 bones,300 bones,204 bones,200 bones,,a,,MCQ
+2,Tissues and Body Movements,,,41,The kind of epithelium seen in respiratory tract is,Squamous epithelium,Ciliated epithelium,Glandular epithelium,Cuboidal epithelium,,b,,MCQ
+3,Classification of Living organisms,,,1,A group of related genera is called ________.,,,,,,Family,,FIB
+3,Classification of Living organisms,,,2,Cat and tiger belong to the family ________.,,,,,,Felidae,,FIB
+3,Classification of Living organisms,,,3,Monkeys and humans come under the order ________.,,,,,,Primata,,FIB
+3,Classification of Living organisms,,,4,Binomial nomenclature was introduced by ________.,,,,,,Carolus Linnaeus,,FIB
+3,Classification of Living organisms,,,5,The part of scientific name that starts with capital letter is _______.,,,,,,Generic name,,FIB
+3,Classification of Living organisms,,,6,________ is known as the father of botany.,,,,,,Theophrastus,,FIB
+3,Classification of Living organisms,,,7,Organisms that can synthesize their own food are called ________.,,,,,,Autotrophs,,FIB
+3,Classification of Living organisms,,,8,The cell wall of fungi is made up of ________.,,,,,,Chitin,,FIB
+3,Classification of Living organisms,,,9,Chlorophyll-bearing eukaryotes come under the kingdom ________.,,,,,,Plantae,,FIB
+3,Classification of Living organisms,,,10,________ are known as amphibians of plant kingdom.,,,,,,Bryophytes,,FIB
+3,Classification of Living organisms,,,11,Platyhelminthes are also called ________.,,,,,,Flatworms,,FIB
+3,Classification of Living organisms,,,12,________ is the largest phylum of animals.,,,,,,Arthropoda,,FIB
+3,Classification of Living organisms,,,13,Spiny skinned organisms come under the phylum ________.,,,,,,Echinodermata,,FIB
+3,Classification of Living organisms,,,14,The flexible rod-like structure present in organisms under phylum ‘Chordata’ is ________.,,,,,,Notochord,,FIB
+3,Classification of Living organisms,,,15,"According to the mode of nutrition, organisms under kingdom ‘Animalia’ are ________.",,,,,,Heterotrophs,,FIB
+3,Classification of Living organisms,,,16,Pore-bearing organisms come under the phylum ‘________’.,,,,,,Porifera,,FIB
+3,Classification of Living organisms,,,17,The ability to emit light is called ________.,,,,,,Bioluminescence,,FIB
+3,Classification of Living organisms,,,18,Octopus comes under the phylum ________.,,,,,,Mollusca,,FIB
+3,Classification of Living organisms,,,19,Jelly fish comes under the phylum ________.,,,,,,Cridaria,,FIB
+3,Classification of Living organisms,,,20,The presence of jointed legs is the characteristic feature of phylum ‘________’.,,,,,,Arthropoda,,FIB
+3,Classification of Living organisms,,,21,Which one of the following is not a name of family?,Felidae,Canidae,Mammalia,Hominidae,,c,,MCQ
+3,Classification of Living organisms,,,22,"Select the mismatch
+A.  Lion    - Panthera
+B.  Catus  - Felis
+C.  Wolf    - Felis
+D.  Tiger   - Canis",A and B,C and D,A and C,B and C,,b,,MCQ
+3,Classification of Living organisms,,,23,Identify the wrong statement.,"If handwritten, the genus and the species names are underlined together.",Genus name always starts with a capital letter.,Species name starts with lower case.,Binomial nomenclature was proposed by Carolus Linnaeus.,,a,,MCQ
+3,Classification of Living organisms,,,24,The father of zoology is,Carolus Linnaeus,Theophrastus,Aristotle,Whittaker,,c,,MCQ
+3,Classification of Living organisms,,,25,Which one of the following comes under the kingdom ‘Monera’?,Yeast,Algae,Mosses,Rhizobium,,d,,MCQ
+3,Classification of Living organisms,,,26,The organisms that feed on dead and decaying matter are known as,Autotrophs,Parasites,Saprophytes,None of the above,,c,,MCQ
+3,Classification of Living organisms,,,27,"Find out the word pair relationship.
+________: Monera
+Mushroom: ________",a,b,c,d,,"Bateria , Fungi",,MCQ
+3,Classification of Living organisms,,,28,Amoeba and Paramoecium come under the kingdom,Plantae,Protista,Monera,Fungi,,b,,MCQ
+3,Classification of Living organisms,,,29,Plants that lack xylem and phloem are called,Bryophytes,Angiosperms,Gymnosperms,Pteridophytes,,a,,MCQ
+3,Classification of Living organisms,,,30,Match the following,a,b,c,d,CH-3-30-ROW-112,b,,MCQ
+3,Classification of Living organisms,,,31,Which one of the following is exclusively marine?,Mollusca,Echinodermata,Aschelminthes,Coelenterata,,b,,MCQ
+3,Classification of Living organisms,,,32,Organisms under phylum ‘Ctenophora’ are also known as,Roundworms,Comb jellies,Ctenoplana,Flatworms,,b,,MCQ
+3,Classification of Living organisms,,,33,Match the following,a,b,c,d,CH-3-33-ROW-115,a,,MCQ
+3,Classification of Living organisms,,,34,Bioluminescence was shown by the phylum,Porifera,Ctenophora,Coelentrata,Mollusca,,b,,MCQ
+3,Classification of Living organisms,,,35,"Identify the word pair relationship.
+________: Annelida
+Jointed legs: ________",A,B,C,D,,"Metamerism, Arthropoda",,MCQ
+3,Classification of Living organisms,,,36,The second largest phylum is,Arthropoda,Chordata,Echinodermata,Mollusca,,d,,MCQ
+3,Classification of Living organisms,,,37,Which one of the following is not a member of phylum ‘Chordata’?,Crocodile,Columba,Macropus,Pleurobrachia,,d,,MCQ
+3,Classification of Living organisms,,,38,Phylum ‘Porifera’ is commonly called,Colelenterata,Sponges,Comb jellies,Vertebrata,,b,,MCQ
+3,Classification of Living organisms,,,39,Class ‘Mammalia’ includes,Fish,Frogs,Birds,Humans,,d,,MCQ
+3,Classification of Living organisms,,,40,Worm-like marine animals come under the phylum,Hemichordata,Pisces,Echinodermata,Flat worms,,a,,MCQ
+4,Reproduction of Animals and Plants,,,1,The female gamete is called ________.,,,,,,Ovum or egg,,FIB
+4,Reproduction of Animals and Plants,,,2,________ is the male external genitalia.,,,,,,Penis,,FIB
+4,Reproduction of Animals and Plants,,,3,Ovum released from ovary reaches uterus through ________.,,,,,,Fallopian Tube,,FIB
+4,Reproduction of Animals and Plants,,,4,Structure that connects uterus and vagina is ________.,,,,,,Cervix,,FIB
+4,Reproduction of Animals and Plants,,,5,________ is an example for male accessory sex gland.,,,,,,Prostate Gland,,FIB
+4,Reproduction of Animals and Plants,,,6,________ is the male sex hormone.,,,,,,Testosterone,,FIB
+4,Reproduction of Animals and Plants,,,7,Yeast reproduces asexually through ________.,,,,,,Budding,,FIB
+4,Reproduction of Animals and Plants,,,8,________ part of sperm helps in movement.,,,,,,Tail,,FIB
+4,Reproduction of Animals and Plants,,,9,Ovum is produced by ________.,,,,,,Ovary,,FIB
+4,Reproduction of Animals and Plants,,,10,________ is the largest cell.,,,,,,Ostrich egg,,FIB
+4,Reproduction of Animals and Plants,,,11,"In humans, fertilization takes place at ________.",,,,,,Fallopian Tube,,FIB
+4,Reproduction of Animals and Plants,,,12,Release of egg from ovaries is called ________.,,,,,,Ovulation,,FIB
+4,Reproduction of Animals and Plants,,,13,"In hens, fertilization takes place ________ the body.",,,,,,Inside the body,,FIB
+4,Reproduction of Animals and Plants,,,14,The stage of embryo in which all body parts can be identified is called ________.,,,,,,Foetus,,FIB
+4,Reproduction of Animals and Plants,,,15,The organisms that lay eggs are ________.,,,,,,Oviparous,,FIB
+4,Reproduction of Animals and Plants,,,16,Puberty is the time when an individual attains ________ maturity,,,,,,Reproductive,,FIB
+4,Reproduction of Animals and Plants,,,17,The first menstruation at puberty is called ________.,,,,,,Menarche,,FIB
+4,Reproduction of Animals and Plants,,,18,"In frogs, metamorphosis is controlled by ________.",,,,,,Thyroxine,,FIB
+4,Reproduction of Animals and Plants,,,19,The gland that releases its contents directly into the blood are called ________.,,,,,,Endocrine gland,,FIB
+4,Reproduction of Animals and Plants,,,20,Sweat gland is an example for ________.,,,,,,Exorine gland,,FIB
+4,Reproduction of Animals and Plants,,,21,Pollen grains are produced in ________.,,,,,,Anther,,FIB
+4,Reproduction of Animals and Plants,,,22,The shoot part of the plant that is selected for grafting is called ________.,,,,,,Scion,,FIB
+4,Reproduction of Animals and Plants,,,23,The method used to develop roots on soft stems is ________.,,,,,,Layering,,FIB
+4,Reproduction of Animals and Plants,,,24,"In potato, vegetative propagation can be done from ________.",,,,,,Underground stem,,FIB
+4,Reproduction of Animals and Plants,,,25,The stalk that connects stigma and ovary is ________.,,,,,,Style,,FIB
+4,Reproduction of Animals and Plants,,,26,Ovule is located inside the ________.,,,,,,Ovary,,FIB
+4,Reproduction of Animals and Plants,,,27,The seedlings take in nutrients initially from ________.,,,,,,Seed,,FIB
+4,Reproduction of Animals and Plants,,,28,Seed is enclosed in ________.,,,,,,Seed Coat,,FIB
+4,Reproduction of Animals and Plants,,,29,________ act as the receiving part for pollen grains.,,,,,,Stigma,,FIB
+4,Reproduction of Animals and Plants,,,30,The long stalk that attaches stamen with the flower part is ________.,,,,,,Filament,,FIB
+4,Reproduction of Animals and Plants,,,31,Male sex hormone is produced by,Male gonad,Prostate gland,Testes,Both (a) and (c),,d,,MCQ
+4,Reproduction of Animals and Plants,,,32,Scrotum helps to maintain,Low pH,Low temperature,High temperature,High pH,,b,,MCQ
+4,Reproduction of Animals and Plants,,,33,Which one of the following is a wrong statement?,Testes are located outside the body.,Sperm production requires a temperature higher than normal internal temperature.,Semen constitutes sperm and also other substances that nourish the sperm.,Tail of sperm helps in the movement.,,b,,MCQ
+4,Reproduction of Animals and Plants,,,34,Match the following,A,B,C,D,CH-4-34-ROW-156,d,,MCQ
+4,Reproduction of Animals and Plants,,,35,"Which one of the following options are correct.
+I.   In amoeba, nucleus and cytoplasm divide simultaneously during binary fission.
+II.  In budding, the new offspring detaches immediately from the parent.
+III. In amoeba, cytoplasm divides first followed by the division of nucleus.
+IV In budding, the new offspring detaches after it is fully matured.",I and II,I and IV,III only,IV only,,d,,MCQ
+4,Reproduction of Animals and Plants,,,36,Head of sperm contains,Nucleus only,Nucleus and mitochondria,Mitochondria and acrosome,Nucleus and acrosome,,d,,MCQ
+4,Reproduction of Animals and Plants,,,37,Ovum from the ovary reaches the uterus through,Cervix,Oviduct,Fallopian tube,Both (b) and (c),,d,,MCQ
+4,Reproduction of Animals and Plants,,,38,The part of sperm that contains mitochondria,Tail,Acrosome,Middle piece,Head,,c,,MCQ
+4,Reproduction of Animals and Plants,,,39,The part of sperm that helps in the penetration of ovum is,Acrosome,Nucleus,Tail,Middle piece,,a,,MCQ
+4,Reproduction of Animals and Plants,,,40,Cervix is,Upper part of the uterus,Middle part of the fallopian tube,Lower part of the uterus,Lower part of the fallopian tube,,c,,MCQ
+4,Reproduction of Animals and Plants,,,41,"Assertion (A) : Sexual reproduction involves fusion of male and female gametes to form embryo
+Reason (R) : Gamete is a single cell that can fuse with another gamete of opposite sex",Both A and R are true and R is the correct explanation for A.,Both A and R are true but R is the not the correct explanation for A.,A is true and R is false.,A is false and R is true.,,d,,MCQ
+4,Reproduction of Animals and Plants,,,42,"To enable implantation, usually the thickness of inner lining of the uterus",Decreases,Remains the same,Increases,First decreases and then remains the same.,,c,,MCQ
+4,Reproduction of Animals and Plants,,,43,"In which of the following organisms, fertilization is not internal?",Humans,Frogs,Hens,Dogs,,b,,MCQ
+4,Reproduction of Animals and Plants,,,44,"In a normal healthy person, a single ejaculation contains around ______ sperms",300 million,150 billion,150 million,300 billion,,a,,MCQ
+4,Reproduction of Animals and Plants,,,45,Sperm fuses with egg at,Fallopian tube,Uterus,Cervix,Vagina,,a,,MCQ
+4,Reproduction of Animals and Plants,,,46,Which one of the following is a wrong statement?,Every month ovum will be released from both ovaries.,Ovoviviparous animals do not provide nutrition to the developing embryo.,"In girls, voice becomes high pitched at puberty.",Secondary sex characters do not have direct involvement in reproduction.,,a,,MCQ
+4,Reproduction of Animals and Plants,,,47,"Identify the word pair relationship.
+Frog: ________
+Internal fertilization: ________",a,b,c,d,,External fertilization : Human,,MCQ
+4,Reproduction of Animals and Plants,,,48,Match the following,a,b,c,d,CH-4-48-ROW-169,a,,MCQ
+4,Reproduction of Animals and Plants,,,49,Usually ovulation takes place on,14th day,Middle of menstrual cycle,Towards the end of menstruation cycle,Both (a) and (b),,d,,MCQ
+4,Reproduction of Animals and Plants,,,50,"Identify the word pair relationship
+Endocrine gland : ________
+________ : Sweat gland",A,B,C,D,,Pituitary Gland : Exocrine Gland,,MCQ
+4,Reproduction of Animals and Plants,,,51,Which one of the following is not a feature of viviparous animals?,They give birth to young ones.,Embryo development takes place inside the female body,Less embryonic care and protection.,Provides nutrition to the foetus through placenta.,,c,,MCQ
+4,Reproduction of Animals and Plants,,,52,"Assertion (A) : Hen comes under oviparous animals
+Reason (R) : Oviparous animals give birth to young ones",Both A and R are true and R is the correct explanation for A.,Both A and R are true but R is the not the correct explanation for A.,A is true and R is false.,A is false and R is true.,,c,,MCQ
+4,Reproduction of Animals and Plants,,,53,"Assertion (A) : Pituitary gland is an exocrine gland
+Reason (R) : It releases it secretions directly into blood",Both A and R are true and R is the correct explanation for A.,Both A and R are true but R is the not the correct explanation for A.,A is true and R is false.,A is false and R is true.,,d,,MCQ
+4,Reproduction of Animals and Plants,,,54,The accessory floral parts are,Sepal and tepal,Sepal and petal,Stamen and pistil,Androecium and gynoecium,,b,,MCQ
+4,Reproduction of Animals and Plants,,,55,The unit of androecium is,Stamen,Pistil,Anther,Stigma,,a,,MCQ
+4,Reproduction of Animals and Plants,,,56,Entomophily involves pollination through:,Wind,Water,Insects,Birds,,c,,MCQ
+4,Reproduction of Animals and Plants,,,57,Cultivation or propagation of plants by growing plant cells in lab is called,Layering,Grafting,Vegetative propagation,Plant tissue culture,,d,,MCQ
+4,Reproduction of Animals and Plants,,,58,Match the following,a,b,c,d,CH-4-58-ROW-180,c,,MCQ
+4,Reproduction of Animals and Plants,,,59,Which one of the following is a wrong statement?,Layering can take place naturally.,Grafting is used to develop roots on soft stems.,The free unit of carpel is pistil.,Male gamete is produced in anther.,,b,,MCQ
+4,Reproduction of Animals and Plants,,,60,Tapioca can be propagated vegetatively using ________.,Stem,Root,Leaves,None of the above,,a,,MCQ
+4,Reproduction of Animals and Plants,,,61,"In Bryophyllum plant, new plants can be developed from",Leaves,Stem,Root,Bulb,,a,,MCQ
+4,Reproduction of Animals and Plants,,,62,"Identify the word pair relationship
+________ : Potato
+Bulb : ________",,,,,,"Tuber, Onion",,MCQ
+4,Reproduction of Animals and Plants,,,63,The root taken for grafting is called,Scion,Graft,Stock,Both (a) and (b),,c,,MCQ
+4,Reproduction of Animals and Plants,,,64,"Assertion (A) : Calyx and corolla are known as accessory floral organs.
+Reason (R) : Accessory floral organs do not participate directly in reproduction.",Both A and R are true and R is the correct explanation for A.,Both A and R are true but R is the not the correct explanation for A.,A is true and R is false.,A is false and R is true.,,a,,MCQ
+5,Microorganisms and Human Health,,,1,The study of microorganisms is called ________.,,,,,,Microbiology,,FIB
+5,Microorganisms and Human Health,,,2,The antibiotic penicillin is produced by the fungus _______.,,,,,,Penicillium,,FIB
+5,Microorganisms and Human Health,,,3,The conversion of sugar into alcohol is known as ________.,,,,,,Fermentation,,FIB
+5,Microorganisms and Human Health,,,4,________ is a bacterium that can fix atmospheric nitrogen.,,,,,,Rhizobium,,FIB
+5,Microorganisms and Human Health,,,5,Immunity to chickenpox is an example for ________ immunity,,,,,,Acquired,,FIB
+5,Microorganisms and Human Health,,,6,Common cold is an example for ________ disease.,,,,,,Acute,,FIB
+5,Microorganisms and Human Health,,,7,Diseases caused by microorganisms are called ________.,,,,,,Infectious disease,,FIB
+5,Microorganisms and Human Health,,,8,Polio is caused by ________.,,,,,,Virus,,FIB
+5,Microorganisms and Human Health,,,9,"Diseases that can spread from one person to
+another are called ________.",,,,,,Communicable disease,,FIB
+5,Microorganisms and Human Health,,,10,Genetic diseases arise due to abnormalities in,,,,,,DNA,,FIB
+5,Microorganisms and Human Health,,,11,Which one of the following is not an infectious disease?,Cholera,Polio,Malaria,Obesity,,d,,MCQ
+5,Microorganisms and Human Health,,,12,Select the odd one out,Neutrophils,RBCs,Basophils,Monocytes,,b,,MCQ
+5,Microorganisms and Human Health,,,13,Which one of the following is not a communicable disease?,Cancer,Common cold,Malaria,Dengue fever,,a,,MCQ
+5,Microorganisms and Human Health,,,14,Diseases can spread through,Aerosols,Sexual contact,Water,All the above,,d,,MCQ
+5,Microorganisms and Human Health,,,15,Bacterium that helps in milk curdling is,Lactobacillus,Rhizobium,Lactococcus,None of the above,,a,,MCQ
+5,Microorganisms and Human Health,,,16,"Identify the wrong statement
+A. A vaccine is a biological preparation that contains active or weakend microbe.
+B. Polio is an infectious disease caused by bacteria.
+C. Cancer is caused due to abnormalities in DNA.
+D. Lifestyle habits can cause diseases like obesity.",A only,B and C,C only,A and B,,d,,MCQ
+5,Microorganisms and Human Health,,,17,"Identify the word pair relationship
+Cholera : ________
+______ : Viral",,,,,,"Bacteria, Polio",,MCQ
+5,Microorganisms and Human Health,,,18,Match the following.,,,,,CH-5-18-ROW-204,c,,MCQ
+5,Microorganisms and Human Health,,,19,Substances that are produced by the body to fight against the invader is,Antibiotic,Vaccine,Antibody,Antigen,,c,,MCQ
+5,Microorganisms and Human Health,,,20,The antibiotic penicillin was discovered by,Alexander Fleming,Ernst Boris Chain,Robert Hooke,Howard Florey,,a,,MCQ
+5,Microorganisms and Human Health,,,21,"Assertion (A) : Yeast can be used commercially to produce alcohol
+Reason (R) : Yeast can perform fermentation",Both A and R are true and R is the correct explanation for A.,Both A and R are true but R is the not the correct explanation for A.,A is true and R is false.,A is false and R is true.,,a,,MCQ
+5,Microorganisms and Human Health,,,22,"Assertion (A) : Immunity to chickenpox is considered as acquired immunity.
+Reason (R) : Immunity that is inherited from parents is considered as acquired immunity",Both A and R are true and R is the correct explanation for A.,Both A and R are true but R is the not the correct explanation for A.,A is true and R is false.,A is false and R is true.,,c,,MCQ
+6,Ecosystem and Biodiversity,,,1,Organisms that feed on plants are called ________.,,,,,,Herbivores,,FIB
+6,Ecosystem and Biodiversity,,,2,Animals that cannot synthesize food and which depend on other organisms for food are called ________.,,,,,,Consumers,,FIB
+6,Ecosystem and Biodiversity,,,3,________ is the functional unit of nature.,,,,,,Ecosystems,,FIB
+6,Ecosystem and Biodiversity,,,4,Microbes and insects are included in ________ factors of an ecosystem.,,,,,,Biotic,,FIB
+6,Ecosystem and Biodiversity,,,5,Interconnected food chains are called ________.,,,,,,Food Webs,,FIB
+6,Ecosystem and Biodiversity,,,6,Organisms that feed on both plant and animals are ________.,,,,,,Omnivores,,FIB
+6,Ecosystem and Biodiversity,,,7,Organisms that feed on dead and decaying matter are ________.,,,,,,Decomposers,,FIB
+6,Ecosystem and Biodiversity,,,8,Biomagnification is also known as ________.,,,,,,Bioamplification,,FIB
+6,Ecosystem and Biodiversity,,,9,Substances that cause pollution are ________.,,,,,,Pollutants,,FIB
+6,Ecosystem and Biodiversity,,,10,Animals that carry disease-causing microbes are called ________.,,,,,,Carriers,,FIB
+6,Ecosystem and Biodiversity,,,11,Kaziranga National Park protects ________.,,,,,,One-horned rhinoceros,,FIB
+6,Ecosystem and Biodiversity,,,12,Bharatpur Bird Sanctuary is an example for ________ conservation,,,,,,In situ,,FIB
+6,Ecosystem and Biodiversity,,,13,Organisms that are found only in a particular area are called ________.,,,,,,Endemic species,,FIB
+6,Ecosystem and Biodiversity,,,14,Extinction of a parasite along with extinction of its specific host is an example of ________,,,,,,Co-Extinction,,FIB
+6,Ecosystem and Biodiversity,,,15,Full form of IUCN is ________.,,,,,,International Union for Conservation of nature,,FIB
+6,Ecosystem and Biodiversity,,,16,World environment day is ________.,,,,,, June 5,,FIB
+6,Ecosystem and Biodiversity,,,17,Species that are likely to move into endangered category are ________.,,,,,,Vulnerable,,FIB
+6,Ecosystem and Biodiversity,,,18,Passenger pigeon is an example of ________.,,,,,,Extinct species,,FIB
+6,Ecosystem and Biodiversity,,,19,Which one of the following is a herbivore?,Man,Deer,Lion,Bear,,b,,MCQ
+6,Ecosystem and Biodiversity,,,20,The green pigment that traps solar energy during photosynthesis is,Anthocyanin,Carotenoid,Haemoglobin,Chlorophyll,,d,,MCQ
+6,Ecosystem and Biodiversity,,,21,Organisms that feed on herbivores are,Decomposers,Carnivores,Omnivores,Producers,,b,,MCQ
+6,Ecosystem and Biodiversity,,,22,"In a food chain, energy flows from",Higher trophic to lower trophic levels.,From consumer to producer.,From lower trophic to higher trophic levels.,From higher to lower trophic levels and vice versa.,,c,,MCQ
+6,Ecosystem and Biodiversity,,,23,The amount of energy ________ from higher trophic to lower trophic levels.,Increases,Decreases,Remains the same,Cannot be predicted,,a,,MCQ
+6,Ecosystem and Biodiversity,,,24,Match the following,,,,,CH-6-24-ROW-232,d,,MCQ
+6,Ecosystem and Biodiversity,,,25,Which one of the following is a wrong statement?,Accumulation of toxic substances increases from lower trophic to higher trophic levels.,Energy reduces as it flows from producer to consumer.,Energy reduces as it moves from lower trophic to higher trophic levels.,Energy content will be high in carnivores than herbivores in a food chain.,,d,,MCQ
+6,Ecosystem and Biodiversity,,,26,Desert and forest are examples of,Genetic diversity,Ecological diversity,Habitat diversity,None of the above,,b,,MCQ
+6,Ecosystem and Biodiversity,,,27,Deforestation will result in extinction of many species due to,Overexploitation,Co-extinction,Habitat loss,Introduction of exotic species,,c,,MCQ
+6,Ecosystem and Biodiversity,,,28,Lion-tailed macaques are protected in,Silent Valley National Park,Kaziranga National Park,Bharatpur Bird Sanctuary,Satpura National Park,,a,,MCQ
+6,Ecosystem and Biodiversity,,,29,Which one of the following is a correct statement?,Overexploitation of species helps in increasing population number of many species.,"Silent Valley National Park is an example of in situ conservation method which conserves
+wildlife outside its natural habitat.",Endemic species are organisms that are found only in a particular area.,Biodiversity refers to genetic and species diversity only.,,c,,MCQ
+6,Ecosystem and Biodiversity,,,30,The record that includes all flora and fauna that are on the verge of extinction is,Blue Data Book,Red Data Book,Green Data Book,None of the above,,b,,MCQ
+6,Ecosystem and Biodiversity,,,31,Ex-situ conservation meant for protecting endangered plant species under artificial conditions is ________.,Zoological garden,Red Data Book,Museum,Botanical garden,,d,,MCQ
+6,Ecosystem and Biodiversity,,,32,Match the following,,,,,CH-6-32-ROW-240,d,,MCQ
+6,Ecosystem and Biodiversity,,,33,Match the following,,,,,CH-6-33-ROW-241,c,,MCQ
+6,Ecosystem and Biodiversity,,,34,Write the full form WWF.,,,,,,Worldwide fund for nature,,MCQ
+6,Ecosystem and Biodiversity,,,35,Biological diversity day is, March 21, December 29, April 22,June 5,,b,,MCQ
+7,Food-Production and Management,,,1,Mustard is a ________ crop.,,,,,,Rabi,,FIB
+7,Food-Production and Management,,,2,Scattering the seeds by hand is called ________.,,,,,,Broadcasting,,FIB
+7,Food-Production and Management,,,3,Organic matter formed by the decomposition of plant wastes is called ________.,,,,,,Manure,,FIB
+7,Food-Production and Management,,,4,The most efficient method of irrigation is ________.,,,,,,Drip irrigation,,FIB
+7,Food-Production and Management,,,5,The tool used to break soil crumbs is ________.,,,,,,Plank,,FIB
+7,Food-Production and Management,,,6,Zaid crops are grown in ________ season,,,,,,Summer Season ,,FIB
+7,Food-Production and Management,,,7,The bacterium that is capable of performing nitrogen fixation is ________.,,,,,,Rhizobium,,FIB
+7,Food-Production and Management,,,8,Planting different crops on the same land simultaneously is called ________.,,,,,,Mixed cropping,,FIB
+7,Food-Production and Management,,,9,________ irrigation is helpful in sandy soil.,,,,,,Sprinkler irrigation,,FIB
+7,Food-Production and Management,,,10,Chemicals that are used to control weeds are called ________.,,,,,,Weedicide,,FIB
+7,Food-Production and Management,,,11,________ is the widely used silk worm for sericulture.,,,,,,Bombyz mori,,FIB
+7,Food-Production and Management,,,12,Pisciculture involves rearing of ________.,,,,,,Fish,,FIB
+7,Food-Production and Management,,,13,Sericulture is also called ________.,,,,,,Silk farming,,FIB
+7,Food-Production and Management,,,14,Breeding between animals of same breed is called ________.,,,,,,Inbreeding,,FIB
+7,Food-Production and Management,,,15,Domesticated animals for commercial purposes are called ________.,,,,,,Livestock,,FIB
+7,Food-Production and Management,,,16,Grains produced at a large scale can be stored in,Silos,Jute bag,Granaries,Both (a) and (c),,d,,MCQ
+7,Food-Production and Management,,,17,Dried leaves can be used to ________,To repel insects,To control weeds,To increase soil fertility,None of the above,,a,,MCQ
+7,Food-Production and Management,,,18,Separation of grains from chaff is called,Threshing,Harvesting,Winnowing,Weeding,,c,,MCQ
+7,Food-Production and Management,,,19,"Identify the word--pair relationship.
+Seed drill : ________
+________ : Breaking of soil crumbs
+Plough : ________",,,,,,"Sowing, Plank, Turning and Loosening the soil",,MCQ
+7,Food-Production and Management,,,20,Match the following,,,,,CH-7-20-ROW-263,d,,MCQ
+7,Food-Production and Management,,,21,Which one of the following is not a rabi crop?,Maize,Wheat,Linseed,Mustard,,a,,MCQ
+7,Food-Production and Management,,,22,Identify the wrong statement.,Fertilizers add humus to the soil.,Manure provides all primary nutrients.,Long-term use of fertilizer reduces soil fertility.,Crop rotation avoids depletion of a particular nutrient from the soil.,,a,,MCQ
+7,Food-Production and Management,,,23,In ________ irrigation water falls drops by drop at the position of roots.,Surface,Drip,Sprinkler,Manual,,b,,MCQ
+7,Food-Production and Management,,,24,NPK is an example of,Weedicide,Manure,Fertilizer,Insecticide,,c,,MCQ
+7,Food-Production and Management,,,25,Leaving the land uncultivated for one or more seasons is called,Crop rotation,Inter cropping,Field fallowing,Both (a) and (b),,c,,MCQ
+7,Food-Production and Management,,,26,"Assertion (A) : Maize is a kharif crop
+Reason (R) : Maize is grown in rainy season",Both A and R are true and R is the correct explanation for A.,Both A and R are true but R is the not the correct explanation for A.,A is true and R is false.,A is false and R is true.,,a,,MCQ
+7,Food-Production and Management,,,27,"Assertion (A) : Leguminous plants help in increasing the soil fertility
+Reason (R) : Leguminous plants can perform nitrogen fixation",Both A and R are true and R is the correct explanation for A.,Both A and R are true but R is the not the correct explanation for A.,A is true and R is false.,A is false and R is true.,,c,,MCQ
+7,Food-Production and Management,,,28,"Assertion (A) : Grains should be dried properly before storing.
+Reason (R) : Moisture content increases the chances of spoilage due  to micro-organisms.",Both A and R are true and R is the correct explanation for A.,Both A and R are true but R is the not the correct explanation for A.,A is true and R is false.,A is false and R is true.,,a,,MCQ
+7,Food-Production and Management,,,29,Select the wrongly matched pairs.,Apiculture – Honey bee,Sericulture – Fish,Dairy farming – Milk,Poultry farming – Meat,,b,,MCQ
+7,Food-Production and Management,,,30,Breeding between unrelated animals of different species is called,Intraspecific breeding,Interspecific breeding,Intergeneric breeding,Crossbreeding,,b,,MCQ
+7,Food-Production and Management,,,31,Ponwar is an example for ________ breed,Chicken,Foreign cow,Indian cow,None of the above,,c,,MCQ
+7,Food-Production and Management,,,32,Select the mismatch,Bombyx mori – Sericulture,Gambusia – Pisciculture,Hallikar – Poultry farming,Bee wax – Cosmetics,,c,,MCQ
+7,Food-Production and Management,,,33,Genetic engineering involves manipulation in,DNA,RNA,Gamete,Protein,,a,,MCQ
+7,Food-Production and Management,,,34,Which of the following is a wrong statement?,Animal grazing can be used to control weed growth.,Fish farming of Gambusia can be used to control the spread of malaria.,Bombyx mori is the widely used honey bee variety used for apiculture.,"Bee wax can be used in many cosmetics, polishes, etc.",,c,,MCQ
+7,Food-Production and Management,,,35,Match the following,,,,,CH-7-35-ROW-278,d,,MCQ
+7,Food-Production and Management,,,36,Identify the one which is not used for dairy farming.,Deoni,Hallikar,Khillari,Bombyx,,d,,MCQ
+7,Food-Production and Management,,,37,Select the correctly matched pair.,Outbreeding: Breeding between related animals,Crossbreeding: Inbreeding between animals of same breed,Outbreeding: Breeding between unrelated animals of same breed,Inbreeding: Breeding between animals of different breeds,,c,,MCQ
+7,Food-Production and Management,,,38,Jaya and Ratna are examples of ________ varieties,Maize,Rice,Wheat,Barley,,b,,MCQ

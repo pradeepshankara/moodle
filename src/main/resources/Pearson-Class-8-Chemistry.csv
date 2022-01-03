@@ -1,0 +1,456 @@
+Chapter Number,ChapterName,SubChapterName,Classification,QuestionNumber,QuestionText,Option1,Option2,Option3,Option4,Image?,Answer,AnswerDescription,QuestionType
+1,Atomic Structure ,Concept Application,,1,"In Thomson’s atomic model, positive mass occupies more space than the negative charge in an atom.",,,,,,1,,TF
+1,Atomic Structure ,Concept Application,,2,α-ray scattering experiment proved the presence of neutrons in an atom.,,,,,,0,,TF
+1,Atomic Structure ,Concept Application,,3,Thomson could successfully explain the electrical neutrality of an atom.,,,,,,1,,TF
+1,Atomic Structure ,Concept Application,,4,The e/m ratio of cathode rays is different for different gases.,,,,,,0,,TF
+1,Atomic Structure ,Concept Application,,5,High pressure and low voltage should be maintained in the discharge tube for the production of cathode rays.,,,,,,0,,TF
+1,Atomic Structure ,Concept Application,,6,Mass number is the sum of the number of protons and neutrons in an atom.,,,,,,1,,TF
+1,Atomic Structure ,Concept Application,,7,Cathode rays deflect in the presence of magnetic field.,,,,,,1,,TF
+1,Atomic Structure ,Concept Application,,8,The discovery of ________ proved that atom is divisible.,,,,,,Electron,,FIB
+1,Atomic Structure ,Concept Application,,9,The maximum number of electrons present in fifth shell is _________.,,,,,,50,,FIB
+1,Atomic Structure ,Concept Application,,10,Electron present in __________ orbit cannot lose its energy.,,,,,,First,,FIB
+1,Atomic Structure ,Concept Application,,11,The fundamental particle present in anode rays produced by ~1*H^1& is _________.,,,,,,Proton,,FIB
+1,Atomic Structure ,Concept Application,,12,The electrode connected to the negative terminal of a battery in a discharge tube is called _________.,,,,,,Cathode,,FIB
+1,Atomic Structure ,Concept Application,,13,The specific charge value of anode rays produced by _________ is the maximum.,,,,,,Hydrogen,,FIB
+1,Atomic Structure ,Concept Application,,14,The sum of protons and neutrons is same in _________.,,,,,,Isobars,,FIB
+1,Atomic Structure ,Concept Application,,15,Match the following,"A->e, D->c, B->d,E->a,C->b","A->c, D->e, B->a,E->d,C->b","A->e, D->d, B->c,E->a,C->b","A->e, D->c, B->d,E->b,C->a",CH-1-15-ROW-16,a,,MCQ
+1,Atomic Structure ,Concept Application,,16,Certain amount of a gas is enclosed in a discharge tube. The bulb in the arrangement given below can be made to glow when,vacuum is created in the discharge tube.,the gas is replaced by the same amount of an easily ionisable gas.,the other gas of low molecular weight is introduced.,the amount of gas in the discharge tube is decreased.,CH-1-16-ROW-17,d,,MCQ
+1,Atomic Structure ,Concept Application,,17,Which of the following particles is largely responsible for the chemical behaviour of elements?,Proton,Electron,Neutron,Positron,,b,,MCQ
+1,Atomic Structure ,Concept Application,,18,~8*X~16& and ~8*X^17& represent,Isotones,Isobars,Isotopes,Isosters,,c,,MCQ
+1,Atomic Structure ,Concept Application,,19,The isotope with zero neutron is,Protium,Deuterium,Tritium,None of these,,a,,MCQ
+1,Atomic Structure ,Concept Application,,20,"Two elements X and Y have 6 and 7 electrons in their N- and M-shells, respectively. Find the ratio of atomic numbers of X and Y.",3 : 4,1 : 2,2 : 1,6 : 7,,c,,MCQ
+1,Atomic Structure ,Concept Application,,21,The number of valence electrons in ~4*X^8& atom is,1,2,3,4,,b,,MCQ
+1,Atomic Structure ,Concept Application,,22,The number of valence electrons in ~20*^40&X is,7,9,5,2,,d,,MCQ
+1,Atomic Structure ,Concept Application,,23,"Two elements A and B have 14 and 9 electrons in M- and N-shells, respectively. Then the ratio of their atomic numbers is",2 : 3,3 : 4,3 : 2,1 : 2,,a,,MCQ
+1,Atomic Structure ,Concept Application,,24,"According to Thomson,",negative charge of an atom is uniformly distributed throughout the atom.,the volume occupied by positive charge is less than that occupied by the negative charge.,electrons are embedded in the positive charge which is spread uniformly.,None of the above,,c,,MCQ
+1,Atomic Structure ,Concept Application,,25,"~x*^y&A, ^y+1&~x*A are two isotopes of element A. Difference between the number of neutrons in the isotopes is",1 - 2y,1 - x,1,2x - 1,,c,,MCQ
+1,Atomic Structure ,Concept Application,,26,Low pressure is maintained in the discharge tube to,increase the number of molecules,increase ionisation of gas molecules,decrease the velocity of the rays coming from the cathode,All the above,,b,,MCQ
+1,Atomic Structure ,Concept Application,,27,"If velocity of α-particles increases, then angle of deviation",Increases,Decreases ,Remains same,Cannot be predicted,,b,,MCQ
+1,Atomic Structure ,Concept Application,,28,Which of the following unipositive ions possesses all the three subatomic particles?,Helium,Deuterium,Tritium,Hydrogen,,a,,MCQ
+1,Atomic Structure ,Concept Application,,29,"The ratio of the number of electrons in the N-shell of A and the M-shell of B with atomic numbers 40 and 32, respectively, is",5 : 3,9 : 5,5 : 9,5 : 4,,c,,MCQ
+1,Atomic Structure ,Concept Application,,30,Total number of electrons present in the penultimate shell of an element with atomic number 36 is,18,10,8,16,,a,,MCQ
+1,Atomic Structure ,Concept Application,,31,"To draw the geometrical representation for the structure of the oxygen atom the following steps are given. Identify the correct sequence of the steps.
+1) The eight electrons present in the extranuclear part would be distributed in the first two orbits, i.e., K and L. As per the rules, two electrons would occupy the K-orbit and the remaining six electrons occupy the L-orbit.
+2) The atomic number of oxygen is 8. 
+3) In the nucleus, 8 protons and 8 neutrons are present and in the extranuclear part, i.e., in the orbits, 8 electrons are present.
+4) Oxygen atom has 8 electrons and 8 protons.The mass number is 16, and hence, the number of neutrons is equal to 8 [~8*O^16&].",2 1 3 4 ,3 1 4 2,2 4 3 1,3 4 2 1,,c,,MCQ
+1,Atomic Structure ,Concept Application,,32,"Arrange the following statements in a sequence which involves the calculation of the atomic number and mass number for an atom of an element with 15 electrons and 16 neutrons.
+1) A = Number of protons + Number of neutrons A = Z + Number of neutrons A = 15 + 16 = 31
+2) Number of protons and number of electrons are equal in a neutral atom. Hence, the atomic number Z is equal to 15.
+3) Mass number is equal to the total number of protons and neutrons.
+4) Atomic number is 15 and mass number is 31.",2 4 3 1,2 3 1 4,3 2 1 4,3 2 4 1,,b,,MCQ
+1,Atomic Structure ,Concept Application,,33,"Many theories and experiments carried out for the study of atom eventually led to the development of its structure. Arrange the given theories or models of atom proposed by different scientists in chronological order.
+1) planetary model
+2) watermelon model
+3) Bohr’s atomic model
+4) Dalton’s atomic theory",3 2 1 4,4 1 2 3,2 1 4 3,4 2 1 3,,d,,MCQ
+1,Atomic Structure ,Concept Application,,34,"Rutherford’s α-ray scattering experiment led to the discovery of the nucleus and to the conclusion that an atom consists of large empty space. Arrange the following steps in a sequence which explains
+the experiment and also the above mentioned conclusions.
+(1) To make out the observations a spherical ZnS screen was placed surrounding the gold foil.
+(2) The substance which acts as a source of α-particles is taken in a lead container and made to pass through a slit between like charged positive plates.
+(3) It was observed that most of the particles passed straight through the gold foil, few were deflected through small angles and very few through large angles. However, very few completely rebounded.
+(4) A narrow, condensed beam consisting of α-particles is made to bombard on a thin gold foil.",1 3 2 4,2 3 1 4,4 2 1 3,2 4 1 3,,d,,MCQ
+1,Atomic Structure ,Concept Application,,35,The mass of which of the following fundamental particles is negligible?,Electrons,Protons,Neutrons,Both (1) and (3),,a,,MCQ
+1,Atomic Structure ,Concept Application,,36,Identify the electronic configuration of manganese (Z = 25),"2, 8, 13, 2","2, 8, 8, 7","2, 8, 15","2, 8, 10, 5",,b,,MCQ
+1,Atomic Structure ,Concept Application,,37,Which among the following set of elements contain same number of valence electrons?,a,b,c,d,CH-1-37-ROW-38,c,,MCQ
+1,Atomic Structure ,Concept Application,,38,The atoms of the same element may differ in the number of ______,electrons only,protons only,neutrons only,both electrons and protons,,c,,MCQ
+1,Atomic Structure ,Concept Application,,39,"Assertion (A) : Electrons present in ground states of different single electron species (H, He+, Li++) possess different amounts of energy.
+Reason (R) : Distances of electrons from the nuclei of different single electron species are equal.",Both A and R are correct and R is the correct explanation of A.,Both A and R are correct and R is not the correct explanation of A.,A is correct and R is wrong.,A is wrong and R is correct,,c,,MCQ
+1,Atomic Structure ,Concept Application,,40,Identify the atomic number corresponding to least number of valence electrons,19,15,35,34,,a,,MCQ
+1,Atomic Structure ,Concept Application,,41,"An atom of an element has mass number 31. It has 16 neutrons. The valence shell and the number of valence electrons, respectively, could be",M-shell and 6 electrons,M-shell and 5 electrons,N-shell and 5 electrons,L-shell and 6 electrons,,b,,MCQ
+1,Atomic Structure ,Concept Application,,42,The number of electrons present in each α-particle is,2,3,0,1,,c,,MCQ
+1,Atomic Structure ,Concept Application,,43,An atom of an element has two electrons in the valence shell and two consecutive inner shells have 8 electrons each. Calculate the atomic number of the element.,19,20,30,18,,b,,MCQ
+1,Atomic Structure ,Concept Application,,44,Rutherford’s theory assumed which of the following paths for the electron?,Spherical,Circular,Spiral,Not defined,,b,,MCQ
+1,Atomic Structure ,Concept Application,,45,"If an electron jumps from orbit A to orbit B, it loses energy and if it jumps from C to B, it gains energy. Arrange the orbits in the increasing order of distance from the nucleus.",A < B < C,C < A < B,C < B < A,A < C < B,,c,,MCQ
+2,Classification of Matter,Concept Application,,1,Gas molecules have higher intermolecular forces of attraction due to larger intermolecular spaces.,,,,,,0,,TF
+2,Classification of Matter,Concept Application,,2,Non-metals usually form acidic oxides.,,,,,,1,,TF
+2,Classification of Matter,Concept Application,,3,Boiling occurs throughout the liquid.,,,,,,1,,TF
+2,Classification of Matter,Concept Application,,4,German silver is an alloy of silver and copper.,,,,,,0,,TF
+2,Classification of Matter,Concept Application,,5,Distillation is the method used for separation of petrol from water.,,,,,,0,,TF
+2,Classification of Matter,Concept Application,,6,Glucose–water mixture can be separated by the method of evaporation.,,,,,,1,,TF
+2,Classification of Matter,Concept Application,,7,Metals form basic oxides or amphoteric oxides.,,,,,,1,,TF
+2,Classification of Matter,Concept Application,,8,Decrease of pressure ________ the boiling point of a liquid.,,,,,,Decreases,,FIB
+2,Classification of Matter,Concept Application,,9,Rate of evaporation is increased by increasing _______ and __________.,,,,,,DUMMY,,FIB
+2,Classification of Matter,Concept Application,,10,________ acts as a catalyst during the hydrogenation of vegetable oils.,,,,,,DUMMY,,FIB
+2,Classification of Matter,Concept Application,,11,Liquid ________ is used to preserve biological specimens,,,,,,DUMMY,,FIB
+2,Classification of Matter,Concept Application,,12,N~2* is ________ in KOH solution while CO~2* is ____________,,,,,,DUMMY,,FIB
+2,Classification of Matter,Concept Application,,13,Tincture of iodine is a mixture of _____ and _______.,,,,,,DUMMY,,FIB
+2,Classification of Matter,Concept Application,,14,Gases cannot be liquefied above a certain temperature called _________.,,,,,,Critical temperature,,FIB
+2,Classification of Matter,Concept Application,,15,Match the following,"A->e, D->c, B->d,E->a,C->b","A->e, C->g, E->c,G->f,B->d,D->a, F->b","A->e, D->d, B->c,E->a,C->b","A->e, D->c, B->d,E->b,C->a",CH-2-15-ROW-61,b,,MCQ
+2,Classification of Matter,Concept Application,,16,Brass is not suitable for type making because,brass expands on solidification,brass contracts on solidification,brass has less tensile strength,brass has less ductility,,b,,MCQ
+2,Classification of Matter,Concept Application,,17,Which of the following metals is used to galvanise iron sheets?,Copper,Aluminium,Tin,Zinc,,d,,MCQ
+2,Classification of Matter,Concept Application,,18,Iron possesses good casting properties when compared with copper because,iron contracts on solidification,iron expands on solidification,copper expands on solidification,copper neither contracts nor expands on solidification,,b,,MCQ
+2,Classification of Matter,Concept Application,,19,"With the increase in pressure, the boiling point of the liquid ________.",Decreases,Increases,Does not change,Depends on the nature of liquid,,b,,MCQ
+2,Classification of Matter,Concept Application,,20,_______ is used for making photographic films.,AgNO~3*,KNO~2*,AgO,AgCl,,d,,MCQ
+2,Classification of Matter,Concept Application,,21,Silver tarnishes due to the formation of _____,Oxide layer,Sulphide layer,Nitride Layer,Hydride layer,,b,,MCQ
+2,Classification of Matter,Concept Application,,22,Which among the pairs are separated by using the principle of dissolution in a suitable solvent?,"SO~2* and N~2*O~5*, KOH as solvent","SO~2* and NO~2*, KOH as solvent","SO~2* and N~2*O~3*, KOH as solvent","SO~2* and NO, KOH as solvent",,c,,MCQ
+2,Classification of Matter,Concept Application,,23,"A, B, C and D are four gases. If the order of their critical temperature is as D < B < C < A, then which of the following gases has the highest boiling point?",A,B,C,D,,a,,MCQ
+2,Classification of Matter,Concept Application,,24,Addition of potassium nitrate to ice results in,increase in melting point,decrease in melting point,change in colour of ice,both (a) and (c),,b,,MCQ
+2,Classification of Matter,Concept Application,,25,Identify the heterogeneous mixture among the following:,brine solution,duralumin,gunpowder,liquor ammonia,,b,,MCQ
+2,Classification of Matter,Concept Application,,26,Which of the following is a pure substance?,duralumin,magnalium,bell metal,magnesium,,c,,MCQ
+2,Classification of Matter,Concept Application,,27,Aluminium foil can be made from aluminium by using,its thermal and electrical conductivities,its malleable property,its sonorous property,all the above,,b,,MCQ
+2,Classification of Matter,Concept Application,,28,Pickles are not stored in steel or aluminium containers because,steel has chromium which is poisonous,aluminium takes up oxygen from pickles and spoils it,pickles have acids which can corrode iron and aluminium making pickles poisonous,None of the above,,b,,MCQ
+2,Classification of Matter,Concept Application,,29,The molecular arrangement of a substance depends upon,Temperature,Concentration,Pressure,All of these,,c,,MCQ
+2,Classification of Matter,Concept Application,,30,"Silver, gold and platinum are called noble metals because ________.",these are costly,these are precious,these have very less reactivity,all of these,,b,,MCQ
+2,Classification of Matter,Concept Application,,31,Which of the following statements is true regarding solids?,Solids are highly compressible.,Solids diffuse rapidly,Solids possess low density,Solids possess a number of free surfaces,,d,,MCQ
+2,Classification of Matter,Concept Application,,32,"In which of the following substances, intermolecular force of attraction is the maximum?",Iron bar,Water,Air,Nitrogen,,a,,MCQ
+2,Classification of Matter,Concept Application,,33,Which of the following has maximum compressibility?,Iron Bar,Petrol,Chlorine,Bromine,,c,,MCQ
+2,Classification of Matter,Concept Application,,34,"On heating, the temperature of the melting solid",Increases,Decreases ,Remains constant,may increase or decrease depending upon the nature of the solid,,c,,MCQ
+2,Classification of Matter,Concept Application,,35,Which of the following changes directly from solid to gas on heating?,ammonium chloride,sodium chloride,potassium chloride,calcium chloride,,a,,MCQ
+2,Classification of Matter,Concept Application,,36,"The process of phase transition from solid to liquid involves the following steps. Arrange them in a proper sequence.
+(1) Molecules become free to move, and thus, attain molecular arrangement of liquid.
+(2) The energy supplied makes the molecules to vibrate more.
+(3) During melting, the molecules overcome the forces of attraction between them.
+(4) The molecules acquire rotatory motion, translatory motion in addition to vibratory motion.",3 4 1 2,2 3 4 1 ,3 4 2 1,None of these,,b,,MCQ
+2,Classification of Matter,Concept Application,,37,"Under the normal conditions of temperature and pressure, the non-metal bromine exists in ______ state.",Solid,Liquid,Gaseous,Ionised,,b,,MCQ
+2,Classification of Matter,Concept Application,,38,Which of the following is not polyatomic?,Nitrogen,Sulphur,Ozone,Phosphorus,,a,,MCQ
+2,Classification of Matter,Concept Application,,39,Which of the following is not a mixture?,Sodium chloride solution,Brass,Bronze,Molten sodium chloride,,d,,MCQ
+2,Classification of Matter,Concept Application,,40,Which of the following elements is used for vulcanisation?,Phosphrous,Sulphur,Oxygen,Nitrogen,,b,,MCQ
+2,Classification of Matter,Concept Application,,41,"During the separation of acetone from water by fractional distillation, the following steps are carried out. Arrange the following in a proper
+sequence.
+(1) Water remains in the distillation flask.
+(2) The acetone–water mixture is taken in a distillation flask and the flask is heated at a temperature equal to or more than the boiling point of acetone but less than that of water.
+(3) As the vapours pass through the fractionating column, they get condensed and the liquid formed is collected in the receiver.
+(4) When the mixture in the flask is subjected to slow heating, acetone, being more volatile than water, gets vaporised first.",2 4 3 1 ,2 4 1 3,3 1 2 4,3 1 4 2,,a,,MCQ
+2,Classification of Matter,Concept Application,,42,"During the separation of immiscible liquid–liquid mixture by a separating funnel, the following steps are followed. Arrange them in a proper sequence.
+(1) The nozzle tap is opened slowly and the heavier component is allowed to trickle down.
+(2) The liquid–liquid mixture is poured into the separating funnel clamped vertically.
+(3) The lighter component remains in the flask.
+(4) The mixture is allowed to stand where clear layers of liquids are formed.
+(5) The liquid with higher density settles down at the bottom of the flask.",2 4 1 5 3,1 2 3 4 5,2 4 5 1 3,4 1 2 3 5,,c,,MCQ
+2,Classification of Matter,Concept Application,,43,"A student is carrying out distillation process in a lab. Water is boiling in the distillation flask. Water that is collected in the receiver flask is refrigerated and ice cubes are formed. Ice cubes are then kept outside the refrigerator and they started melting. Arrange the following phases of water in the ascending order of their total (PE + KE) energy
+considering that the mass of water remains the same.
+(1) Water collected in the receiving flask.
+(2) Water boiling in the distillation flask.
+(3) Steam passing through the delivery tube.
+(4) Ice cubes formed in the refrigerator.",4 3 2 1,4 1 2 3,3 4 2 1,4 1 3 2,,b,,MCQ
+2,Classification of Matter,Concept Application,,44,Which among the pairs is separated by using the principle of dissolution in a suitable solvent?,"SO~2* and N~2*O~5*, KOH as solvent","SO~2* and NO~2*, KOH as solvent","SO~2* and N~2*O~3*, KOH as solvent","SO~2* and NO, KOH as solvent",,DUMMY,,MCQ
+2,Classification of Matter,Concept Application,,45,"In which of the following uses of nitrogen, its characteristic property of inert nature is not exploited?",It is used to preserve biological specimen.,It dilutes the activity of oxygen present in the atmosphere.,It is used to preserve food materials.,Nitrogen is used for the synthesis of ammonia,,d,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,1,Formula for potassium biphosphate is KHPO~4*.,,,,,,0,,TF
+3,Language of Chemistry and Transformation of Substances,Concept Application,,2,The compounds H~2*O and D~2*O follow law of multiple proportions.,,,,,,1,,TF
+3,Language of Chemistry and Transformation of Substances,Concept Application,,3,A~2*X is comprised two divalent negative radicals and one monovalent positive radical.,,,,,,0,,TF
+3,Language of Chemistry and Transformation of Substances,Concept Application,,4,Formation of sodium nitrite and oxygen by thermal decomposition of sodium nitrate involves only a chemical change.,,,,,,0,,TF
+3,Language of Chemistry and Transformation of Substances,Concept Application,,5,"The reaction C + O~2* -> CO, follows the law of conservation of mass.",,,,,,0,,TF
+3,Language of Chemistry and Transformation of Substances,Concept Application,,6,Valency of sulphur in SO~2* is 2.,,,,,,0,,TF
+3,Language of Chemistry and Transformation of Substances,Concept Application,,7,"In exothermic reactions, the energy of products is more than the energy of reactants.",,,,,,0,,TF
+3,Language of Chemistry and Transformation of Substances,Concept Application,,8,"The valencies of sulphur in hydrogen sulphide and sulphur dioxide are ______ and ______, respectively.",,,,,,DUMMY,,FIB
+3,Language of Chemistry and Transformation of Substances,Concept Application,,9,"When 58 g of Mg(OH)~2* reacts with 98 g of H~2*SO~4*, it gives 36 g of H~2*O and ________ of MgSO~4*.",,,,,,120 g,,FIB
+3,Language of Chemistry and Transformation of Substances,Concept Application,,10,"If the molecular weight of a compound Na~x* SO~Y* is 142, then the values of X and Y are, respectively, ________ and ________.",,,,,,DUMMY,,FIB
+3,Language of Chemistry and Transformation of Substances,Concept Application,,11,"In Sn + HNO~3* ->  Sn(NO~3*)~2* + H~2*O + NH~4*NO~3*, the valencies of Sn are ______.",,,,,,DUMMY,,FIB
+3,Language of Chemistry and Transformation of Substances,Concept Application,,12,"In binary compounds, the suffix ________ is added to the second element.",,,,,,ide,,FIB
+3,Language of Chemistry and Transformation of Substances,Concept Application,,13,The symbol of the element ________ is F.,,,,,,Fluorine,,FIB
+3,Language of Chemistry and Transformation of Substances,Concept Application,,14,The reverse reaction of neutralisation is ________.,,,,,,Hydrolysis,,FIB
+3,Language of Chemistry and Transformation of Substances,Concept Application,,15,Match the following,"A->h, D->f, G->a, J->c, B->g, E->b, H->j, C->d, F->I, I->e","A->f, D->h, G->a, J->c, B->g, E->b, H->j, C->d, F->I, I->e","A->i, D->h, G->a, J->c, B->g, E->b, H->j, C->d, F->f, I->e","A->a, D->h, G->f, J->c, B->g, E->b, H->j, C->d, F->I, I->e",CH-3-15-ROW-106,b,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,16,Which of the following is not a physical change?,dissolution of oxygen in water,dissolution of carbon dioxide in water,dissolution of alcohol in water,dissolution of salt in water,,b,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,17,Which of the following double displacement reactions is correct?,AB + CD ->  AC + BD,AB + CD -> AD + BC,AB + CD -> CA + BD,AB + CD -> AD + CB,,c,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,18,"The formula of the phosphate of an element R is RPO~4*, then the formulae of its hydroxide and sulphide, respectively, are ______ and ______.",R(OH)~3* and R~3*S~2*,R(OH)~2* and R~3*S~2*,R(OH)~2* and R~3*S~2*,R(OH)~3* and R~2*S~3*,,c,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,19,"The molecular weight of a compound which contains a total number of five radicals is 160, then it is",Ca~3*P~2*,Fe~2*O~3*,Al~2*O~3*,Mg~3*N~2*,,b,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,20,"Removal of CO~2* and H~2*O from atmospheric air by using KOH and anhydrous CaCl~2* is an example of ________ and _______ changes, respectively.","Chemical, Chemical","Physical, Physical","Chemical, Physical","Physical, Chemical",,c,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,21,Which of the following reactions is a synthesis reaction?,"When steam is passed over red hot coke, a mixture of carbon monoxide and hydrogen is formed.",Sodium reacts with water to form sodium hydroxide and hydrogen.,"When the milk of lime (calcium hydroxide) is added to hot sodium carbonate solution, sodium hydroxide is obtained and calcium carbonate separates out as mud.",Stannic chloride is prepared by passing chlorine into molten tin.,,c,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,22,"Pb(NO~3*)~2* + Fe~2*(SO~4*)~3*  -> Fe(NO~3*)~3* + PbSO~4*
+Coefficients of lead sulphate and ferric nitrate in the balanced equation of the above reaction are","3, 4","3, 3","3, 2","2, 3",,c,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,23,"The names of the salts formed by the reaction of
+(i) Ca and HNO~3* and
+(ii) Ca and H~2*SO~3* are",(i) calcium nitrate (ii) calcium sulphate,(i) calcium nitrite (ii) calcium sulphite,(i) calcium nitrate (ii) calcium sulphite,(i) calcium nitrite (ii) calcium sulphate,,c,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,24,"A, B and C are the elements such that A on reaction with air produces a dazzling white flame, B is used in rubber industry for hardening and C acts as a conductor with rise in temperature. Then A, B and C are",Metals,"metal, and non-metal, respectively","non-metal, metal and metalloid, respectively","metal, non-metal and metalloid, respectively",,c,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,25,"In the preparation of H~2*SO~4* the catalyst and the inhibitor, respectively, are","platinum, molybdenum","iron, arsenic oxide","platinum, arsenic oxide","iron, molybdenum",,c,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,26,"Fe~2*O~3* + 3C -> 2Fe + 3CO, in this reaction",Fe undergoes oxidation and C undergoes reduction,Fe undergoes reduction and C undergoes oxidation,both Fe and C undergo reduction,both Fe and C undergo oxidation,,b,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,27,"Arrange the elements Zn, Sn, Ca and Al in the increasing order of their reactivity for replacing Cu from CuSO~4* solution:",Zn > Sn > Ca > Al,Ca > Al > Zn > Sn,Ca > Al > Sn > Zn,Ca > Sn > Zn > Al,,b,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,28,The valency of sulphate radical is equal to the valency of,phosphate radical,hydrogen phosphate radical,dihydrogen phosphate radical,phosphide radical,,b,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,29,The ratio of oxygen atoms present in one molecule of cupric nitrite and ferric sulphite is,4 : 9,2 : 3,1 : 2,1 : 3,,a,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,30,Which of the following statements is false?,A catalyst is highly specific,The percentage of yield of products can be influenced by a catalyst.,All catalysts have a large surface area.,Composition of a catalyst changes during the reaction.,,b,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,31,Which one of the following is the salt of a binary acid?,calcium sulphate,magnesium bromide,zinc phosphate,sodium carbonate,,b,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,32,Which of the following is a salt of ‘ous’ acid?,Na~2*SO~4*,NaNO~2*^+&,NaClO~2*,NaClO~4*,,c,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,33,"Arrange the following compounds in the order of valency of a positive radical.
+(i) A(H~2*PO~4*)~2*
+(ii) B~2*O
+(iii) C~2*(SO~4*)~3*",(iii) > (i) > (ii),(iii) > (ii) > (i),(ii) > (i) > (iii),(i) > (ii) > (iii),,a,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,34,"The name of a substance is given to a student. He was asked to write its formula. What is the systematic method to be followed to derive the formula? Arrange the given statements in a proper sequence to obtain the formula.
+(1) Symbol of positive ion or radical should be placed to the left-hand side and symbol of negative ion should be placed to the right-hand side.
+(2) Place the valency with charge of respective radicals on the top right hand corner of their symbols.
+(3) Write the symbols of the respective ions or radicals present in the given compound.
+(4) Criss-cross the valency on the lower right hand side of ions/radicals.
+(5) A radical consisting of more than one element has to be enclosed within the brackets if the respective number attained in criss-cross is more than one.
+(6) No space should be left in between oppositely charged ions while writing the formula.",3 1 2 4 5 6,4 3 6 2 5 1,4 1 3 2 4 6,5 6 4 2 1 3,,a,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,35,The different samples of CO~2* were found to contain carbon and oxygen in the same ratio of their mass. This illustrates,law of conservation of mass,law of definite proportions,law of multiple proportions,law of reciprocal proportions,,b,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,36,"When the reaction, Pb(NO~3*)~2* → PbO + NO~2* + O~2* is balanced, the coefficients of Pb(NO~3*)~2*, PbO and NO~2* are ______, ______ and ______, respectively.","2, 2 and 2","2, 4 and 4","4, 2 and 4","2, 2 and 4",,d,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,37,The reaction Hg + S → HgS represents a ______ as well as a ______ reaction.,"combination, synthesis","combination, analysis","decomposition, analysis","decomposition, synthesis",,a,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,38,The reaction NaOH + HCl → NaCl + H~2*O,follows law of conservation of mass,is a neutralisation reaction,is a precipitation reaction,both (1) and (2),,b,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,39,The formation of sulphur trioxide from sulphur dioxide and oxygen is an ______ reaction.,endothermic as well as redox,endothermic as well as precipitation,exothermic as well as redox,exothermic as well as precipitation,,c,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,40,The valency of nitride ion is same as the valency of ______ ion,ferric,Plumbic,zinc,calcium,,a,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,41,"Removal of CO~2* and H~2*O from atmospheric air by using KOH and anhydrous CaCl~2* is an example of ________ and _______ changes, respectively","chemical, chemical","physical, physical","chemical, physical","physical, chemical",,c,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,42,Reaction between barium chloride and aluminium sulphate is an example of,neutralisation reaction,displacement reaction,precipitation reaction,combination reaction,,c,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,43,Which among the following salts produces maximum number of metal ions per molecule when dissolved in a suitable solvent?,"aluminium phosphate, AlPO~4*","magnesium phosphate, Mg~3*(PO~4*)~2*","sodium biphosphate, Na~2*HPO~4*","aluminium dihydrogen phosphate, Al(H~2*PO~4*)",,b,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,44,"A series of chemical reactions were carried out in a laboratory in the following way. At first zinc granules reacted with H~2*SO~4* to form H~2* gas. Then hydrogen gas reacted with chlorine gas under diffused sunlight to form hydrogen chloride gas. Hydrogen chloride gas produced in this process was dissolved in water to form hydrochloric acid. Hydrochloric acid reacted with sodium hydroxide to form sodium chloride and water. Sodium chloride, thus, produced is first melted and then electricity is passed through it. Due to the passage of electricity through sodium chloride, sodium metal and chlorine gas are obtained.
+Rahul was asked to arrange the above reactions in the order of combination, decomposition, displacement and double decomposition.
+His answer is given below.
+(1) formation of H2 gas
+(2) formation of hydrogen chloride gas
+(3) formation of sodium and chlorine from sodium chloride
+(4) formation of sodium chloride
+Which among the following orders given below is correct, according to you?",3 4 2 1 ,2 3 1 4,1 2 3 4,2 3 4 1,,b,,MCQ
+3,Language of Chemistry and Transformation of Substances,Concept Application,,45,"Arrange the following reactions in the given order, i.e., compound–element combination, compound–compound combination and element–elementcombination.
+(1) Coke is burnt in an inadequate supply of air.
+(2) The product formed in the reaction (a) is again burnt in the presence of oxygen.
+(3) The product formed in the reaction (b) is treated with water.",1 3 2,2 3 1,2 1 3 ,3 1 2,,b,,MCQ
+4,Air and Oxygen,Concept Application,,1,Air is a mixture.,,,,,,1,,TF
+4,Air and Oxygen,Concept Application,,2,An increase in the levels of CO~2* in the atmosphere increases the temperature of the earth.,,,,,,1,,TF
+4,Air and Oxygen,Concept Application,,3,Nitrates on thermal decomposition give oxygen.,,,,,,0,,TF
+4,Air and Oxygen,Concept Application,,4,With increase in altitude the atmospheric pressure increases.,,,,,,0,,TF
+4,Air and Oxygen,Concept Application,,5,Gold and platinum do not react with oxygen even at high temperatures.,,,,,,1,,TF
+4,Air and Oxygen,Concept Application,,6,The atomicity of the allotropic form of oxygen is three.,,,,,,1,,TF
+4,Air and Oxygen,Concept Application,,7,Oxygen gas is collected by the downward displacement of air.,,,,,,0,,TF
+4,Air and Oxygen,Concept Application,,8,The minimum temperature at which a substance burns in air is called ________.,,,,,,Ignition temperature,,FIB
+4,Air and Oxygen,Concept Application,,9,The catalyst in the decomposition of hydrogen peroxide is ________.,,,,,,MnO~2*,,FIB
+4,Air and Oxygen,Concept Application,,10,Dust particles from air are removed by passing air through ________ or ________.,,,,,,DUMMY,,FIB
+4,Air and Oxygen,Concept Application,,11,"When ammonia gas is burnt in excess of oxygen at high temperature, the products formed are ________.",,,,,,NO and H~2*O,,FIB
+4,Air and Oxygen,Concept Application,,12,The vacuum present above the column in mercury barometer is called ________.,,,,,,Toricellian vacuum,,FIB
+4,Air and Oxygen,Concept Application,,13,FeS~2* on burning in oxygen gives _______.,,,,,,FeO and SO~2*,,FIB
+4,Air and Oxygen,Concept Application,,14,Thermosphere is associated with high temperature due to the absorption of _______.,,,,,,Intense solar radiation,,FIB
+4,Air and Oxygen,Concept Application,,15,Match the following,"A->e, D->c, B->d,E->a,C->b","A->e, C->g, E->c,G->f,B->d,D->a, F->b","A->e, D->d, B->c,E->a,C->b","A->d, C->a, E->c, G->b, B->f, D->e, F->g",CH-4-15-ROW-151,d,,MCQ
+4,Air and Oxygen,Concept Application,,16,Which among the following processes does not add suspended particulate matter (SPM) to air?,usage of air conditioners,burning of fuels,paper industry,combustion of coal,,a,,MCQ
+4,Air and Oxygen,Concept Application,,17,Hydrogen sulphide from air is removed by passing air through,caustic potash,concentrated H~2*SO~4*,anhydrous CaCl~2*,Filters,,a,,MCQ
+4,Air and Oxygen,Concept Application,,18,Which of the following substance is used in refrigerators?,Hydrocarbon,CFC,Ozone,Metal Oxide,,b,,MCQ
+4,Air and Oxygen,Concept Application,,19,Which of the following distinguishes respiration from combustion?,requirement of oxygen,exothermic nature of reactions,energy can be released only in the form of heat and not light ,can take place at any temperature,,c,,MCQ
+4,Air and Oxygen,Concept Application,,20,Global warming is mainly due to,reradiation of UV rays by CO~2* and H~2*O,reradiation of IR rays by CO~2* and H~2*O,reradiation of IR rays by O~2* and N~2*,reradiation of UV rays by O~2* and N~2*,,b,,MCQ
+4,Air and Oxygen,Concept Application,,21,Which of the following minerals does not contain oxygen?,silicates,carbonates,pyrites,none of these,,c,,MCQ
+4,Air and Oxygen,Concept Application,,22,"X + O~2*-> Y, Y + H~2*O -> Z, Z turns red litmus to blue then X may be",Ca ,S,C,P,,a,,MCQ
+4,Air and Oxygen,Concept Application,,23,Tropospheric atmosphere is turbulent. Which of the following reasons can be attributed to this?,convectional current of air rises up due to high temperature in lower layers of the earth,temperature changes result in change in air pressure,more effect of centrifugal force is more in this layer,None of these,,a,,MCQ
+4,Air and Oxygen,Concept Application,,24,The layer of atmosphere that is just above the earth’s surface is called _______.,thermosphere,troposphere,stratosphere,mesosphere,,b,,MCQ
+4,Air and Oxygen,Concept Application,,25,Which of the following pairs of oxides can give out oxygen on heating?,"MgO, PbO~2*","Na~2*O, CaO","K~2*O, HgO","Ag~2*O, Pb~3*O~4*",,d,,MCQ
+4,Air and Oxygen,Concept Application,,26,Which of the following are used in air conditioning and refrigeration systems?,CO,CO~2*,CFCs,O~3*,,c,,MCQ
+4,Air and Oxygen,Concept Application,,27,"If a balloon fi lled with air is sent to moon, what would happen?",The balloon expands because the atmospheric pressure of the moon is slightly lower than that of the earth.,The balloon bursts because the atmospheric pressure of the moon is much lower than that of the earth.,The balloon contracts because the atmosphericpressure of the moon is much lower than that of the earth.,No change is observed because change of atmospheric pressure has no effect on the balloon.,,b,,MCQ
+4,Air and Oxygen,Concept Application,,28,A gas which is combustible and can support combustion is,Oxygen,Nitrous oxide,Nitric Oxide,Carbon Monoxide,,b,,MCQ
+4,Air and Oxygen,Concept Application,,29,Which among the following has the lowest boiling point?,O~2*,N~2*,F~2*,Ne,,d,,MCQ
+4,Air and Oxygen,Concept Application,,30,Passengers travelling in an aeroplane are advised not to carry fountain pens because at higher altitudes,ink vaporises due to high external pressure,solidification of ink takes places due to very low external pressure,pressure within the tube is more than the external pressure and causes leakage of ink,pressure within the tube is lesser than the external pressure and causes leakage of ink,,c,,MCQ
+4,Air and Oxygen,Concept Application,,31,With increase in altitude the temperature in the stratosphere,first remains almost constant and then increases,Decreases ,Remains same,First decrease and then increases,,a,,MCQ
+4,Air and Oxygen,Concept Application,,32,Which of the following can be considered as spontaneous combustion?,Burning of LPG,Burning of magnesium ribbon,Burning of camphor,Burning of white phosphorus,,d,,MCQ
+4,Air and Oxygen,Concept Application,,33,Which of the following metals gives reddish powder on reaction with O~2* at higher temperature?,Fe,Pb,Zn,Sn,,a,,MCQ
+4,Air and Oxygen,Concept Application,,34,Which of the following reactions is associated with the formation of shining white globules?,a,b,c,d,CH-4-34-ROW-170,b,,MCQ
+4,Air and Oxygen,Concept Application,,35,The ratio of KClO~3* and MnO~2* taken for the preparation of oxygen is,4 : 1,3 : 1,2 : 1,2 : 5,,a,,MCQ
+4,Air and Oxygen,Concept Application,,36,"When ammonia is burnt in a limited supply of oxygen, which gas is evolved?",NO,N~2*O,N~2*,NO~2*,,DUMMY,,MCQ
+4,Air and Oxygen,Concept Application,,37,Which of the following compounds produces oxide on heating?,PbO~2*,KNO~3*,Ag~2*O,NaNO~3*,,DUMMY,,MCQ
+4,Air and Oxygen,Concept Application,,38,Which of the following metals does not react with O~2* even at high temperatures?,Magnesium,Iron,Aluminium,Gold,,d,,MCQ
+4,Air and Oxygen,Concept Application,,39,Carbon dioxide from air is removed by passing air through _______.,caustic potash,concentrated H~2*SO~4*,anhydrous CaCl~2*,filters,,a,,MCQ
+4,Air and Oxygen,Concept Application,,40,Which of the following reactions is associated with the formation of a mirror-like surface near the cooler part of the test tube?,heating of mercuric oxide,heating of silver oxide,heating of trilead tetroxide,heating of lead dioxide,,a,,MCQ
+4,Air and Oxygen,Concept Application,,41,"You are asked to prepare oxygen from air after eliminating the impurities in the order, i.e., at first dust particles, then water vapour and CO~2* at the end. Based on the given instruction arrange the processes given below in a sequence:
+(1) passing the sample of air through concentrated NaOH
+(2) repeated compression followed by sudden expansion
+(3) fractional distillation of liquefied air
+(4) passing the air through electrostatic precipitator
+(5) passing the air through anhydrous CaCl~2*",1 4 5 2 3 ,1 3 5 2 4,4 5 1 2 3,2 1 5 4 3,,c,,MCQ
+4,Air and Oxygen,Concept Application,,42,"Arrange the following products (oxides) in the ascending order of the ratio of metal atoms to oxygen atom(s) present in one molecule of the
+respective oxide.
+(1) magnesium is heated in the presence of oxygen
+(2) iron produces a reddish brown powder with a crackling sound when it is heated at higher temperature
+(3) sodium undergoes oxidation in moist air
+(4) formation of a coating of aluminium oxide on aluminium at normal temperature",1 4 3 2,4 2 1 3,1 3 2 4,3 1 2 4,,b,,MCQ
+4,Air and Oxygen,Concept Application,,43,"The description of the diff erent layers of the atmosphere is given below. Arrange them in the increasing order of their altitude.
+(1) the layer of atmosphere in which the number of molecules is less but they are sufficient to burn the meteorites
+(2) the layer in which the temperature increases with attitude
+(3) the layer with the least number of particles
+(4) the convection current of air plays a significant role in this layer",2 4 1 3,2 3 1 4,4 2 3 1,4 2 1 3,,d,,MCQ
+4,Air and Oxygen,Concept Application,,44,"Arrange the products of the following reactions in the increasing order of the number of oxygen atoms associated with one non-metallic atom.
+(a) burning of phosphorus in an adequate supply of oxygen to produce an oxide of phosphorus
+(b) the complete combustion of coke with the supply of sufficient oxygen
+(c) an electric spark is provided to a 1 : 1 mixture of nitrogen and oxygen
+(d) burning of sulphur dioxide gas in oxygen",3 4 1 2,3 2 1 4,2 3 1 4,3 2 4 1,,b,,MCQ
+4,Air and Oxygen,Concept Application,,45,"Arrange the following steps involved in the preparation of oxygen from KClO~3* in a proper order.
+(1) content of the test tube is heated
+(2) A mixture of finely ground KClO~3* and MnO~2* is taken in a test tube.
+(3) The open end of the test tube is plugged with cotton.
+(4) delivery tube is taken out
+(5) The test tube is fixed in a slanting position.
+(6) Bunsen burner is put off.
+(7) Oxygen is collected by downward displacement of water.",2 3 4 1 5 6 7,5 6 3 2 4 1 7,1 2 3 4 6 7 5,2 3 5 1 7 4 6,,d,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,1,Aqueous solutions are good conductors in comparison to their corresponding pure solvent.,,,,,,1,,TF
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,2,Soluble impurities present in water increase the freezing point of water.,,,,,,0,,TF
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,3,Solubility curves can be used for comparing the solubility of different substances at a given temperature.,,,,,,1,,TF
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,4,The freezing point of water decreases with a decrease in pressure.,,,,,,0,,TF
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,5,The density of water is maximum at 4 K.,,,,,,0,,TF
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,6,Blue-coloured CuSO~4* can act as a dehumidifying agent.,,,,,,0,,TF
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,7,Alloys are homogeneous mixtures.,,,,,,1,,TF
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,8,_____ substances when exposed to moisture dissolve in it.,,,,,,Deliquescent,,FIB
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,9,Metallic oxides on reaction with water give _____.,,,,,,Bases,,FIB
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,10,______ solution is more concentrated than a saturated solution.,,,,,,Supersaturated,,FIB
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,11,"Due to its high _____, water is called universal solvent.",,,,,,Dieliectric constant,,FIB
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,12,The number of oxygen atoms present in five molecules of ferrosoferric oxide is _____.,,,,,,2O,,FIB
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,13,The formula for Glauber’s salt is ______.,,,,,,Na~2*SO~4*.10H~2*O,,FIB
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,14,"Salts with water of crystallisation are called ______
+salts.",,,,,,Hydrated,,FIB
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,15,Match the following,"A->e, D->c, B->d,E->a,C->b","A->e, B->f, C->d, D->a, E->b, F->c","A->e, D->d, B->c,E->a,C->b","A->d, C->a, E->c, G->b, B->f, D->e, F->g",CH-5-15-ROW-196,b,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,16,The graph given below represents the interconversion of ice to water vapour. Identify the point in the curve which indicates the boiling point of water.,B,C,A,D,CH-5-16-ROW-197,d,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,17,Which among the following is not a suspension?,iodine in potassium iodide,fog,paints,aerosol sprays,,a,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,18,The solubility of CaSO~4*,increases with increase in temperature,decreases with increase in temperature,increases and then decreases with increase in temperature,decreases and then increases with increase in temperature,,c,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,19,"If Glauber’s salt, anhydrous calcium chloride, calcium oxide and concentrated H~2*SO~4* are kept in air-tight containers A, B, C, D, respectively, in which container pressure becomes more?",A,B,C,D,,a,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,20,Which among the following elements does not float on water?,Na,K,Ca,"Ca, K",,c,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,21,"50 g of oil “A” and 100 g of oil “B” are taken in separate containers at same temperature and specific heat of oil “B” is double that of oil “A.” Both are heated in such a way that increase in temperature is
+also the same. Calculate the ratio of heat required to be supplied for increasing the temperature.",1 : 2,1 : 1,4 : 1,1 : 4,,d,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,22,Anhydride of sulphurous acid is,sulphur dioxide,sulphate ion,sulphur trioxide,sulphite ion,,a,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,23,Which of the following compounds is not associated with water molecules?,blue vitriol,nitre,washing soda,Epsom salt,,b,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,24,"When two substances A and B of same mass are heated under similar conditions, number of free surfaces has been found to reduce to zero from one. If A maintains constancy in the temperature for a longer time than B during heating, then",latent heat of fusion of A is more than that of B,latent heat of vaporisation of A is more than that of B,latent heat of fusion of B is more than that of A,latent heat of vaporisation of B is more than that of A,,b,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,25,The specific heat capacity of water is,more than petrol and kerosene,less than oil and petrol,less than kerosene,less than honey and oil,,a,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,26,"In the given graph, identify the substance associated with the highest solubility at 10^0&C.",A,B,C,D,,b,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,27,"Reaction: Non-metal + H~2* A
+                  A + PbO   ->    Pb – Non-metal
+If A formed in the above reaction has a rotten egg smell, identity the non-metal.",N,Pb,S,O,CH-5-27-ROW-208,c,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,28,Identify the binary solution among the following:,Steel,Bronze,Nichrome,Gunmetal,,c,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,29,Hydrogen acts as an oxidising agent when it,reacts with highly electropositive metals,burns in the presence of O~2*,forms ammonia when it reacts with nitrogen,passes through boiling sulphur and forms H~2*S gas,,a,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,30,Tyndal effect cannot be shown by,Smoke,dust particles present in air,fog,iron powder in hydrochloric acid,,d,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,31,Sodium catches fire and burns with a,lilac flame,golden yellow flame,blue flame,green flame,,b,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,32,Which of the following metals on reaction with steam provides a coating over the metal and prevents further reaction?,Al,Ca,Mg,K,,a,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,33,The brown-coloured substance formed when steam is passed over red hot iron is,Ferric oxide,Rust,Ferrosoferric oxide,Ferrous oxide,,c,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,34,Which among the following metals react only with steam?,K,Ca,Mg,Al,,d,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,35,Crystals can be made,by cooling hot saturated solution,by evaporating unsaturated solution slowly,by cooling a fused mass,all of the above,,d,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,36,Washing soda is an example of a/an ______ substance.,efflorescent,deliquescent,hygroscopic,both (1) and (2),,a,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,37,Which among the following substances acts as a desiccating agent?,anhydrous calcium chloride,calcium oxide,hydrated copper sulphate,anhydrous sodium chloride,,b,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,38,Which of the following metals is unsuitable for the preparation of hydrogen due to reversible reaction?,Sodium,Magnesium,Copper,Iron,,d,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,39,The reaction between perfectly dry hydrogen and chlorine takes place in the presence of direct sunlight only by the addition of a few drops of water. In this process water behaves as a/an,Catalyst,Solvent,dehydrating agent,efflorescent substance,,a,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,40,Which of the following metals on treatment with concentrated alkali gives hydrogen gas?,Na,Mg,Cu,Al,,d,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,41,"Arrange the chemicals in sequence for the removal of impurities H~2*S, SO~2*, PH~3* and H~2*O, respectively, in the purification of hydrogen gas.
+(1) phosphorus pentoxide    (2) lead nitrate solution
+(3) silver nitrate solution     (4) caustic potash",1 2 3 4,2 3 1 4,2 4 3 1,1 4 2 3,,c,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,42,The specific heat capacity of water is,4.2 J kg^−1& ^0&C^−1&,4.2 J g^−1& ^0&C^−1&,1 J g^−1& ^0&C^−1&,1 J kg^−1& ^0&C^−1&,,a,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,43,"Colour changes observed during the reaction between metal oxides and hydrogen are given below:
+(1) white → bluish white (2) brown → grey
+(3) yellow → grey (4) black → red
+Arrange the above colour changes as PbO to Pb, Fe~2*O~3* to Fe, CuO to Cu and ZnO to Zn",3 2 4 1,3 4 1 2,3 2 1 4,2 3 4 1,,a,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,44,"Amount of solutes A, B, C, D and E in 1500 g of water at 25^0&C, 50^0&C and 75^0&C in their saturated solutions are given below:
+25^0&C 50^0&C 75^0&C
+A  - 235 g    280 g    240 g
+B  - 180 g    190 g    220 g
+C  - 160 g    170 g    180 g
+D  - 175 g    220 g    200 g
+Arrange the solutes in the increasing order of the amount of solutes that crystallises out by cooling from 75^0&C to 25^0&C:",ABDC,ACDB,CABD,ACBD,,DUMMY,,MCQ
+5,"Water, Solution, Solubility and Hydrogen",Concept Application,,45,Among the following oxides which one is converted to metal by treating with hydrogen?,Al~2*O~3*,ZnO,CuO,BaO,,DUMMY,,MCQ
+6,Carbon and its Compounds,Concept Application,,1,Graphite is used in the manufacture of crucibles as it possesses high-electrical resistance.,,,,,,0,,TF
+6,Carbon and its Compounds,Concept Application,,2,Fullerene is the amorphous allotrope of carbon.,,,,,,0,,TF
+6,Carbon and its Compounds,Concept Application,,3,Lamp black is used as filler in making rubber tyres.,,,,,,1,,TF
+6,Carbon and its Compounds,Concept Application,,4,Carbon monoxide is neither combustible nor a supporter of combustion.,,,,,,0,,TF
+6,Carbon and its Compounds,Concept Application,,5,"In methane, all the hydrogen atoms can be replaced by chlorine atoms when the reaction takes place in presence of sunlight.",,,,,,1,,TF
+6,Carbon and its Compounds,Concept Application,,6,Sugar charcoal is a good reducing agent.,,,,,,1,,TF
+6,Carbon and its Compounds,Concept Application,,7,Foam type extinguisher is used to extinguish any kind of fire.,,,,,,0,,TF
+6,Carbon and its Compounds,Concept Application,,8,Crystallisation of carbon to form diamonds takes place when ______________ metal expands during solidification.,,,,,,Iron,,FIB
+6,Carbon and its Compounds,Concept Application,,9,Carbon monoxide is slightly ______ than air.,,,,,,Lighter,,FIB
+6,Carbon and its Compounds,Concept Application,,10,The compound of carbon used to soften hard water is _______.,,,,,,Na~2*CO~3*,,FIB
+6,Carbon and its Compounds,Concept Application,,11,_____________ acid on reaction with H~2*SO~4* gives only carbon monoxide gas,,,,,,formic ,,FIB
+6,Carbon and its Compounds,Concept Application,,12,Methane is prepared in a laboratory by heating anhydrous sodium acetate with ______.,,,,,,Soda Lime,,FIB
+6,Carbon and its Compounds,Concept Application,,13,Sugar on reaction with ______________ gives sugar charcoal.,,,,,,Conc. H~2*SO~4*,,FIB
+6,Carbon and its Compounds,Concept Application,,14,Gas carbon is used as ______ in dry cells.,,,,,,Electrodes,,FIB
+6,Carbon and its Compounds,Concept Application,,15,Match the following,"A->c, B->e, C->g,D->b, E->d, F->a, G-f,  ","A->c, B->g, C->e,D->b, E->a, F->d, G-f,  ","A->e, B->c, C->g,D->b, E->f, F->a, G-d ","A->d, C->a, E->b, G->c, B->f, D->e, F->g",CH-6-15-ROW-241,a,,MCQ
+6,Carbon and its Compounds,Concept Application,,16,The existence of an element in different allotropic forms is due to the,different arrangement of atoms,different amounts of energy associated in the formation of each allotrope,different methods of formation,all of the above,,d,,MCQ
+6,Carbon and its Compounds,Concept Application,,17,Which among the following properties of coke is exploited in the preparation of graphite by Acheson process?,bad conductor of electricity,good conductor of heat,highly porous nature,low-melting point,,a,,MCQ
+6,Carbon and its Compounds,Concept Application,,18,Which of the following substances is used in place of H~2*SO~4* in foam type fire extinguishers?,Saponin ,Aluminium sulphate,Sodium Carbonate,Alcohol,,b,,MCQ
+6,Carbon and its Compounds,Concept Application,,19,Generally CaCO~3* is insoluble in water but in the presence of carbon dioxide it is soluble. This is because,of the formation of carbonic acid,of the formation of soluble Ca(HCO~3*)~2*,"CO~2* makes CaCO~3* porous, thus, dissolving it in water",of the formation of highly concentrated acids,,b,,MCQ
+6,Carbon and its Compounds,Concept Application,,20,Identify endothermic reaction among the following:,passage of CO~2* through red hot carbon,passage of O~2* through red hot carbon,burning of methane,burning of water gas,,a,,MCQ
+6,Carbon and its Compounds,Concept Application,,21,Nature of the products obtained by complete combustion of methane is,"acidic, basic","acidic, neutral","basic, neutral",both are neutral,,b,,MCQ
+6,Carbon and its Compounds,Concept Application,,22,Which of the following carbonates does not decompose to give CO~2*?,NaHCO~3*,CaCO~3*,K~2*CO~3*,ZnCO~3*,,c,,MCQ
+6,Carbon and its Compounds,Concept Application,,23,"A compound X made of two non-metals in a reaction with another non-metal Y gives the hardest substance and carbon monoxide. Identify
+the compound X and the non-metal Y.","CO~2*, Si","SiO~2*, C","SiC, O~2*","CO, Si",,b,,MCQ
+6,Carbon and its Compounds,Concept Application,,24,Which of the following allotropes of carbon is used for the manufacture of fullerenes?,Graphite,Diamond,Coke,Charcoal,,a,,MCQ
+6,Carbon and its Compounds,Concept Application,,25,Graphite cannot be used as a lubricant in space because,absence of external pressure transforms crystalline graphite to amorphous form,"there is no atmosphere in space, and hence, graphite sublimes in space","there is no atmosphere in space, and hence, there is no adsorbed air and water between layers of graphite",None of the above,,c,,MCQ
+6,Carbon and its Compounds,Concept Application,,26,Coke can be used as,an oxidising agent,a household fuel,printer ink,electrodes,,b,,MCQ
+6,Carbon and its Compounds,Concept Application,,27,"In the reaction:
+2CaO + C -> CaC~2* + 2CO
+2CaC~2* + 2HO ->  A + B
+if A is involved in the neutralisation reaction with acid, then B may be",CH~4*,C~2*H~2*,Ca(OH)~2*,CaH~2*,,b,,MCQ
+6,Carbon and its Compounds,Concept Application,,28,Carbon occurs as the native element in the earth’s crust in the form of,Diamond,Methane,Carbon dioxide,Gas carbon,,a,,MCQ
+6,Carbon and its Compounds,Concept Application,,29,Why shouldn’t we light a candle in a closed room with people?,The CO~2* formed causes breathlessness.,Carbon particles are formed which are dangerous for respiratory tract.,"Methane gas, which is poisonous, is formed.",Carbon monoxide gas which reduces the ability of blood to carry oxygen is formed.,,d,,MCQ
+6,Carbon and its Compounds,Concept Application,,30,Why do black shoe polishes have an oily feel?,Shoe polish is a mixture of oil and powdered graphite,"On exposure to air, these undergo chemical changes and produce oily substances.",Vapour of some amount of oil is left over after its preparation.,These are formed by dissolving charcoal in oil.,,c,,MCQ
+6,Carbon and its Compounds,Concept Application,,31,"Arrange the steps in the process of carbon cycle, starting from the abundant state of existence of carbon in the combined state in their correct sequence.
+(1) dead remains            (2) CO~2* in atmosphere
+(3) organic matter           (4) plants                      (5) fossil fuels",2 1 3 4 5,2 4 1 3 5,4 2 3 1 5,4 5 2 3 1,,b,,MCQ
+6,Carbon and its Compounds,Concept Application,,32,"Arrange the steps in the process of carbon cycle starting from the substances which possess a mixture of hydrocarbons in a proper sequence.
+(1) sea water                (2) dead remains
+(3) aquatic plants         (4) CO~2* in the atmosphere
+(5) organic matter        (6) fossil fuels",3 1 4 5 6 2,6 3 4 1 2 5,4 1 3 2 5 6,6 4 1 3 2 5,,d,,MCQ
+6,Carbon and its Compounds,Concept Application,,33,Graphite fibres are used to reinforce plastic as they,have weak carbon bonds,have high-tensile strength,are brittle,have weak forces of attraction between layers,,b,,MCQ
+6,Carbon and its Compounds,Concept Application,,34,"In the manufacture of graphite by Acheson process, the charge filled between the cathode and anode consists of","powdered coke, sand and ferric oxide",powdered coke,Sand,Ferric oxide,,a,,MCQ
+6,Carbon and its Compounds,Concept Application,,35,The compound which builds up the greenhouse effect is,carbon monoxide,gas carbon,carbon dioxide,none of these,,c,,MCQ
+6,Carbon and its Compounds,Concept Application,,36,The use of diamond as a gem is due to its,extreme hardness,poor conductance,low density,high-refractive index,,d,,MCQ
+6,Carbon and its Compounds,Concept Application,,37,"To a small quantity of X, few drops of HCl are added. Consequently, a colourless, odourless gas is produced. This gas on passing through lime water turns it milky proving the presence of _______ in X.",Carbonate,Bicarbonate,Carbide,(1) & (2),,d,,MCQ
+6,Carbon and its Compounds,Concept Application,,38,_____ is used extensively in the manufacture of washing soda,carbon dioxide,carbon monoxide,methane,lamp black,,a,,MCQ
+6,Carbon and its Compounds,Concept Application,,39,Which of the following can be considered as spontaneous combustion?,burning of LPG,burning of magnesium ribbon,burning of camphor,burning of potassium in moist air,,d,,MCQ
+6,Carbon and its Compounds,Concept Application,,40,Water gas is mixture of,CO~2* and H~2*,H~2* and CH~4*,CO and H~2*,CO and N~2*,,c,,MCQ
+6,Carbon and its Compounds,Concept Application,,41,Heating of methane in the absence of air is called,combustion,decarboxylation,pyrolysis,photolysis,,c,,MCQ
+6,Carbon and its Compounds,Concept Application,,42,"Arrange the different types of coal in sequence in the increasing order of the quality coal.
+(1) lignite      (2) peat         (3) anthracite          (4) bituminous",1 3 4 2,4 2 3 1,2 1 4 3 ,2 3 4 1,,c,,MCQ
+6,Carbon and its Compounds,Concept Application,,43,"Graphite is a greasy, soft lubricant because it",has low density,has weak forces of attraction between layers,is greyish-black in colour,has a three-dimensional structure,,b,,MCQ
+6,Carbon and its Compounds,Concept Application,,44,"Arrange the given combustible substances in decreasing order of calorific value:
+(1) hydrogen    (2) charcoal     (3) petrol      (4) LPG       (5) wood",2 3 1 4 5,1 4 3 2 5,2 1 4 5 3,2 1 3 5 4,,b,,MCQ
+6,Carbon and its Compounds,Concept Application,,45,Graphite is used in a nuclear reactor as,a moderator,a fuel,an electrode,a lubricant,,a,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,1,The ignition temperature of red phosphorous is less than that of white phosphorous.,,,,,,0,,TF
+7,Some Important Elements and their compounds,Concept Application,,2,The chemical formula of nitre is NaNO~3*.,,,,,,0,,TF
+7,Some Important Elements and their compounds,Concept Application,,3,Ammonia on reaction with excess chlorine gives white dense fumes.,,,,,,0,,TF
+7,Some Important Elements and their compounds,Concept Application,,4,Sodium is deposited at the cathode during the electrolysis of brine solution.,,,,,,0,,TF
+7,Some Important Elements and their compounds,Concept Application,,5,Zinc sulphate solution on passage of H~2*S gives a flesh-coloured precipitate.,,,,,,0,,TF
+7,Some Important Elements and their compounds,Concept Application,,6,Generally laboratory apparatus are made with borosilicate glass.,,,,,,1,,TF
+7,Some Important Elements and their compounds,Concept Application,,7,Urea is a nitrogenous fertiliser.,,,,,,1,,TF
+7,Some Important Elements and their compounds,Concept Application,,8,Liquid _________ is used for preserving biological specimen.,,,,,,Nitrogen ,,FIB
+7,Some Important Elements and their compounds,Concept Application,,9,Density of white phosphorus is ________ than red phosphorus.,,,,,,Less,,FIB
+7,Some Important Elements and their compounds,Concept Application,,10,"In Castner–Kellner cell, sodium ions react with mercury to form ________.",,,,,,Sodium amalgam,,FIB
+7,Some Important Elements and their compounds,Concept Application,,11,"In Nelson cell, H~2* is liberated at ________.",,,,,,Cathode,,FIB
+7,Some Important Elements and their compounds,Concept Application,,12,Oxygen required for the combustion of safety matches can be produced from ________.,,,,,,KClO~3*,,FIB
+7,Some Important Elements and their compounds,Concept Application,,13,_________ bacteria convert atmospheric nitrogen into nitrogenous compounds.,,,,,,Nitrogen-Fixing bacteria (or) Symbiotic,,FIB
+7,Some Important Elements and their compounds,Concept Application,,14,Ammonia on reaction with potassium gives ________.,,,,,,JNH~2*,,FIB
+7,Some Important Elements and their compounds,Concept Application,,15,Match the following,"A->b, B->f, C->c, D->g, E->h, F->e, G->a, H->d","A->c, B->f, C->b, D->g, E->h, F->e, G->d, H->a","A->c, B->f, C->b, D->g, E->h, F->d, G->e, H->a","A->a, B->f, C->b, D->g, E->h, F->e, G->d, H->c",CH-7-15-ROW-286,b,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,16,Which of following statements regarding glass is false?,"Glass has high viscosity, and hence, exists in a solid state.",Glass has no definite melting point.,Arrangement of silicate units in glass is similar to that in liquid state.,"Glass has regular crystalline arrangement, and hence, exists as a solid.",,d,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,17,Phosphor bronze is an alloy of,"P, Cu and Sn","P, Cu and Sb","P, Zn and Sn","P, Cu and As",,a,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,18,Which of the following loses its activity on storing for a long time?,chlorine,hydrogen chloride,bleaching powder,sodium hydroxide,,c,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,19,Gypsum is,hydrated magnesium sulphate,anhydrous magnesium sulphate,hydrated calcium sulphate,anhydrous calcium sulphate,,c,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,20,Clay shows plasticity when,right proportion of water is added to it,it is fired (strongly heated),it is dried at room temperature after kneading,it is glazed,,a,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,21,Which of the following is false regarding epoxy resin?,It is a thermosetting polymer,It is less brittle in nature.,It has relatively weak bonds,It has cross-linking among polymeric chains.,,d,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,22,"When Mg is burnt in the atmosphere of an element X, a white powder is obtained. When this is dissolved in water, it gives a compound Y with a pungent smell. What are X and Y?","C, CH~4*","N~2*, NH~3*","P, PH~3*","S, H~2*S",,b,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,23,The reducing property of SO~2* is shown in which of the following reactions?,SO~2* + H~2*O + Cl~2* ->_x005F_x001E_ _x005F_x001F_ 2HCl +~2*H2SO~4*,2H~2*S + SO~2* ->_x005F_x001E_ _x005F_x001F_ ~2*H2O + 3S,KOH + SO~2*-> K~2*SO~3* + H~2*O,None of the above,,a,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,24,The transparency of glass is attributed to which of the following properties of glass?,high viscosity,regular pattern of arrangement of silicate units,irregular pattern of arrangement of silicate units,high coefficient of thermal expansion,,c,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,25,A soil is supplied with ammonium phosphate fertiliser. Which of the following types of bacteria is not involved in the process of the absorption of this fertiliser by plants?,ammonifying bacteria,nitrosifying bacteria,nitrifying bacteria,None of these,,a,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,26,The gas liberated when concentrated sulphuric acid is treated with copper is,H~2*,SO~3*,H~2*S,SO~2*,,d,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,27,A soil is highly deficient in nitrogen. The crop requires nitrogen for immediate requirement as well as long-term requirement. Which among the following is the most suitable fertiliser for the soil?,Urea,ammonium sulphate,ammonium nitrate,calcium ammonium nitrate,,d,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,28,The process of glazing of ceramic article does not,make it impervious,impart glossy appearance,make it impact resistant,All of these,,c,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,29,"Sulphur, on heating, follows which of the following sequence?",solid -> thick viscous liquid -> thin -> liquid -> gas,solid -> semisolid -> liquid -> gas,solid -> thin liquid -> thick viscous -> thin liquid -> gas,solid -> powdery solid        -> thick viscous -> liquid       gas,,c,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,30,Which among the following is true with regard to thermoplastics and thermosetting?,Thermosettings are permanent setting resins but thermoplastics are not since they can be softened on cooling.,Thermoplastics are less brittle when compared to thermosettings due to the absence of long chain polymers.,"Thermosettings are more brittle when
+compared to thermoplastics due to the presence of strong bonds.",The chemical nature of thermoplastics can be altered by repeated heating and cooling.,,c,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,31,"Steps involved in the Frasch process are given below.
+Arrange them in the correct sequence.
+(1) This melts the sulphur below melting point.
+(2) The sulphur foam formed rises in the middle pipe and is collected.
+(3) Superheated steam under pressure is sent through the outermost pipe.
+(4) Hot compressed air is sent through the inner most pipe, which froths up the molten sulphur below.
+(5) Three concentric pipes are drilled through the ground to the sulphur deposits.",5 3 1 4 2,5 1 4 3 2,5 1 4 2 3,5 4 1 3 2,,a,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,32,"Different steps involved in the manufacture of sulphuric acid in the contact process are given below. Arrange them in the correct sequence.
+(1) formation of oleum
+(2) oxidation of SO2
+(3) hydrolysis of oleum
+(4) combustion of sulphur",4 1 3 2,1 4 2 3,4 2 1 3,1 4 3 2,,c,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,33,"Arrange the different forms of sulphur formed during heating followed by cooling:
+(1) μ sulphur                (2) flower of sulphur
+(3) rhombic sulphur     (4) sulphur vapour
+(5) lambda sulphur      (6) monoclinic sulphur",5 3 6 1 4 2,3 6 5 1 4 2,3 6 1 5 4 2,3 6 5 1 2 4,,b,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,34,Slaked lime on reaction with ammonium chloride gives,calcium hydroxide and ammonia,calcium hydroxide and nitrogen,calcium chloride and nitrogen dioxide,calcium chloride and ammonia,,DUMMY,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,35,"Different steps involved in the mechanism of preparation of sodium hydroxide by Castner process are given below. Arrange them in correct sequence.
+(1) 2Cl^–& → Cl~2* + 2e^–&
+(2) Na~2*Hg^–& 2e^–& → 2Na+ + Hg
+(3) 2H~2*O + 2e^–& → H2 + 2OH
+(4) Hg + 2Na+ + 2e−→ Na2Hg
+(5) 2NaCl → 2Na^+& + 2Cl^–&
+(6) 2Na^+& + 2OH^–& → 2NaOH",5 4 3 2 1 6,5 2 3 1 4 6,4 2 1 5 3 6,5 1 4 2 3 6,,d,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,36,"The steps involved in the manufacture of glass are given below. Arrange them in the correct sequence.
+(1) moderate cooling
+(2) addition of cullet
+(3) formation of respective silicates
+(4) preparation of fine powder of raw materials
+(5) heating of cullet at about 1600 K to 1700 K",4 2 5 3 1,4 5 2 1 3,4 5 3 2 1,4 2 3 5 1,,a,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,37,"Different processes involved in the manufacture of pottery or ceramic materials are given below.
+Arrange them in a proper sequence.
+(1) change in the physical and chemical properties of the substances
+(2) heating to a suitable high temperature
+(3) drying of the mixture
+(4) preparation of mixture by adding water to raw materials",2 1 4 3,4 3 2 1,4 3 1 2,3 4 2 1,,b,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,38,The compounds formed when ammonia reacts with excess of chlorine are,"NH~4*Cl, HCl","NCl~3*, HCl","N~2*, HCl","NH~4*Cl, NCl~3*",,DUMMY,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,39,"In electrothermic reduction, calcium phosphate is mixed with","sand, sulphur","coke, sand","sulphur, coke","sulphur, phosphorus",,b,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,40,HNO~3* on reaction with phosphorus gives,Phosphorous acid,phosphoric acid,metaphosphoric acid,hypophosphoric acid,,b,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,41,"Sulphur on reaction with HNO~3* gives _____, ____","H~2*SO~4*, NO~2*, H~2*O","H2~2*O~3*, NO~2*, H~2*O","H~2*SO~4*, NO, H~2*O","H~2*SO~3*, NO, H~2*O",,DUMMY,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,42,Which of the following metals liberates hydrogen when it is treated with very dilute HNO~3*?,Cu,Zn,Mg,Fe,,DUMMY,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,43,The bleaching action of bleaching powder is due to the formation of,chlorate ion,chloride ion,chlorite ion,hypochlorite ion,,d,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,44,Which among the following types of glass is used in the manufacture of doors and windows of automobiles?,laminated glass,fibre glass,foam glass,opaque glass,,a,,MCQ
+7,Some Important Elements and their compounds,Concept Application,,45,Which of the following plastics can be recycled?,melamine,polyethylene,bakelite,both (1) and (2),,b,,MCQ

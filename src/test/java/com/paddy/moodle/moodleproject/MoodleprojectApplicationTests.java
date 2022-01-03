@@ -45,7 +45,116 @@ class MoodleprojectApplicationTests {
 		}
 	}
 
+	@Test
+	void generateForBrainMappingIITFoundationPhysicsClass8(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS8");
+			questionMetadata.setPublisher("BRAINMAPPING");
+			questionMetadata.setSubject("PHYSICS");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Physics/BrainMapping/IMAGES-Brain-Mapping-CLASS-8-PHYSICS/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Brain-Mapping-Class-8-PHYSICS.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
 
+	@Test
+	void generateForBrainMappingIITFoundationChemistryClass8(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS8");
+			questionMetadata.setPublisher("BRAINMAPPING");
+			questionMetadata.setSubject("CHEMISTRY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Chemistry/BrainMapping/IMAGES-Brain-Mapping-CLASS-8-CHEMISTRY/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Brain-Mapping-Class-8-CHEMISTRY.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForPearsonIITFoundationPhysicsClass8(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS8");
+			questionMetadata.setPublisher("PEARSON");
+			questionMetadata.setSubject("PHYSICS");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Physics/Pearson/IMAGES-PEARSON-CLASS-8-PHYSICS/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Pearson-Class-8-Physics.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForPearsonIITFoundationChemistryClass8(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS8");
+			questionMetadata.setPublisher("PEARSON");
+			questionMetadata.setSubject("CHEMISTRY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Chemistry/Pearson/IMAGES-PEARSON-CLASS-8-Chemistry/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Pearson-Class-8-Chemistry.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForPearsonNEETFoundationBiologyClass8(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS8");
+			questionMetadata.setPublisher("PEARSON");
+			questionMetadata.setSubject("BIOLOGY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Biology/Pearson/IMAGES-PEARSON-CLASS-8-BIOLOGY/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Pearson-Class-8-BIOLOGY.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForDishaFoundationBiologyClass8(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS8");
+			questionMetadata.setPublisher("DISHAFOUNDATION");
+			questionMetadata.setSubject("BIOLOGY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Biology/DishaFoundation/IMAGES-DISHA-CLASS-8-BIOLOGY-1/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"DISHA-Class-8-BIOLOGY-1.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	@Test
+	void generateForDishaFoundationChemistryClass8(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS8");
+			questionMetadata.setPublisher("DISHAFOUNDATION");
+			questionMetadata.setSubject("CHEMSITRY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Chemistry/DishaFoundation/IMAGES-DISHA-CLASS-8-CHEMISTRY/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"DISHA-Class-8-CHEMISTRY.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
 
 	@Test
 	void generateForDishaFoundationPhysicsClass8(){

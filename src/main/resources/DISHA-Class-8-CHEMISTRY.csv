@@ -1,0 +1,916 @@
+Select a pure substance,ChapterName,SubChapterName,Classification,QuestionNumber,QuestionText,Option1,Option2,Option3,Option4,Image?,Answer,AnswerDescription,QuestionType
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,1,Which of the following is not correct for thermosetting polymers?,Heavily branched polymer because of cross linking.,Become infusible on moulding so cannot be reused.,"Soften on heating and harden on cooling, can be reused",None of these,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,2,Soft drinks and baby feeding bottles are generally made up of,Polyurethane,Polyester,Polystyrene,Polyamide,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,3,Which of the following is not the use of Bakelite?,In electrical switches,Handles of various utensils,In making combs,In making raincoats,,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,4,Which of the following is the corect set polymers that occurs naturally?,Starch and nylon,Cellulose and rayon,Starch and cellulose,Protein and melamine,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,5,Which of the following is incorrect?,Plastic is big threat to environment.,Rayon is produced from natural cellulose obtained from wood pulp,Both starch and cellulose are polymers of glucose.,The repeating unit of natural rubber is poly-trans isoprene,,d,,MCQ
+1,Synthetic Fibres and Plastics,Assertion - Reason,,1,"Assertion : Vulcanization increases the hardness to natural rubber.
+Reason : Vulcanization is done by adding sulphur to the natural rubber. It forms bridges between individual polymer molecules.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,2,"Assertion : Teflon has high thermal stability and chemical inertness.
+Reason : Teflon is a thermosetting plastic.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,3,"Assertion : Acrylic fabrics are similar to wool.
+Reason : Acrylic fabrics are derived from wool.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,4,"Assertion : A material which is not easily decomposed by natural processes is termed as biodegradable.
+Reason : Plastic bags take several years to degenerate.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,d,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,5,"Assertion : Esters have fruity smell.
+Reason : Esters polymerise to form polyester, which are thermoplastic polymer.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+1,Synthetic Fibres and Plastics,Fill in the Blanks,,1,_____________ is called artificial silk.,Rayon,,,,,,,FIB
+1,Synthetic Fibres and Plastics,Fill in the Blanks,,2,A thermosetting plastic can be used __________,Only Once,,,,,,,FIB
+1,Synthetic Fibres and Plastics,Fill in the Blanks,,3,Base raw material for rayon is _________,Cellulose,,,,,,,FIB
+1,Synthetic Fibres and Plastics,Fill in the Blanks,,4,Tensile strength of nylon is __________ than that of cotton,More,,,,,,,FIB
+1,Synthetic Fibres and Plastics,Fill in the Blanks,,5,Melamine is a thermo _____________ plastic.,Setting,,,,,,,FIB
+1,Synthetic Fibres and Plastics,Fill in the Blanks,,6,_____________ is the synthetic fibre used as wool.,Acrylic,,,,,,,FIB
+1,Synthetic Fibres and Plastics,Fill in the Blanks,,7,The synthetic fibres are also known as _________ fibres.,Man-made,,,,,,,FIB
+1,Synthetic Fibres and Plastics,Fill in the Blanks,,8,The first fully synthetic fibre was ___________,Nylon,,,,,,,FIB
+1,Synthetic Fibres and Plastics,Fill in the Blanks,,9,A plastic used for making crockery is ___________,Melamine,,,,,,,FIB
+1,Synthetic Fibres and Plastics,True / False,,1,Rayon is a semi-synthetic fibre.,1,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,2,Nylon is corrosion resistant.,1,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,3,PVC is a thermo setting plastic.,0,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,4,Bakelite is thermosetting plastic.,1,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,5,Polyester is a thermoplastic.,1,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,6,Common name of PETE is terylene.,1,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,7,Polystyrene foam is used as an insulating and packaging material.,1,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,8,Plastics do not corrode or rust.,1,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,9,Most plastiçs are biodegradable.,0,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,10,Plastic melamine is fire resistant.,1,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,11,Bakelite is a soft and flexible plastic.,0,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,12,Polyesters are purely synthetic fibres.,1,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,13,Rayons are derived from cellulose.,1,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,14,Acrylics are crimpy and are a substitute for natural rubber wool.,1,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,15,Synthetic fibres are generally hydrophilic.,0,,,,,,,TF
+1,Synthetic Fibres and Plastics,True / False,,16,We can mould plastics into various shapes because of the property of elasticity in them.,0,,,,,,,TF
+1,Synthetic Fibres and Plastics,Macth the following,,1,Match Column-I with Column-II and select the correct answer using the code given below the columns.,A - (r); B - (p); C - (q): D - ( s),A - (s); B - (p): C- (q): D - (r),A - (r); B - (q); C - (p); D - (s),A - (r); B - (s); C - (q); D - (p),CH-1-1-ROW-37,a,,MCQ
+1,Synthetic Fibres and Plastics,Macth the following,,2,Match Column-I with Column-II and select the correct answer using the code given below the columns.,A - (p); B - (s); C- (q); D - (r),A - (r); B - (s); C - (g); D - (p),A - (s); B - (r); C - (q): D - (p),A - (r); B - (s); C - (p); D - (q),CH-1-2-ROW-38,b,,MCQ
+1,Synthetic Fibres and Plastics,Macth the following,,3,Match Column-I with Column-Il and select the correct answer using the code given below the columns.,A - (r); B - (p); C - (s); D - (q),A - (q); B - (p); C - (s); D - (r),A - (r); B - (p); C - (q); D - (s),A - (s); B - (p); C - (r); D - (q),CH-1-3-ROW-39,a,,MCQ
+1,Synthetic Fibres and Plastics,Macth the following,,4,Which of the following represents the correct match for items in Column I with those in Column II,"A - (q), B - (r), C - (p)","A - (g), B - (p), C - (r)","A - (r), B - (p), C - (q)","A - (r), B - (q), C - (P)",CH-1-4-ROW-40,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,1,Which of the following statements is true for thermoplastic and thermosetting plastic?,"Thermosettings are permanent setting resins but thermoplastics are not, since they can be softened on cooling",Thermoplastics are less brittle as compared to thermosettings because of the absence of long chain polymers,"Themosettings are more brittle as compared to thermoplastics because of the presence
+of strong bonds",The chemical nature of thermoplastics can be changed by repeated heating and cooling.,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,2,Select the one that is a natural polymer.,"Nylon 6,6",Polyester,Cellulose,None of these,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,3,Select the synthetic polymerwhose filament was first obtained that could be streched several times its original length.,Nylon,Polyester,Acrylic,None of these,,a,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,4,The hard plastic covers of telephones are made of polymers of ,Styrene,Acrylonitrile,Ethene,None of these,,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,5,Plastics are,Salts,Acids,Polymers,Solvents,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,6,For which of the following is polythene not used?,construction materials of plastics,Plastic pipes,Bread - wrappers,candles,,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,7,Which of the following are synthetic fibres :,"Orlon, polypropylene and nylon","Jute, ramie and hemp","Wool, silk and cotton",All of these,,a,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,8,A synthetic fibre obtained from renewable resources is,Nylon,Polyester,Rayon,Acrylic,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,9,The major raw materials for rayon is obtained from,Wood,Coal,Petroleum,Both coal and petroleum,,a,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,10,Which of the following are advantages of synthetic fibres :,They are tough and durable,They are water resistant and easy to dry,They do not wrinkle,All of these,,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,11,Terrywool is obtained by mixing,Polyester and Wool,Cotton and Wool,Polyester and Cotton,Cotton and Silk,,a,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,12,Plastics,are light,can be spun into fibres to make cloth and carpets,can be coloured and moulded into any desired shape,All of these,,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,13,Synthetic fibres are obtained from,Plants,Animals,Petroleum,All of these,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,14,Which of these fabrics will you prefer on a hot and humid day?,Nylon,Silk,Cotton,Wool,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,15,Natural fibres are,Nylon and Rayon,Nylon only,Rayon silk,None of these,,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,16,Synthetic fibres are,Rayon and Cotton,"Nylon, Polyester and Jute","Rayon, Nylon, and Polyester",None of these,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,17,Correct full form of abbreviation PETE is,Polyethylene terephthalate,Polyethane terephthalate,Polyethene terephthalate,None of these,,a,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,18,Which of the following synthetic fibre is good absorbent?,Nylon,Rayon,Polyster,Acrylic,,b,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,19,Which of the following is thermosetting plastics?,Polyvinyl chloride,Polyester,Polypropylene,Bakelite,,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,20,Polycot is obtained by mixing,polyester and cotton,polyester and wool,cotton and wool,None of these,,a,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,21,The first man made fibre is,Nylon,Polyester,Rayon,Cotton,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,22,The plastics which do not remould again on heating are called,Thermmosetting plastics,Thermmoplast plastics,Both of these,None of these,,a,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,23,Which of the following groups contain all synthetic substances?,"Nylon, Terylene, Wool","PVC Polythene, Bakelite","Cotton, Polycot, Rayon","Acrylic, Silk. Wool",,b,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,24,The polymer formed by condensation of adipic acid and hexamethylene diamine is,isoprene,rayon,terylene,"nylon-6, 6",,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,25,Thermosetting plastic is:,Polythene,PVC,Bakelite,Polypropene,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,26,Lens of Spectacles are made from :,Soft glass,Hard glass,Pyrex glass,Flint glass,,d,,MCQ
+1,Synthetic Fibres and Plastics,Morethan one Option Correct,,1,Plastics ,are organic material of high molecular weight,are polymers having long chains,are made by the process of polymerisation,only (a) and (b) are correct,,"a,b,c",,MAQ
+1,Synthetic Fibres and Plastics,Morethan one Option Correct,,2,Pick out natural fibres out of the following ?,Cotton,Jute,Nylon,Wool,,"a,b,d",,MAQ
+1,Synthetic Fibres and Plastics,Morethan one Option Correct,,3,Which of the following are thermoplastic polymer?,Melamine,PVC,Polythene,Nylon,,"b,c,d",,MAQ
+1,Synthetic Fibres and Plastics,Morethan one Option Correct,,4,Which of the following is/are common properties of plastics?,Non-reactive,Durable,Light in weight,Good conductor of electricity,,"a,b,c",,MAQ
+1,Synthetic Fibres and Plastics,Morethan one Option Correct,,5,Which of the following is/are synthetic fibres?,Angora,Rayon,Nylon,Polyester,,"b,c,d",,MAQ
+1,Synthetic Fibres and Plastics,Assertion - Reason,,1,"Assertion : Clothes made up of synthetic fibre are unsuitable for hot and humid weather.
+Reason : Synthetic clothes do not breathe so well",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,2,"Assertion : Bakelite is used for making electric switches and plugs
+Reason : It is a thermosetting polymer and an insulator",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,3,"Assertion : Acrylic fabrics are used in making socks amd shawls
+Reason: Acrylic fabrics are replacement of wool.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,4,"Assertion : Plastics are non-biodegradable.
+Reason : They cannot be decomposed by microorganisms.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,5,"Assertion : Synthetic fibres are polymers that are synthesised by human beings by chemical process.
+Reason : Polymers occur in nature also.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,6,"Assertion : Nylon is used for making rock climbing ropes, parachutes, car seat belts and fishing nets.
+Reason : Nylon is a very strongfibre.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,7,"Assertion : Handles of utensils are made up of themoplastics 
+Reason : Thermoplastics get soften on heating.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,d,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,8,"Assertion : Plastic being light in weight and easy to handle is used as a substitute for glass and metal.
+Reason : We should avoid plastics as far as possible",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,1,"Which of the following statements, is not correct, about glass.",Because of its high viscosity glass exists in solid state,There is no definite melting point for glass.,The silicate units in glass are arranged in a way that is quite similar to the arrangement found in liquids,Glass is a solid because it has a regular crystalline arrangement.,,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,2,One of the properties of glass is its transparency. This property of glass is due to,its high viscosity,regular arrangement of silicate units in glass,irregular arrangement of silicate units in glass,its high coefficient of thermal expansion,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,3,Which of the following polymers do not involve cross linkages?,Melmac,Bakelite,Polylite,Vulcanised rubber,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,4,"Natural rubber is soft but vulcanized rubber is hard. 
+Vulcanised rubber also resists.",Drops of acid rain,Cold temperatures,Jerking movements,wear and lear due to friction,,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,5,"When glass is heated, it",does not melt at a fixed temperature,vapourise,melts only above 1000^0&C,None of these,,a,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,6,Glass is a transparent substance obtained by heating silica with oxides or carbonates of metals. Glass is a mixture of ,Phosphates,Sulphates,Oxides,Silicates,,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,7,Ebonite is,Natural rubber,synthetic rubber,Highly vulcanized rubber,Polypropene,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,8,Among the following polymers the strongest molecular forces are present in,Elastomers,Fibres,Themoplastics,Thermosetting polymers,,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,9,Three dimensional molecular structure with cross links are formed in the case of a,thermoplastic,thermosetting plastic,Both (a) and (b) ,None of these,,b,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,10,Which of the following is a cross linked polymer?,PVC,Bakelite,Polythylene,Rubber,,b,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,11,Which of the following statements is false?,Artificial silk is derived from cellulose.,Nylon-66 is an example of elastomer.,The repeat unit in natural rubber is isoprene.,Both starch and cellulose are polymers of glucose.,,b,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,12,Which of the following polymer is used for making phonograph records?,Bakelite,Dacron,Teflon,PVC,,a,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,13,"Which of the statements about glass are correct?
+1.  glass is a super-cooled liquid having infinite viscosity.
+2.  Violet coloured glass is obtained by adding MnO~2*
+3.  glass is a man-made silicate.
+4.  glass is a crystalline substance
+Select the correct answer using the codes given below.","1, 2 and 4","2, 3  and 4","1, 2 and 3",1 and 3,,d,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,14,The major component used in preparation of different types of glasses is,Silica,Sodium Borate,Calcium silicate,Sodium silicate,,a,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,15,The commercial name of polyacrylonitrile is ______,Dacron,Orlon (acrilan),PVC,Bakelite,,b,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,16,Natural rubber has,all cis-configuration,all trans-configuration,altermate cis-and trans-configuration,random cis-and trans-configuration,,a,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,17,"Regarding eross-linked or network polymers, which of the following statements is incorrect?",They contain covalent bonds between various linear polymer chains.,They are formed from bi- and tri-functional monomers.,They contain strong covalents bonds in their polymer chains,Examples are bakelite and melamine,,c,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,18,Which of the following is a thermosetting polymer?,Bakelite,Buns-N,Nylon 6,PVC,,a,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,19,The biodegradable polymer is:,"nylon-6, 6",nylon 2-nylon 6,nylon-6,Buna-S,,b,,MCQ
+1,Synthetic Fibres and Plastics,Multiple Choice Questions,,20,Which of the following is a natural polymer?,poly (Butadiene-styrene),polybutadiene,poly (Butadiene-acrylonitrile),"cis-1, 4-polyisoprene",,d,,MCQ
+1,Synthetic Fibres and Plastics,Morethan one Optioon Correct,,21,Alkali silicate glass,is also called silicate glass,is also called water glass,is generally used to make gums and adhesives.,None of the above is correct,,"a,b,c",,MAQ
+1,Synthetic Fibres and Plastics,Morethan one Optioon Correct,,22,Which statement(s) is/are correct for silica glass?,For it the raw material used is 100% quartz,It is quite cheap.,Its softening point is very high.,It has a very high thermal expansion.,,"a,c",,MAQ
+1,Synthetic Fibres and Plastics,Morethan one Optioon Correct,,23,In the manufacture of lead glass,oxide of lead is added to ordinary glass,oxide of lead increases the density of glass,oxide of lead increases the refractive index of glass,none of the above is corTect,,"a,b,c",,MAQ
+1,Synthetic Fibres and Plastics,Morethan one Optioon Correct,,24,Vulcanisation of rubber,involves heating of natural rubber with sulphur,improves strength and elasticity of natural rubber to a great extent,increases the tensile strength of natural rubber,results in cross - linking of rubber molecules.,,"a,b,c,d",,MAQ
+1,Synthetic Fibres and Plastics,Morethan one Optioon Correct,,25,Which of the following statements is not true about low density polyethene?,Tough,Hard ,Poor conductor of electricity,Highly branched structure,,b,,MAQ
+1,Synthetic Fibres and Plastics,Morethan one Optioon Correct,,26,Vulcanised rubber,is natural rubber heated with sulphur,can be used in the range of 45^0& to 110^0&C,can be used in the range of 10-60^0&C,natural rubber is heated with silicon.,,"a,b",,MAQ
+1,Synthetic Fibres and Plastics,Assertion - Reason,,30,"Assertion : Glass is an amorphous solid.
+Reason: Its molecules are randomly arranged",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,31,"Assertion : For silica glass the raw material used is 100% pure form of quartz.
+Reason : Silica glass is very expensive.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+1,Synthetic Fibres and Plastics,Assertion - Reason,,32,"Assertion : Rayon is a semisynthetic polymer whose properties are better than natural cotton.
+Reason Mechanical and aesthetic properties of cellulose can be improved by acetylation.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,1,Which of following represents the correct order of increasing chemical reactivity?,Fe > AI > Zn > Mg,Mg > Zn > Al > Fe,Mg > Al > Zn > Fe,Al > Mg > Zn > Fe,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,2,"Generally non-metals are non conductor of electricity.
+Which of the following is an exception?",Diamond,Graphite,Sulphur,Nitrogen,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,3,Galvanisation 2. is a method of protecting iron form rusting by coating with a thin layer of,Gallium,Silver,Aluminium,Zinc,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,4,For vulcanization of rubber we use which one of the following non-metals?,Sulphur,Phosphorus,Chloride,Carbon,,a,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,5,"Substances which are used to extract met:als commercially and economically, known as",Minerals,Ores,Metal oxides,None of these,,b,,MCQ
+2,Materials: Metals and Non-Metals,Assertion - Reason,,1,"Assertion : Zinc is found in free state in nature.
+Reason : Zinc is a reactive metal.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,d,,AR
+2,Materials: Metals and Non-Metals,Assertion - Reason,,2,"Assertion : A solution of SO~2* in water turn blue litmus red.
+Reason : Sulphur dioxide is acidic oxide.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+2,Materials: Metals and Non-Metals,Assertion - Reason,,3,"Assertion : Ferrous sulphate can be kept in copper vessel.
+Reason : Copper is less reactive than iron.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+2,Materials: Metals and Non-Metals,Assertion - Reason,,4,"Assertion: Most of the metals can be drawn into, wires.
+Reason: This property of metals is called malleability.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+2,Materials: Metals and Non-Metals,Assertion - Reason,,5,"Assertion : A piece of zinc is placed in ferrous sulphate, solution becomes colourless.
+Reason : Displacement reaction takes place and zinc goes into the solution.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+2,Materials: Metals and Non-Metals,Fill in the Blanks,,1,Metals combine with oxygen to form ________ oxides,Basic,,,,,,,FIB
+2,Materials: Metals and Non-Metals,Fill in the Blanks,,2,Metals above hydrogen in the activity series can displace _______ from dilute acids.,Hydrogen,,,,,,,FIB
+2,Materials: Metals and Non-Metals,Fill in the Blanks,,3,____________ is a non-metal that is a good conductor of electricity,Graphite (A form of Carbon),,,,,,,FIB
+2,Materials: Metals and Non-Metals,Fill in the Blanks,,4,___________ is a non-metal that is lustrous,Graphite (A form of Carbon) or Iodine,,,,,,,FIB
+2,Materials: Metals and Non-Metals,Fill in the Blanks,,5,lodine is used as an antiseptic in the form of __________ Solution,Alcoholic,,,,,,,FIB
+2,Materials: Metals and Non-Metals,Fill in the Blanks,,6,The chief ore of iron is ____________,Haematite,,,,,,,FIB
+2,Materials: Metals and Non-Metals,Fill in the Blanks,,7,The black part of a pencil is made of ___________,Graphite,,,,,,,FIB
+2,Materials: Metals and Non-Metals,Fill in the Blanks,,8,___________ a metal that exist as a liquid at room temperature,Mercury,,,,,,,FIB
+2,Materials: Metals and Non-Metals,Fill in the Blanks,,9,Liquid ___________ is used to preserve donated organs,Nitrogen,,,,,,,FIB
+2,Materials: Metals and Non-Metals,Fill in the Blanks,,10,"Copper corrodes in the presence of ____________, oxygen and economically, known as and water",Carbon Dioxide,,,,,,,FIB
+2,Materials: Metals and Non-Metals,True / False,,1,Metals are electropositive elements.,1,,,,,,,TF
+2,Materials: Metals and Non-Metals,True / False,,2,Different metals have same reactivities with water and dilute acids.,0,,,,,,,TF
+2,Materials: Metals and Non-Metals,True / False,,3,Naturally occurring metallic compounds are called minerals.,1,,,,,,,TF
+2,Materials: Metals and Non-Metals,True / False,,4,Bauxite is an ore of zinc.,0,,,,,,,TF
+2,Materials: Metals and Non-Metals,True / False,,5,Bromine is a gaseous non-metal.,0,,,,,,,TF
+2,Materials: Metals and Non-Metals,True / False,,6,In the activity series silver is above copper.,0,,,,,,,TF
+2,Materials: Metals and Non-Metals,True / False,,7,lodine is lustrous and is a metal.,0,,,,,,,TF
+2,Materials: Metals and Non-Metals,True / False,,8,Non-metals can easily lose electrons to form cations.,0,,,,,,,TF
+2,Materials: Metals and Non-Metals,True / False,,9,Non-metals are less dense and have low m.p. and b.p. as compared to metals.,1,,,,,,,TF
+2,Materials: Metals and Non-Metals,True / False,,10,Sodium and potassium occur in nature in free state.,0,,,,,,,TF
+2,Materials: Metals and Non-Metals,True / False,,11,Dental amalgams contain gold and mercury.,0,,,,,,,TF
+2,Materials: Metals and Non-Metals,True / False,,12,Magnesium burns in air with dazzling white light.,1,,,,,,,TF
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,1,Select the one that could displace copper from a solution of copper sulphate,Silver,Mercury,Tin,Gold,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,2,Which of the following is a liquid metal?,Mercury,Bromine,Aluminium,Soduim,,a,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,3,The property of metals to be hammered into their sheets is called,malleability,ductility,tensile strength,sonorous nature,,a,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,4,Select the metal that is soft,aluminium,Iron,Sodium,Lead,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,5,Metals combine with oxygen to form an oxide. The nature of oxide formed is ___________,Acidic,Basic,Neutral,Amphoteric,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,6,The process of eating away of metals layer by layer due to formation of metal compound on surface is called,galvanisation,amalgam formation,orosion,vulcanization,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,7,Which of the following metals has no reaction even with steam,Sodium,Calcium,Iron,Silver,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,8,The most characteristic property of metals is their tendercy to,Form basic oxides,Form hydrides,Lose electrons,Gain electrons,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,9,"The process of protecting iron, from rusting, by coating with zinc is called",Rusting,Roasting,Smelting,Galvanization,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,10,The correct order of metals in the activity series is,Cu > Zn > Mg > Ca,Ca > Zn > Cu > Mg,Zn > Mg > Cu > Ca,Ca > Mg > Zn > Cu,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,11,Sodium reacts with cold water to form,sodium hydroxide and hydrogen,sodium hydroxide and oxygen,sodium hydride and oxygen,None of these,,a,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,12,"ne reactivities of iron, magnesium, sodium and zinc towards water are in the order",Fe > Mg > Na > Zn,Zn > Na > Mg > Fe,Na > Mg > Zn > Fe,Mg > Na > Fe > Zn,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,13,Select the one that occurs in native form.,Calciuim,Aluminium,Sodim,Gold,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,14,Antimony and arsenic can be classified as,Metals,Non metals,Metalloids,Any one of these,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,15,Select the property that is associated with non-metals.,Low density,Low melting point,Poor conductor of electricity,All of the above,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,16,In the process of welding metals like stainless steel and aluminium,oxyacetylene flame is used,liquid helium is used,liquid oxygen is used.,liquid nitrogen is used,,a,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,17,Non-metals are majorly present as,Solids,Liquids,Gases,Both (a) and (c) ,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,18,"When MgO is dissolved in water, Mg(OH)~2* is obtained.
+A red litmus paper dipped in this solution turns blue; this shows that the solution is _______ in nature",Acidic,Neutral,Alkaline,Reactive,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,19,Which of the following methods is most suitable for preventing an iron frying pan from rusting?,Applying grease,Applying paint,Applying a coating of zinc,All of the above,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,20,Which of the following statement is false?,Metals are good conductors of heat and electricity.,"Gold, Silver and Zinc are most malleable metals.",Mercury is the only liquid metal.,Bromine is the only liquid non-metal.,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,21,Which of the following statement regarding non-metals is true?,Non-metals are of two types only solids and gases.,Non-metals reacts with oxygen to form basic oxides generally.,"Non-metals are non-lustrous with dull apppearence. Graphite, an allotrope of carbon and iodine have shining lustrous surfaces.",Non-metals replace hydrogen from acids.,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,22,A metal occurs in nature as its ore X which on heating in air converts to Y. Y reacts with unreacted X to give the metal. The metal is,Hg,Cu,Zn ,Fe,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,23,The metal used to recover copper from an aqueous solution of copper sulphate is :,Na,Ag,Hg,Fe,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,24,Magnesium ribbon is rubbed with sand paper before making it to burn. The reason of rubbing the ribbon is to :,remove moisture condensed over the surface of ribbon.,generate heat due to exothermic reaction,remove magnesium oxide formed over the surface of magnesium.,mix silicon from sand paper (silicon dioxide) with magnesium for lowering ignition temperature of the ribbon.,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,25,The reaction that differs from the rest of the reactions given is :,formation of calcium oxide from limestone,formation of aluminium from aluminium oxide,formation of sodium carbonate from sodium hydrogen carbonate,formation of mercury from mercuric oxide,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,26,Al~2*O~2* reacts with,Only water,Only acids,Only alkalis,Both acids and alkalis,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,27,White phosphorus catches fire in air to produce dense white fumes. This is due to the formation of,P~4*O~10*,PH~3*,H~3*PO~3*,H~3*PO~2*,,a,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,28,Symboi of tin is,Pb,Tin,Ti,Sn,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,29,"The following observations are given for four metals:
+I.  Metal H does not react with dilute HCI.
+II.  Metal K reacts with warm water.
+III. Metal L does not react with water but displaces metal H from its aqueous salt solution.
+IV. Metal M reacts with cold water.
+Choose the correct decreasing order of reactivity of these metals amongst the following:",M > L > H > K,K > M > H > L,M > K > L > H,L > H > K > M,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,30,"Which of the following set of reactions will not occur?
+I.   MgSO~4*(aq) + Fe(s) -> FeSO~4*(aq) + Mg(s)
+II.  CuSO~4*(aq) + Fe(s) -> FeSO~4*(aq) + Cu(s)
+III. MgSO~4*(aq) + Cu(s) -> CuSO~4*(aq) + Mg(s)
+IV. CuSO~4*(aq) + Zn(s) ZnSO~4*(aq) + Cu(s)",I and III,II and IV,"I, II and IIII","II, III and IV",,a,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,31,Aqueous solution of CsO~2* is,Basic,Neutral,Acidic,Amphoteric,,a,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,32,Which type of ores are concentrated by Froth flotation process,Oxide ores,Sulphide ores,Carbonate ores,Nitrate ores,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,33,Which of the following is amphoteric oxide?,Na~2*O,SO~2*,Al~2*O~3*,CaO,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,34,"Consider the elements of group-l4. Choose the correct alternative.
+A) Si and Ge are semi conductors
+B) Carbon and silicon are non-metals
+C) Sn and Pb are metals
+D) Si and Ge are metalloids","A, B, C and D","A, B and D","A, C and D","A, B and C",,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,35,"Adding zinc to blue coloured copper sulphate solution, a solution of zinc sulphate is formed.",Reddish,Colourless,Greenish,Purple,,b,,MCQ
+2,Materials: Metals and Non-Metals,Morethan one Option Correct,,1,Which of the following will produce an acidic oxide on reaction with oxygen?,Calcium,Carbon,Sulphur,Nitrogen,,"b,c,d",,MAQ
+2,Materials: Metals and Non-Metals,Morethan one Option Correct,,2,Which of the following element(s) will produce basic oxides on reaction with oxygen?,Sodium,Magnesium,Aluminium,Carbon,,"a,b",,MAQ
+2,Materials: Metals and Non-Metals,Morethan one Option Correct,,3,Which of the following exists in liquid state at room temperature?,Mercury,Gallium,Bromine,Helium,,"a,b,c",,MAQ
+2,Materials: Metals and Non-Metals,Morethan one Option Correct,,4,Which of the following show lustre?,Sodium,Graphite,Iodine,Neon,,"a,b,c",,MAQ
+2,Materials: Metals and Non-Metals,Morethan one Option Correct,,5,Which of the following metal(s) is/are classified as every day metal(s)?,Sodium,Aluminium,Iron,Copper,,"b,c,d",,MAQ
+2,Materials: Metals and Non-Metals,Morethan one Option Correct,,6,Which of the following lie above hydrogen in the activity series?,aluminium,Silver,Iron,Lead,,"a,c,d",,MAQ
+2,Materials: Metals and Non-Metals,Morethan one Option Correct,,7,Which of the following will displace copper from copper sulphate solution?,Nickel,Tin,Lead,Platinum,,"a,b,c",,MAQ
+2,Materials: Metals and Non-Metals,Assertion - Reason,,1,"Assertion : Silver and gold are found in free state in nature.
+Reason : Silver and gold are noble metals.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+2,Materials: Metals and Non-Metals,Assertion - Reason,,2,"Assertion : The elements sodium, potassium, aluminium are classified as metals because of their tendency to form  cations.
+Reason : Metals are malleable, ductile and good conductors of heat and electricity.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+2,Materials: Metals and Non-Metals,Assertion - Reason,,3,"Assertion : Zinc is used in galvanization of iron.
+Reason : Galvanization increases the life of iron articles by protecting them from rusting.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+2,Materials: Metals and Non-Metals,Assertion - Reason,,4,"Assertion : When a piece of aluminium is put in a solution of copper sulphate we get a colourless solution.
+Reason : Aluminium placed above copper in the activity series.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+2,Materials: Metals and Non-Metals,Assertion - Reason,,5,"Assertion : Sodium metal reacts violently with water to produce heat and fire.
+Reason : Potassium metal reacts violently with water to form potassium hydroxide and hydrogen gas.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,1,The alloy brass consists of,Copper and Tin,Copper and Zinc,Copper and Aluminium,Tin and Lead,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,2,Duralumin is an alloy containing,Magnesium and aluminium,Magnesium and copper,"Magnesium, copper and aluminium","Magnesium, copper, manganese and aluminium",,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,3,Sulphide ores are usually concentrated by,Gravity separation,Froth flotation process,Calcination,Hydraulic washing,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,4,The process to remove unwanted impurities from the ore is called,purification,calcination,bassimerisation,concentration.,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,5,Heating of concentrated ore in absence of air for conversion into oxide ore is known as,Roasting,Calcination,Reduction,None of these,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,6,The reducing agent im thermite process is,Al,Mg,BaO~2*,MnO~2*,,a,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,7,The method of zone refining of metals is based on the principle of,Greater solubility of the impurity in the molten state than in the solid,Greater mobility of the pure metal than that of the impurity,Higher melting point of the impurity than that of the pure metal,Greater noble character of the solid metal than that of the impurity.,,a,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,8,Calcination is the process of heating the ore,In a blast furnace,In absence of air,In presence of air,None of these,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,9,The chief ore of aluminium is,Cryolite,Feldspar,Kaolin,Bauxite,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,10,Electrolytic reduction method is used in the extraction of,highly electronegative elements,highly electropositive elements,transition metals,noble metals,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,11,Bronze is a mixture of,Pb + Sn,Cu + Sn,Cu + Zn,Pb + Zn,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,12,Chemical method used in concentration of ore is known as,bleaching,leaching,roasting,calcination,,b,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,13,"The process of extraction of metal from its ores, is known as",concentration,calcination,purification,metallurgy,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,14,Roasting is generally done in case of the,oxide ores,silicate ores,sulphide ores,carbonate ores,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,15,The rocky material present in ore is known as,gangue,flux,slag,None of  these,,a,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,16,Select the correct statement,Amineral cannot be an ore.,All ore cannot be a mineral,All ores are minerals.,All minerals are ores,,c,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,17,The noble gas that does not occur in the atmosphere is,He,Kr ,Ne,Ra,,d,,MCQ
+2,Materials: Metals and Non-Metals,Multiple Choice Questions,,18,Which one is malachite from the following?,CuFeS~2*,Cu(OH)~2*,Fe~3*O~4*,CuCO~3*Cu(OH)~2*,,d,,MCQ
+2,Coal and Petroleum,Multiple Choice Questions,,19,Match the following :,a,b,c,d,CH-2-18-ROW-206,a,,MCQ
+2,Coal and Petroleum,Morethan one Option Correct,,20,Which of the following alloys contain tin as one of the constituents?,Bronze ,Solder,Gun Metal,Monel,,"a,b,c",,MAQ
+2,Coal and Petroleum,Morethan one Option Correct,,21,The process of zone refining is used in the purification or,Si,Al,Ag,Cu,,a,,MAQ
+2,Coal and Petroleum,Morethan one Option Correct,,22,The role of calcination in metallurgical operations is,to remove moisture,to decompose carbonate,to remove volatile impurities,to achieve all the above.,,d,,MAQ
+2,Coal and Petroleum,Morethan one Option Correct,,23,Which of the following metals is extracted by the electrometallurgical method ?,Cu ,Fe,Na,Ag,,c,,MAQ
+2,Coal and Petroleum,Assertion - Reason,,27,"Assertion : Leaching is a process of reduction.
+Reason : Leaching involves treatment of the ore with a suitable reagent so as to make it soluble while impurities remains insoluble.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,d,,AR
+2,Coal and Petroleum,Assertion - Reason,,28,"Assertion : Copper obtained after bassemerization is  known as blister copper.
+Reason : Blisters are produced on the surface of the metal due to escaping of dissolved SO~2*",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+2,Coal and Petroleum,Assertion - Reason,,29,"Assertion : Lead, Tin and bismuth are purified by liquation method.
+Reason : Lead, Tin and bismuth have low m.p. as compared to impurities.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+3,Coal and Petroleum,Multiple Choice Questions,,1,"Descriptions ot unknown compounds 'X', 'Y' and 'Z' are given below.
+X : A petroleum product used in place of coal tar for metalling the road.
+Y : Hard as stones, used to cook food and to electricity in thermal produce power plants.
+Z : A pure form of carbon used in the extraction of many metals also in the manufacture of steel. 
+'X', 'Y', 'Z' respectively are",a,b,c,d,CH-3-1-ROW-214,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,2,"(i)   Natural gas is an exhaustible source of energy.
+(i)   Fossil fuels can be prepared in laboratory.
+(iii) LPG is considered to be a good fuel for domestic uses.
+(iv) Natural gas is obtained by fractional distillation of crude oil. 
+Which of the above statements are correct","(i), (ii)","(i), (ii), (iv)","(i), (iii), (iv)",All of the above,,a,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,3,"The corect statement for the gaseous fuels is/are 
+A) They burn without producing smoke and CO~2*.
+B) They have two calorific value.
+C) They are easy to ignite.
+D) They have high calorific value.",B and C,C and D,A and B,B and D,,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,4,The world's first oil well was drilled in,Kazakhstan,Venezuela,Pennsylvania,Brazil,,c,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,5,Mark the incorrect statement.,Coking is the process to convert coal into coke.,Very high level of volatile matter in the coal results in the formation inferior quality coke.,Different types of coal are blended to reach acceptable levels of volalility before coking.,"Since smoke producing constituents are present in coke, it is used as fuel.",,d,,MCQ
+3,Coal and Petroleum,Assertion - Reason,,1,"Assertion : Natural gas deposits are often found near oil deposits.
+Reason : Petroleum and natural gas are formed when layers of decomposing plants and animals matter are exposed to intense heat and pressure under the surface of the earth over millions of years.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+3,Coal and Petroleum,Assertion - Reason,,2,"Assertion : Petroleum floats over water.
+Reason : Petroleum is less dense than water.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+3,Coal and Petroleum,Assertion - Reason,,3,"Assertion : Petroleum conservation research association (PCRA) advises people how to save petrol and diesel.
+Reason : PCRA suggests for a regular insurance of vehicle.
+",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+3,Coal and Petroleum,Assertion - Reason,,4,"Assertion : CNG is used for power generation.
+Reason : Natural gas is easy to transport through pipes.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+3,Coal and Petroleum,Assertion - Reason,,5,"Assertion : Coal and petroleum resource are limited. We should use them judiciously.
+Reason : Fossils fuels are inexhaustible resources.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+3,Coal and Petroleum,Fill in the Blanks,,1,Natural gas mainly consists of _________,Methane,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,2,The main products obtained from the destructive distillation of coal are _______ compounds ________ tar and _________ gas.,"Ammonium, Coal",,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,3,We can separate petroleum into its various fractions by fractional/distillation because the different fraction have different ____________,Boiling Point,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,4,The process of conversion of wood into coal is called ________,Carbonisation,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,5,_________ is the variety of coal with maximum carbon content,Apthracite,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,6,Petroleum and natural gas were formed from dead _________,Organism,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,7,"In fractional distillation, hydrocarbons with the _________ (highest/lowest) boiling points condense tirst.",Highest,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,8,Petroleum or crude oil pumped out from __________ is not pure.,Oil Wells,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,9,Coal mining causes many _________ impacts on environment,Adverse (Bad),,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,10,These days _______ is being used in vehicles in place of petrol and diesel,CNG,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,11,Lignite contans about __________ percent carbon.,70,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,12,Coal gas contains_________ and ________ gases.,"Hydrogen, Methane, Carbon Monoxide",,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,13,Producer gas is a mixture of ________ and _________,Carbon Monoxide and Nitrogen,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,14,The crude oil is heated to a high temperature and passed into ______ column.,Fractionating,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,15,Formation of tissil fuels is a very __________ process.,Slow,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,16,The black thick liquidwith ________ smell is known as coal tar.,Unpleasant,,,,,,,FIB
+3,Coal and Petroleum,Fill in the Blanks,,17,Excessive buming of fossil fuels is a major cause of _________,Air pollution,,,,,,,FIB
+3,Coal and Petroleum,True / False,,1,The percentage of carbon in anthracite is 60%.,0,,,,,,,TF
+3,Coal and Petroleum,True / False,,2,Petroleum is called black gold.,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,3,Bituminous coal is softer than anthracite.,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,4,Petroleum is a fossil fuel.,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,5,Petroleum is formed by the decomposition of remains of marine.,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,6,The refined form of petroleum is called crude oil.,0,,,,,,,TF
+3,Coal and Petroleum,True / False,,7,Petrol and diesel are obtained from a natural resources called petroleum,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,8,Coal is the purest form of carbon.,0,,,,,,,TF
+3,Coal and Petroleum,True / False,,9,"The destructive distillation of coal gives coke, coal tar, coal gas, etc.",1,,,,,,,TF
+3,Coal and Petroleum,True / False,,10,Peat contains 96% carbon and burns without smoke.,0,,,,,,,TF
+3,Coal and Petroleum,True / False,,11,The distribution of coal deposits is uniform in the earth's crust.,0,,,,,,,TF
+3,Coal and Petroleum,True / False,,12,Coke is 98% carbon like charcoal it is good fuel and burns without smoke.,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,13,"Coal tar is a mixture of different carbon compounds. It is a thick, black liquid.",1,,,,,,,TF
+3,Coal and Petroleum,True / False,,14,Ammoniacal liqour contains ammonia produced as a result of destructive distillation of coal is absorbed in water.,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,15,Methane is released during mining of coal.,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,16,Petroleum is formed from the fossils remains of dead animals.,TRUE,,,,,,,TF
+3,Coal and Petroleum,True / False,,17,Inhaling coal dust is useful for humans.,0,,,,,,,TF
+3,Coal and Petroleum,True / False,,18,Carbonisation is formation of coal from the carbon content of dead plants.,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,19,Compressed natural gas is a non polluting fuel.,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,20,Petroleum gets its name from petra and oleum means rock oil.,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,21,Natural gas can be sent to the houses through pipes.,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,22,Oxygen in air is an exhaustible natural resource.,0,,,,,,,TF
+3,Coal and Petroleum,True / False,,23,Wildlife is an exhaustible natural resource.,1,,,,,,,TF
+3,Coal and Petroleum,True / False,,24,CNG is less polluting fuel than petrol and diesel.,1,,,,,,,TF
+3,Coal and Petroleum,Multiple Choice Questions,,1,Select the one that is not derived from fossil fuel.,LPG,Kerosene,Diesel,Biogas,,d,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,2,The conversion of wood into coal occurs by a biochemical process that takes over millions of years and is known as ________,Catenation,Carbonisation,Pyrolysis,Destructive distillation,,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,3,Water gas is,CO + CO~2*,CO + N~2*,CO + H~2*,CO + N~@* + H~2*,,c,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,4,Main constituent of marsh gas is,Ethane,Acetylene,Ethyne,Methane,,d,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,5,Petroleum refining is -,distillation of petroleum to get different fractions of it.,obtaining aromatic compounds from aliphatic compounds present in petroleum.,cracking of petroleum to get gaseous hydrocarbons.,purification of petroleum.,,a,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,6,The natural petroleum contains,saturated hydrocarbons.,cyclic saturated hydrocarbons.,compounds of sulphur.,All of these,,d,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,7,Kerosene is used as fuel because it is,More volatile,Less volatile,cheap,Abundantly available,,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,8,The origin of petroleum is indicated by the fact that,its constituents can be separated by fractional distillation.,petroleum was formed from living sea organisms which after death get deposited in sea bed for long period of time.,petroleum contains traces of chlorophyll.,oil fields are located with the help of seismograph.,,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,9,Gasoline is obtained from crude petroleum oil by its,fractional distillation,vacuum distillation,steam distillation,pyrolysis,,a,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,10,Natural gas is a very important fossil fuel because,it is easy to transport through pipes and emits no pollutants,it is a mixture of various constituents.,it is used as a fuel in many industries.,it is a tough porous and black substance.,,a,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,11,Natural gas mainly contains,Ehane,Butane,Propane,Methane,,d,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,12,Kerosene is used as fuel,in home and industry,for heavy motor vehicles,"for stove, lamps and jet aircraft",for electric generator,,c,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,13,We can use coke,as an oxidising agent,as a reduc1ng agent,in printers ink,as electrode,,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,14,Coal tar is a ,"black, thick liquid.","dark, oily liquid","tough, porous and black substance.",Gas,,a,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,15,Mark the correct statement.,Coke starts burning when exposed to air.,Coal gas is obtained as a gaseous product during destructive distillation of coal.,Coal gas can be condensed back to give coal.,Coal tar and ammonical liquor are useless product.,,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,16,Which type of coal has highest percentage of carbon?,Anthracite,Bituminous,Peat,Lignite,,a,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,17,Coal gas is a mixture of -,CH~4* + H~2* + CO,C~4*H~10* + H~2*,C~4*H~10* + H~2*,C~2*H~6* + H~2* + O~2*,,a,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,18,Gasoline is the name of,erude oil,the fraction of petroleum condenses with in the range of 343-393 K and hasa composition of C~5* -C~10*,the mixture of uncondensed gases produced in the distillation of crude oil.,the mixture of residue and gas oil obtained in the distillation of crude oil.,,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,19,The order of appearance of the following with rising temperature during the refining of crude oil is,"kerosene oil, gasoline, diesel","diesel, gasoline, kerosene oil","gasoline, diesel, kerosene oil","gasoline, kerosone oil, diesel.",,d,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,20,The most important use of coal tar is,as a reducing agent in metallurgy,As a fuel,as a source of aromatic hydrocarbons,for making shoe polish,,c,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,21,The process of heating coal in the absence of air is called,fractional distillation,distillation,destructive distillation,None of these,,c,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,22,Which is the best variety of coal?,Peat,Lignite,Anthracite,Bituminous,,c,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,23,The non-combustible element of producer gas is,CO,N~2*,H~2*,H~2*O,,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,24,Destructive distillation of coal produces,Coal Gas,Natural Gas,Biogas,None of these,,a,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,25,Ligmite coal contains how many percentage of carbon?,60%,67%,64%,88%,,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,26,What is the actual composition of natural gas.,"CH~4*(85%), C~2*H~6*(10%), C~3*H~8*(3%) and small amount of C~4*H~10*","CH~4*(10%), C~2*H~6*(85%), C~3*H~8*(3%) and small amount of C~4*H~10*","CH~4*(88%), C~2*H~8*(10%), C~3*H~8*(3%) and small amount of C~2*H~6* and C~4*H~10*","CH~4*(65%), C~2*H~6*(20%), C~3*H~8*(10%) and 5% of C~4*H~10*",,a,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,27,Which of the following is boiling range of diesel oil?,573 K to 723 K,523 K to 573 K,622 K to 673 K,373 K to 623 K,,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,28,"Which of the following sources of energy can be a good alternative to coal in a power station ?
+i)  Geothermal energy
+ii) Energy from water
+iii)Energy from petrol
+iv) Energy from plants",(i) and (ii) only,(iv) only,"(i), (ii) and (iii) only",All of the above,,a,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,29,"Read the following statements and mark the correct ones from the given options.
+i) Coal, petroleum and natural gas are called fossil fuels.
+ii) Coal and natural gas are two exhaustible substances.
+iii) Coke is used in manufacture of steel.
+iv) Fossil fuels are present in limited quantities.",(i) and (ii),(i) and (iv),"(i), (ii) and (iii)","(i), (ii), (iii) and (iv)",,d,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,30,"Besides the risk of pollution, fossil fuels also pose a risk of ",Global warming,Water pollution,Leakage,Explosion,,a,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,31,"Consider the following statements.
+1. Natural gas can be supplied to homes and factories through pipes.
+2. Natural gas is obtained by fractional distillation of crude oil.
+3. Natural gas is a cleaner fuel because on burning only water is produced.
+4. Natural gas is an exhaustible source of energy like fossil fuels.
+Which alternative has the correct statements ?",1 and 3,2 and 3,1 and 4,"1, 3 and 4",,d,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,32,"Coal is a fossil fuel and it cannot be prepared in a laboratory or industry because the formation of coal
+1. is a very slow process
+2. need very low pressure and low temperature
+3. need very high pressure and high temperature
+4. causes air pollution
+Select the correct alternative.",1 and 2,2 and 4,1 and 3,4 and 3,,c,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,33,Which one of the following statement is incorrect about graphite and diamond?,Graphite is smooth and slippery.,Diamond is good conductor of heat.,Graphite is a good conductor of electricity.,Physical and chemical properties of graphite and diamond are different,,d,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,34,Which among the following is highly toxic and inflammable gas ?,CO,CO~2*,CS~2*,CaC~2*,,a,,MCQ
+3,Coal and Petroleum,Morethan one Option Correct,,1,Select the correct statements about coke.,It is a crystalline form of carbon.,It contains about 90% carbon.,It is used as reducing agent.,It is a black porous substance.,,"b,c,d",,MAQ
+3,Coal and Petroleum,Morethan one Option Correct,,2,Choose the products obtained from fossil fuels.,Coal,Coke,Coal tar,Oxygen,,"b,c",,MAQ
+3,Coal and Petroleum,Morethan one Option Correct,,3,Which of the following is not obtained on fractional distillation of petroleum?,Gasoline,Light Oil,Coal gas ,Kerosene,,"b,c",,MAQ
+3,Coal and Petroleum,Morethan one Option Correct,,4,Which of the following are produced from coal tar?,Synthetic dyes,Drugs,Perfumes,Soap and Detergent,,"a,b,c",,MAQ
+3,Coal and Petroleum,Morethan one Option Correct,,5,Which of these are fossil fuels?,Coal,Petroleum,Biogas,Natural gas,,"a,b,d",,MAQ
+3,Coal and Petroleum,Morethan one Option Correct,,6,Which of the following statements is/are true ?,Petroleum is a fossil fuel.,Petroleum is formed by the decomposition of remains of marine,The refined form of petroleum is called crude oil,Petrol and diesel are obtained from a natural resource called petroleum,,"a,b,d",,MAQ
+3,Coal and Petroleum,Morethan one Option Correct,,7,Mark the incorrect statements.,Fossil fuels can be made in laboratory.,CNG is more polluting than petrol.,Petroleum is a mixture of various oxides of carbon,Coal tar is a mixture of various substances,,"a,b,c",,MAQ
+3,Coal and Petroleum,Assertion - Reason,,1,"Assertion : Coal gas is a mixture of methane, hydrogen and carbon monoxide.
+Reason: It is obtained when coal is bumt in excess of air.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+3,Coal and Petroleum,Assertion - Reason,,2,"Assertion : Anthracite is the purest form of coal.
+Reason : It contains about 50% carbon.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+3,Coal and Petroleum,Assertion - Reason,,3,"Assertion : CNG and LPG are clean fuels.
+Reason : They do not leaveany residue on burning.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+3,Coal and Petroleum,Assertion - Reason,,4,"Assertion : Petroleum or crude oil pumped out of oil well is not pure.
+Reason: Petroleum is refined to get various fraction which can be used for specific purposes.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+3,Coal and Petroleum,Assertion - Reason,,5,"Assertion : Petrol is more volatile than diesel oil.
+Reason : Petrol condenses near the top of the column than diesel oil.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+3,Coal and Petroleum,Assertion - Reason,,6,"Assertion : Air and sunlight are inexhaustible natural resources.
+Reason : Air and sunlight are present in unlimited quantity in nature.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+3,Coal and Petroleum,Multiple Choice Questions,,1,Activated charcoal is used in gas masks because,it is a good adsorbent,it is a good reducing agent,it burns without smoke,it is highly active,,a,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,2,LPG is a mixture of,C~6*H~12* + C~6*H~6*,C~4*H~10* + C~3*H~8*,C~2*H~2* + C~2*H~4*,CH~4* + C~2*H~4*,,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,3,"On the basis of following features identify the correct process
+I. This process can be carried out with or without catalyst.
+II. This process is carried out to meet the increasing demands of gasoline.
+III. In this process higher hydrocarbons breakdown to give smaller hydrocarbons",Refining,Destructive distillation,Cracking,Rerforming,,c,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,4,"On the basis of following features identify the correct gas.
+I.  This gas is commonly known LPG.
+II. This gas is commonly used as domestic fuel
+III. Astrong smelling substance called ethyl mercaptan is added to detect the leakage of this gas.",Ethene,Butane,Pentane,Butene,,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,5,"Equation
+Which of the following is obtained in the above reaction?",Animal charcoal,Sugar charcoal,Coke,Wood charcoal,CH-3-5-ROW-316,b,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,6,Ethyl mercaptan is added to LPG,to give colour to it,to give volume to it,to give smell to it,to make it liquid.,,c,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,7,Mark the incorrect statement.,Burning of coal in a sufficient amount of oxygen produces carbon dioxide.,"When coal burns in insufficient amount of oxygen, carbon monoxide is formed.",Charcoal is a better fuel than kerosene to be used as fuel for cooking at home.,LPG is considered to be a good fuel for domestic use.,,c,,MCQ
+3,Coal and Petroleum,Multiple Choice Questions,,8,Butane gas is used for filling cylinders to be used as LPG because,it is easily available,it is easily compressed into a liquid and stored in cylinders,it is stored in gaseous state only in the cylinder,it is the cheapest available gas.,,b,,MCQ
+3,Coal and Petroleum,Morethan one Option Correct,,9,Choose the correct statements :,Animal charcoal is obtained by heating bones in a retort in absence of air.,Animal charcoal is used for decolourising brown sugar.,Sugar charcoal is used in preparation of synthetic diamonds,Adsorption is a surface phenomenon.,,"a,b,c,d",,MAQ
+3,Coal and Petroleum,Morethan one Option Correct,,10,"On dehydration of cane sugar with concentrated sulphuric acid, we get",Sugar charcoal,an allotrope of carbon that is amorphous,an allotrope of carbon that is a very pure form of carbon.,wood charcoal,,"a,b,c",,MAQ
+3,Coal and Petroleum,Morethan one Option Correct,,11,Which of the following precaution (s) should be taken if in case there is any leakage of gas.,All doors and windows of the room in which cylinder is kept should be opened.,All lights of the room should be turned on.,Any open flame nearby should be immediately extinguished.,All of the above are incorrect,,"a,c",,MAQ
+3,Coal and Petroleum,Assertion - Reason,,15,"Assertion : The main constituent of LPG is butane.
+Reason : A small quantity of mercaptan is added to cooking gas cylinders supplied for domestic use.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+3,Coal and Petroleum,Assertion - Reason,,16,"Assertion : Sugar charcoal is prepared by dehydration of sugar.
+Reason : Sulphuric acid is a dehydrating agent.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+3,Coal and Petroleum,Assertion - Reason,,17,"Assertion : Charcoal does not produce any smoke.
+Reason : Charcoal contains only carbon.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+3,Coal and Petroleum,Assertion - Reason,,18,"Assertion : Bone charcoal cannot act as a reducing agent.
+Reason : Since bone charcoal contains maximum percentage of calcium phosphate so it can not act as a reducing agent.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+3,Coal and Petroleum,Assertion - Reason,,19,"Assertion : Wood charcoal is used as one of the constituents of gun powder.
+Reason : Word charcoal is used as a deodorant and disinfectant.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+4,Combustion and Flame,Multiple Choice Questions,,1,"Arrange the given fuels in increasing order of calorific value.
+A) Hydrogen        B)  Charcoal     C) Petrol   D) LPG    E) Wood",EDACB,EBCDA,CEDAB,DECAB,,b,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,2,We shouldn't light a candle in a closed room because,carbon particles are formed which are dangerous for respiratory tract,the carbon dioxide formed causes breathlessness,"methane gas, which is poisonous, is formed","carbon monoxide gas is formed, which reduces the ability of blood to carry oxygen.",,d,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,3,Which of the following process does not contribute to the increase of suspended particulate matter in the atmosphere?,usage of refrigerators and air conditioners,buming of wood,burning of coal,emission from industries,,a,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,4,Which of the following phenomena can be an effect of acid rain?,adverse effect of ultra violet radiation,unseasonal rainfall,death of aquatic animals,an increase in frequency of flood,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,5,Incomplete combustion of fuels does not contribute to,photochemical smog,acid rain,global warming,Both (a) and (b) ,,c,,MCQ
+4,Combustion and Flame,Assertion - Reason,,1,"Assertion : Kerosene lamp burn with yellow flame.
+Reason : Yellow flame is caused by incomplete combustion of the fuel.",,,, ,,a,,AR
+4,Combustion and Flame,Assertion - Reason,,2,"Assertion: Many fucls gases contain hydrogen as a major constituent.
+Reason: Liquid hydrogen is a very light fuel.",,,,,,b,,AR
+4,Combustion and Flame,Assertion - Reason,,3,"Assertion : Water fire extinguishers can be used for solids only, such as wood, paper, plastics and fabrics.
+Reason : Salty water is a bad conductorof electricity",,,,,,c,,AR
+4,Combustion and Flame,Assertion - Reason,,4,"Assertion : We can not boil water in a paper cup.
+Reason : Ignition temperature of paper cup becomes too high.",,,,,,d,,AR
+4,Combustion and Flame,Assertion - Reason,,5,"Assertion : The substances classified as fuel must necessarily contain one or several of the combustible substances.
+Reason : Carbon. hydrogen. sulphur are combustible substances.",,,,,,b,,AR
+4,Combustion and Flame,Fill in the Blanks,,1,_________ is the substance which reacts with oxygen and turns to release energy.,Fuel,,,,,,,FIB
+4,Combustion and Flame,Fill in the Blanks,,2,During an explosion a large amount of ________ given out.,Heat,,,,,,,FIB
+4,Combustion and Flame,Fill in the Blanks,,3,The _________ zone in a candle flame is the zone of no combustion.,Innermost,,,,,,,FIB
+4,Combustion and Flame,Fill in the Blanks,,4,The amount of heat liberated when one kilogram of a fuel is completely bumt in suficient supply of oxygen is called _________ of the fuel,Calorific,,,,,,,FIB
+4,Combustion and Flame,Fill in the Blanks,,5,__________ is a gaseous fuel which can be stored in cylinders,CNG,,,,,,,FIB
+4,Combustion and Flame,Fill in the Blanks,,6,"On burning, solid fuels leave residue and _________",Smoke,,,,,,,FIB
+4,Combustion and Flame,Fill in the Blanks,,7,__________ has corroded the marble structure of Taj Mahal.,Acid Rain,,,,,,,FIB
+4,Combustion and Flame,Fill in the Blanks,,8,________ is used to control fires involving electrical equipments.,Carbon Dioxide,,,,,,,FIB
+4,Combustion and Flame,Fill in the Blanks,,9,Ignition temperature of a log of wood is _______ than a splinter.,Higher,,,,,,,FIB
+4,Combustion and Flame,Fill in the Blanks,,10,Respiration is a ______ combustion.,Slow,,,,,,,FIB
+4,Combustion and Flame,Fill in the Blanks,,11,Combustion of white phosphorus in air is an example of _________ combustion.,Spontaneous,,,,,,,FIB
+4,Combustion and Flame,Fill in the Blanks,,12,When the clothes of a person catch _________ the person is covered with a __________,"Fire, Blanket",,,,,,,FIB
+4,Combustion and Flame,Fill in the Blanks,,13,The substances which have very ________ ignition temperature and can easily catch tire with a tlame are called _______ substances.,"Low, Inflammable",,,,,,,FIB
+4,Combustion and Flame,True / False,,1,To extinguish petrol fire we can use water.,0,,,,,,,TF
+4,Combustion and Flame,True / False,,2,Carbon dioxide is effective for fire fighting.,1,,,,,,,TF
+4,Combustion and Flame,True / False,,3,Carbon monoxide is neither combustible nor a supporter of combustion.,0,,,,,,,TF
+4,Combustion and Flame,True / False,,4,In luminous zone of candle a incomplete combustion of wax vapours takes place with liberation of maximum heat energy.,0,,,,,,,TF
+4,Combustion and Flame,True / False,,5,Wood is a better fuel than LPG.,0,,,,,,,TF
+4,Combustion and Flame,True / False,,6,Itis difficult to burn dry leaves but green leaves catch fire easily.,0,,,,,,,TF
+4,Combustion and Flame,True / False,,7,Colour of outer zone of a candle flame is blue while middle zone is yellow in colour.,1,,,,,,,TF
+4,Combustion and Flame,True / False,,8,Incomplete combustion of a fuel gives carbon dioxide.,0,,,,,,,TF
+4,Combustion and Flame,True / False,,9,"Charcoal does not vaporise, so it does not produce a flame.",1,,,,,,,TF
+4,Combustion and Flame,True / False,,10,Oxides of sulphur and nitrogen are produced by burning of coal and diesel which cause acid rain.,1,,,,,,,TF
+4,Combustion and Flame,True / False,,11,"Carbon dioxide, water vapours, heat and light are the products of combustion.",1,,,,,,,TF
+4,Combustion and Flame,True / False,,12,At airport and petrol pump soda acid fire extinguishers are not used.,1,,,,,,,TF
+4,Combustion and Flame,True / False,,13,Magnmesium is a non-combustible metal.,0,,,,,,,TF
+4,Combustion and Flame,Multiple Choice Questions,,1,Water is used to extinguish fire because water,raises the ignition temperature of the burning substance.,lowers the ignition temperature of the burning substance.,cools the burning substance to a temperature below its ignition temperature.,conducts the heat.,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,2,Which of the following has highest calorific value?,Petrol,Coke,Natural Gas,Kerosene,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,3,Combustion is _________ reaction accompanied by heat and light.,Reduction,Decomposition,Substitution,Oxidation,,d,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,4,Outermost zone of flame is called,Luminous zone,Non-luminious zone,Dark zone,None of these,,b,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,5,The fuel having lowest calorific value is,H~2*,C~6*H~12*O~6*,Kersone,CH~4*,,b,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,6,Incomplete combustion of fuel produces,CO~2*,CO,H~2*O,H~2*,,b,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,7,Combustion is the process of,vaporisation of fuel,reduction of fuel,oxidation of fuel with the evolution of heat and light,production of explosive sound,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,8,Vapourised wax gets oxidised in,Blue zone,Dark zone,Luminous zone,Middle zone,,a,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,9,"When wood is burnt, at first, it gives flame but later glows because",It contains all non-volatile substance.,It contains chemicals which break down to release gases giving flame,Both (a) and (b) ,None of these,,b,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,10,Select the quality that a good fuel should possess.,High calorific value,A low calorific value,It should burn too fast.,It should burn too slow.,,a,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,11,Select the fuel with highest calorific value?,LPG,Kerosene,Wood,Hydrogen gas,,d,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,12,Which one is used as fire extinguisher?,SO~2*,CO~2*,NO~2*,O~2*,,b,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,13,The colour of luminous zone of a candle flameis,Black,Blue,Yellow,None of these,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,14,Which of the following is example of spontaneous combustion?,Burning of matchstick,Combustion of fuel by motor vehicles,Lightning of kerosene lamp,Combustion of coal dust in coal mines,,d,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,15,Molten wax on heating releases,water and carbon dioxide,carbon and hydrogen,carbon dioxide and hydrogen,water and carbon,,a,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,16,"Observe the following figure carefully and answer the following question.
+Which zone of candle flame in above figure is the hottest zone?",Innermost zone,Middle zone,Outermost zone,All flames are equally  hot,CH-4-16-ROW-379,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,17,Which of the following is correct definition of ignition temperature?,The maximum temperature at which a substance catches fire without any apparant cause.,The lowest temperature at which a substance catches fire.,The lowest temperature at which a substance changes its physical state.,The lowest temperature required for a chemical reaction to take place,,b,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,18,Which of the following is correct definition of calorific value of fuel?,It is the amount of heat required for burning one unit of fuel in presence of oxygen.,It is the amount of heat energy given out on burning one unit of fuel.,It is the amount of heat energy given out on burning one unit of solid fuel.,It is the amount of heat energy given out on burning one unit of gaseous fuel.,,b,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,19,"Which of the following is best explanation of statement:
+Metabolism of glucose is considered as combustion",It involves reaction of glucose molecule with oxygen,This reaction occurs as rapid as combustion reaction.,"Products obtained are CO~2* and H~2*O, therefore it is a combustion reaction occurs at slow and steady rate.",This reaction releases enormous amount of energy,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,20,LPG burns with a,non-luminous flame,luminous flame,yellow flame,Both (a) and (b),,a,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,21,"Which of the following is best explanation of statement: 
+Water should never be used to extinguish oil fires.","Water is heavier than oil, on spraying water it sinks and oil floats, and the fire continues.","Water is lighter than oil, on spraying water it sinks and oil floats and the fire continues.",Water reacts with oil and form a new flammable compound.,Oil fire is very intense it convert water into steam and evaporate it off ,,a,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,22,"In improved chulhas, smoke is removed by",Pipes,Windows,Doors,Chimney,,d,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,23,Digestion of food is in an example of,incomplete combustion,Complete combustion,slow combustion,rapid combustion,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,24,"In presence of water, ignition temperature of paper",Decreases,Increases,Remains constant,can decrease or increase,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,25,The head of the safety match contains a mixture of,antimony trisulphide and potassium chlorate,potassium chlorate and red phosphorus,antimony trisulphide and white phosphorus,glass powder and potassium chlorate,,a,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,26,Place a piece of burning charcoal an iron plate and cover it with a plastic jar. The charcoal stops burning because,its ignition temperature is lowered,supply of oxygen is cut off,it becomes cold after some time,None of the above,,b,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,27,Why do fire brigades pour wateron the fire?,Water cools the combustible material so that its temperature is brought below its ignition temperature.,This prevents the fire from spreading.,Water vapours help in cutting off the supply of air.,All of the above,,d,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,28,The substance that does not burn with flame is,LPG,Dry grass,Camphor,Charcoal,,d,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,29,Choose the correct statement about inflammable substances from the following. They have,low ignition temperature and cannot catch fire easily,high ignition temperature and can catch fire easily,low ignition temperature and can catch fire easily,high ignition temperature and cannot catch fire casily,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,30,"Choose the incorrect statement from the following 
+Forest fires are usually due to:",carelessness of humans,cutting of trees,heat of sun,lightning strike,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,31,"Read the statements about carbon and choose correct option :
+A. It has small atomic size
+B. Its melting & boiling point is low as compared to other members of group
+C. It shows electropositive character
+D. It shows maximum tendency of catenation",A and B are correct,B and D are correct,"A, C and D are correct",A and D are correct,,d,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,32,"In water-gas shift reaction, hydrogen gas is produced from the reaction of steam with",Methane,Coke,Carbon monoxide,Carbon dioxide,,c,,MCQ
+4,Combustion and Flame,Morethan one Option Correct,,1,Water can be used as fire extinguisher to put out -,Burning wood,Burning Oil,Burning cloth,Burning charcoal,,"a,c,d",,MAQ
+4,Combustion and Flame,Morethan one Option Correct,,2,Whichis/are not fuel(s)?,Wood,Carbon monoxide,Nitrogen,Oxygen,,"b,c,d",,MAQ
+4,Combustion and Flame,Morethan one Option Correct,,3,Which of the following gases cause acid rain ?,Ammonia,Hydrogen,Oxides of Nitrogen,Sulphur dioxide,,"c,d",,MAQ
+4,Combustion and Flame,Morethan one Option Correct,,4,Burning is accompanied with,evolution of heat,evolution of energy,evolution of light,evolution of electricity,,"a,b,c",,MAQ
+4,Combustion and Flame,Morethan one Option Correct,,5,We can prevent energy crisis if we,use non-renewable sources of energy,slow down the use of fuels like coal and petroleum,"start using sources like wind, sunlight, hydro energy, etc.",use wood & coke instead of coal & petroleum,,"b,c",,MAQ
+4,Combustion and Flame,Morethan one Option Correct,,6,Fire extinguishers extinguish the fire by,cutting off the supply of air,bringing down the temperature of fuel,supplying air to the fuel,bringing down the temperature of fire,,"a,b",,MAQ
+4,Combustion and Flame,Assertion - Reason,,1,"Assertion : Innermost zone of the flame is cooler than the outer zones and is dark.
+Reason: The middle zone is largest zone of flame and this zone gives soot and smoke.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+4,Combustion and Flame,Assertion - Reason,,2,"Assertion : Luminous zone of a flame is mainly due to incomplete burning of carbon.
+Reason: In luminous zone hydrogen burns with a birlliant yellow luminous flame.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+4,Combustion and Flame,Assertion - Reason,,3,"Assertion : Calorific value of methane is greater than ethane.
+Reason : Fuels having higher percentage of hydrogen have higher calorific value.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+4,Combustion and Flame,Assertion - Reason,,4,"Assertion : Fire can be extinguished by cutting off the supply of oxygen
+Reason : Oxygen is a supporter of combustion.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+4,Combustion and Flame,Assertion - Reason,,5,"Assertion : Candle burms with a flame whereas coal does not.
+Reason : Coal does not vapourise on combustion.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+4,Combustion and Flame,Assertion - Reason,,6,"Assertion : Diesel and petrol cannot be used as household fuels for cooking.
+Reason : They are highly non-flammable substances.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+4,Combustion and Flame,Assertion - Reason,,7,"Assertion : Coal fire can be started by using a lighted matchstick.
+Reason : Coal has a high ignitiontemperature.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,d,,AR
+4,Combustion and Flame,Multiple Choice Questions,,1,Which of the following substances is used in place of H~2*SO~4* in foam type of fire extinguishers ?,Saponin,Aluminium sulphate,Sodium carbonate,Alcohol,,b,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,2,Hydrocarbon burns to produce,CO~2* + Water vapour + Heat + Light,CO~2* + O~2*,CO~2* + H~2* + energy,CO + H~2*,,a,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,3,Daily use candles (paraffin wax) contain,higher saturated hydrocarbon,lower saturated hydrocarbon,higher unsaturated hydrocarbon,lower unsaturated hydrocarbon,,a,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,4,The salt used in soda acid type extinguisher is,potassium chlorate,sodium nitrate,sodium bicarbonate,potassium sulphate,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,5,Which of the following diagram shows a non-luminous flame?,a,b ,c,d,CH-4-5-ROW-413,a,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,6,CO~2* is stored as a liquid in cylinder at,high pressure,low pressure,high temperature,low temperature,,a,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,7,CO~2* is given off by chemicals like,NaHCO~3*,CaSO~4*,Na~2*SO~4*,H~2*SO~4*,,a,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,8,"When a cracker is ignited, a sudden reaction takes place with the evolution of heat, light and sound. Identify the type of combustion?",Random combustion,Rapid combustion,Spontaneous combustion,Explosion,,d,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,9,"The different zones of a candle flame are marked by the letters A, B and C.
+Which of the following is correct?",A is moderately hot,A is the hottest part of the flame,C is moderately hot,B is the hottest part of the flame,CH-4-9-ROW-417,b,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,10,Which of the following should be done to control fire?,Increase the oxygen supply,Increase fuel supply,Reduce the heat supply,Reduce the nitrogen supply,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,11,"When suficient oxygen is not available, combustion of methane produces _________ gas and water.",Nitrogen,Hydrogen,Carbon monoxide,Carbon dioxide,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,12,The middle zone of a candle flame is also called the zone of ________ combustion.,Spontaneous,Rapid,Partial,Complete,,c,,MCQ
+4,Combustion and Flame,Multiple Choice Questions,,13,Which of the following is not correct about carbon monoxide?,It reduces oxygen carrying ability of blood.,The carboxyhaemoglobin (haemoglobin bound to CO) is less stable than oxyhaemoglobin.,It is produced due to incomplete combustion.,It forms carboxyhaemoglobin.,,b,,MCQ
+4,Combustion and Flame,Morethan one Option Correct,,14,Which of the following is/are advantage(s) of solld fuels?,Their ash content is high,They are easy to transport,Cost of production is low,Easy to store,,"b,c,d",,MAQ
+4,Combustion and Flame,Morethan one Option Correct,,15,Which of the following is/are advantage(s) of liquid fuels?,Require less furnace space for combustion,Clean in use,Can be stored indefinitely,Leaves no ash content,,"a,b,c,d",,MAQ
+4,Combustion and Flame,Morethan one Option Correct,,16,Which of the following is/are advantage(s) of gascous fuels?,They have high heat content,They are clean in use,They can be lighted at moment's notice,They can be transported through network of pipelines,,"a,b,c,d",,MAQ
+4,Combustion and Flame,Morethan one Option Correct,,17,Which of the following is/are disadvantage(s) of gaseous fuels?,Very large storage tanks are needed.,Higher possibilities of fire hazards,They are very costly.,They leave no ash on burning.,,"a,b,c",,MAQ
+4,Combustion and Flame,Morethan one Option Correct,,18,The zone that does not produce light in the candle flame is,non-luminous zone,luminous zone,invisible zone,all zones give light,,"a,c",,MAQ
+4,Combustion and Flame,Assertion - Reason,,22,"Assertion : Hydrogen gas is one of the components in both oxyhydrogen fiame and oxyacetylene flame.
+Reason : Hydrogen is a combustible gas.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,d,,AR
+4,Combustion and Flame,Assertion - Reason,,23,"Assertion : We can use a carbon diozide fire extinguisher to put out a burning magnesium fire
+Reason : Magnesiurm is very reactive.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,d,,AR
+4,Combustion and Flame,Assertion - Reason,,24,"Assertion : The heat of the fame vaporizes the liquid wax.
+Reason : These vaporized molecules are drawn up into the flame",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+5,Pollution of Air and Water,Multiple Choice Questions,,1,Which gas is the major pollutant of air?,Carbon monoxide,Nitrogen,Oxygen,Propane,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,2,In which year Ganga Action Plan was launched?,1980,1984,1982,1985,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,3,What radiations are absorbed by CO~2*?,Utrared radiations,Infrared radiations,Ultravoilet radiations,None of these,,b,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,4,Which element is present in the exhaust of automobiles?,Lead,Calcium,Chromium,Magnesium,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,5,The phenomenon of marble cancer is due to,Soil particles,God,CFCs,Acid rain,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,6,Which of the following contents is most harmful to aquatic animals?,Heavy metal ions,Sodium ions,Potassium ions,Chloride ions,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,7,Which of the following is major source of water pollution?,Indutrial wastes,Untreated sewage,Use of fertilizers,Toxic metals,,a,,MCQ
+5,Pollution of Air and Water,Assertion - Reason,,1,"Assertion : SO~2* causes Acid rain.
+Reason : Burning of petrol and diesel releases SO~2* in the atmosphere.",,,,,,b,,AR
+5,Pollution of Air and Water,Assertion - Reason,,2,"Assertion : Sources of air pollution is man made only.
+Reason : Sources of air pollution are both man-made and natural.",,,,,,c,,AR
+5,Pollution of Air and Water,Assertion - Reason,,3,"Assertion : Smog is formed by the combination of smoke and fog.
+Reason : Oxides of sulphur and nitrogen present in the air produces smog.",,,,,,a,,AR
+5,Pollution of Air and Water,Assertion - Reason,,4,"Assertion: Rotation of CO~2* in the atrmosphereis balanced by plants.
+Reason : Photosynthesis process by plants maintain the rotation of CO~2* in the atmosphere.",,,,,,a,,AR
+5,Pollution of Air and Water,Fill in the Blanks,,1,Aquatic animals utilise ________ for their respiration.,Dissolved Oxygen,,,,,,,FIB
+5,Pollution of Air and Water,Fill in the Blanks,,2,_______ are responsible for the depletion of the ozone layer in the atmosphere.,CFCs,,,,,,,FIB
+5,Pollution of Air and Water,Fill in the Blanks,,3,"Sewage wastes should be treated well to remove ________ substances, before being released into water.",Toxic,,,,,,,FIB
+5,Pollution of Air and Water,Fill in the Blanks,,4,"More and more ________ plants should be put up, so that water can be used many times and in many ways, before it is disposed off.",Water recycling,,,,,,,FIB
+5,Pollution of Air and Water,Fill in the Blanks,,5,Cholera is a _______ borne disease.,Water,,,,,,,FIB
+5,Pollution of Air and Water,Fill in the Blanks,,6,Water which is suitable for drinking is called ________,Potable Water,,,,,,,FIB
+5,Pollution of Air and Water,Fill in the Blanks,,7,Vehicles produce high levels of pollutants like _______,Carbon Monoxide,,,,,,,FIB
+5,Pollution of Air and Water,Fill in the Blanks,,8,Dust and smoke causes ___________ of air when present in excess.,Pollution,,,,,,,FIB
+5,Pollution of Air and Water,Fill in the Blanks,,9,The oxides of ________ and ________ cause acid rain.,"Sulphur, Nitrogen",,,,,,,FIB
+5,Pollution of Air and Water,Fill in the Blanks,,10,Acid rain has made Taj Mahal's marble _______________,Corroded,,,,,,,FIB
+5,Pollution of Air and Water,Fill in the Blanks,,11,Smog is a mixture of _________ and __________,"Smoke, Fog",,,,,,,FIB
+5,Pollution of Air and Water,Fill in the Blanks,,12,"While _________ your teeth, leaving the __________ running may waste several _______ of water.","Brushing, Tap, Litres",,,,,,,FIB
+5,Pollution of Air and Water,Fill in the Blanks,,13,Water which looks clean still has disease carrying _______ and ______ impurities.,"Microorganisms, Dissolved",,,,,,,FIB
+5,Pollution of Air and Water,True / False,,1,An increase in the levels of CO~2* in atmosphere increases the temperature of earth.,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,2,The two types of water pollution are chemical pollution and biological pollution.,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,3,Use of fertilizers has no role on water pollution.,0,,,,,,,TF
+5,Pollution of Air and Water,True / False,,4,Excessive use of pesticides help to decrease water pollution.,0,,,,,,,TF
+5,Pollution of Air and Water,True / False,,5,Methane is not a green house gas.,0,,,,,,,TF
+5,Pollution of Air and Water,True / False,,6,Aerated water is the water containing dissolved oxygen from air.,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,7,The cause of water pollution is lack of dissolved oxygen in water.,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,8,Green house effect refers to the progressive waming up of earth's surface due to blanketing effect of man made carbon dioxide or any other major green house gas.,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,9,Thermal pollution causes a decrease in dissolved oxygen.,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,10,CO~2* and SO~2* when treated with water form their respective acids.,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,11,Ganga Action Plan is related to reduce cutting of trees.,0,,,,,,,TF
+5,Pollution of Air and Water,True / False,,12,Corrosion of marble is also known as marble cancer.,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,13,Carbon monoxide is a green house gas.,0,,,,,,,TF
+5,Pollution of Air and Water,True / False,,14,Chlorofluro carbon is responsible for depletion of ozone layer.,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,15,Smog is the thick fog- layer in the atmosphere.,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,16,Air contains highest percentage of oxygen,0,,,,,,,TF
+5,Pollution of Air and Water,True / False,,17,Green house effect causes global warming.,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,18,Ganga action plan was launched in 1985,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,19,Lead is used to purify water.,0,,,,,,,TF
+5,Pollution of Air and Water,True / False,,20,Van Mahotsav is celebrated every year to plant trees,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,21,Ultraviolet rays is harmful for us,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,22,Volcanoes and forest fires are natural sources of air pollution.,1,,,,,,,TF
+5,Pollution of Air and Water,True / False,,23,Smog is made up of smoke and carbon dioxide.,0,,,,,,,TF
+5,Pollution of Air and Water,Multiple Choice Questions,,1,Select the process that does not add particulate materials to air.,Use of air conditioner,Burming of fosssil fuels,Paper industry,Incomplete combustion of coal,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,2,Which of the following is the major cause of global warming?,re-radiation of U.V. rays by CO~2* and H~2*O,re-radiation of I.R. rays by CO~2* and H~2*O,re-radiation of I.R. rays by O~2* and N~2*,re-radiation of U.V. rays by O~2* and N~2*,,b,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,3,Select the one that has an adverse effect on ozone layer.,Carbon dioxide,Chlorofluorocarbons,Soil,Dust particles,,b,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,4,Select the one that is an oxygen demanding waste.,Grease,Oil,Pesticides,Domestic sewage,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,5,The substance used for disinfecting water is/ are,Floride,Chlorine,U.V. Rays,All of these,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,6,"The effect of polluted water on soil is, that",it decreases fertility,it contaminates ground water,it renders soil acidic or basic,All of the above,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,7,The process of respiration,involves oxidation of food,involves oxidation of glucose to carbon dioxide and water,is accompanied by release a large amount of energy,All the above,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,8,SO~2* is one of the air pollutants. SO~2*,is a lung irritant,dissolves in water to form acid rain,Both (a) and (b) ,Neither (a) nor (b),,c,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,9,A green house,is an enclosure of glass in which plants are kept to protect them from cold air outside,"is that ""body"" which allows the short wavelength incoming solar radiation to enter in, but does not allow long wavelength outgoing infra-red radiations to escape out",Both (a) and (b) ,Neither (a) nor (b),,c,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,10,Water pollution is caused by,Pesticides,SO~2*,O~2*,CO~2*,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,11,Chief source of soil and water pollution is,Mining,Agro industry,Thermal power plant,All the above,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,12,Which pollutant is harmful for Tajmahal:?,Hydrogen,O~2*,SO~2*,Chlorine,,c,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,13,Pollution is not caused by,thermal power plant,automobile,radioactive power plant,hydrolytic power plant,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,14,The beauty of Taj Mahal is endangered due to,degradation of marble due to high temperature,discharge of industrial waste in Yamuna river,air pollutants released from oil refinery,riparian erosion,,c,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,15,Formation of photochemical smog takes place in,winter during day time,summer during morning time,summer during day time,winter during morning time,,c,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,16,Depletion of ozone layer causes,Breast cancer,Blood cancer,Lung cancer,Skin cancer,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,17,The type of pollution caused by spraying of DDT,Air and Soil,Air and Water,Air,"Air, Water and Soil",,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,18,Pollution in large cities can be checked only by,shifting of factories out of the residential area,less use of insecticides,"proper disposal of organic wastes, sewage and industrial effluents",All the above,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,19,Phosphate pollution is caused by,sewage and agricultural fertilizerTs,weathering of phosphate rocks only,agricultural fertilizers only,phosphate rocks and sewage,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,20,Water is often treated with chlorine to,remove hardness,increase oxygen content,kill germs,remove suspended particles,,c,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,21,Harmful gases like SO~2* are present in,industrial areas,highly populated areas,forests,Hills,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,22,Which of the following is not a way to conserve water?,Replace,Reduce,Reuse,Recycle,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,23,The phenomenon of marble cancer is due to,Soot particles,CFCs,Fog,Acid rain,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,24,A pond contains clean water. Which of the following activities will produce least pollution of water?,washing clothes in the pond,animals bathing in the pond,washing motor vehicles in the pond,swimming in the pond.,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,25,"Why do scientists think that human-induced global warming will be more harmful to plants and animals than were past, natural climate fluctuations - ",because temperatures will change faster,because the temperature changes will be larger,because species now are less adaptable than species in the past,because ecosystems are now more complicated than they used to be,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,26,Sulphur dioxide affects - ,haemoglobin of blood,Arteries,Alveoli of lungs,Nerves,,c,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,27,Presence of high level of pollutants in atmosphere during cold weather lead to formation of,Fog,Acid rains,Smog,All of these,,c,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,28,What is the main reason for increase in temperature in a glass house?,Sunlight is completely absorbed by plants in the glass house,Radiation fails to escape from the glass house completely,Plant do not utilize sunlight in a glass house,Plants produce heat inside the glass house,,b,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,29,The three R's which can help to conserve natural resources :,"recycle, regenerate, reuse","reduce, recycle, reuse","reduce, reuse, redistribute",Both (a) and (b),,b,,MCQ
+5,Pollution of Air and Water,Assertion - Reason,,1,"Assertion : CO~2* is major gas of greenhouse effect.
+Reason : Increase in concentration of CO~2* leads to global warming",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+5,Pollution of Air and Water,Assertion - Reason,,2,"Assertion : Eutrophication shows increasein productivity in water.
+Reason: With increasing eutrophication, the diversity of the phytoplankton increases",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+5,Pollution of Air and Water,Assertion - Reason,,3,"Assertion : CO, causes green house effect.
+Reason : Other gases do not show such effect.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+5,Pollution of Air and Water,Assertion - Reason,,4,"Assertion : CFCs have caused a hole in the ozone layer.
+Reason : CFCs are released by jet aeroplane.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+5,Pollution of Air and Water,Assertion - Reason,,5,"Assertion : All pollutants are not waste materials.
+Reason : Nitrogen and phosphorus, that are important soil fertilizers, also pollute water when present in excess.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+5,Pollution of Air and Water,Assertion - Reason,,6,"Assertion : Carbon monoxide results from incomplete combustion of fuels such as petrol.
+Reason : The quantity of oxygen needed for complete combustion is twice the amount of oxygen needed for incomplete combustion resulting in formation of CO.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+5,Pollution of Air and Water,Multiple Choice Questions,,1,Carbon monoxide (cO) is harmful to man because,it foms carbolic acid,it generates excess CO~2*,it is carcinogenic,"it competes with O~2*, for haemoglobin",,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,2,The greenhouse effect is because of the,"presence of gases, which in general are strong infrared absorbers, in the atmosphere","presence of CO~2*, only in the atmosphere","pressure of O~3*, and CH~4*, in the atmosphere",N~2*O and chlorofluorohydrocarbons in the atmosphere,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,3,The smog is essentially caused by the presence of,oxides of sulphur and nitrogen,O~2* and N~2*,O~2* and O~3*,O~2* and N~2*,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,4,Ozone is an important constituent of stratosphere because it,Destroys bacteria which are harmful to human life,Prevents the formation of smog over large cities,Removes poisonous gases of the atmosphere by reacting with them,Absorbs ultraviolet radiation which is harmful to human life,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,5,SO~2* is one of the air pollutants. SO~2*,is a lung iritant,dissolves in water to form acid rain,both (a) and (b),none of the above,,c,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,6,The substance having the largest concentration in acid rain is,H~2*CO~3*,HNO~3*,HCL,H~3*SO~4*,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,7,The non-viable particulate among the following is,Dust,Bacteria,Moulds,Fungi,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,8,The biggest particulate matter is,HNO~3* droplets,Soot,H~2*SO4 droplets,Fly ash,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,9,Indentify the wrong statement in the following:,Chlorofluorocarbons are responsible for ozone layer depletion,Greenhouse effect is responsible for global warming,Acid rain is mostly because of oxides of nitrogen and sulphur,Ozone layer does not permit infrared radiation from the sun to reach the earth,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,10,B.O.D. test or biochemical oxygen demand test is made for measuring,air pollution,water pollution,noise pollution,soil pollution,,b,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,11,BOD of pond is connected with,microbes & organic matter,organic matter,microbes,none of these,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,12,Sewage mostly constitutes,Non-biodegradable pollutants`,Biodegradable pollutants,Effluents,Air pollutants,,b,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,13,Which of the following gases in not a green house gas?,CO,CO~2*,CH~4*,H~2*O Vapour,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,14,Which of the following steps is not relevant to formation of ozone?,Ozone is a poisonous gas.,UV radiations from sunlight split and oxygen molecule into atomic oxygen.,Oxygen molecule combine with the atomic Oxygen to form ozone.,Ozone is formed at the higher levels of the atmosphere,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,15,Preservation of the Ozone layer,is important because it helps in stopping harmful UV radiations,is endangered by CFCs,Both (a) and (b),is not necessary as it will give us more of oxygen,,c,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,16,"Carefully observe the diagram(s) given below
+Cause of following effects is",global warming,ozone depletion,acid rain,None ,CH-5-16-ROW-527,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,17,Which type of air pollutants are released from the chimney?,CO~2*,CH~4*,Smoke,NO~2*,,b,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,18,% concentration of which greenhouse gas is maximun?,CO~2*,CH~4*,N~2*O,Tropospheric O~3*,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,19,"Carefully observe the diagram given below
+Following figure represents the phenomenon",Acid rain,Greenhouse effect,Ozone depletion ,None,CH-5-19-ROW-530,b,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,20,"Considerthe following statements :
+A) Ozone is formed in stratosphere by action of ultravoilet radiations on oxygen.
+B) Carbon dioxide causes depletion of ozone layer thereby allowing more UV-radiations to reach the earth
+Which of these statement(s) is/are correct?",A only,B Only,Both (A) and (B),Neither (A) nor (B),,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,21,"If there was no CO~2* in the earth's atmosphere, the temperature of earth's surface would be",as such,less than the present level,increase from present level,dependent upon oxygen amount of the enviroment,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,22,The pollution in city like Delhi may be controlled to great extent,by proper sewage and proper exit of chemicals from factories,by wide roads and factories away from the city,by cleaning city and scanty use of pesticides,All of the above,,b,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,23,The stratospheric ozone depletion leads to,global warming,increase in the incidence of skin cancers,forest fires,All of the above,,b,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,24,Biological Oxygen Demand (BOD) is a measure of,industrial wastes poured into water bodies.,extent to which water is polluted with organic compounds.,amount of carbon monoxide inseparably combined with haemoglobin,amount of oxygen needed by green plants during night.,,b,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,25,Recent reports of acid rain in some industrial cities are due to the effect of atmospheric pollution by,"excessive release of CO~2* by burning of fuels like wood and charcoal, cutting of forests and increased animal population.",excessive release of NO~2* and SO~2* in atmosphere by burning of fossil fuel.,excessive release of NH~3* by industrial plants and coal gas.,"exceessive release of CO in atmosphere by incomplete combustion of coke, charcoal and other carbonaceous fuel.",,c,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,26,Photochemical smog formed in congested metropolitan cities mainly consists of,"ozone, peroxyacetyl nitrate and NO~x*","smoke, peroxyacetyl nitrate and SO~2*","hydrocarbons, SO~2* and CO~2*","hydrocarbons, ozone and SO~x*",,c,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,27,The major factor in causing global warming is,increase in oxygen concentration in atmosphere.,"decrease in carbon dioxide concentration in
+atmosphere.",increase in carbon dioxide concentration in atmosphere.,decrease in atmospheric nitrogen.,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,28,"Consider the following statements :
+A) Air forms a protective blanket around the earth and does not allow all the solar radiations to reach the earth.
+B) Green house gases are the ones which allow the heat emitted by earth to pass out.
+C) Carbon dioxide, methane, ozone, nitrous oxide are green house gases.
+Which of these statement(s) is/are correct?",A only,B only,C only,All of these,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,29,Ozone hole is,thinning of ozone in the stratosphere where it is normally present in high concentration as ozone layer., thinning of ozone in the troposphere where it isnormally present in high concentration as ozone layer.,thinning of ozone in the thermosphere where it is normally present in high concentration as ozone layer.,thinning of ozone in the mesosphere where it is normally present in high concentration as ozone layer.,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,30,"Consider the following statements
+A) Exhaustible resources are present in unlimited quantity in nature and are not likely to be finished by human use.
+B) Smog is the alternative name of exhaust gases that come out of automobiles due to burning of petrol and diesel.
+Which of these statement(s) is/are correct?",A only,B Only,Both (A) and (B),Neither (A) nor (B),,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,31,Which oxide of nitrogen is not a common pollutant introduced into the atmosphere both due to natural and human activity?,N~2*O~5*,NO~2*,NO,N~2*O,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,32,Excessive release of CO~2* into the atmosphere results in :,global waming,polar vortex,formation of smog,depletion of ozone,,a,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,33,"Among the following, the one that is not a green house gas is :",nitrous oxide,Methane,Ozone,Sulphur dioxide,,d,,MCQ
+5,Pollution of Air and Water,Multiple Choice Questions,,34,Which one of the following is a green House gas?,CO~2*,N~2*,O~2*,H~2*,,a,,MCQ
+5,Pollution of Air and Water,Assertion - Reason,,38,"Assertion : Photochemical smog is oxidising in nature.
+Reason : Photochemical smog contains NO~2* and O~3* which are formed during the sequence of reactions.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+5,Language of Chemistry,Assertion - Reason,,39,"Assertion : Ozone is destroyed by solar radiation in upper stratosphere.
+Reason : Thinning of the ozone layer allows excessive UV radiations to reach the surface of earth.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,d,,AR
+5,Language of Chemistry,Assertion - Reason,,40,"Assertion : An estimation of BOD gives an indication of water pollution.
+Reason : It is measure of O~2* requirement of bacteria living in that media.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+5,Language of Chemistry,Assertion - Reason,,41,"Assertion : Acid rain disrupts ecological balance.
+Reason : Acid rain affects flora and fauna.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+6,Language of Chemistry,Multiple Choice Questions,,1,The symbols of tin and mercury are respectively,Ti and Me,Me and Ti,Sn and Hg,Me and Sn,,c,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,2,Which one of the folowing information is conveyed by the symbol of an element?,The name of the element,The atomic mass of the element,It represents one mole of an element,All the above,,d,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,3,Na~2*S~2*O~3* represent the compound,sodium sulphate,sodium sulphite,sodium thiosulphate,None of these,,c,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,4,Which one is a divalent ion?,Sodium,Calcium,Sulphide,Both (b) and (c) ,,d,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,5,The chromate and dichromate ions are respectively,a,b,c,d,CH-6-5-ROW-554,a,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,6,The formula of sodium pyrophosphate is,Na~2*P~2*O~7*,Na~3*PO~4*,Na~4*P~2*O~7*,Na~3*PO~3*,,c,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,7,The branch of chemistry which deals with study of physical properties and conditions is,physical chemistry,Analytical chemistry,Nuclear chemistry,Pharnmaceutical chemistry,,a,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,8,The branch of chemistry which deals with study of the methods of detection and determination of elements and compounds is,physical chemistry,Nuclear chemistry,Analytical chemistry,Bio Chemistry,,c,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,9,What is the valency of sulphur in sulphur dioxide (SO~2*)?,3,2,6,4,,a,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,10,Molecular weight of water is,16 u,12 u,10 u,18 u,,d,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,11,Which of the following is a symbol of palladium?,B,Pd,Be,Ag,,b,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,12,"The correct option for the following compounds in their increasing order of gram molecular mass is nitric acid, glucose, water urea,","water, glucose, urea, nitric acid","wate, urea, glucose, nitric acid","water, nitric acid, urea, glucose","water, urea, nitric acid, glucose",,d,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,13,Valency of an atom or radicals is,ionisation energy,electron aftinity of atom,its combining capacity,size of atom,,c,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,14,When electrons are added the resulting ion is called,basic radical,acidic radicals,neutral radical,None of these,,b,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,15,Acid turns litmus paper,Blue,Yellow,Red,none of these,,c,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,16,Amphoprotic substances are those,which can donate a proton,which can accept a proton,which can accept and donate proton,which can donate hydroxyl ion,,c,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,17,One molecule of sulphur contains,Two atoms of sulphur,Eight atoms of sulphur,Four atoms of sulphur,One atom of sulphur,,b,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,18,Chemical formula of Aluminium sulphate is,Al~2*(SO~4)~3*,AlSO~4*,Al~3*(SO~4*)~2*,None of the above,,a,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,19,"The percentage of nitrogen by mass in ammonium sulphate is closest to (atomic masses of H = 1, N = 14, O = 16, S = 32)",21%,24%,36%,16%,,a,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,20,"The following substances are arranged in the decreasing order of their pH values. The correct option is
+A. Tomato Juice              B. Tooth Paste   
+C.  Saliva (After meals)   D.  Coffee",B C E A D,B E C D A,B A C E D,B D E C A,,b,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,21,Which natural indicator (acid-base) is used in kitchen of our homes?,Sodium chloride ,Tea leaves,Sodium carbonate,Turmeric,,d,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,22,"One mole of one of the sodium salts listed below, having carbon content close to 14.3% produces I mole of carbon dioxide upon heating (atomic mass of Na = 23, H = I, C = 12, O = 16). The salt is",C~2*H~5*COONa,NaHCO~3*,HCOOONa,CH~3*COONa,,b,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,23,"The metal (M) forms an oxide, M~2*O~3*. The formula of its nitride will be",M~2*N~3*,MN,M~2*N,M~3*N~2*,,b,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,24,Which of following compound is alkaline in aqueous medium.,Na~2*CO~3*,NaCl,H~2*CO~3*,CuSO~4*,,a,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,25,"A student was given an unknown solution in a test tube. When he added universal indicator solution to test tube, it turned violet. The unknown solution is mostly likely to be",Baking soda solution,Starch solution,Caustic Soda solution,Vinegar solution,,c,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,26,"The correct chemical formula of the given compounds:
+Aluminium Phosphate, Ammonium Carbonate and Sodium Sulphite are","Al~2*(PO~4*)~3*, (NH~4*)~2* CO~3*, Na~2*SO~4*","AlPO~4*, (NH~4*)~2*CO~3*, Na~2*SO~3*","Al(PO~4*)~3*, (NH~4*)~2*CO~3*, Na~2*SO~4*","AlPO~4*, (NH~4*)~2*CO~3*, Na~2*SO~3*",,d,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,27,"The corect order of increasing pH values of the aqueous solutions of baking soda, rock salt, washing soda and slaked lime is",Baking Soda < Rock Salt < Washing Soda < Slaked lime,Rock Salt < Baking Soda < Washing Soda < Slaked lime,Slaked lime < Washing Soda < Rock Salt < Baking Soda,Washing Soda < Baking Soda < Rock Salt < Slaked lime,,b,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,28,"Manya, Kartik, Gurnoor and Sheena had arranged the ions F^-&, Na^+&, 0and Mg^2+& in decreasing orders of their ionic radii.
+Manya - O^2-& > Mg^2+& > F^-& > Na^+&
+Kartik -  Mg^2+& > Na^+& > O^2-& > F^-&
+Gurnoor - O^2-& > F^-& > Na^+& > Mg^2+&
+Sheena - F^-& > Na^+& > O^2-& > Mg^2+&
+Who had provided the correct order of their decreasing ionic radii?
+",Manya,Kartick,Gurnoor,Sheena,,c,,MCQ
+6,Language of Chemistry,Multiple Choice Questions,,29,"A student added a drop of universal indicator to 1.00 mL of given solution and found that a green colour is produced.
+The pH value of the solution will be :",7 - 9,0 - 3,10 - 12,4 - 6,,a,,MCQ
+6,Language of Chemistry,Morethan one Option Correct,,30,Which of the following is/are bivalent radicals?,Sulphate,Bisulphate,Sulphite,Sulphide,,"a,c,d",,MAQ
+6,Language of Chemistry,Morethan one Option Correct,,31,Which of the following are triatomic?,H~2*O,CO~2*,CO^2-&~3*,NaCl,,"a,b",,MAQ
+6,Language of Chemistry,Morethan one Option Correct,,32,In organic chemistry we study about,Carbohydrates,Fertilizers,Proteins,Ceramics,,"a,c",,MAQ
+6,Language of Chemistry,Morethan one Option Correct,,33,Which of the following are acidic radicals?,PO^3-&~4*,Mg^2+&,CO^2-&~3*,NO^-&~3*,,"a,c,d",,MAQ
+6,Language of Chemistry,Morethan one Option Correct,,34,Acids are those substances which,Furnish H~3*O^+& in aqueous solution,Lowers the pH of solution,Furnish OH^-& in aqueous solution,Increase the pH of solution,,"a,b",,MAQ
+6,Language of Chemistry,Morethan one Option Correct,,35,Chemical formula gives information about,which elements are present in compound,physical properties of compound,nature of compound,total number of atoms of each element present in compounds.,,"a,d",,MAQ
+6,Language of Chemistry,Morethan one Option Correct,,36,Which of the following ion is divalent ?,a,b,c,d,CH-6-36-ROW-585,"a,c,d",,MAQ
+6,Language of Chemistry,Assertion - Reason,,43,"Assertion : The combining capacity of an atom or atom or radical is known as its valency. 
+Reason : The valency of an element is alwavs a whole number.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+6,Language of Chemistry,Assertion - Reason,,44,"Assetion : A cation is formed after the removal of electrons.
+Reason : An element always loses on electron to form cation.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+6,Language of Chemistry,Assertion - Reason,,45,"Assertion : The molecular mass of NaOH is 40.
+Reason : The molecular mass of a compound is defined as the sum of the atomic weights of all the constituent atom present in a molecule.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+6,Language of Chemistry,Assertion - Reason,,46,"Asertion : One mole of any substance is equals to its molecular weight.
+Reason : No. of moles = Mass of substance in grams / Molecular weight",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+7,Classification of Matter,Multiple Choice Questions,,1,Select a pure substance,Brass,Bronze,Magnesium,All of these,,c,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,2,Which one of the following is a heterogeneous mixture?,Liquid ammonia,Gun powder,Sugar solution in water,Both (a) and (c) ,,b,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,3,The method used to separate the mixture of water and alcohol is,Crystallization,Fractional distillation,Evaporation,Chromatography,,b,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,4,The atomicity of an element tells about its,chemical properties,physical properties,number of atoms of element present in a molecule,None of these,,c,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,5,Which of the following is neither an element nor a compound?,Water,Air,Glucose,Iron,,b,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,6,The formation of a chemical compound is accompanied with,Evolution of energy,Absorption of energy,Either absorption or evolution of energy,None of these,,c,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,7,Which one is the smallest unit of a compound?,An electron,An ion,An atom,A molecule,,c,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,8,Which one is suitable method for separation of a mixture of water and sodium chloride?,Decantation,Evaporation,Filteration,Fractional distillation,,b,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,9,"When a solution of common salt in water is distilled, the salt is found in",Distilling flask,Receiver,Cooling water,Condenser,,a,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,10,Which one will be most suitable method to separate a mixture of sodium chloride and ammonium chloride?,Fractional distillation,Sublimation.,Sedimentation,Chromatography,,b,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,11,Separation of a mixture of the solids by fractional crystallisation depends on the difference in their,Densities,Solubilities,Shape of crystals,Size of crystals,,b,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,12,Select the mixture that can be easily separated using a separating funnel.,Milk and water,Sugar and water,Oil and water,Petrol and kerosene,,c,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,13,"When a mixture of sand, common salt, glass powder and iodine is heated, a sublimate is formed. The sublimate formed is",Sodium chloride,Glass,Iodine,Common salt,,c,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,14,The noble gases or rare gases exist as,Mono-atomic,Di-atomic,Tri - atomic,Tetra - atomic,,a,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,15,Amixture of blue ink and red ink can be separated by,evaporation,distillation,Chromatography,Steam distillation,,c,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,16,"Four substance were thoroughly mixed with water separately to obtain mixtures A, B, C and D. Some of their properties give below:
+I.   Path of a beam of light passing throught it was visible in A, B and D but invisible in C.
+II.  On leaving undisturbed, the particles of the substance settle down in A but not in B, C and D.
+III. The solute particles are visible to naked eye in A but invisible in B.C and D
+Which of the following is correct about A.B.C and D?","A, B and D are colloids. C is a solution",A is a suspension. B and D are colloids. C is a solution,"A is a colloid. B, C and D are solutions.","A is a suspension B, C and D are eolloids",,b,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,17,In paints dispersed phase and dispersion medium are,solid and liquid,liquid and solid,liquid and liquid,gas and liquid,,a,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,18,Which technique is used in diagnostic laboratories for blood and urine tests?,Filteration,Sublimation,Distillation,Centrifugation,,d,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,19,Fog is colloidal solution of,Liquid in gas,Gas in liquid,Solid in gas,Gas in gas,,a,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,20,A solution is a homogeneous mixture of two or more substances. Which of the following is a solution?,Milk,Smoke,Brass,Face Cream,,c,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,21,A colloidal solution in which both the dispersed phase and dispersion medium are liquids is,Milk,Butter,Shaving Cream,Jelly,,a,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,22,Tooth paste' is an example of,Colloid,Suspension,Solution,Aerosol,,a,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,23,The aerosol is a kind of colloid in which:,solid is dispersed in gas,gas is dispersed in solid,gas is dispersed in liquid,liquid is dispersed in water,,a,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,24,The correct option among the following is :,Colloidal medicines are more effective because they have small surface area.,Addition of alum to water makes it unfit for drinking,Colloidal particles in lyophobic sols can be precipitated by electrophoresis,Brownian motion in colloidal solution is faster if the viscosity of the solution is very high.,,c,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,25,An example of solid sol is:,Paint,Gem stones,Butter,Hair Cream,,b,,MCQ
+7,Classification of Matter,Multiple Choice Questions,,26,"Among the colloids cheese (C), milk (M) and smoke (S), the correct combination of the dispersed phase and
+dispersion medium, respectively is :",C: liquid in solid; M : liquid in solid; S : solid in gas,C: liquid in solid; M : liquidin liquid; S: solid in gas,C : solid in liquid;  M : liquid in liquid; S : gas in solid,C : solid in liquid; M : solid in liquid; S : solid in gas,,b,,MCQ
+7,Classification of Matter,Morethan one Option Correct,,27,A pure substance in one.,that has a uniform composition,which alwayshave the same texture,which is either an element or a compound,which is a mixture,,"a,b,c",,MAQ
+7,Classification of Matter,Morethan one Option Correct,,28,Hydrogen is,An element,Diatomic element,Gas at room temperature,A non-metal,,"a,b,c,d",,MAQ
+7,Classification of Matter,Morethan one Option Correct,,29,Select the polyatomic elements.,O~2*,O~3*,P~4*,S~8*,,"b,c,d",,MAQ
+7,Classification of Matter,Morethan one Option Correct,,30,Which of the following metals are solid?,Sodium,Potassium,Mercury,Manganese,,"a,b,d",,MAQ
+7,Classification of Matter,Morethan one Option Correct,,31,Which of the following are metalloids.,Silicon,Bismuth,Arsenic,Antimony,,"a,c,d",,MAQ
+7,Classification of Matter,Morethan one Option Correct,,32,Which of the following are homogeneous mixtures.,Brass,Bronze,Copper sulphate solution,Potassium permanganate solution,,"a,b,c,d",,MAQ
+7,Classification of Matter,Morethan one Option Correct,,33,Which of the following is/are example of gas-gas mixture?,Mixture of carbon dioxide and nitrogen,Air,Petroleum,Cold drink,,"a,b",,MAQ
+7,Classification of Matter,Morethan one Option Correct,,34,Hydrogen gas adsorbed on palladium is,A solid-gas mixture,A solid-solid mixture,Neither (a) nor (b),A compound,,a,,MAQ
+7,Classification of Matter,Morethan one Option Correct,,35,Which of the following is an example of solid-liquid mixture.,Suspension of sulphur in water,Muddy water,Iron filling and ammonium chloride,None of the above,,"a,b",,MAQ
+7,Classification of Matter,Assertion - Reason,,42,"Assertion : Pure substances in which molecules are made up of only one kind of atoms are known as elements.
+Reason: Hydrogen, oxygen and nitrogen are elements.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+7,Classification of Matter,Assertion - Reason,,43,"Assertion : Ozone is a polyatomic element.
+Reason : A molecule of ozone consists of three atoms of oxygen",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+7,Classification of Matter,Assertion - Reason,,44,"Assertion : Germanium, arsenic and antimony are classified as metalloids.
+Reason : They possess some properties of metals and some properties of metalloids.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+7,Classification of Matter,Assertion - Reason,,45,"Assertion : With rise of temperature Germanium acts as a semi-conductor.
+Reson : It shows metallic property.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+8,States of Matter,Multiple Choice Questions,,1,With the inerease in pressure the boiling point of a liquid,Increases,Decreases,Remains unchanged,Cannot be predicted,,a,,MCQ
+8,States of Matter,Multiple Choice Questions,,2,"When potassium nitrate is added to ice, it",increases the melting point of ice,decreases the melting point of ice,does not effect the melting point of ice,None of the above is correct,,b,,MCQ
+8,States of Matter,Multiple Choice Questions,,3,Shown below is venn diagram directing different states of matter. Which of the following can be placed at place shown as 'Q' in the diagram?,Dry Ice,Table salt,Jelly,Water,CH-8-3-ROW-631,d,,MCQ
+8,States of Matter,Multiple Choice Questions,,4,The correct order on the basis of intermolecular space is :,solid > liquid > gas,gas > solid > liquid,gas > liquid > solid,liquid > gas > solid,,c,,MCQ
+8,States of Matter,Multiple Choice Questions,,5,The property of diffusion is shown to the maximum extent in ,solid,liquid,gas,same in all cases,,c,,MCQ
+8,States of Matter,Multiple Choice Questions,,6,"When a gas is cooled, the temperature falls and ",energy is lost by particles,intermolecular space decreases,intermolecular force of attraction increases,all the above are correct,,d,,MCQ
+8,States of Matter,Multiple Choice Questions,,7,"When a solid is allowed to melt, it results in",moving away of particles,coming closer of particles,decrease in specd of particles,decrease in temperature,,a,,MCQ
+8,States of Matter,Multiple Choice Questions,,8,Select the one that diffuses fastest at room temperature,Petrol,Milk,Perfume,Camphor,,c,,MCQ
+8,States of Matter,Multiple Choice Questions,,9,"When water vapours condense to form water, the particles of water vapour",gain energy and also gain freedom of motion,gain kinetic energy and increase their freedom to move about without any significant attraction.,"lose energy and come closer, thus their freedom of movement gets restricted.",lose energy and also gain frecdom to move about.,,c,,MCQ
+8,States of Matter,Multiple Choice Questions,,10,Which of the following is likely to happen when we decrease the inter-particle space in a substance?,An increase in volume occurs.,A decrease in volume occurs.,An increase in mass of substance occurs.,A decrease in mass of substance occurs.,,b,,MCQ
+8,States of Matter,Multiple Choice Questions,,11,What happens to the inter-particle attractive forces on increasing distance between particles?,It increases,It decreases,There is no change,None of the above is correct,,b,,MCQ
+8,States of Matter,Multiple Choice Questions,,12,The phenomenon of change of liquid into gas at any temperature below its boiling point is called ________,Melting,Boiling,Liquifcation,Evaporation,,d,,MCQ
+8,States of Matter,Multiple Choice Questions,,13,Evaporation is a,bulk phenomenon,surface phenomenon,both (a) and (b),none of these is correct,,b,,MCQ
+8,States of Matter,Multiple Choice Questions,,14,"In the process of condensation, a gas changes into liquid and heat is evolved. In the process which form of energy of gaseous molecules is released as heat energy?",Kinetic energy,Potential energy,Atomic energy,None of these,,b,,MCQ
+8,States of Matter,Multiple Choice Questions,,15,Which of the following is a sublime substanee?,Chlorine,Fluorine,Iodine,Gasoline,,c,,MCQ
+8,States of Matter,Multiple Choice Questions,,16,Which state of matter consists of super energetic particles in the form of ionized gases?,Solid,Plasma,liquid ,All of these,,b,,MCQ
+8,States of Matter,Multiple Choice Questions,,17,With the increase in temperature of liquid its rate of evaporation.,Increases,Decreases,Remains constant,Cannot be predicted,,a,,MCQ
+8,States of Matter,Multiple Choice Questions,,18,On which of the following rate of evaporation of Liquid depends?,Surface,Temperature,Nature of Liquid,All of these,,d,,MCQ
+8,States of Matter,Multiple Choice Questions,,19,The force of attraction between similar molecules is called,Cohesive force,Adhesive force,Friction force,None of these,,a,,MCQ
+8,States of Matter,Multiple Choice Questions,,20,The fifth state of matter is,Boson state,Boson Einstein condensate,Bose-Einstein condensate,Boson Einstein Fermion,,c,,MCQ
+8,States of Matter,Multiple Choice Questions,,21,KE (Kinetic Energy) of molecules in gases is directly proportional to,Temperature,Pressure,Temperature and Pressure,Atmospheric Pressure,,a,,MCQ
+8,States of Matter,Multiple Choice Questions,,22,"Arrange the following in increasing order of their intermolecular force of attraction.
+i)   Salt            ii) Water           iii)  Carbon Dioxide (CO~2*)",(iii) < (ii) < (i),(i) < (ii) < (iii),(ii) < (iii) < (i),(iii) < (i) < (ii),,a,,MCQ
+8,States of Matter,Multiple Choice Questions,,23,Which of the following statements is correct for the melting of ice?,At 0^0&C water exists only in the solid state,At 0^0&C water exist in solid as well as in liquid state,At 0^0&C vapour pressure of ice is equal to vapour pressure of liquid water,Both (b) & (c) are correct,,d,,MCQ
+8,States of Matter,Multiple Choice Questions,,24,Freezing mixture is,ice plus common salt,ice plus baking soda,ice plus potash alum,ice plus washing soda,,a,,MCQ
+8,States of Matter,Morethan one Option Correct,,25,According to kinetic molecular theory,"matter is made up of small particles that may be depends? atoms, molecules or ions.",the empty space (gap) between the particles is known as intermolecular space.,molecules exert an attractive force upon each other.,the molecules always remain fixed.,,"a,b,c",,MAQ
+8,States of Matter,Morethan one Option Correct,,26,Which are/is correct statements?,Matter is continuous in nature.,"Of the three state of matter, the one that is most compact is solid state.","In solid state interparticles space (i.e., empty space) is minimum.",The density of solid is generally more than that ofa liquid.,,"b,c,d",,MAQ
+8,States of Matter,Morethan one Option Correct,,27,"When air is blown through water placed in a beaker (see figure), we will observe that",air bubbles escape in cylinder,water level increases in beaker,water level decreases in cylinder,water level decreases in beaker,CH-8-27-ROW-655,"a,b,c",,MAQ
+8,States of Matter,Morethan one Option Correct,,28,"A student placed two footballs of the same size and made of the same material in two pans ofa balance (see figure).
+Which of the following is true ?",Both balls have same volume of air.,Both balls have same mass of air.,Air in ball A is more compressed than in ball B.,All the above are correct.,CH-8-28-ROW-656,"a,b",,MAQ
+8,States of Matter,Morethan one Option Correct,,29,Select the eorrect statement about water,water can exist in all the three forms of matter,the b.p. of water is 100^0&C,water can not be compressed,all the above are correct,,"a,b",,MAQ
+8,States of Matter,Morethan one Option Correct,,30,What is comect on the basis of phenomena of evaporation?,It cause cooling effect.,It is favoured by decrease of temperature.,Evaporation is a surface phenomena,Evaporation rate increases with increase of the temperature.,,"a,c,d",,MAQ
+8,States of Matter,Morethan one Option Correct,,31,A solution of common salt is prepared and freezed by Raj. Which of the following observations are correct?,It occurs by evolution of heat.,Freezing point of solvent is higher than solution.,No heat change occurs in this process.,All of these.,,"a,b",,MAQ
+8,States of Matter,Morethan one Option Correct,,32,Sumit placed a solid on table and after 20 minutes he found that volume of solid is reduced and there is no liquid on table as well.,It represents phenomena of sublimation,This phenomena occurs by evolution of heat.,Solid substance placed by sumit on table should be Sublimate.,It represents the phenomena of boiling,,"a,c",,MAQ
+8,States of Matter,Morethan one Option Correct,,33,A student conduct an experiment. Initially he take two connected glass bulbs one containing colored gas other containing air. After few time both bulbs contain colored gas. When he tries to do the same with colored water in one glass bulb and other containing colorless water result obtained was not same. Which of the following observations are correct?,Rate of diffusion of gas molecules is much faster than liquid,Rate of diffusion of water molecules is more than gas molecules,Intermolecular space between gas molecules is very large,Colorless water will not get colored because it has high density in comparison to gas.,CH-8-33-ROW-661,"a,c",,MAQ
+8,States of Matter,Morethan one Option Correct,,34,Which of the following is gas at room temperature?,Water,Carbon dioxide,Dry ice,Nitrogen,,"b,d",,MAQ
+8,States of Matter,Assertion - Reason,,41,"Assertion : Cooking of rice is difficult at higher altitudes.
+Reason : At higher altitudes the boiling point of water increases.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+8,States of Matter,Assertion - Reason,,42,"Assertion : The rate of diffusion is greater in case of gases than in liquids.
+Reason : The intermolecular forces of attraction are stronger in gases than in liquids.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+8,States of Matter,Assertion - Reason,,43,"Assertion : During evaporation of liquid there is no change in the temperature of the liquid.
+Reason : Kinetic energy associated with particles of matter increases with increase of temperature.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,d,,AR
+8,States of Matter,Assertion - Reason,,44,"Assertion: During extreme winter season the roads get blocked in Jammu and Kashmir due to snowfall and to remove ice on roads some salt water is sprinkled on ice.
+Reason : The addition of any soluble impurity results in decrease in melting point",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,a,,AR
+9,Transformation of Matter,Multiple Choice Questions,,1,Select the one that is not a chemical change?,Dissolution of ammonia in water.,Dissolution of carbon dioxide in water.,Dissolution of oxygen in water.,None of the above is a chemical change.,,c,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,2,Select the one that represents a displacement reaction.,a,b,c,d,CH-9-2-ROW-668,b,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,3,Which one of the following is a combination reaction ?,Formation of a mixture of carbon monoxide and hydrogen. When steam is passed over red hot iron.,Reaction of water with sodium metal to form sodium hydroxide and hydrogen.,Ca(OH)~2* + Na~2*CO~3* -> 2NaOH + CacO~3* ¯,Preparation of stannic chloride Tin IV chloride) by passing chlorine gas into molten tin (Sn).,,d,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,4,Which of the following involves combination of two elements?,a,b,c,d,CH-9-4-ROW-670,b,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,5,"When hydrogen sulphide gas is passed through solution of copper sulphate, a black precipitate of copper sulphide is formed. This is an example of ?",Combination reaction,Displacement reaction,Decomposition reaction,Double decomposition reaction,,d,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,6,A change is said to be a chemical change when,it is accompanied by energy change,it is accompanied by formation of new substances,it is accompanied by change in physical properties,all the above are correct.,,d,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,7,Which one is a decomposition reaction ?,a,b,c,d,CH-9-7-ROW-673,d,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,8,The reactions in which two compounds exchange their radicals to form two new compounds are called,displacement reaction,decomposition reaction,double displacement reaction,isomerisation reaction,,c,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,9,"Consider the following reaction and tell which one is the oxidising reagent.
+SO~2* + 2H~2*S -> 2H~2* + 3S",SO~2*,H~2*S,H~2*O,S,,a,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,10,"CuO + H~2* -> Cu + H~2*O
+Above reaction is an example of ",redox reaction,synthesis reaction,neutralisation reaction,decomposition reaction,,a,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,11,"A substance which gets oxidised, during a redox reaction, is known as",Oxidizing agent,,,None of the above,,b,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,12,"The reaction :
+PbO + C -> Pb + CO",PbO is oxidised,PbO is oxidant,C is reductant,Both (b) and (c) ,,d,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,13,Which of the following is an isomerization reaction ?,a,b,c,d,CH-9-13-ROW-679,d,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,14,Chemical equations are balanced in accordance with the,Dalton's law,Law of conservation of mass,Law of detinite composition,None of the above,,b,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,15,"A substance A reacts with another substance B to produce the product C and a gas D. If a mixture of
+the gas D and ammonia is passed through an aqueous solution of C, baking soda is formed. The substances A and B are",HCl and NaOH,HCl and Na~2*CO~3*,Na and HCI,Na~2*CO~3* and H~2*O,,b,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,16,"The major products of the following reaction,",ZnO and SO~2*,ZnSO~4* and SO~3*,ZnSO~4* and SO~2*,Zn and SO~2*,CH-9-16-ROW-682,a,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,17,20.0g of a magnesium carbonate sample decomposes on heating to give carbon dioxide and 8.0 g magnesium oxide. What will be the percentage purity of magnesium carbonate in the sample ?,75,96,60,84,,d,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,18,The reaction that differs from the rest of the reactions given is :,formation of calcium oxide from limestone,formation of aluminium from aluminium oxide,formation of sodium carbonate from sodium hydrogen carbonate,formation of mercury from mercuric oxide,,b,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,19,"The equation
+Mg(S) + CuO(s) -> MgO(s) + Cu(s) represents
+i)   decomposition reaction
+ii)  displacement reaction
+iii) combination reaction
+iv) double displacement reaction
+v)  redox reaction",(i) and (ii),(iii) and (iv),(ii) and (v),(iv) and (v),,c,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,20,The process of respiration is:,Oxidation reaction which is endothermic,Reduction reaction which is endothermic,Combination reaction which is exothermic,Oxidation reaction which is exothermic,,d,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,21,Silver articles become black when exposed to air. It is due to the formation of,Silver oxide,Silver nitrate,Silver chloride,Silve sulphide,,d,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,22,Which of the following causes no reaction?,CuSO~4* +Zn,CusO~4* + Ag,CuSO~4* + Fe,CuSO~4* + Mg,,c,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,23,BaCl~2* + H~2*SO~4* -> BaSO~4* + 2HCl is an example of,Combination Reaction,Displacement Reaction,Decomposition Reaction,Double Displacement Reaction,,d,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,24,"Choose the correct statements about the given chemical reaction:
+3MnO~2*(s) + 4Al(s) ->  3Mn(1) + 2AI~2*O~3* + Heat
+A) Reaction is exothermic
+B) Al is acting as oxidizing agent.
+C) MnO~2* is getting reduced.
+D) Al is more reactive than Mn","A, C and D","A, B and C","A, B and D","A, B, C and D",,a,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,25,2PbO + C -> 2Pb + CO~2* is an example of _____ reaction.,Reduction,Redox,Oxidation,Decomposition,,b,,MCQ
+9,Transformation of Matter,Multiple Choice Questions,,26,The compound that cannot act both as oxidising and reducing agent is:,H~3*PO~4*,HNO~2*,H~3*SO~3*,H~2*O~2*,,a,,MCQ
+9,Transformation of Matter,Morethan one Option Correct,,27,"The reaction
+NaOH + HCI  ->  NaCI + H~2*O is an example of",Displacement reaction,Double decomposition reaction,Neutralization reaction,Isomerisation reaction,,"b,c",,MAQ
+9,Transformation of Matter,Morethan one Option Correct,,28,Most of the chemical changes are found to undergo,a change in the weight of the reacting substances,a change in temperature,a change in energy,all of the above are incorrect,,"a,b,c",,MAQ
+9,Transformation of Matter,Morethan one Option Correct,,29,Select the incorrect statements.,change can be easily reversed by a slight change of conditions,physical change is accompanied by a change in colour of the reacting substances,Itis possible to characterise a chemical reaction by only a change in state,All the above are incorrect,,"b,c",,MAQ
+9,Transformation of Matter,Morethan one Option Correct,,30,"The reaction:
+C(s) + O~2*(g)  ->  CO~2*(g) + heat is",a homogeneous reaction,a heterogeneous reaction,an exothermic reaction,an endothermic reaction,,"b,c",,MAQ
+9,Transformation of Matter,Morethan one Option Correct,,31,"The reaction:
+N~2*(g) + O~2*(g) + Heat -> 2NO(g)",a homogeneous reaction,a heterogeneous reaction,a combination reaction,an endothermic reaction,,"a,c,d",,MAQ
+9,Transformation of Matter,Morethan one Option Correct,,32,"The reaction:
+2Mg(s) + O~2*(g)  -> 2 MgO(s) is",a combination reaction,a synthesis reaction,a reaction in which an element and a compound react to produce a compound,a reaction in which two elements react to produce a compound,,"a,b,d",,MAQ
+9,Transformation of Matter,Morethan one Option Correct,,33,In the respiration ,the food that we eat is oxidised,the food that we eat is reduced,energy is released,energy is absorbed,,"a,c",,MAQ
+9,Transformation of Matter,Morethan one Option Correct,,34,A buming of candle represents,physical change,volme change,chemical change,none of the above,,"a,b,c",,MAQ
+9,Transformation of Matter,Morethan one Option Correct,,35,A balanced chemical equation should represent,Temperature of reaction,Catalyst involved,Atomicity of each element,Physical states of reactants and products,,"a,b,d",,MAQ
+9,Transformation of Matter,Assertion - Reason,,39,"Assertion : Burning of paper is a physical change.
+Reason : The products formed on burming of papercan not be easily converted back to paper",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,d,,AR
+9,Transformation of Matter,Assertion - Reason,,40,"Assertion : The change of water from liquid to steam on heating is a physical change.
+Reason: The volume remains same and the change involves a change in composition.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,c,,AR
+9,Transformation of Matter,Assertion - Reason,,41,"Assertion : By passing electric current through water, we can decompose it into hydrogen and oxygen.
+Reason : Water is a compound whereas hydrogen and oxygen are elements.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+9,Transformation of Matter,Assertion - Reason,,42,"Assertion : The formation of rust i_ a chemical change.
+Reason : For the formation of rust iron must be exposed answer the following questions. to air and water.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR
+9,Transformation of Matter,Assertion - Reason,,43,"Assertion : A redox reaction involves both oxidation and reduction.
+Reason : SO~2* + 2H~2*S -> 2H~2*O + 3S is an example of redox reaction.",If both Assertion and Reason are correct and Reason is the correct explanation of Assertion.,"If both Assertion and Reason are corect, but Reason is not the correct explanation of Assertion.",If Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct.,,b,,AR

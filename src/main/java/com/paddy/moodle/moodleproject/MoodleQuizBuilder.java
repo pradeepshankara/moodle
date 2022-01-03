@@ -3,6 +3,8 @@ package com.paddy.moodle.moodleproject;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
 import org.apache.tomcat.util.json.JSONParser;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 import org.w3c.dom.*;
 import org.xml.sax.SAXException;
@@ -20,7 +22,7 @@ import java.util.stream.Collectors;
 
 @Component
 public class MoodleQuizBuilder {
-
+    private static Logger logger = LoggerFactory.getLogger(MoodleQuizBuilder.class);
     List<Document> documentList;
     Document quizTemplateDocument = null;
     QuestionMetadata questionMetadata;
@@ -50,6 +52,7 @@ public class MoodleQuizBuilder {
     private List<String> parseAnswerOptions(String answers, MoodleQuiz moodleQuiz) throws Exception {
         List<String> answersList = null;
         String[] ans = answers.split(",");
+        Arrays.stream(ans).forEach(String::trim);
         answersList = Arrays.stream(ans).collect(Collectors.toList());
         if(answersList.size() <= 0)
             throw new Exception("No answered specified for "+moodleQuiz.getChapterName() + " " +moodleQuiz.getQuestionNumber());
@@ -114,6 +117,9 @@ public class MoodleQuizBuilder {
         List<MoodleQuiz> questionsArray = buildQuestionsList(questionsStringArray);
         int i=0;
         Document newDocument = null;
+        boolean isValid = validateFile(questionsArray);
+        if(!isValid)
+            throw new Exception("Errors found in input file!!! Check logs");
         for (MoodleQuiz question: questionsArray
              ) {
             newDocument = getNewDocument(newDocument,i);
@@ -135,6 +141,22 @@ public class MoodleQuizBuilder {
         //new FileUtil().writeToFile(doc);
     }
 
+    private boolean validateFile(List<MoodleQuiz> questionsArray) throws Exception {
+        boolean isValid = true;
+        for (MoodleQuiz question: questionsArray
+        ) {
+            if(question.getImageFileName().equalsIgnoreCase("X")) continue;
+            if(question.getAnswerOptions().size()<=0) continue;
+            if(question.getAnswerOptions().get(0).equalsIgnoreCase("DUMMY")) continue;
+            boolean isTempValid = validateAnswerNodes(question);
+            if(!isTempValid){
+                isValid = false;
+            }
+        }
+        return isValid;
+
+    }
+
     public Document buildQuestionsFromCsvForChapterNumber(Document newDocument,QuestionMetadata questionMetadata,String questionsFileName,int chapterNumber) throws Exception {
         if(newDocument==null)
             newDocument = getNewXMLDocument();
@@ -143,12 +165,13 @@ public class MoodleQuizBuilder {
         assert questionsStringArray != null;
         List<MoodleQuiz> questionsArray = buildQuestionsList(questionsStringArray);
         int i=0;
+        boolean isValid = validateFile(questionsArray);
         for (MoodleQuiz question: questionsArray
         ) {
             if(i>300) break;
             if(chapterNumber!= question.chapterNumber) continue;
             if(question.getImageFileName().equalsIgnoreCase("X")) continue;
-            if(question.getAnswerOptions().size()<=0) continue;
+            //if(question.getAnswerOptions().size()<=0) continue;
             if(question.getAnswerOptions().get(0).equalsIgnoreCase("DUMMY")) continue;
             //if(question.getQuestionType().equalsIgnoreCase("FIB")) continue;
 
@@ -209,16 +232,25 @@ public class MoodleQuizBuilder {
         if (question.getQuestionType().equalsIgnoreCase("TF")) {
             //answerNodes.get(0).getChildNodes().item(1).setTextContent(question.getOption1());
             NamedNodeMap namedNodeMap = null;
-            if(question.getOption1().equalsIgnoreCase("true")||question.getOption1().equalsIgnoreCase("1"))
+            if(question.getOption1().equalsIgnoreCase("true")||question.getOption1().equalsIgnoreCase("1")||
+                    question.getAnswerOptions().get(0).equalsIgnoreCase("true")||question.getAnswerOptions().get(0).equalsIgnoreCase("1"))
                 namedNodeMap = answerNodes.get(0).getAttributes();
-            else if(question.getOption1().equalsIgnoreCase("false")||question.getOption1().equalsIgnoreCase("0"))
+            else if(question.getOption1().equalsIgnoreCase("false")||question.getOption1().equalsIgnoreCase("0")||
+                    question.getAnswerOptions().get(0).equalsIgnoreCase("false")||question.getAnswerOptions().get(0).equalsIgnoreCase("0"))
                 namedNodeMap = answerNodes.get(1).getAttributes();
-            else throw new Exception("Wring true/false option!!"+ question.getChapterName() + " - "+question.getQuestionText());
+            else throw new Exception("Wrong true/false option!!"+ question.getChapterName() + " - "+question.getQuestionText());
             namedNodeMap.getNamedItem("fraction").setTextContent(getAnswerFraction(question));
             return;
         }
         if (question.getQuestionType().equalsIgnoreCase("FIB")) {
-            answerNodes.get(0).getChildNodes().item(1).setTextContent(question.getOption1());
+            String ans = null;
+            if(!question.getOption1().isEmpty())
+                ans = question.getOption1();
+            if(!question.getAnswerOptions().get(0).isEmpty())
+                ans = question.getAnswerOptions().get(0);
+            if(ans.isEmpty() || ans.isBlank())
+                throw new Exception("No answer given for the FIB question!!"+ question.getChapterName() + " - "+question.getQuestionText());
+            answerNodes.get(0).getChildNodes().item(1).setTextContent(ans);
             NamedNodeMap namedNodeMap = answerNodes.get(0).getAttributes();
             namedNodeMap.getNamedItem("fraction").setTextContent(getAnswerFraction(question));
             return;
@@ -267,6 +299,58 @@ public class MoodleQuizBuilder {
             }
 
         }
+    }
+
+    private boolean validateAnswerNodes(MoodleQuiz question) throws Exception {
+        Boolean error = false;
+        if(!("AR,MCQ,FIB,TF,MAQ").contains(question.getQuestionType()))
+        {
+            logger.error("Wrong Question type!!"+ question.getQuestionType() + " - "+question.getQuestionText());
+            return false;
+        }
+
+        if (question.getQuestionType().equalsIgnoreCase("TF")) {
+            if(question.getOption1().equalsIgnoreCase("true")||question.getOption1().equalsIgnoreCase("1")||
+                    question.getAnswerOptions().get(0).equalsIgnoreCase("true")||question.getAnswerOptions().get(0).equalsIgnoreCase("1"))
+                return true;
+            else if(question.getOption1().equalsIgnoreCase("false")||question.getOption1().equalsIgnoreCase("0")||
+                    question.getAnswerOptions().get(0).equalsIgnoreCase("false")||question.getAnswerOptions().get(0).equalsIgnoreCase("0"))
+                return true;
+            else {
+                logger.error("Wrong true/false option!!"+ question.getChapterName() + " - "+question.getQuestionText());
+                return false;
+            }
+        }
+        if (question.getQuestionType().equalsIgnoreCase("FIB")) {
+
+            if(question.getAnswerOptions().size()>1) {
+                logger.error("more than one FIB Answers!!" + question.getChapterName() + " - " + question.getQuestionText());
+                return false;
+            }
+            if(question.getAnswerOptions().size()<=0) {
+                logger.error("No answer given for the FIB question!!" + question.getChapterName() + " - " + question.getQuestionText());
+                return false;
+            }
+            String ans = question.getAnswerOptions().get(0);
+            if(ans.isEmpty() || ans.isBlank()) {
+                logger.error("Answer is blank for the FIB question!!" + question.getChapterName() + " - " + question.getQuestionText());
+                return false;
+            }
+            if(!question.getOption1().isEmpty())
+                return true;
+            if(!question.getAnswerOptions().get(0).isEmpty())
+                return true;
+        }
+        if (question.getQuestionType().equalsIgnoreCase("MCQ")) {
+            for (String x: question.getAnswerOptions()
+                 ) {
+                if(!(x.toLowerCase().equalsIgnoreCase("a")||x.toLowerCase().equalsIgnoreCase("b")||x.toLowerCase().equalsIgnoreCase("c")||x.toLowerCase().equalsIgnoreCase("d"))){
+                    logger.error("Wrong options given for the MCQ question!!"+ question.getChapterName() + " - "+question.getQuestionText());
+                    return false;
+                }
+            }
+        }
+        return true;
     }
 
     private void setQuestionName(Node newNode,MoodleQuiz question){
@@ -343,7 +427,7 @@ public class MoodleQuizBuilder {
             return getTrueFalseTemplateNode(newDocument);
         if(question.getQuestionType().equalsIgnoreCase("MAQ") || question.getAnswerOptions().size()>1)
             return getMultiChoiceSetTemplateNode(newDocument);
-        throw new Exception("Wring Question Type");
+        throw new Exception("Wrong Question Type");
     }
     private Node getShortAnswerTemplateNode(Document newDocument) throws Exception {
 
