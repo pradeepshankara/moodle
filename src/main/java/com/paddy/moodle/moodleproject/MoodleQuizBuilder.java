@@ -331,7 +331,11 @@ public class MoodleQuizBuilder {
                 logger.error("No answer given for the FIB question!!" + question.getChapterName() + " - " + question.getQuestionText());
                 return false;
             }
-            String ans = question.getAnswerOptions().get(0);
+            String ans = question.getOption1();
+            if(!ans.isEmpty() && !ans.isBlank()) {
+                return true;
+            }
+            ans = question.getAnswerOptions().get(0);
             if(ans.isEmpty() || ans.isBlank()) {
                 logger.error("Answer is blank for the FIB question!!" + question.getChapterName() + " - " + question.getQuestionText());
                 return false;
@@ -346,6 +350,14 @@ public class MoodleQuizBuilder {
                  ) {
                 if(!(x.toLowerCase().equalsIgnoreCase("a")||x.toLowerCase().equalsIgnoreCase("b")||x.toLowerCase().equalsIgnoreCase("c")||x.toLowerCase().equalsIgnoreCase("d"))){
                     logger.error("Wrong options given for the MCQ question!!"+ question.getChapterName() + " - "+question.getQuestionText());
+                    return false;
+                }
+                if((question.getOption1().isBlank()||question.getOption1().isEmpty()||
+                        question.getOption2().isBlank()||question.getOption2().isEmpty()||
+                        question.getOption3().isBlank()||question.getOption3().isEmpty()||
+                        question.getOption4().isBlank()||question.getOption4().isEmpty()) && question.getImageFileName().isEmpty()
+                ){
+                    logger.error("Blank options given for the MCQ question!!"+ question.getChapterName() + " - "+question.getQuestionText());
                     return false;
                 }
             }

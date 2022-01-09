@@ -46,6 +46,86 @@ class MoodleprojectApplicationTests {
 	}
 
 	@Test
+	void generateForPearsonIITFoundationChemistryPracticeBookClass9(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS9");
+			questionMetadata.setPublisher("PEARSON");
+			questionMetadata.setSubject("CHEMISTRY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class 9/Chemistry/Pearson/IMAGES-PEARSON-CLASS-9-Chemistry-Practice-Book/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Pearson-Class-9-Chemistry-Practice-Book.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForPearsonIITFoundationChemistryClass9(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS9");
+			questionMetadata.setPublisher("PEARSON");
+			questionMetadata.setSubject("CHEMISTRY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class 9/Chemistry/Pearson/IMAGES-PEARSON-CLASS-9-Chemistry/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Pearson-Class-9-Chemistry.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForPearsonIITFoundationPhysicsPracticeBookClass9(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS9");
+			questionMetadata.setPublisher("PEARSON");
+			questionMetadata.setSubject("PHYSICS");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class 9/Pearson/IMAGES-PEARSON-CLASS-9-PHYSICS-Practice-Book/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Pearson-Class-9-Physics-Practice-Book.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForPearsonIITFoundationPhysicsClass9(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS9");
+			questionMetadata.setPublisher("PEARSON");
+			questionMetadata.setSubject("PHYSICS");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class 9/Pearson/IMAGES-PEARSON-CLASS-9-PHYSICS/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Pearson-Class-9-Physics.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForMTGIITFoundationPhysicsClass8(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS8");
+			questionMetadata.setPublisher("MTG");
+			questionMetadata.setSubject("PHYSICS");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Physics/MTG/IMAGES-MTG-CLASS-8-PHYSICS/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"MTG-Class-8-Physics.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
 	void generateForBrainMappingIITFoundationPhysicsClass8(){
 		try {
 			QuestionMetadata questionMetadata = new QuestionMetadata();
@@ -166,7 +246,7 @@ class MoodleprojectApplicationTests {
 			questionMetadata.setImageType("JPG");
 			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Physics/DishaFoundation/IMAGES-DISHA-CLASS-8-PHYSICS/");
 			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
-			moodleQuizHandler.generateMoodleFile(questionMetadata,"DISHA-Class-8-PHYSICS.csv");
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"DISHA-Class-8-PHYSICS-V1.csv");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
