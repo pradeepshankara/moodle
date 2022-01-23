@@ -1,5 +1,6 @@
 package com.paddy.moodle.moodleproject;
 
+import com.paddy.moodle.moodleproject.revisionplan.RevisionPlanGenerator;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -8,15 +9,23 @@ import org.xml.sax.SAXException;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
 import java.io.IOException;
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 
 @SpringBootTest
 class MoodleprojectApplicationTests {
+
+	DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
 
 	@Autowired
 	CsvHandler csvHandler;
 
 	@Autowired
 	MoodleQuizHandler moodleQuizHandler;
+
+	@Autowired
+	RevisionPlanGenerator revisionPlanGenerator;
 
 	@Test
 	void contextLoads() {
@@ -25,6 +34,15 @@ class MoodleprojectApplicationTests {
 	@Test
 	void printFileContent(){
 		csvHandler.readDataLineByLine("QuestionBank-Class-8-Chapeter-2_questions.csv");
+	}
+
+	@Test
+	void generateRevisionPlan(){
+		try {
+			revisionPlanGenerator.generateRevisionsPlan(6,21,dateFormat.parse("25/01/2022"),"1,2,4,6,7");
+		} catch (ParseException e) {
+			e.printStackTrace();
+		}
 	}
 
 	@Test
@@ -41,6 +59,86 @@ class MoodleprojectApplicationTests {
 		} catch (SAXException e) {
 			e.printStackTrace();
 		} catch (TransformerException e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForPGCETCivil2015(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("PGCET");
+			questionMetadata.setPublisher("KarnatakaPGCET");
+			questionMetadata.setSubject("CIVIL");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Engineering/PGCET/QuestionBank/PGCET-CIVIL-2015-IMAGES/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"PGCET-CIVIL-2015.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForPearsonPracticeBookPhysicsClass10(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS10");
+			questionMetadata.setPublisher("PEARSONPRACTICEBOOK");
+			questionMetadata.setSubject("PHYSICS");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class10/Physics/Pearson/IMAGES-PEARSON-CLASS-10-PHYSICS-Practice-Book/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Pearson-Class-10-Physics-Practicebook.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForPearsonPhysicsClass10(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS10");
+			questionMetadata.setPublisher("PEARSON");
+			questionMetadata.setSubject("PHYSICS");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class10/Physics/Pearson/IMAGES-PEARSON-CLASS-10-PHYSICS/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Pearson-Class-10-Physics.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForBrainMappingChemistryClass9(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS9");
+			questionMetadata.setPublisher("BRAINMAPPING");
+			questionMetadata.setSubject("CHEMISTRY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class 9/Chemistry/Brain Mapping/IMAGES-Brain-Mapping-CLASS-9-CHEMISTRY/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Brain-Mapping-Class-9-CHEMISTRY.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForBrainMappingPhysicsClass9(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS9");
+			questionMetadata.setPublisher("BRAINMAPPING");
+			questionMetadata.setSubject("PHYSICS");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class 9/Physics/BrainMapping/IMAGES-Brain-Mapping-CLASS-9-PHYSICS/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"Brain-Mapping-Class-9-PHYSICS.csv");
+		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
@@ -276,7 +374,7 @@ class MoodleprojectApplicationTests {
 			questionMetadata.setPublisher("MTG");
 			questionMetadata.setSubject("BIOLOGY");
 			questionMetadata.setImageType("JPG");
-			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Biology/IMAGES-MTG-CLASS-8-BIOLOGY/");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Biology/MTG/IMAGES-MTG-CLASS-8-BIOLOGY/");
 			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
 			moodleQuizHandler.generateMoodleFile(questionMetadata,"MTG-Class-8-Biology-V1.csv");
 		} catch (Exception e) {

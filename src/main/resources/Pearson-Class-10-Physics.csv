@@ -1,0 +1,621 @@
+Chapter Number,ChapterName,SubChapterName,Classification,QuestionNumber,QuestionText,Option1,Option2,Option3,Option4,Image?,Answer,AnswerDescription,QuestionType
+1,Kinematics,Concept Application-Level-1,True - False,1,The area under acceleration time graph gives change in velocityh,,,,,,1,,TF
+1,Kinematics,Concept Application-Level-1,True - False,2,"A particle cannot have its displacement (x) versus time (t) graph, as shown in the figure below.
+Graph",,,,,CH-1-2-ROW-3,1,,TF
+1,Kinematics,Concept Application-Level-1,True - False,3,The direction of acceleration due to gravity depends on the direction of motion of a body.,,,,,,0,,TF
+1,Kinematics,Concept Application-Level-1,True - False,4,A projectile has constant speed in horizontal direction.,,,,,,1,,TF
+1,Kinematics,Concept Application-Level-1,True - False,5,The displacement of a body has the same direction as that of its average velocity.,,,,,,1,,TF
+1,Kinematics,Concept Application-Level-1,True - False,6,A body can have constant velocity and still have varying speed.,,,,,,0,,TF
+1,Kinematics,Concept Application-Level-1,True - False,7,The velocity of a body can change even if its acceleration is zero.,,,,,,0,,TF
+1,Kinematics,Concept Application-Level-1,Fill in the blanks,8,"For a projectile, the magnitude of acceleration in the horizontal direction is zero and that in the vertical direction is _________.",,,,,,g,,FIB
+1,Kinematics,Concept Application-Level-1,Fill in the blanks,9,"If a particle moves from A to B along a straight line with velocity v~1* and then B to A with velocity v~2*, its average velocity is _________.",,,,,,0,,FIB
+1,Kinematics,Concept Application-Level-1,Fill in the blanks,10,The time taken by a body which is projected horizontally from a height ‘h’ from the ground to reach the ground is _________.,Ö2h/g,,,,,DUMMY,,FIB
+1,Kinematics,Concept Application-Level-1,Fill in the blanks,11,"Two balls are dropped from heights h~1* and h~2*, respectively. The ratio of their time of descents is _________.",Öh~1* : Öh~2* ,,,,,DUMMY,,FIB
+1,Kinematics,Concept Application-Level-1,Fill in the blanks,12,"A body is projected vertically upward with velocity u m s^-1&. When it returns to the point of projection, its velocity is -u m s^-1&.",,,,,,1,,TF
+1,Kinematics,Concept Application-Level-1,Fill in the blanks,13,The _________ of motion changes during the motion of a projectile.,,,,,,direction,,FIB
+1,Kinematics,Concept Application-Level-1,Fill in the blanks,14,"During upward motion of a body projected vertically upward, the angle between velocity and ‘g’ is180^0&.",,,,,,1,,TF
+1,Kinematics,Concept Application-Level-1,Match the following,15,Match the following,"A:b, B:a, C:d, D:c","A:b, B:a, C:c, D:d","A:b, B:d, C:a, D:c","A:c, B:a, C:d, D:b",CH-1-15-ROW-16,A,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,16,A body projected vertically up has displacement of 16 m in the first n seconds while it was moving up. Its magnitude of displacement in the last n second while falling down is,8 m,4 m,16 m,2 m,,c,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,17,The acceleration of a moving body can be found out from,slope of velocity time graph.,area under velocity time graph.,slope of distance time graph.,area under distance time graph.,,A,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,18,"Two bodies are projected from the ground with the same speed. If the angles of their projection from the ground are 45^0& and 15^0&, respectively, the ratio of their ranges is",1 : 2,2 : 1,Ö3 : 2,1 : Ö2,,b,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,19,"The displacement–time, graph for a body thrown vertically up and falling back to the point of projection, is _________.",a,b,c,d,CH-1-19-ROW-20,A,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,20,"A stone dropped from the top of a tower travels 4.9 m in the last second, then the velocity of the stone on reaching the ground is",19.6 m s^-1&,9.8 m s^-1&,4.9 m s^-1&,29.4 m s^-1&,,b,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,21,The graph of velocity versus displacement of a body which is thrown vertically up and falling back to the point of projection is __________.,a,b,c,d,CH-1-21-ROW-22,d,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,22,A body is projected vertically up from the ground with certain velocity. Its velocity is reduced to 1/4th of its intial velocity at 75 m height. Then the maximum height reached by the body is,75 m,80 m,100 m,40 m,,b,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,23,"If a body is projected with certain velocity making an angle 30^0& with the horizontal, then",its horizontal velocity remains constant.,its vertical velocity changes.,"on falling to the ground, its vertical displacement is zero.",All of these,,d,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,24,"A freely falling body from rest acquires velocity V in falling through a distance h. If here after the body falls through a further distance h, velocity acquired by it is",2V,V,Ö2V,4V,,c,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,25,"Two cars A and B move such that car A moving with a uniform velocity of 15 m s^–1& over takes car B moving from rest with an acceleration of 3 m s^–2&. The time, after which, they meet again, is",5 s,15 s,Ö3 s,10 s,,d,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,26,"A stone dropped from the top of a tower travels 15 m in the last second of its motion. If g = 10 m s^–2&, then the time of fall is",2 s,2.5 s,5 s,3 s,,A,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,27,A body is projected vertically upward with certain velocity. The magnitude of its displacement in the last second of its upward motion is _________.,2g,g/3,g/2,3g/2,,c,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,28,"In the following v^–t& graphs, identify the graph that represents a body moving initialy with uniform velocity and then with uniform retardation until it stops.",a,b,c,d,CH-1-28-ROW-29,A,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,29,"Three bodies A, B and C are thrown simultaneously with the same speed from the top of a building. A is thrown vertically upward, B horizontally and C, vertically downward. All the three, on reaching the
+ground,",I) have equal velocities.,II) have equal vertical displacements.,III) take equal time to reach the ground.,IV) Both (I) and (II),,b,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,30,"An ant moves along the sides of a square room ABCD of length 4 m starting from A, it reaches the opposite corner C by travelling from A to B and from B to C. If the time taken is 2 s, the average velocity of the ant is",4 m s^-1&,2Ö2 m s^-1&,2 m s^-1&,4Ö2 m s^-1&,,b,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,31,A body started with a velocity of 20 m s^–1& and moving with an acceleration of 2 m s^–2&. The distance travelled by the body in the 8th second is ________ m.,35,20,120,10,,A,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,32,A body starts from rest and moving with an acceleration 2 m s^–2& and covering a distance of 10 m. The final velocity of the body is ________ m s^–1&.,Ö98,Ö40,Ö20,Ö12,,b,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,33,"A body initially moving with a velocity of 5 m s^–1&, attains a velocity of 25 m s^–1&. The acceleration of the body in 5s is ______________ m s^–2&.",8,7,4,3,,c,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,34,"A body starts from rest, and moving with an acceleration of 1 m s^–2&. The displacement of the body in 5 seconds is __________ m.",12.5,25,7.5,15,,a,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,35,"Two bodies of different masses are dropped from heights of 2 m and 8 m, respectively, then the ratio of the time taken by them is _____ m.",1 : 4,1 : 1,1 : 2,1 : 3,,c,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,36,An object is thrown vertically upward with a velocity of 10 m s^–1&. It strikes the ground after __________ seconds. (Take g = 10 m s^–2&),10,2,5,1,,b,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,37,An object is released from a balloon rising up with a constant speed of 2 m s^–1&. Its magnitude of velocity after 1 s is __________ m s^–1&.,5.3,7.8,2.8,6.4,,b,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,38,A ball is projected vertically up with a velocity of 20 m s^–1&. Its velocity when it reaches 15 m height is __________ m s^–1&. (Take g = 10 m s^–2&),I) 10,II)15,III) -10,IV) Both (I) and (III) ,,d,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,39,"Two balls are projected horizontally from the top of a building simultaneously with velocities 15 m s^–1& and 20 m s^–1&, respectively.The ratio of times taken by them to reach the ground __________ is.",2 : 3,3 : 4,1 : 1,4 : 9,,c,,MCQ
+1,Kinematics,Concept Application-Level-1,MCQ,40,"A body ‘A’ is dropped from a height h and the other body B is thrown horizontally with a velocity of 10 m s^–1& from the same height simultaneously. If the time taken by the body A to reach the ground is 3 s, arrange the following steps in a proper sequence to find the velocity of the body ‘B’, in vertical direction when it is at a vertical
+height of 20 m above the ground.
+(a) Find the displacement covered by the body B when it is at a height of 20 m.
+(b) Calculate of the vertical height from the ground through which both the bodies are falling.
+(c) Write the required equation of motion and calculate the velocity at the given point.
+(d) Analyse the relation between the motions of two bodies.",d c a b,d b a c,a b c d,d b c a,,b,,MCQ
+2,Dynamics,Concept Application-Level-1,True - False,1,The work done by the earth on a satellite revolving around it is zero.,,,,,,1,,TF
+2,Dynamics,Concept Application-Level-1,True - False,2,The escape velocity of a body on a planet is always greater than the orbital velocity of the body around the planet in an orbit closer to it.,,,,,,1,,TF
+2,Dynamics,Concept Application-Level-1,True - False,3,The gravitational potential energy of a body is directly proportional to its height above the surface of the earth.,,,,,,0,,TF
+2,Dynamics,Concept Application-Level-1,True - False,4,The mechanical advantage of an inclined plane is always greater than unity.,,,,,,1,,TF
+2,Dynamics,Concept Application-Level-1,True - False,5,The resultant of all internal forces acting on a body at rest is zero.,,,,,,0,,TF
+2,Dynamics,Concept Application-Level-1,True - False,6,Centrifugal force is a reaction to centripetal force.,,,,,,0,,TF
+2,Dynamics,Concept Application-Level-1,True - False,7,A 10 N force is applied at a distance of 1 m from the hinge of door such that the line of action of force is parallel to the plane of the door. The moment of force produced on the door is 10 N m.,,,,,,0,,TF
+2,Dynamics,Concept Application-Level-1,Fill in the blanks,8,"Two forces act on either side of a uniform rod AB of negligible mass suspended by string as ß shown in the figure. If R is the resultant force, the tension of the string T = _______ g~wt*.",a,b,c,d,CH-2-8-ROW-49,82,,FIB
+2,Dynamics,Concept Application-Level-1,Fill in the blanks,9,"A metre scale is suspended at 50 cm mark to a rigid support with a weight of 150 g attached at 5 cm mark. To balance the scale, a weight of 450 g should be attached at ________ cm mark.",,,,,,65,,FIB
+2,Dynamics,Concept Application-Level-1,Fill in the blanks,10,"Two planets have average radii of their orbits of revolution in the ratio 64 : 9. Then, the ratio of their periods of revolution is 512:27.",,,,,,1,,TF
+2,Dynamics,Concept Application-Level-1,Fill in the blanks,11,A particle moves in a circle whose radius is 20 cm with a linear speed of 10 m s^–1&. Then its angular velocity is _______ rad s^–1&.,,,,,,50,,FIB
+2,Dynamics,Concept Application-Level-1,Fill in the blanks,12,"A particle moving along a circular path with the uniform angular velocity ‘ω’ is under the action of a force ‘F’ directed towards the centre of the circular path. If the radius of the circular path is doubled
+without changing the linear velocity, the centripetal force acting on the body would be _________.",,,,,,F/2,,FIB
+2,Dynamics,Concept Application-Level-1,Fill in the blanks,13,The ratio of escape velocity of a tennis ball to that of a basket ball on the surface of the earth is 1:1.,,,,,,1,,TF
+2,Dynamics,Concept Application-Level-1,Fill in the blanks,14,"If IMA and V.R. are the ideal mechanical advantage and velocity ratio of a pulley, then its efficiency is I.M.A./V.R..",,,,,,1,,TF
+2,Dynamics,Concept Application-Level-1,Match the following,15,Match the entries in Column A with appropriate one from Column B,"A:d, B:c, C:g, D:h, E:j, F:b, G:a, H:f, I:i, J:e","A:d, B:c, C:h, D:g, E:j, F:b, G:a, H:f, I:e, J:i","A:c, B:d, C:g, D:h, E:j, F:b, G:a, H:f, I:e, J:i","A:d, B:c, C:g, D:h, E:j, F:b, G:a, H:f, I:e, J:i",CH-2-15-ROW-56,D,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,16,The escape velocity of a body on a planet depends on,acceleration due to gravity on the planet,the radius of the planet.,the mass of the planet.,All of these,,d,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,17,The stability of a flexible body depends on,height of the centre of gravity from the ground.,base area of the body,shape of the body.,All of these,,d,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,18,"The relation between momentum (P), mass (m), kinetic energy (KE) and velocity (V) of two bodies is",P~1*V~1* = P~2*V~2* where KE is constant,KE~1*m~1* = KE~2*m~2* where P is constant.,KE~1*P^2&~2* = KE~2* P~1*^2& when m is constant,All of these,,d,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,19,"In the adjacent diagram, the shaded regions A and B are the areas covered by a planet around the sun d~A* and d~B*, t~A* and t~B* are the distances traveled by the planet and the time taken by it to cover the paths PQ and RS, respectively. Choose the correct statement.",d~A* = d~B* if t~A* = t~B*,d~A* < d~B* if t~A* > t~B*,d~A* = d~B* if t~A* < t~B*,d~A* > d~B* if t~A* = t~B*,,d,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,20,"The gravitational force of attraction between two bodies at a certain distance is 10 N. If the distance between them is doubled, the force of attraction _____.",decreases by 50%,decreases by 75%,increases by 50%,increases by 75%,,b,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,21,Action and reaction,always act on two different bodies.,are equal in magnitude.,act in opposite directions.,All of these,,d,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,22,Two particles of equal mass are revolving with the same linear speed on circular paths of radii r~1* and r~2*. The ratio of the centripetal force acting on them will be ______.,A,B,C,D,CH-2-22-ROW-63,a,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,23,Choose the correct statement.,"In a simple machine, the input energy is always equal to output energy.",Actual mechanical advantage > Ideal mechanical advantage.,Velocity ratio = displacement of the efforts/ displacement of the load,The mechanical advantage of a single fixed pulley is greater than one.,,c,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,24,"While opening a tap with two fingers, the forces applied are",equal in magnitude.,parallel to each other,opposite in direction.,All of these,,d,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,25,A rubber ball of mass 250 g hits a wall normally with a velocity of 10 m s^−1& and bounces back with a velocity of 8 m s^−1&. The impulse is _____ N s.,-0.5,+0.5,-4.5,+4.5,,c,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,26,The false statement about universal gravitational constant (G) among the following is _____.,Its dimensional formula is [M^–1& L^–3& T^–2&],It is a vector quantity,Its value in SI system is 6.67 × 10^–11&,Its unit is N m^2& kg^–2&,,b,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,27,The weight of an object is zero at _____.,I) a height equal to half of the radius of earth,II) the centre of the earth,III) the equator,both (I) and (II),,b,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,28,"A force acts on an object while in the state of motion. If the force acting on it is equal to the sum of all the resistance forces, then the object ______.",stops after covering some distance,moves with uniform acceleration,moves with uniform velocity,moves with uniform retardation,,c,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,29,"In the case of an oscillating simple pendulum, if the air resistance is taken into consideration, then _____.",amplitude of oscillation remains the same,frequency remains the same,the resultant acceleration remains the same,All of these,,b,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,30,The magnitude of acceleration due to gravity decreases,as the height from the surface of the earth increases,as the depth from the surface of the earth increases,as one moves from the pole of the earth to its equator,All of these,,d,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,31,A body of mass 1 kg moves with a velocity 5 m s^−1&.A force is applied on it for 1 ms such that its velocity is increased to 7 m s^−1&. The force applied on the body is______N.,2000,200,20,2,,a,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,32,The linear momentum of a body can be changed by______,I) any force,II) a net external force,III) an internal force,Both (II) and (III) ,,b,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,33,Force required to produce an acceleration of 1 m s^−2& on a body of mass 1 kg is______N.,1,2,3,4,,a,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,34,1 dyne force can produce an acceleration of ______ cm s^–2& on an object of mass 100 g.,1,0.1,10,0.01,,d,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,35,"An object A of mass of 0.1 kg exerts a force of 1N on a body B. Then, the acceleration of the body A is______m s^−2&.",Zero,10,-10,-5,,c,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,36,Which of the following laws of motion is (are) involved in the motion of the rocket?,Newton’s first law of motion.,Newton’s second law of motion.,Newton’s third law of motion.,All of these,,c,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,37,"The momentum of a body of mass 0.5 kg dropped from a certain height (h), when it reaches the ground is 10 N s.The value h is______m. (take g = 10 m s^−2&)",20,40,10,80,,a,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,38,"The momentum of a body is increased by 50%. If v~1* is the initial velocity of the body, the change in kinetic energy is",a,b,c,d,CH-2-38-ROW-79,c,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,39,Work done on a body depends,only on the magnitude of external force applied on the body.,only on the displacement of the body.,on both the displacement of the body and the component of the external force acting in the direction of its displacement.,None of these,,c,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,40,The mechanical advantage of an inclined plane of angle of inclination 60° is equal to______.,2/Ö3,cosec 30^0&,Both A and B,None of these,,c,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,41,"A metre scale is suspended at 50 cm mark to a rigid support with a weight of 150 g attached at 5 cm mark.To balance the scale, a weight of 450 g should be attached at______cm mark.",65,90,95,100,,a,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,42,A pulley system has a single fixed pulley and a single movable pulley. Its mechanical advantage is______.,1,2,3,4,,b,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,43,A particle moves in a circle whose radius is 40 cm with a linear speed of 5 m s^–1&. Then its angular velocity is______rad s^–1&.,100,12.5,25,125,,b,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,44,"A particle, moving in a circle of radius 10 cm with a uniform speed, completes a revolution in 4 seconds. The magnitude of the centripetal acceleration it experiences is______cm s^–2&.",2.5 π^2&,5 π^2&,3 π^2&,6 π^2&,,a,,MCQ
+2,Dynamics,Concept Application-Level-1,MCQ,45,Gravity meters measure in units of mGal where 1 Gal (or 1 galileo) is the C.G.S. unit of acceleration due to gravity. A gravity meter shows a reading of +300 mGal at a place where the normal ‘g’ is 9.78 m s^–2&. The correct ‘g’ at that place where the reading was taken is______m s^–2&.,9.777,9.783,9.750,9.810,,b,,MCQ
+3,Heat,Concept Application-Level-1,True - False,1,"Due to anomalous behaviour of water, volume of ice is more than that of the same mass of water.",,,,,,1,,TF
+3,Heat,Concept Application-Level-1,True - False,2,"When common salt is added to water, the boiling point of water increases.",,,,,,1,,TF
+3,Heat,Concept Application-Level-1,True - False,3,Heat required to change the state of substance at constant temperature is called latent heat.,,,,,,1,,TF
+3,Heat,Concept Application-Level-1,True - False,4,Refrigerator is a device which works on the principle that evaporation of a liquid gives cooling effect.,,,,,,1,,TF
+3,Heat,Concept Application-Level-1,True - False,5,The specific heat capacity of water is 4200 J kg^−1& K^−1&.,,,,,,1,,TF
+3,Heat,Concept Application-Level-1,True - False,6,The rate of evaporation of a given liquid depends only on the surface area of the liquid exposed to air.,,,,,,0,,TF
+3,Heat,Concept Application-Level-1,True - False,7,The SI units of heat and work are the same.,,,,,,1,,TF
+3,Heat,Concept Application-Level-1,Fill in the blanks,8,"_____ is used as a coolant in car radiators, nuclear plants and in industries.",,,,,,Water,,FIB
+3,Heat,Concept Application-Level-1,Fill in the blanks,9,The process that is involved when a substance changes to gas directly from solid state without changing to liquid state is called _____.,,,,,,Sublimation,,FIB
+3,Heat,Concept Application-Level-1,Fill in the blanks,10,The dimensional formula of heat is _____.,[ML^2*T^2&],[ML^-2*T^-2&],[ML^2*T^-2&],None of these,,C,,MCQ
+3,Heat,Concept Application-Level-1,Fill in the blanks,11,Heat absorbed or lost by a substance is proportional to _____ and Change in temperature.,,,,,,Mass,,FIB
+3,Heat,Concept Application-Level-1,Fill in the blanks,12,Boiling is a quick process where as evaporation is a _____ process in respect with the speed of the process.,,,,,,slow,,FIB
+3,Heat,Concept Application-Level-1,Fill in the blanks,13,The device which is used to measure specific heat capacity of solids and liquids is ______.,,,,,,calorimeter,,FIB
+3,Heat,Concept Application-Level-1,Fill in the blanks,14,Calorimeter is highly polished from inside and outside to prevent heat loss by _____.,,,,,,Radiation,,FIB
+3,Heat,Concept Application-Level-1,Match the following,15,Match the entries in Column A with appropriate one from Column B,"A:j, B:h, C:I, D:b, E:d, F:e, G:a, H:c, I:g, J:f","A:h, B:j, C:I, D:b, E:d, F:e, G:a, H:c, I:f, J:g","A:j, B:h, C:I, D:b, E:d, F:e, G:a, H:c, I:f, J:g","A:j, B:h, C:I, D:b, E:d, F:a, G:e, H:c, I:f, J:g",CH-3-15-ROW-101,C,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,16,"In a device, the complete conversion of heat energy into mechanical work _____.",is not possible at any cost,depends on type of device in use,"depends on the atmospheric temperature, pressure, etc",depends on the type of fuel used,,a,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,17,"If water is converted into ice and maintained at 0^0&C, which of the following statements is true for the molecules of the substance?",Only kinetic energy decreases,Only potential energy decreases,Both the energies increase,Potential energy increases and kinetic energy decreases,,b,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,18,Steam engine is not extensively used because,it is bulky.,it takes long time to generate the steam,high pressure of steam may burst the boiler which is dangerous.,All of these,,d,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,19,The specific heat capacity of a substance depends on its,nature,mass,rise in temperature,Both (b) and (c) ,,a,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,20,Study the adjacent graph drawn between the amount of heat energy supplied to 500 g of a substance and its rise in temperature. Identify the correct option.,The melting point of the given substance is 10^0&C.,The latent heat of fusion of the given substance is 2300 J.,The boiling point of the substance 130^0&C.,All of these,,d,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,21,Sea water and river water are heated to their boiling points. Then,river water boils at lower temperature,sea water boils at lower temperature,both boil at the same temperature,Cannot be said.,,a,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,22,The food cooks faster in pressure cooker since,the pressure exerted by water vapour enclosed in the cooker increases the boiling point of water.,the pressure exerted by the water vapour enclosed in the cooker decreases the boiling point of water.,the water vapour pressure does not influence the boiling point of the water.,there is no loss of heat to the surrounding as the pressure cooker is airtight.,,a,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,23,"During change of state, which of the following is true for molecules of a substance?",Kinetic energy increases,Potential energy increases,Both increase,Both remain constant,,b,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,24,"At 40^0&C, the actual amount of water vapour present in 1 m3 of air is 45 g. If the temperature decreases to 30^0&C, then amount of water vpaour that condenses is _____ g.
+[Take the mass of water vapour present in 1 m3 of saturated air at 30^0&C as 30 g].",75,10,25,15,,d,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,25,"In thermal power stations, steam is preferred to convert heat to electric energy because",steam is good conductor of heat.,steam is good conductor of electricity.,steam can flow quickly,every gram of steam can give 2260 J of heat.,,d,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,26,"A hot body at temperature θ~1* is mixed with a cold body at temprature θ~2* both having the same heat capacity, such that the rise in temperature of the cold body is equal to the fall in temperature of the hot body. The resultant temperature θ is",a,b,c,d,CH-3-26-ROW-112,a,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,27,Snow balls are formed due to,melting of ice,freezing of atmospheric moisture,regelation,sublimation,,c,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,28,"A substance of mass m~1* with specific heat capacity s~1* and initial temperature θ~1* is mixed with another substance of mass m~2*, specific heat capacity s~2* and initial temperature θ~2*, respectively. Then, their equilibrium temperature is ______ (take θ~1* > θ~2*)",A,B,C,D,CH-3-28-ROW-114,d,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,29,"Heat gained by 1 g of water when heated from 0^0&C to 100^0&C is
+(Specific heat capacity of water = 1 cal g^-1&C ^0&C^-1&)",4200 cal,4.2 cal,100 cal,1 cal,,c,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,30,"Two bodies of masses 50 g and 100 g, have their water equivalents as 10 g and 20 g, respectively. The values of their specific heat capacities are _____ cal g^−1& ^0&C^−1& and _______cal g^−1& ^0&C^−1&.",a,b,c,d,CH-3-30-ROW-116,a,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,31,"Arrange the following steps in the proper order to explain how a sea breeze occurs, near coastal regions.
+(a) The temperature of land rises rapidly as compared to sea, because the specific heat capacity of land is five times less than that of water.
+(b) Due to the low pressure over the land mass, the cool air over the sea starts blowing towards the land.
+(c) The sun shines equally on the land mass and sea, giving equal amount of heat energy to both.
+(d) The air above the land becomes hot and light, rises up, and hence creates the low pressure over the land.",a d c b,c d a b,c a b d,c a d b,,d,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,32,Linear expansion of a substance depends upon its,initial length.,Change in temperature,nature of the material,All of these.,,d,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,33,"The area of cross-sections of three metal rods of the equal length and made of the same materials are A~1*, A~2* and A~3*, respectively. When heated through the same change in temperature, their linear expansions are found to be l~1*, l~2* and l~3*, respectively Which among the following is the correct relation between l~1*, l~2* and l~3*?",l~1* = l~2* = l~3*,l~1* > l~2* > l~3*,l~1* < l~2* < l~3*,l~1* = l~2* < l~3*,,a,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,34,The coefficient of linear expansion α of steel is 11 × 10^–6& ^0&C^–1& = Then α_____ × 10^–6& ^0&F^–1&,6.11,19.8,11,43,,a,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,35,"A copper wire is bent as shown in the figure. When its temperature is increased, the distance between A and B _____.",decreases,increases,remains same,increases or decreases depending up on its initial temperature,CH-3-35-ROW-121,b,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,36,The coefficient of linear expansion α is ______ that of the coefficient of areal expansion.,double of,triple of,half of,equal to,,c,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,37,"The coefficient of linear and areal expansion cannot be defined for liquids, as liquids do not have a definite ______.",volume,shape,density,specific heat capacity,,b,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,38,"Anomalous behaviour of water can be demonstrated with the help of Hope’s apparatus. Arrange the following steps of changes taking place in Hopes apparatus in the proper sequence.
+(a) The temperature shown by the lower thermometer reaches to 4 ^0&C and remains constant at 4 ^0&C.
+(b) Water freezes into ice at 0 ^0&C, and the layer of ice is formed at the top surface because the density of ice is less than that of water.
+(c) The initial temperature of water is maintained at 10 ^0&C. The temperature of water begins to fall due to the freezing mixture at the centre and it contracts.
+(d) As temperature of water falls below 4 ^0&C, water expands instead of contracting and its density decreases. So, water goes up from the centre portion.
+(e) As density increases, the cold water goes to the bottom. The temperature shown by the lower thermometer falls.
+(f) The temperature of water at the top of the vessel begins to fall till 0 ^0&C as shown by the upper thermometer.
+(g) Being a bad conductor of heat, ice prevents the loss of heat from water below it into the surroundings.",c e b f a g d,c e a d f b g,c e a f d g b,c b e g d a f,,b,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,39,"A pendulum clock takes exactly 2 s to perform one oscillation at 20^0&C. If the pendulum clock is made of copper, then the pendulum ________ at 40^0&C.",gains the time,losses the time,does not oscillate,brakes,,b,,MCQ
+3,Heat,Concept Application-Level-1,MCQ,40,Steam is used in external combustion engine as working medium because of its,high specific heat capacity.,high thermal capacity.,high latent heat of vaporization.,low liquefaction point (B.P).,,c,,MCQ
+4,Light,Concept Application-Level-1,True - False,1,Interference takes place whenever two or more wave motions combine in space.,,,,,,0,,TF
+4,Light,Concept Application-Level-1,True - False,2,"In the minimum deviation position of a prism, the refracted ray is always parallel to its base.",,,,,,0,,TF
+4,Light,Concept Application-Level-1,True - False,3,A person suffering from myopia cannot see distant objects clearly.,,,,,,1,,TF
+4,Light,Concept Application-Level-1,True - False,4,The focal length of a given lens depends on the surrounding medium.,,,,,,1,,TF
+4,Light,Concept Application-Level-1,True - False,5,Prismatic periscopes use the principle of total internal reflection.,,,,,,1,,TF
+4,Light,Concept Application-Level-1,True - False,6,A dentist uses a convex mirror to view the inner parts of a patient’s mouth.,,,,,,0,,TF
+4,Light,Concept Application-Level-1,True - False,7,The solar spectrum in general is an absorption spectrum.,,,,,,1,,TF
+4,Light,Concept Application-Level-1,Fill in the blanks,8,A yellow coloured dress would appear to be _________ when viewed through a green filter.,,,,,,black,,FIB
+4,Light,Concept Application-Level-1,Fill in the blanks,9,"Due to ________ of laser, large energy can be concentrated into an extremely small bandwidth.",,,,,,high monochromatic nature,,FIB
+4,Light,Concept Application-Level-1,Fill in the blanks,10,"The combination of a convex lens of power + 2 D and a concave lens of power –2 D, acts as a __________",,,,,,glass salb,,FIB
+4,Light,Concept Application-Level-1,Fill in the blanks,11,The minimum length of a plane mirror required to view the full image of a person 6 feet tall is ______.,,,,,,3 feet,,FIB
+4,Light,Concept Application-Level-1,Fill in the blanks,12,"A bird is flying 12 m above the surface of a pond. The apparent position of the bird as viewed by a fish 1m below the surface is __________ (~a*μ~w* =4/3)     
+  ",,,,,,15 m ,,FIB
+4,Light,Concept Application-Level-1,Fill in the blanks,13,"An object is placed on the principal axis of a concave mirror at a distance of 60 cm. If the focal length of the concave mirror is 40 cm, then the magnification obtained is equal to __________",,,,,,2,,FIB
+4,Light,Concept Application-Level-1,Fill in the blanks,14,The power of a biconcave lens having focal length 25 cm is _____.,,,,,,-4D,,FIB
+4,Light,Concept Application-Level-1,Match the following,15,Match the entries in Column A with appropriate ones from Column B.,"A:d, B:g, C:I, D:h, E:a, F:j, G:b, H:f, I:e, J:c","A:d, B:g, C:I, D:h, E:a, F:j, G:b, H:f, I:c, J:e","A:d, B:g, C:I, D:h, E:a, F:b, G:j, H:f, I:c, J:e","A:g, B:d, C:I, D:h, E:a, F:j, G:b, H:f, I:c, J:e",CH-4-15-ROW-141,B,,MCQ
+4,Light,Concept Application-Level-1,MCQ,16,A mirage takes place due to _________.,I)reflection,II) refraction,III) total internal reflection,IV) Both (II) and (III),,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,17,Raman effect is an example of _____.,coherent scattering of light.,incoherent scattering of light,coherent interference of light,incoherent interference of light,,b,,MCQ
+4,Light,Concept Application-Level-1,MCQ,18,The optical phenomenon which Newton’s theory of light failed to explain is _____.,interference,polarization,diffraction,All of these three,,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,19,An observer moves towards a stationary plane mirror at a speed of 4 m s^−1&. The speed of image with respect to mirror is _________.,4 m s^−1& towards the mirror,8 m s^−1& towards the mirror,4 m s^−1& away from the mirror,8 m s^−1& away from the mirror,,a,,MCQ
+4,Light,Concept Application-Level-1,MCQ,20,The process in which the electrons in the excited atoms are released on their own from their higher energy state to the ground state is called _____.,forced emission,population inversion,spontaneous emission,None of these,,c,,MCQ
+4,Light,Concept Application-Level-1,MCQ,21,"The refractive index of diamond is 2.4. If the velocity of light in air or vacuum is 3 × 108 m s^−1&, then the velocity of light in diamond is ______ × 108 m s^−1&.",1.25,12.5,0.8,125,,a,,MCQ
+4,Light,Concept Application-Level-1,MCQ,22,A convex mirror is used,by a dentist,for shaving,as a rear view mirror in vehicles,as a light reflector for obtaining a parallel beam of light.,,c,,MCQ
+4,Light,Concept Application-Level-1,MCQ,23,"When an equilateral glass prism is in minimum deviation position
+(A) the refracted ray is parallel to the base of the prism.
+(B) the angle of incidence is equal to the angle of emergence",Only A is true,Only B is true,Both A and B are true,Both A and B are false,,c,,MCQ
+4,Light,Concept Application-Level-1,MCQ,24,"The colour of a green leaf, when white light passing through a yellow filter is incident on it, is __________.",Black,yellow,red,green,,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,25,Spectrometer is used to measure ________.,angle of prism,refractive index of material of a prism,the dispersion,All of these,,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,26,The expression for the magnification of a spherical mirror in terms of focal length (f) and the distance of the object from mirror (u) is,a,b,c,d,CH-4-26-ROW-152,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,27,"According to Newton, different colours of light are due to the difference in ______ of the corpuscles.",mass,nature,Shape,size,,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,28,"If the speed of light in medium – 1 and medium – 2 are 2.5 × 108 m s^−1& and 2 × 10^8& m s^−1& , respectively, then the refractive index of medium – 1 with respect to medium – 2 is __________.",3/2.5,2/2.25,2.5/3,2.5/2,,b,,MCQ
+4,Light,Concept Application-Level-1,MCQ,29,"A coin is placed at the bottom of a swimming pool. To obtain a vertical shift of 20 cm of the image of the coin, the required height of the water column is _____ μ~water* = 4/3.",20 cm,2 m,80 m,80 cm,,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,30,The apparent vertical shift of the image of a coin placed at the bottom of a water tank having constant depth of water is proportional to _________.,m,1/m,m - 1,m + 1,,b,,MCQ
+4,Light,Concept Application-Level-1,MCQ,31,"Facts about the light
+(a) Light is a form of electromagnetic radiation and a non-mechanical wave.
+(b) Light waves do not require a material as a medium for propagation.",Only A is true,Only B is true,Both A and B are true,Both A and B are false,,c,,MCQ
+4,Light,Concept Application-Level-1,MCQ,32,Find the correct statements related to the image formed by the plane mirror form the given below.,"The image formed is laterally inverted, virtual and erect.",The size of the image is equal to the size of the object.,The object distance from the plane mirror is equal to the image distance from the plane mirror.,All of these.,,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,33,When a light ray is directed towards the principal focus of a concave mirror,real image is formed,a dmonished image is formed,inverted image is formed,All of these,,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,34,"An object is placed in front of a spherical mirror at a distance of 20 cm from it.A virtual image is formed at a distance of 30 cm from it. Arrange the following steps in the proper sequence to determine the nature and focal length of the mirror.
+(a) Substitute the values of v and u in the mirror formula 1/f = 1/u + 1/v
+(b) Check whether the focal length obtained is a negative or a positive integer.
+(c) Decide whether the mirror is a convex or a concave mirror based on the sign of the focal length obtained.
+(d) Assign proper signs to the object distance and image distance by using the sign convention.
+(e) Obtain the value of focal length.",d a e b c,a d b e c,a b d e c,b d c a b,,a,,MCQ
+4,Light,Concept Application-Level-1,MCQ,35,Total reflecting prisms are prism.,right angled.,acute angled isosceles,right angled isosceles,obtuse angled isosceles,,c,,MCQ
+4,Light,Concept Application-Level-1,MCQ,36,The final image formed by the refracting periscope is than the reflecting periscope.,brither,sharp,dimmer,Both A and B,,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,37,"Light is made to travel from medium 1 to medium 3 through medium 2 as shown in figure. If μ~1* , μ~2* and μ~3* a are the refractive indices of first, second and third media and i~2* > i~1*, then",a,b,c,d,CH-4-37-ROW-163,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,38,What are the factors that determine the angle of deviation in a prism?,angle of incidence,wave length,angle of the prism,All of these,,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,39,Astigmatism can be rectified by a suitable ......... Lens,concave,convex,cylindrical,None of these,,c,,MCQ
+4,Light,Concept Application-Level-1,MCQ,40,Human eye has maximum luminous efficiency to ......... light.,yellow,red,voilet,green,,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,41,"Arrange the proper sequence of the steps to determine the refractive index of a prism by using angle of minimum deviation method.
+(a) Fix a white sheet of paper on a drawing board.
+(b) Draw the outer line of the prism by placing its triangular cross-section (ABC) on the paper,
+(c) Draw a line which makes a certain angle with the normal. This is the incident ray.
+(d) Mark a point on one of the sides and draw a normal at that point.
+(e) Fix two pins P and Q on this line.
+(f) Place the prism inside its outer line and observe the pins P and Q from the other side of the prism.
+(g) Fix two more pins R and S on the other sides such that the images of the pins P and Q, R and S are in a straight line.
+(h) Join the points R and S and the line segments PQ and RS. 
+(i) Remove the pins and the prism from the paper.
+(j) Draw a normal XY where the line segment RS meets the side BC.
+(k) Draw a graph by taking the angle of incidence and angle of deviation along the X and Y axes, respectively.
+(i) Extend line segments PQ and RS and determine the angle between them. This is known as the angle of deviation.
+(m) Determine refractive index as μ = (A + D~m*/2)/sin(A/2)  
+(n) Repeat the experiment for different angles of incidence and in each case, determine the angle of deviation.
+(o) Determine angle (A) between the refracting surfaces of the prism. (p) Determine the minimum value of angle of deviation (D~m*).",a b c e d g I h j k l m o n p,a b d c e f g h I j l k o n p m,b a c d e j k h I j m l n o p,a b d c e f g l h k m I p o j,CH-4-41-ROW-167,b,,MCQ
+4,Light,Concept Application-Level-1,MCQ,42,"Find out the correct option from the following.
+(a) The magnification is positive for all virtual images and is negative for all real images.
+(b) The magnification of concave lens and convex mirror is always positive where as the magnification of convex lens and concave mirror can be positive or negative depending on the position of the object before the lens.",Only A is true,Only B is true,Both A and B are true,Both A and B are false,,c,,MCQ
+4,Light,Concept Application-Level-1,MCQ,43,Find the incorrect statements related to the rainbow,The rainbow is formed in the same direction to the position of the sun.,When the light rays undergo dispersion and total internal reflection the water droplets present in the atmosphere forms rainbow.,A rainbow is formed in the shape of circle.,When light rays undergo one internal reflection and two refractions produce primary rainbow whereas two internal reflections and two refractions produces secondary rainbow.,,a,,MCQ
+4,Light,Concept Application-Level-1,MCQ,44,Choose the incorrect option from the following options:,"When a monochromatic light is passed through organic liquid like benzene, toluene, etc. it results in the formation of the scattered light. Which consists of wavelengths of frequencies higher and lower that of incident monochromatic light also that of the incident light.",Incident scattering is a type of scattering in which the scattered light consists of frequencies other than those of the incident light.,The intensity of the scattered light in a medium is inversely proportional to the fourth power of the wavelength.,Rayleigh scattering is called incoherent scattering and Raman scattering is coherent scattering,,d,,MCQ
+4,Light,Concept Application-Level-1,MCQ,45,"A student performs an experiment to study the nature of the image formed by a convex lens. Arrange the steps in the proper sequence.
+a)  Place the lens on a V-shaped stand.
+b) Place the object at 2F~1*.
+c) Place the object between 2F~1* and F~1*.
+d) Determine the focal length of the lens by focusing the lens to a distant object like a tree.
+(e) Adjust the position of the screen behind the lens to obtain a clear image and study the nature of the image.
+(f) Mark the positions of F~1*, 2F~1*, F~2* and 2F~2*.
+(g) Focus the lens to a distant object like a tree.
+(h) Place the object just behind 2F~1*.
+(i) Place the object at F~1*.
+(j) Place the object between F~1* and optic centre of the lens and observe that the image formed is virtual.",a f d h e g e b e c e e j,b a f h e g c c j,a d f g e h e b e c e I e j,a d f g e h e c e b e j e,,c,,MCQ
+5,Hydrostatics,Concept Application-Level-1,True - False,1,A floating body is said to be in stable equilibrium if its metacentre coincides with the centre of gravity.,,,,,,0,,TF
+5,Hydrostatics,Concept Application-Level-1,True - False,2,Hydraulic press works on the principle of Bramah’s press.,,,,,,0,,TF
+5,Hydrostatics,Concept Application-Level-1,True - False,3,The principle of working of a hydrometer is based on the ‘law of floatation’.,,,,,,1,,TF
+5,Hydrostatics,Concept Application-Level-1,True - False,4,The magnitude of pressure measured in SI system is greater than that measured in CGS system.,,,,,,1,,TF
+5,Hydrostatics,Concept Application-Level-1,True - False,5,The upward thrust exerted on the body by a liquid acts vertically upwards through the centre of gravity of the displaced liquid.,,,,,,1,,TF
+5,Hydrostatics,Concept Application-Level-1,True - False,6,The vertical height of the mercury column in a barometer remains unaffected even if the tube is tilted.,,,,,,1,,TF
+5,Hydrostatics,Concept Application-Level-1,True - False,7,Hare’s apparatus works on Archimedes principle,,,,,,0,,TF
+5,Hydrostatics,Concept Application-Level-1,Fill in the blanks,8,"For greater mechanical advantage, the diameter of the press piston of a hydraulic lift must be ____ the diameter of the pump piston.",,,,,,greater than,,FIB
+5,Hydrostatics,Concept Application-Level-1,Fill in the blanks,9,"A solid when immersed in water displaces half a litre of water. The same solid floats with three fourth of its volume below the surface of a given oil and displaces 800 g of oil. Then the relative density of the
+body and the oil are ___________ and __________, respectively.",,,,,,1.6 and 2.15,,FIB
+5,Hydrostatics,Concept Application-Level-1,Fill in the blanks,10,"When a truck is loaded, heavy objects should be placed at __________.",,,,,,bottom,,FIB
+5,Hydrostatics,Concept Application-Level-1,Fill in the blanks,11,The readings on a variable immersion hydrometer are marked in increasing order from _______ to ________ on its stem.,,,,,,top and bottom,,FIB
+5,Hydrostatics,Concept Application-Level-1,Fill in the blanks,12,"Hand pump lifts the underground water, making use of _______.",,,,,,atmospheric pressure,,FIB
+5,Hydrostatics,Concept Application-Level-1,Fill in the blanks,13,"The fraction of volume of a floating body inside water, gives __________ of the body.",,,,,,relative density,,FIB
+5,Hydrostatics,Concept Application-Level-1,Fill in the blanks,14,"The densities of two liquids are in the ratio of 1 : 3 and their volumes are in the ratio of 2 : 1. If the liquids are filled inside two identical containers, the ratio of pressure exerted by them at the bottom of the
+containers is __________.",2 : 3,2 : 2,1 : 3,None of these,,A,,MCQ
+5,Hydrostatics,Concept Application-Level-1,Match the following,15,Match the entries in Column A with appropriate ones from Column B.,"A:c, B:b, C:e, D:g, E:I, F:h, G:d, H:f, I:a","A:c, B:b, C:e, D:g, E:I, F:h, G:d, H:a, I:f","A:b, B:c, C:e, D:g, E:I, F:h, G:d, H:f, I:a","A:c, B:b, C:e, D:g, E:I, F:d, G:h, H:f, I:a",CH-5-15-ROW-186,A,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,16,"If a block of wood is floating in a river water, then the apparent weight of the floating block is",equal than weight of the displaced water,zero,greater than the weight of the displaced water,equal to the actual weight of the block,,b,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,17,"When the left arm of a mercury manometer is connected to a cylinder filled with a gas, the level of the mercury in the right arm rises by 2 cm. If the pressure of the gas in the container is 110160 Pa, the atmospheric pressure is __________ cm of Hg. (Take g = 10 m s^-2&)",79,85,77,81,,c,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,18,A test tube of mass ‘m’ sinks upto mark ‘X’ in water and the same test tube sinks below the mark ‘X’ in a given liquid. Then the density of water is,less than the density of the given liquid.,more than the density of the given liquid.,equal to the density of the given liquid.,product of depths of immersion in water and the given liquid.,,a,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,19,"When a lactometer is used in a given sample of milk ‘A’, it floats in the milk such that half of the length of its stem is immersed in the milk. When it is used in another sample of milk ‘B’, the length of the
+stem immersed in the milk is one fourth of the total length. Then, which of the following statement(s) is(are) true?
+(A) Water content in A is more than that in B.
+(B) Density of the sample A is less than the density of the sample B.","A is true, but B is false",A and B are false,A and B are true,A is false but B is true,,c,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,20,"Find the odd choice among the given ones.
+The weight of the floating body is equal to the",weight of the displaced liquid.,buoyant force acting on the floating body.,the weight of the liquid that occupies the portion of the volume of the body that is inside the liquid.,the weight of the liquid whose volume is equal to the volume of the part of the body that is above the liquid surface.,,d,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,21,The pressure at a point inside a liquid is directly proportional to ______.,the depth of the point below the free surface,the density of the fluid,acceleration due to gravity,All of these,,d,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,22,"The mercury level in a simple barometer falls gradually, at constant temperature indicates that",weather gradually changes to summer.,weather gradually changes to rainy.,weather changes to an anti-cyclone one.,weather gradually changes to winter,,b,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,23,A plastic ball moves from the bottom of a container filled with water to the top. Then,its velocity increases,its acceleration remains same,its velocity remains same,both (a) and (b),,d,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,24,"A body is floating in a given liquid with half of its volume above the surface of the liquid. If the body is slightly pushed into the liquid, then the body",sinks in the liquid and settles at the bottom,come back to its position after some time.,"starts oscillating in vertical direction, with constant amlitude.",it jumps into the air and falls on the liquid.,,b,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,25,"A block of wood floats separately in river water and then in ocean water. Then, the weight of the displaced river water is",equal to the weight of the displaced ocean water.,less than the weight of the displaced ocean water.,more than the weight of the displaced ocean water.,not dependent on the density of the wooden block.,,a,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,26,"In pressure cooker, the food is cooked faster, because the boiling point of water in the cooker ___.",is above 100^0&C,is below 100^0&C,is equal to 100^0&C,depends upon the amount of the steam/water present inside the cooker,,a,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,27,Choose the wrong statement among the following.,Weight of a body measured by using a spring balance in air is its apparent weight.,Apparent weight of a floating body varies with the density of the liquid.,Volume of a floating body is equal to the volume of the liquid displaced by it,None of these,,c,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,28,"A bucket containing a liquid is suspended from a spring balance. When an iron sphere is suspended from a thread and immersed in the liquid contained in the bucket, without touching the walls of bucket,
+then the amount of increase of weight of the bucket is equal to",the actual weight of the iron sphere.,the weight of the displaced liquid.,the apparent weight of the iron sphere in the liquid.,None of these,,b,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,29,A barometer which measures atmospheric pressure more accurately is _________.,Fortin’s barometer,mercury barometer,anaeroid barometer,Torricelli barometer,,a,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,30,"If the centre of gravity of the body lies above the meta centre, then the body is said be in________.",stable equilibrium,unstable equilibrium,neutral equilibrium,Both (b) and (c),,b,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,31,A pressure cooker is used at higher altitude since the atmospheric pressure at higher altitude is,less t han 76 cm of Hg,more than 76 cm of Hg,equal to 76 cm of Hg,depends upon the boiling point of water,,a,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,32,Apparent loss of weight of a body when immersed in a liquid can be explained on the basis of,molecular theory.,electron theory.,Archimedes’ principle,Bernoulli’s principle.,,c,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,33,"A balloon of volume ‘V’ and density ‘d’ is moving in upward direction in air. If the density of air is ‘D’, then the effective upward acceleration of the balloon is ___________.",a,B,C,D,CH-5-33-ROW-204,a,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,34,"Write the following steps in a sequence to verify Archimedes’ principle.
+(a) The object is completely immersed in a liquid.
+(b) The weight of the object in air is measured by using a spring balance (w~1*).
+(c) The weight of the object in the given liquid is determined (w~2*).
+(d) The loss of weight of the object (w~1*–w~2*) is determined.
+(e) The weight of the liquid displaced by the object (w) is determined.
+(f) The value of (w~1*–w~2*) is compared with the value of (w).",b a c d e f,a b d c f e,a b c d e f,f e c a b d,,a,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,35,_______ suggested that the ships should be marked with load lines.,Samuel Plimsoll,Einstein,Newton,Archimedes,,a,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,36,Surface tension is explained on the basis of,molecular theory.,electron theory,Archimedes principle,Bernoulli’s principle,,a,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,37,"For which of the following options, surface tension is not the basis?",Rise of sap in trees and plants,Absorption of water by a blotting paper.,Rise of oil in an oil wick.,Lifting of an aeroplane wing.,,d,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,38,"Arrange the following steps in a sequence to determine the apparent weight (w~1*) of an object immersed in water.
+(a) Immerse the object completely in water and collect the water displaced by it.
+(b) Determine the weight of the object (w~1*).
+(c) Determine the weight of the water displaced (w~2*).
+(d) Determine the value of (w~1* – w~2*).",a b c d,a d c b,b a c d,b c d a,,c,,MCQ
+5,Hydrostatics,Concept Application-Level-1,MCQ,39,"An air bubble rises up in water because,",there is no gravity in water.,pressure inside the bubble is less than the pressure outside it.,the upthrust acting on the bubble is more than the weight of the bubble.,air cannot dissolve in water.,,c,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,True - False,1,The frequency of a note produced by a stretched string is directly proportional to the square root of linear mass density of the string.,,,,,,0,,TF
+6,Wave motion and sound,Concept Application-Level-1,True - False,2,The phenomenon of resonance is used in receiving the radio and television programmes.,,,,,,1,,TF
+6,Wave motion and sound,Concept Application-Level-1,True - False,3,"In order to transmit sound waves, the medium should possess elasticity and inertia.",,,,,,1,,TF
+6,Wave motion and sound,Concept Application-Level-1,True - False,4,"In simple harmonic motion, the acceleration is inversely proportional to the displacement of the body from its mean position.",,,,,,0,,TF
+6,Wave motion and sound,Concept Application-Level-1,True - False,5,The frequency of damped vibrations remains same but the amplitude decreases gradually.,,,,,,1,,TF
+6,Wave motion and sound,Concept Application-Level-1,True - False,6,"In a standing wave, the amplitude is maximum at nodes.",,,,,,0,,TF
+6,Wave motion and sound,Concept Application-Level-1,True - False,7,"In an open pipe, the pressure variation at the ends of the pipe is maximum.",,,,,,0,,TF
+6,Wave motion and sound,Concept Application-Level-1,Fill in the blanks,8,"At a given temperature, the velocity of sound in hydrogen is more (or greater) than its velocity in oxygen.",,,,,,1,,TF
+6,Wave motion and sound,Concept Application-Level-1,Fill in the blanks,9,γ is the ratio of molar specific heat capacity of the given gas at constant ____ to its specific heat capacity at constant ____.," volume,pressure","pressure,  volume","pressure,  pressure",None of these,,B,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,Fill in the blanks,10,The pitch of a given sound can be measured by its ________.,,,,,,frequency,,FIB
+6,Wave motion and sound,Concept Application-Level-1,Fill in the blanks,11,The pitch of the sound produced by a stretched string gets higher as the tension_____________.,,,,,,increases,,FIB
+6,Wave motion and sound,Concept Application-Level-1,Fill in the blanks,12,"In a standing wave, the distance between two successive antinodes is 15 cm. The distance covered by it in producing 4 waves is ____ m.",,,,,,1.2,,FIB
+6,Wave motion and sound,Concept Application-Level-1,Fill in the blanks,13,"A rope is vibrating with a frequency 20 Hz. If the velocity of the wave in the rope is 20 m s^−1&, then the distance between a crest and the successive trough is _____.",,,,,,0.5 m,,FIB
+6,Wave motion and sound,Concept Application-Level-1,Fill in the blanks,14,"If d is the distance between the source of sound and reflector, t~1*, t~2* are times at which first two echoes are heard, the expression for determination of velocity of sound in air by echo method is _______ .",2d/t~1*-t~2*,2d/t~1*-t~1*,2d/t~2*-t~1*,None of these,,A,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,Match the following,15,Match the entries in Column A with appropriate ones from Column B.,"A:d, B:f, C:g, D:a, E:I, F:h, G:b, H:j, I:e, J:c","A:d, B:f, C:g, D:a, E:I, F:h, G:b, H:j, I:c, J:e","A:f, B:d, C:g, D:a, E:I, F:h, G:b, H:j, I:c, J:e","A:d, B:f, C:g, D:a, E:h, F:i, G:b, H:j, I:c, J:e",CH-6-15-ROW-225,B,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,16,"A man moving towards a vertical cliff at a constant velocity of u m s^-1&, fires a gun and hears the echo after t s. If he was at a distance of d m from the cliff when he fired the gun, the velocity of sound in air is __________ m s^-1&.",2d/t,2d/t + u,2d/t - u,d/r,CH-6-16-ROW-226,c,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,17,"For a body executing simple harmonic motion,",acceleration of the body is always directed towards the mean position.,acceleration of the body directly proportional to the displacement from the mean position.,the total mechanical energy is constant at any point in its path.,All of these,,d,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,18,"In a resonating air column, the first booming sound is heard when the length of air column is 10 cm. The second booming sound will be heard when length is about",20 cm,30 cm,40 cm,None of these,,b,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,19,"The general expression for the resonating length of an air column in organ pipes with one end closed is given by, _____________.",a,b,c,d,CH-6-19-ROW-229,c,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,20,"If the amplitude of a sound is doubled, then its",velocity is doubled,frequency is doubled,wavelength is doubled,None of these,,d,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,21,"In a resonating air column, the second resonating length is 60 cm. The first resonance occurs when the length of the air column is _____ cm.",30,10,20,60,,a,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,22,"In a closed end organ pipe, if ℓ~1* and ℓ~2* are two successive resonating lengths, then 2(ℓ~2* – ℓ~1*) is ____.",l/2,l,2l,None of these,CH-6-22-ROW-232,b,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,23,"In a stationary wave,",energy is carried away throughout the infinite medium,energy is confined to a limited region of the medium,different particles in a loop have different amplitudes,Both (b) and (c),,d,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,24,The energy of the wave that passes through unit area per unit time is called as __________.,pitch,quality,intensity,amplitude,,c,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,25,"If the velocity of sound in a gas is 200 m s^-1& when the temperature is 127^0&C, then the velocity of sound in the same gas when temperature is increased by 900 K is __________ m s^-1&.",200 Ö3,300,100 Ö5,450,,b,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,26,normal human being can hear sound having an intensity level of maximum _______.,50 dB,80 dB,100 dB,150 dB,,b,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,27,"The ratio of densities of two media is 5 : 2. Then, the ratio of intensities of a given sound wave in the two media is",25 : 4,2 : 5, 5 : 2,1 : 1,,c,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,28,"If the tension in a string is doubled and its linear density is halved, then the velocity of the wave in the string",is quadrupled,is halved,remains constant,is doubled,,d,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,29,"When a compression propagates in a resonating tube, the phase change when it is reflected from the water surface is",π radians,π/2 radians,3π/2 radians,Zero radians,,d,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,30,A man blows a whistle and hears an echo after 1.2 seconds. The distance between the man and the reflector of the sound is ____________ m. (take velocity of sound in air is 330 m s^−1&).,250,190,298,198,,d,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,31,hertz is the unit of,wavelength.,amplitude.,frequency.,None of these,,c,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,32,The velocity of sound in air depends upon,its density and pressure only.,its ratio of specific heat capacities and pressure only.,its ratio of specific heats capacities and density only.,"its ratio of specific heat capacities, density and pressure.",,d,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,33,The audible range of frequency of sound waves for human beings is ______.,"10 Hz to 10,000 Hz","20 Hz to 20,000 Hz","5 Hz to 50,000 Hz","50 Hz to 20,000 Hz",,b,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,34,Which of the following quantity decrease as sound wave travels through a medium.,Amplitude,frequency,velocity,wavelength,,a,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,35,The ratio of intensities of two sound waves is 16 : 25. The ratio of their amplitudes is,1 : 2,5 : 4,2 : 1,4 : 5,,d,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,36,"The frequency of sound waves is 11 kHz and its wavelength is 20 cm, then the velocity of sound waves is______.",220 m s^–1&,220 cm s^–1&,2220 cm s^–1&,2200 m s^–1&,,d,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,37,The ratio of frequencies of 1st and 2nd overtones produced in the vibrating stretched strings is ______.,1 : 3,3 : 2,2 : 3,1 : 2,,c,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,38,"The length of a stretched string is 2 m. The tension in it and its mass are 10 N and 0.80 kg, respectively. Arrange the following steps in a sequence to find the third harmonic of transverse wave that can be created in the string.
+(a) Find the linear mass density (m) using the 
+formula, m = mass (M) of the string /length (l) of the string
+(b) Collect the data from the problem and find the length (l) tension (T) and mass (M) of the stretched string.
+(c) The fundamental frequency of a stretched vibrating string is given by, n = 1/2l ÖT/m.
+(d) The frequency of 2nd overtone or 3rd harmonic is given by, 
+n~2*  = 3/2l ÖT/m=3n.",a b c d,d b c a,b a c d,b d c a,,c,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,39,"In a resonating air column method, the first and second resonating lengths of the air columns are 16 cm and 48 cm, respectively. If the frequency of a tuning fork used is 500 Hz, arrange the following steps in a sequential order to find the velocity of sound in air.
+(a) Find the first and second resonating lengths of the air columns and frequency of the tuning fork from the given problem.
+(b) The difference of lengths of two resonating air columns is, l~2* – l~1* = λ/2 and λ = 2 (l~2* – l~1*).
+(c) Find the first and second resonating lengths ‘l~1*’ and ‘L~2*’ in terms of ‘λ’, i.e., l~1*  = λ/4 and l~2* = 3λ/4.
+(d) The velocity of sound, V = nλ = 2n(l~2* – l~1*).
+Substitute the corresponding values and obtain the value of ‘V’.",a c b d,a b c d, d c b a ,c d b a,,a,,MCQ
+6,Wave motion and sound,Concept Application-Level-1,MCQ,40,"Arrange the following steps in a sequential order to prove the law of length in vibrating stretched strings. 
+(a) At a particular length l~1*’, the wire between the bridges vibrates with maximum amplitude and
+this is confirmed by the flying away of a small paper rider placed on the string.
+(b) Excite a tuning fork of frequency ‘n~1*’ and keep it on the sonometer table between the bridges and adjust the distance between the bridges (from minimum to maximum).
+(c) The first law of vibrating stretched strings is verified by showing n~1* l~1* = n~2* l~2*.
+(d) The procedure is repeated by taking another tuning fork of frequency ‘n~2*’ and the resonating length ‘l~2*’ is obtained.",b a d c,a b c d,b c a d ,b a c d,,a,,MCQ
+7,Electricity ,Concept Application-Level-1,True - False,1,Conventional current always flows from a body having high charge density to the body having low charge density.,,,,,,0,,TF
+7,Electricity ,Concept Application-Level-1,True - False,2,"At constant temperature, the resistance of a conductor changes according to the applied voltage.",,,,,,0,,TF
+7,Electricity ,Concept Application-Level-1,True - False,3,The used up chemicals in a dry cell can be re obtained by charging it.,,,,,,0,,TF
+7,Electricity ,Concept Application-Level-1,True - False,4,"In an electrolyte, the movement of ions is responsible for electric current.",,,,,,1,,TF
+7,Electricity ,Concept Application-Level-1,True - False,5,Electrotyping is an application of electrolysis,,,,,,1,,TF
+7,Electricity ,Concept Application-Level-1,True - False,6,Electric potential at a point in an electric field is defined as the work done in moving a unit positive charge from infinity to that point.,,,,,,1,,TF
+7,Electricity ,Concept Application-Level-1,True - False,7,Earthing of electric appliances prevents electric shock.,,,,,,1,,TF
+7,Electricity ,Concept Application-Level-1,Fill in the blanks,8,Power transmission is carried out at high voltage and low ____________.,,,,,,current,,FIB
+7,Electricity ,Concept Application-Level-1,Fill in the blanks,9,Switch is always connected to the phase/live wire.,,,,,,1,,TF
+7,Electricity ,Concept Application-Level-1,Fill in the blanks,10,Rate at which electric work is done is called ____________.,,,,,,electric power,,FIB
+7,Electricity ,Concept Application-Level-1,Fill in the blanks,11,The process of depositing a thin layer of a desired metal over another metal by passing an electric current through some electrolyte is called _____.,,,,,,electroplating,,FIB
+7,Electricity ,Concept Application-Level-1,Fill in the blanks,12,Conductance is the reciprocal of ___________.,,,,,,resistance,,FIB
+7,Electricity ,Concept Application-Level-1,Fill in the blanks,13,"For a given cell, its terminal voltage depends on external resistance and _____.",,,,,,internal resistance,,FIB
+7,Electricity ,Concept Application-Level-1,Fill in the blanks,14,The amount of work done by the cell on a unit positive charge carrier to force it to go to the point of higher potential is called ________.,,,,,,emf,,FIB
+7,Electricity ,Concept Application-Level-1,Match the following,15,Match the entries in Column A with appropriate ones from Column B.,"A:f, B:h, C:g, D:I, E:j, F:a, G:b, H:c, I:d, J:e","A:g, B:f, C:h, D:I, E:j, F:a, G:b, H:c, I:d, J:e","A:f, B:g, C:h, D:I, E:j, F:a, G:b, H:c, I:e, J:d","A:f, B:g, C:h, D:I, E:j, F:a, G:b, H:c, I:d, J:e",CH-7-15-ROW-265,D,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,16,One kilowatt is equal to _____ horse power.,1.34,1.32,1.28,1.38,,a,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,17,"In a series circuit,",current flow is same in all the resistors of the circuit,potential difference across each resistor in the circuit is same.,Both (a) and (b),None of these,,a,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,18,"The colour code of a resistor is brown, black and brown. Then the value of resistance is _____.",10 Ω,100 mΩ,0.1 kΩ,100 Ω + 5%,,c,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,19,The free electron density is more in ________,conductors.,insulators.,semi conductors,electrolytes.,,a,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,20,"Among the following statements,
+(A) A discharge lamp uses a discharge tube which is filled with a gas at a very low pressure.
+(B) Always white light is emitted independent of gas taken in the lamp.",Only A is true,Only B is true,Both A and B are true,Both A and B are false,,a,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,21,The quantity of heat produced by a current in a conductor is directly proportional to _______ in the conductor.,the time of current flow.,the square of magnitude of current,the resistance.,All of these,,d,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,22,Which of the following graphs represents a ohmic conductor?,A,B,C,D,CH-7-22-ROW-272,c,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,23,"During the electrolysis process,",mass of anode decrease,mass of cathode decreases,amount of the electrolyte increases,Both (a) and (c),,a,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,24,Among identical spheres A and B having charges as –5 C and –16 C,–5C is at higher potential.,–16C is at higher potential.,both are at equal potential.,it cannot be said,,a,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,25,______ is independent of size and shape of a conductor.,Resistance,Conductance,Resistivity,All of these,,c,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,26,The mass of the element deposited at the electrode when one coulomb of charge is passed through the electrolyte is called ________ of the element.,equivalent weight,electrochemical equivalent,mass equivalent,None of these,,b,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,27,"In a parallel circuit of bulbs,",same current exists in all the bulbs,voltage across each bulb remains the same,failure of any bulb leads to a break in the circuit,All of these,,b,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,28,Resistance of a metallic conductor depends on ___________.,its length,its area of cross section,temperature,All of these,,d,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,29,Three resistors each of 10 Ω are connected in series to a battery of potential difference 150 V. The current flowing through it is _____ A.,45,5,15,20,,b,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,30,The terminal voltage of a cell in an open circuit condition is,less than its emf.,more than its emf.,equal to its emf.,depends on its internal resistance,,c,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,31,"The potential difference across a resistor of resistance 10 Ω, if 10^20& el ectrons Now through it in one second, is ______V.",320,400,80,160,,d,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,32,"Arrange the following steps to verify the Ohm’s law in proper sequence.
+(a) Switch on the electric circuit.
+(b) Move the position of the slider of the rheostat and note down the ammeter and voltmeter readings.
+(c) Connect ammeter, key, battery, rheostat and resistor in series by using conducting wires.
+(d) Note down the Ammeter and voltmeter reading.
+(e) Connect a voltmeter across the resistor.
+(f) Determine the ratio of voltmeter reading and ammeter reading in each case.
+(g) Note that the ratio of voltmeter and ammeter reading are equal in each case.",c a e d b f g,c e a d b f g,a b e c d f g,b c e d f h g,,b,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,33,"Arrange the following steps to determine the resistivity of a material in proper sequence.
+(a) Switch on the circuit and take the voltmeter and ammeter readings.
+(b) Determine the resistance of the wire as resistance R = V/I
+(c) Connect the wire, battery and ammeter in series.
+(d) Determine the length (l) and area of cross-section (A) of the wire
+(e) Connect a voltmeter across the wire. (f ) The resistivity of the material is ρ = RA/l",e b c d f a ,a c b e d f,c e a b d f,b c a d f e,,c,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,34,An electric bulb marked 15 V is connected to a battery of 15 V which has a negligible resistance. If the resistance offered by the bulb is 5 Ω the power of the bulb is _____W.,225,75,30,45,,d,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,35,"During the electrolysis of CuSO~4* solution using copper electrodes, the",mass of cathode increases.,mass of anode increases,Both (a) and (b),None of these,,a,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,36,Fuse should be connected to ______ wire of the circuit.,earth,neutral,phase,Any of the above,,c,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,37,"The mass of the substance deposited at the cathode is
+(A) inversely proportional to quantity of electricity passed through electrolyte.
+(B) directly proportional to quantity of electricity passed through electrolyte.
+(C) directly proportional to the time for which electricity is passed through the electrolyte.
+(D) inversely proportional to the time for which electricity is passed through the electrolyte",A and B are true,B and D are true,B and C are true,A and D are true,,c,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,38,Which of the following statements is true?,"In tree type distribution of electric power, fuses are present only on the main board","In ring type distribution of electric power, there is an individual fuse for each appliance",Ring type distribution of electric power is advantageous than the tree type distribution,All of these,,d,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,39,"If i is the current flowing through a conductor of resistance R for time t, then the heat produced (Q) is given by ______.",a,b,c,d,CH-7-39-ROW-289,c,,MCQ
+7,Electricity ,Concept Application-Level-1,MCQ,40,A fuse wire should have______.,high resistance,low melting point,Both (a) and (b),None of these,,b,,MCQ
+8,Electromagnetism,Concept Application-Level-1,True - False,1,"In a DC electric motor, a pair of split rings is used as commutator.",,,,,,1,,TF
+8,Electromagnetism,Concept Application-Level-1,True - False,2,"According to Ewing’s molecular theory, every molecule of a given substance is a magnet by itself.",,,,,,0,,TF
+8,Electromagnetism,Concept Application-Level-1,True - False,3,A transformer is an electrical device that works on the principle of self-induction.,,,,,,0,,TF
+8,Electromagnetism,Concept Application-Level-1,True - False,4,"Outside the magnet, the magnetic lines of forces pass from north pole to the south pole and inside the magnet, they pass from south to the north pole.",,,,,,1,,TF
+8,Electromagnetism,Concept Application-Level-1,True - False,5,Lenz’s law is used to find out the magnitude of the induced emf.,,,,,,1,,TF
+8,Electromagnetism,Concept Application-Level-1,True - False,6,Relative permeability and absolute permeability have the same units.,,,,,,0,,TF
+8,Electromagnetism,Concept Application-Level-1,True - False,7,The angle between geographic and magnetic meridian is called angle of dip.,,,,,,0,,TF
+8,Electromagnetism,Concept Application-Level-1,Fill in the blanks,8,The phenomenon of production of back emf in a coil due to flow of varying current through it is called _____.,,,,,,self induction,,FIB
+8,Electromagnetism,Concept Application-Level-1,Fill in the blanks,9,The unit of self-inductance in SI system is _____.,,,,,,henry,,FIB
+8,Electromagnetism,Concept Application-Level-1,Fill in the blanks,10,The point where resultant magnetic field strength is zero is called ________.,,,,,,null point,,FIB
+8,Electromagnetism,Concept Application-Level-1,Fill in the blanks,11,Fleming’s left-hand rule is used to find the direction of ______ acting on the current carrying conductor placed in a/an ______ field.,,,,,,force magnetic,,FIB
+8,Electromagnetism,Concept Application-Level-1,Fill in the blanks,12,_______ is the measure of the ability of a given magnetic pole to attract or repel another magnetic pole.,,,,,,pole strength,,FIB
+8,Electromagnetism,Concept Application-Level-1,Fill in the blanks,13,The product of pole strength of a magnet and its magnetic length is called its __________.,,,,,,magnetic moment,,FIB
+8,Electromagnetism,Concept Application-Level-1,Fill in the blanks,14,An emf is induced in a coil when __________ linked with it changes.,,,,,,the magnetic flux,,FIB
+8,Electromagnetism,Concept Application-Level-1,Match the following,15,Match the entries in Column A with appropriate ones from Column B.,"A:c, B:I, C:e, D:b, E:h, F:a, G:d, H:g, I:f, J:j","A:i, B:c, C:e, D:b, E:h, F:a, G:d, H:f, I:g, J:j","A:c, B:I, C:e, D:b, E:h, F:a, G:d, H:f, I:g, J:j","A:c, B:I, C:e, D:b, E:h, F:d, G:a, H:f, I:g, J:j",CH-8-15-ROW-305,C,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,16,A transformer,converts AC to DC,converts DC to AC,increases or decreases (step up or step down) AC voltage,increases or decreases (step up or step down) DC voltage.,,c,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,17,"In an AC generator, maximum number of lines of force pass through the coil when the angle between the plane of coil and lines of force is ________.",0^0&,60^0&,30^0&,90^0&,,d,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,18,Magnetic induction field due to a short bar magnet on its equatorial line at a certain distance is B. Its value at the same distance on the axial line is _____.,2B,B/2,3B,B/3,,a,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,19,Magnetic field inside the solenoid is_______.,radial,uniform,Both (a) and (b),circular,,b,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,20,A step down transformer steps up _________ and steps down ________.,"current, voltage","voltage, current","power, energy","voltage, power",,a,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,21,The power of a DC motor can be increased by,increasing the area of the cross section of the coil.,increasing the current flowing through the coil.,laminating the soft iron core.,All of the above,,d,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,22,"Keeping the distance between two magnetic poles constant, if the two poles are connected by an iron rod, the force between the two poles _____.",increases,decreases,remains same,None of these,,a,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,23,"In a suspension type of moving coil galvanometer, the couple developed in the suspension wire and the loose spring is called a_______.",deflecting couple,restoring couple,twisting couple,None of these,,b,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,24,The right hand thumb rule is used to find,force on a charged particle passing through the magnetic field.,force on a current carrying conductor placed in a magnetic field.,direction of induced current.,direction of B around a current carrying straight conductor.,,d,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,25,"Looking from one side towards the face of a coil, the current in it flows in clockwise direction. On looking from the opposite side towards the second face of the coil, the current flows in",anti-clockwise direction and this face represents the south pole.,clockwise direction and this face represents the north pole.,anticlockwise direction and this face represents the north pole.,clockwise direction and this face represents the south pole.,,c,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,26,The relative permeability of a paramagnetic substance is _____.,much more than one,slightly more than one,less than one but greater than zero,zero.,,b,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,27,Ferromagnetic substances achieve a high degree of magnetic alignment due to the effect known as ____.,pole swapping,exchange coupling,magnetic poling,None of these,,b,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,28,An AC generator can be converted into DC generator by replacing _____.,armature with coil,concave magnets with horse shoe magnet,slip rings with split rings,All of the above,,c,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,29,Magnetic permeability is the ratio of,magnetic induction to susceptibility,magnetic induction to magnetizing field.,magnetizing field to magnetic induction.,magnetizing field to susceptibility.,,b,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,30,"When a piece of iron is placed in a changing magnetic field, it gets heated due to flow of _____.",Eddy current,Faraday’s current,Fleming’s current,None of these,,a,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,31,The magnetic induction field B around a current carrying straight conductor is,perpendicular to the current.,parallel to the current.,opposite to the direction of flow of current.,None of these.,,a,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,32,_______ is used to make permanent magnets.,Soft iron,Steel,Nichrome,Copper,,b,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,33,A transformer works with,AC voltages only.,DC voltages only.,Both (a) and (b).,None of these,,a,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,34,Eddy currents are produced in a metallic conductor when,the magnetic flux linked with it changes,it is placed in a changing magnetic field.,it is placed in a magnetic field.,Both (a) and (b).,,d,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,35,The self or mutual induction takes place when magnetic flux through a coil ______.,remains steady,decreases,increases,Both (b) and (c).,,d,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,36,"Which of the following statements is incorrect? In the process of electromagnetic induction, the magnitude of the induced emf depends on ______.",the number of turns of the coil.,the magnetic flux linked with the coil.,the rate of change of magnetic flux linked with the coil.,area of the coil,,b,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,37,"Write the following steps in a sequential order to find the current and voltage in the secondary coil. The ratio of the number of turns of a primary to a secondary coil, current through the primary coil and input power are given.
+a) Let the given data be taken as N~1*/N~2* (turn-ratio), i~1*, (input current) and P (input power).
+b) Substitute the given values of N~1*/N~2* and i~1*, in the above formula and get the value of i~2*.
+c) Write the relation between turn-ratio and the currents as N~1*/N~2*=i~2*/i~1*, where i~2* is the current in the secondary coil.
+d) Write the relation between input power and output power in terms of V~1*, i~1*, V~2*, i~2*, i.e., V~1* i~1* = V~2* i~2* = P, where V~1* and V~2* are the voltage in the primary and secondary coils, respectively.
+e) Substitute the values of i~2* and P in the above relation to get the value of V~2*",a d b c e,b c a d e,a c b d e,d b c a e,,c,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,38,"Write in the sequential order the following steps
+of an experiment to show that a current carrying conductor sets up a magnetic field around it.
+(a) Pass the insulated copper wire through the small hole at the centre of the cardboard and perpendicular to it.
+(b) Paste a white paper on a rectangular cardboard and make a small hole at its centre.
+(c) Connect this wire to a battery, a switch and a variable resistor in series.
+(d) Clamp this cardboard to a stand in a horizontal position and sprinkle some iron filings over it.
+(e) Now, when the circuit is closed, the iron filings on the cardboard form concentric circles around the wire.",b d a c e,b a c e d,a d b e c,e d a b c,,a,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,39,"Write the following steps of an experiment (in a sequential order), to establish that a circular current carrying wire creates a magnetic field around it.
+(a) Sprinkle iron filings on the cardboard and switch on the circuit.
+(b) Make two holes on a piece of cardboard covered with white paper. Pass this copper wire through the two holes of a cardboard .
+(c) Take a copper wire and bend it in the form of a circle.
+(d) Now connect the ends of the copper coil to a battery with a rheostat and a switch in series.
+(e) You observe that the iron filings arrange themselves in concentric circles.",a c b d e,c b d a e, c a d b e,d c d a e,,b,,MCQ
+8,Electromagnetism,Concept Application-Level-1,MCQ,40,"Two long parallel wires A and B separated by a distance d, carry currents i~1* and i~2* respectively in the same direction. Write the following steps in a sequential order to find the magnitude of the resultant magnetic field at a point ‘P’, which is between the wires and
+is at a distance ‘x’ from the wire A. (All the physical quantities are measured in SI units)
+(a) Note the given values of i~1*, i~2*, d and x .
+(b) Write the formula to find the magnetic field due to a long straight current carrying wire, i.e. B = m~0*i/2πr
+(c) Find the directions of the magnetic field at ‘P’ due to two wires A and B, using right hand thumb rule.
+(d) Determine the magnetic field at P due to wire A, using 
+B= μ~o*i/2πr.
+(e) If the directions of magnetic field are same, then the resultant magnitude is equal to the sum of B1 and B2.
+(f) Determine the magnetic field B2 due to wire B at point P, ie.
+B~2* = μ~o*i~2*/2π(d-x).
+(g) If the directions of magnetic fields are opposite to each other, then the resultant magnitude is equal to the difference of B~1* and B~2*.",d f c e g b a,c d f e g b a,a c b d f e g,a b d f c e g,,d,,MCQ
+9,Modern Physics,Concept Application-Level-1,True - False,1,High energy neutrons are used in a nuclear reactor to initiate the fission reaction. ,,,,,,0,,TF
+9,Modern Physics,Concept Application-Level-1,True - False,2,Cadmium rods are used as moderators in a nuclear reactor.,,,,,,0,,TF
+9,Modern Physics,Concept Application-Level-1,True - False,3,Oxygen can be obtained from nitrogen by artificial nuclear transmutation.,,,,,,1,,TF
+9,Modern Physics,Concept Application-Level-1,True - False,4,~0*n^1& + ~7*N^14& + ~1*H^0& + ~6*C^15&,,,,,,0,,TF
+9,Modern Physics,Concept Application-Level-1,True - False,5,X–rays have higher penetrating power as they travel with very high velocity.,,,,,,0,,TF
+9,Modern Physics,Concept Application-Level-1,True - False,6,"Higher the mass defect, higher will be the stability of the nucleus.",,,,,,0,,TF
+9,Modern Physics,Concept Application-Level-1,True - False,7,The e/m ratio of Cathode rays is constant irrespective of the gas filled inside the discharge tube.,,,,,,0,,TF
+9,Modern Physics,Concept Application-Level-1,Fill in the blanks,8,"If the binding energy per nucleon for ~3*Li^7& is 5.6 MeV, the total binding energy of a lithium nucleus is ____ MeV.",,,,,,39.2,,FIB
+9,Modern Physics,Concept Application-Level-1,Fill in the blanks,9,The conversion of 1 u of mass results in _______eV of energy.,931.5 x 10^5&,931.5 x 10^6&,930.5 x 10^6&,931 x 10^6&,,B,,MCQ
+9,Modern Physics,Concept Application-Level-1,Fill in the blanks,10,The common product formed in the artificial transmutation by a proton is _____.,,,,,,helium,,FIB
+9,Modern Physics,Concept Application-Level-1,Fill in the blanks,11,"In plants and animals, the ratio of C^14& to C^12& is _______.",,,,,,a constant i.e 10^-12&,,FIB
+9,Modern Physics,Concept Application-Level-1,Fill in the blanks,12,The radioactive radiation which can be stopped easily is a-rays.,,,,,,1,,TF
+9,Modern Physics,Concept Application-Level-1,Fill in the blanks,13,"When an α-particle is ejected, the atomic number of the atom decreases by _______.",,,,,,2,,FIB
+9,Modern Physics,Concept Application-Level-1,Fill in the blanks,14,The cathode rays emitted from a concave cathode meet at _____.,,,,,,centre of curvature,,FIB
+9,Modern Physics,Concept Application-Level-1,Match the following,15,Match the entries in Column A with appropriate ones from column B.,"A:g, B:f, C:a, D:c, E:b, F:d, G:e, H:j, I:h, J:i","A:g, B:f, C:a, D:c, E:b, F:d, G:e, H:j, I:i, J:h","A:g, B:a, C:f, D:c, E:b, F:d, G:e, H:j, I:h, J:i","A:g, B:f, C:c, D:a, E:b, F:d, G:e, H:j, I:h, J:i",CH-9-15-ROW-345,A,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,16,The specific charge is the highest for _____.,α-rays,β-rays,protons,neutrons,,b,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,17,Which of the following is/are subatomic particles?,Protons,Positron,Neutrino,All of these,,d,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,18,Which of the following radiations has the highest penetrating power?,α,β,γ,X-rays,,c,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,19,The nuclear reaction that takes place in a nuclear reactor is _____.,controlled fission reaction,uncontrolled fission reaction,nuclear fusion reaction,None of these,,a,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,20,Identify isobars among the following,"~14*Si^31&, ~15*P^32*","~6*C^13&, ~7*N^13*","~7*N^14&, ~7*N^15*",None of these,,b,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,21,Higher value of decay constant indicates _____.,I) faster decay,II) high half-life period,III) slower decay,IV) Both (I) and (II),,a,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,22,"To convert ~90*Th^232& into ~90*Th^228&, the least number of α and β particles that have to be emitted are _______ and _______, respectively.","1, 1","2, 1","1, 2","2, 2",,c,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,23,The mass number of an element in a radioactive series is 223. Then the radioactive series is _____.,4 n,4n + 3,4n + 2,4n + 1,,b,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,24,Carbon dating is used to,assess the age of fossils.,assess the amount of radioactivity.,assess the rate of radioactivity,None of these,,a,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,25,The kinds of force(s) that are present between two protons in a nucleus is/are _____.,electrostatic force,nuclear force,magnetic force,Both (a) and (b),,d,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,26,~Z*X^A& and ~Z+1*Y^A& are two radioactive elements. X emits one α particle whereas Y emits one β particle. The daughter nuclei formed are ________.,isotopes,isobars,isotones,isomorphic,,c,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,27,"The e/m of three singly ionized atoms A, B and C are x, y, z, respectively. If x > y > z and m~A*, m~B*, and m~C* are their atomic weights, the correct relation among the following is _____.",m~A* > m~B* > m~C*,m~C* > m~B* > m~A*,m~A* = m~B* = m~C*,m~A* > m~B* = m~C*,,b,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,28,A radioactive substance was reduced to 1/4 of the total amount in 8 days. The time taken by this radioactive substance to get reduced to 1/8 th of the remaining amount is ________.,12 days,16 days,20 days,8 days,,c,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,29,~1*H^1& + ~3*Li^7& -> + ~2*Hl^4&,~2*Hl^4&,~6*C^12&,~4*Bl^9&,~4*Bl^8&,,a,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,30,The property of cathode rays used in a monitor of a computer is _____.,high velocity,high ionization power,cause fluorescence of phosphors,rectilinear propagation,,c,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,31,"If the radiations from a radioactive substance, in the presence of an electric field, deflect towards the anode, the rays are",α-rays,β-rays,γ-rays,X-ray,,b,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,32,A radioactive isotope of radium placed in the second group in the periodic table emits one α-particle and one β-particle. The new element formed is in the ______ group,first,second,third,fourth,,a,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,33,Which among the following statements is incorrect about visible light and X-rays?,They have same velocity in vacuum or air,They are electromagnetic radiations.,They have same wavelength in a given medium,They are not affected by electric field.,,b,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,34,Cathod rays exert _______ force on the object place in their path.,mechanical,electrical,magnetic,electromagnetic,,b,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,35,Which among the following has the lowest speed when travelling through a given medium?,γ-rays,α-rays,β-rays,Cathode rays,,b,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,36,"Write the following steps in sequential order to calculate the binding energy per nucleon of an element ~z*X^A&, given the actual mass of ~z*X^A&, mass of proton (m~p*) and mass of neutron (m~n*) (All the values are given in atomic mass units)
+(a) Note the actual mass of the nucleus (M), number of nucleons in ~z*A^x&, m~p* and m~n*.
+(b) Calculate the mass defect of the given nucleus.
+(c) Find the number of protons and number of neutrons in the nucleus.
+(d) Determine the sum of the individual masses of constituents in ~z*A^X&.
+(e) Calculate the binding energy (B.E) of the nucleus.
+(f ) Divide it with the number of nucleons present in the element to get binding energy per nucleon.",a e d c b f,a c d b e f,a c b d e f,a d c b e f,,b,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,37,The process of increasing the percentage of fissionable U-235 in naturally occurring uranium is called _______,controlled fission,artificial transmutation.,chemical process,enrichment.,,d,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,38,_______ reaction takes place in the sun.,Nuclear fission,Nuclear fusion,Chemical,both (a) and (b),,b,,MCQ
+9,Modern Physics,Concept Application-Level-1,MCQ,39,"Write the following steps of the liquid drop model in sequential order to show the various stages of a nuclear fission reaction.
+(a) During the bombardment of a nucleus by neutrons, a neutron could be absorbed by the drop like the nucleus.
+(b) A heavy nucleus is treated as the drop of a liquid with the positive charge uniformly distributed.
+(c) This leads to the disturbance of the internal forces and sets up oscillations.
+(d) From this stage the repulsive forces take over causing the fission of the nucleus.
+(e) These oscillations lead to the development of a thick neck forming two parts, giving the nucleus an elongated shape.",b c e a d,a c e d b,a d c e b,b a c e d,,d,,MCQ
+10,Source of Energy,Concept Application-Level-1,True - False,1,Tidal energy is a major source of energy due to the presence of large water bodies on the earth.,,,,,,0,,TF
+10,Source of Energy,Concept Application-Level-1,True - False,2,The amount of heat energy released when a fuel burns completely is called calorific value.,,,,,,0,,TF
+10,Source of Energy,Concept Application-Level-1,True - False,3,Sunlight contains ultraviolet radiations which make it hot.,,,,,,0,,TF
+10,Source of Energy,Concept Application-Level-1,True - False,4,"Anaerobic microorganisms decompose animal and plant wastes in the presence of water and produce gases such as methane, CO~2*, H~2* and H~2*S. The mixture of these gases is called biomass.",,,,,,0,,TF
+10,Source of Energy,Concept Application-Level-1,True - False,5,The calorific value of hydrogen is highest among fuels.,,,,,,1,,TF
+10,Source of Energy,Concept Application-Level-1,True - False,6,The process of burning wood in limited supply of oxygen to obtain charcoal as a resultant product is called destructive distillation.,,,,,,1,,TF
+10,Source of Energy,Concept Application-Level-1,True - False,7,Coal is the fossiled remains of dead bodies of marine animals that are buried in the earth’s crust for millions of years.,,,,,,0,,TF
+10,Source of Energy,Concept Application-Level-1,Fill in the blanks,8,"A substance starts burning when it is exposed to air. Then, the ignition temperature of the substance is less than the _________.",,,,,,room temperature,,FIB
+10,Source of Energy,Concept Application-Level-1,Fill in the blanks,9,The quality of coal depends on the percentage of _____ present in it.,,,,,,carbon,,FIB
+10,Source of Energy,Concept Application-Level-1,Fill in the blanks,10,Burning of a substance in the insufficient amount of oxygen is called _______.,,,,,,destructive distillation,,FIB
+10,Source of Energy,Concept Application-Level-1,Fill in the blanks,11,Petroleum is a complex mixture of many compounds of Hydrogen and Carbon known as ______.,,,,,,Hydrocarbons,,FIB
+10,Source of Energy,Concept Application-Level-1,Fill in the blanks,12,Solar cooker is commonly used for harnessing ________.,,,,,,Solar energy,,FIB
+10,Source of Energy,Concept Application-Level-1,Fill in the blanks,13,Energy harnessed from flowing water is called _____.,,,,,,Hydel energy,,FIB
+10,Source of Energy,Concept Application-Level-1,Fill in the blanks,14,Energy sources which cannot be replenished are called non-renewable sources of energy,,,,,,1,,TF
+10,Source of Energy,Concept Application-Level-1,Match the following,15,Match the entries in Column A with appropriate ones from Column B.,"A:b, B:a, C:d, D:f, E:c, F:g, G:e, H:h, I:i","A:b, B:a, C:d, D:f, E:c, F:g, G:e, H:I, I:h","A:a, B:b, C:d, D:f, E:c, F:g, G:e, H:I, I:h","A:b, B:d, C:a, D:f, E:c, F:g, G:e, H:I, I:h",CH-10-15-ROW-384,B,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,16,Which of the following is a false statement?,"To overcome the energy crisis, the use of solar cooker must be increased.","To overcome the energy crisis, more amount of non-renewable sources of energy must be used.","The re-usage of waste material as a source of
+energy can be done to overcome the energy crisis.","To overcome the energy crisis, water has to be saved.",,b,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,17,"The main constituent of LPG is butane. Then 
+(A) butane can be liquefied easily under high pressure.
+(B) butane is liquefied by chemically reacting with ethane and propane.",Only A is true,Only B is true,Both A and B are true,Both A and B are false,,a,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,18,Which element contained in a fuel contributes to its high calorific value?,Carbon,Hydrogen,Oxygen,Nitrogen,,b,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,19,"Combustion, the process of burning a fuel, is _____.
+(a) an oxidation and an exothermic reaction.
+(b) a reduction and an endothermic reaction.",Only A is true,Only B is true,Both A and B are true,Both A and B are false,,a,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,20,_____ is used as a fuel in space ships.,Hydrogen,Alcohol,Petrol,Diesel,,a,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,21,"In solar water heater, a copper pipe with its outer surface painted in black is fixed in the form of a coil in a box.
+(a) The only purpose of bending copper pipe is to increase the capacity of water storage.
+(b) Bending copper pipe as a coil helps to increase the surface area for heating.
+(c) Both",and,are true,Both,and (2) are false,,b,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,22,"In the extraction of some metals from their ores, coke can be used as a/an ________.",oxidizing agent,reducing agent,catalyst,flux,,b,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,23,Find the false statement from the statements given below:,Geothermal power plants cannot operate round the clock.,The initial cost in setting up this plant will be high.,This type of source is free and renewable.,Operating cost involved in a geothermal plant is less.,,a,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,24,_____are used to produce energy in OTEC.,Tidal energy,Temperature difference between the different layers of water in ocean,Ocean waves,None of these,,b,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,25,The crude oil extracted from the earth is separated into its constituents by a process called _____.,disintegration distillation,compound distillation,destructive distillation,fractional distillation,,d,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,26,The sun’s energy is due to,the nuclear fission of hydrogen.,the nuclear fusion of hydrogen,the natural combustion of hydrogen,the nuclear fission of uranium.,,b,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,27,Among the following the sources of energy for which source sun is not a chief source of energy is _____.,Hydroelectric power plant.,Ocean thermal energy conversion (OTEC).,Tidal energy.,Biomass.,,c,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,28,What is the value of solar constant if the energy received by 12 m^2& area in 2 minutes is 2016 kJ?,1.4 x 10^2& J s^-1& m^-2&,1400 J s^-1& m^-2&,84 kJ s^-1& m^-2&,84 J s^-1& m^-2&,,b,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,29,A good fuel should _____.,be safe to store and transport,be able to provide desired quantity of energy at a steady rate over a long period of time,have low content of non-combustibles and no combustion products that are poisonous or environmental pollutants,All of these,,d,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,30,Find the false statement from the statements given below:,Geothermal power plants cannot operate round the clock.,The initial cost in setting up this plant will be high.,This type of source is free and renewable,Operating cost involved in a geothermal plant is less.,,a,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,31,Which of the following metals is used as connecting wires that connect solar cells in a solar panel?,Copper,Iron,Aluminium,Silver,,d,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,32,Quality that is not suitable for a fuel is ______.,high calorifgic value with ignition temperature that is well above the normal room temperature,low rate of evaporation at room temperature,carbon particles are expelled with smoke,low content of non-combustibles,,c,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,33,Solar energy provides,wind energy,light energy,heat energy,All of these,,d,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,34,Which one of the following can be used as a box type solar cooker?,A double walled cooker made of plastic and its inner wall is painted white.,A double walled cooker made of copper and its inner wall is painted black.,A double walled cooker made of plastic and its inner wall is painted black.,A single walled cooker made of copper and its both sides are painted white.,,c,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,35,If the output energy is 1000 J and input energy is 200 J the net output is ______ J.,800,14/Apr,10,500,,a,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,36,Which one of the following sources of energy you recommend to use?A source of energy having an input energy ______ J and an output energy ______,"1000, 2000","2000, 2500","100, 12500","5000, 5250",,c,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,37,The output of a given windmill,increases with an increase in wind velocity,decreases with an increase in wind velocity,is independent of wind velocity.,Cannot be determined,,a,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,38,"Arrange the following steps of conversion of ocean thermal energy into electricity in a proper sequence.
+(a) The vapour of ammonia or CFC is passed over the turbines of generators.
+(b) The hot water from the ocean is used to vapourise the liquid like ammonia or CFC.
+(c) Cold water from the ocean depths is used to cool the vapour again into liquid.
+(d) This cold liquid is again vapourised and the process continues.",b a c d,c a b d,c b a d,a b c d,,a,,MCQ
+10,Source of Energy,Concept Application-Level-1,MCQ,39,"Arrange the following steps in the conversion of hydel energy to electricity in a proper sequence.
+(a) Released water is made to fall on the blades of the turbines.
+(b) Water in the dam is released.
+(c) Water is collected in the dam.
+(d) Potential energy is converted to kinetic energy.
+(e) The armature of the electric generator rotates to produce electricity.",b c d e a,a d b c e,e c d b a,c b d a e,,d,,MCQ
+11,Electronics ,Concept Application-Level-1,True - False,1,A high level language is independent of the hardware of a computer.,,,,,,1,,TF
+11,Electronics ,Concept Application-Level-1,True - False,2,The process of superimposing an audio or video messages on r.f. carrier waves is called modulation.,,,,,,1,,TF
+11,Electronics ,Concept Application-Level-1,True - False,3,Addition of either trivalent or pentavalent impurities to an intrinsic semiconductor increases its conductivity.,,,,,,1,,TF
+11,Electronics ,Concept Application-Level-1,True - False,4,The electric current in an extrinsic semi conductor is the sum of currents due to holes and electrons.,,,,,,1,,TF
+11,Electronics ,Concept Application-Level-1,True - False,5,The energy gap E~G* of a semi conductor decreases with the rise in its temperature.,,,,,,1,,TF
+11,Electronics ,Concept Application-Level-1,True - False,6,"In an oscilloscope, the vertical deflecting plates deflect the electron beam in a vertical plane.",,,,,,1,,TF
+11,Electronics ,Concept Application-Level-1,True - False,7,The energy bands are present only when the substance is present in the solid state.,,,,,,1,,TF
+11,Electronics ,Concept Application-Level-1,Fill in the blanks,8,The band structure determines the ____________ behaviour of a solid.,,,,,,electrical,,FIB
+11,Electronics ,Concept Application-Level-1,Fill in the blanks,9,A computer program is the group of _______ given to the computer.,,,,,,instructions,,FIB
+11,Electronics ,Concept Application-Level-1,Fill in the blanks,10,The minimum heat energy required to emit an electron from the surface of a metal is called ________.,,,,,,work function,,FIB
+11,Electronics ,Concept Application-Level-1,Fill in the blanks,11,"In a reverse biased p-n junction diode, the p-type semiconductor is connected to _______ terminal of the cell and n-type to the _______ terminal of the cell.","negative, positive","positive,negative","negative, negative",None of these,,A,,MCQ
+11,Electronics ,Concept Application-Level-1,Fill in the blanks,12,A group of 8-bits is called a ____________.,,,,,,byte,,FIB
+11,Electronics ,Concept Application-Level-1,Fill in the blanks,13,The depletion region in a semiconductor diode is formed at the _______.,,,,,,junction,,FIB
+11,Electronics ,Concept Application-Level-1,Fill in the blanks,14,The process of introducing impurities in small quantities into an intrinsic semiconductor is called _____.,,,,,,doping,,FIB
+11,Electronics ,Concept Application-Level-1,Match the following,15,Match the entries in Column A with appropriate ones from Column B.,"A:h, B:e, C:a, D:g, E:b, F:j, G:c, H:I, I:d, J:f","A:e, B:h, C:a, D:g, E:b, F:j, G:c, H:I, I:f, J:d","A:e, B:h, C:g, D:a, E:b, F:j, G:c, H:I, I:d, J:f","A:e, B:h, C:a, D:g, E:b, F:j, G:c, H:I, I:d, J:f",CH-11-15-ROW-423,D,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,16,Compiler is a computer program that converts,machine language instructions to high level language instructions.,high level language instructions into machine language instructions.,Basic language to Fortran language.,Fortran language to Basic language.,,b,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,17,An oscilloscope is basically designed to convert ________.,visual signals to electrical signals,sound signals to electrical signals,electrical signals to visual signals,sound signals to visual signals,,c,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,18,"In an intrinsic semiconductor, the number of electrons in the conduction band is _______ the number of holes in the valence band.",equal to,less than,greater than,None of these,,a,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,19,A good thermionic emitter has,high resistance.,high temperature coefficient of resistance.,high work function and high melting point.,low work function and high melting point,,d,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,20,The characteristics which a material should possess to act as a good thermion emitter is ______.,high work function and high melting point,high work function and low melting point,low work function and high melting point,low work function and low melting point,,c,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,21,"At absolute zero, a semiconductor is an insulator because ______.",no electron is present in the conduction band,all electrons occupy the the valence band.,the value of E~G* is large,All of the above,,d,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,22,"The heart, or the main component of a computer is the ________.",key board,printer,monitor,central processing unit (CPU),,d,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,23,"In a semiconductor, holes are present only in the _____.",conduction band,valence band,forbidden gap,all of the above,,b,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,24,The forbidden gap for pure silicon at room temperature is ________ eV.,less than one,1 : 1,3,9,,b,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,25,"For television transmission, the frequency range of carrier waves is approximately _______.",300 kHz to 30 MHz,100 kHz to 30 MHz,30 MHz to 300 MHz,None of these,,c,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,26,"In an intrinsic semiconductor, if N~e* is the number of electrons in the conduction band and N~p* is the number of holes in the valence band, then",N~e* > N~p*,N~e* = N~p*,N~e* < N~p*,None of these,,b,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,27,"To make a p-type semiconductor, an instrinsic semiconductor is doped with _______.",gallium or indium,arsenic or phosphorus,aluminium or boron,Both (a) and (c),,d,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,28,The transistors are used in the _____.,electronic circuits called oscillators,stabilized power supplies,integrated circuits,All of the above,,d,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,29,The arrow in the symbol of a transistor indicates ________.,base,direction of electronic current,direction of conventional current,Both (a) and (c),,c,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,30,A _____ is used as a rectifier.,diode,transistor,resistor,capacitor,,a,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,31,Which among the following is an example of a semiconductor?,Cuprous oxide,Iron,Copper,Aluminium,,a,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,32,In a CRO the acceleration of electrons is controlled by changing ______ between the cathode and anode.,Potential difference,Space,temperature,None of these,,a,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,33,"Write the following steps in a sequential order about the working of a cathode ray oscilloscope.
+(a) The electron beam that passes between the deflecting plates impinges on the fluorescent screen and causes scintillations.
+(b) When the circuit of a CRO is closed, a fine electron beam is emitted from the cathode.
+(c) One pair of deflecting plates is placed in vertical position and produces deflection in the horizontal plane.
+(d) It then gets accelerated by the double anode and passes through two pairs of deflecting plates connected to a source of alternating potential.
+(e) The other set positioned horizontally causes deflections in the vertical plane, thus causing the electron beam to scan the whole screen.
+(f) Thus, the electron beam scans the screen with a bluish white glow.",b d a f c e,b c e a d f,b d c e a f,b c e d a f,,c,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,34,"A pure germanium crystal, at absolute zero, is",an insulator,a good conductor,a semiconductor,None of these,,a,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,35,"A pure semiconductor, at absolute zero, has",absence of electrons in the conduction band,all the electrons occupying the valence band,large Eg value,All of the above,,d,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,36,"The energy gap in glass, at room temperature, is",greater than that in a semiconductor,less than that in a good conductor,greater than that in a good conductor,Both (a) and (c) are true,,d,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,37,The resistivity of an intrinsic semiconductor,increases with an increase in temperature,decreases with an increase in temperature,is independent of temperature,increases upto a certain temperature and thereafter remains constant,,b,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,38,"To make n-type semiconductor, an intrinsic semiconductor is doped with ______.",gallium,indium,boron,arsenic,,d,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,39,A junction transistor does not have ______.,emitter-base junction,base-collector junction,emitter-collector junction,None of these,,c,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,40,The conductivity of a pure or intrinsic semiconductor ______,increases with an increase in temperature,decreases with an increase in temperature,is independent of temperature,increases upto a certain temperature and thereafter remains constant,,a,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,41,"In a p-type semiconductor, the electron current is ________ than the hole current.",equal to,less than,greater than,None of these,,b,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,42,"The energy gap in a conductor, at room temperature is ______",greater than that in a semiconductor,less than that in a insulator,greater than that in a insulator,Both (a) and (c) are true,,b,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,43,"Phosphorus, which is used as an impurity to produce an extrinsic semiconductor, is a ______ impurity",trivalent,divalent,tetravalent,pentavalent,,d,,MCQ
+11,Electronics ,Concept Application-Level-1,MCQ,44,"In a semiconductor, free electrons are present in _______.",the conduction band only,the energy gap only,the valence band only,Both (a) and (c),,a,,MCQ

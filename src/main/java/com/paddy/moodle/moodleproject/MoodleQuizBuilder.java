@@ -519,6 +519,7 @@ public class MoodleQuizBuilder {
         List<MoodleQuiz> questionsArray = new ArrayList<>();
         for (String[] x : questionsStringArray) {
             MoodleQuiz moodleQuiz = new MoodleQuiz();
+            System.out.println(x[0]);
             moodleQuiz.setChapterNumber(Integer.parseInt(x[0]));
             moodleQuiz.setChapterName(x[1]);
             moodleQuiz.setSubChapterName(x[2]);
@@ -534,6 +535,7 @@ public class MoodleQuizBuilder {
             moodleQuiz.setAnswerDescription(x[12]);
             moodleQuiz.setQuestionType(x[13]);
             questionsArray.add(moodleQuiz);
+
         }
         return questionsArray;
     }

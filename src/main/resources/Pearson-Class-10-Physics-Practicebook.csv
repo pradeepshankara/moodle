@@ -1,0 +1,770 @@
+Chapter Number,ChapterName,SubChapterName,Classification,QuestionNumber,QuestionText,Option1,Option2,Option3,Option4,Image?,Answer,AnswerDescription,QuestionType
+1,Measurement and Kinematics,Assessment - I,,1,"Note: Take the value of ‘g’ as 10 m s^–2& wherever required.
+Which of the following is g cm s^–2& the unit for?",Force,Momentum,Energy,Impulse,,a,,MCQ
+1,Measurement and Kinematics,Assessment - I,,2,"If the dimensional formula of a physical quantity is [MLT^–2&], then what will be its SI unit?",Kg^2&s^-*2&,Kg m s^-*2&,g cm s,Kg m s,,b,,MCQ
+1,Measurement and Kinematics,Assessment - I,,3,What is the length of the object shown in the gure given below?,6 mm,6.3 mm,6.87 mm,6.7 mm,CH-1-3-ROW-4,d,,MCQ
+1,Measurement and Kinematics,Assessment - I,,4,Which of the following equations is dimensionally incorrect?,v~2& = as,s = ut,s = at,s = at^2&,,c,,MCQ
+1,Measurement and Kinematics,Assessment - I,,5,"When thimble of a screw guage is given 40 complete rotations, the tip of the screw advances 20 mm and when the studs of the screw gauge are in contact, the 85th division of the head scale is on the index line. What will be the zero correction of the screw gauge?",0.075 mm,0.75 mm,-0.075,-0.75 mm,,a,,MCQ
+1,Measurement and Kinematics,Assessment - I,,6,"What will be the acceleration (in m s^-2&) of a body which is initially moving with a velocity of 10 m s^-1&, and attains a velocity of 20 m s^-1& in 2 s?",2,10,5,1,,c,,MCQ
+1,Measurement and Kinematics,Assessment - I,,7,"If a body starts with a velocity 2 m s^-1& and moves with an acceleration of 5 m s^-2&, then what will be the distance travelled by it in the 5th second?",18 m,24.5 m,27.5 m,20 m,,b,,MCQ
+1,Measurement and Kinematics,Assessment - I,,8,An object dropped from the top of a building travels 25 m in the last second of its motion. What will be the total time (in seconds) taken to reach the ground?,4.5,2.5,3,6.5,,c,,MCQ
+1,Measurement and Kinematics,Assessment - I,,9,An object is thrown vertically upward with a velocity 15 m s^-1&. After how many seconds will it strike the ground?,6,5,2,3,,d,,MCQ
+1,Measurement and Kinematics,Assessment - I,,10,An object is projected horizontally with a velocity of 10 m s^–1& from the top of a tower of height 50 m. Determine the horizontal distance travelled by the object.,10 m,10Ö10 m,12Ö2 m,10Ö2 m,,b,,MCQ
+1,Measurement and Kinematics,Assessment - I,,11,"An object starts from rest and moves with a uniform acceleration for 10 s. Then the object moves with a uniform velocity for the next 10 s. For the next 2 s, the body moves with a uniform retardation and comes to a rest. Write the steps in proper sequence to determine the total distance travelled.
+(i) Determine the distance travelled by the body when it travels with uniform acceleration (s~1*).
+(ii) Determine the distance travelled by the body when it travels with uniform velocity (s~2*).
+(iii) Determine the distance travelled by the body when it travels with uniform retardation (s~3*).
+(iv) Determine the final velocity in the first part of its motion.
+(v) Determine s~1* + s~2* + s~3*.","I, ii, iv, iii, v","I, ii, iii, iv, i","I, iv, iii, ii, v","I, iv, ii, iii, v",,d,,MCQ
+1,Measurement and Kinematics,Assessment - I,,12,Match the statements of Column A with those of Column B.,P → q; Q → p; R → r,P → r; Q → p; R → q,P → p; Q → r; R → q,P → r; Q → q; R → p,CH-1-12-ROW-13,c,,MCQ
+1,Measurement and Kinematics,Assessment - I,,13,"If a vertically projected body takes 3 s to reach the maximum height, then what will be the time (in seconds) taken to reach half of the maximum height?",0.88,1.52,2.15,3.27,,a,,MCQ
+1,Measurement and Kinematics,Assessment - I,,14,"A particle is projected such that its velocity is 10 m s^-1& and makes angle of 45^0& with horizontal on the surface of a planet, where the weight of the body is 200 N. If the weight of the body on the Earth is 150 N, determine maximum height reached by the body.",2.563 m,1.875 m,16.232 m,2.255 m,,b,,MCQ
+1,Measurement and Kinematics,Assessment - I,,15,An object is thrown vertically upwards with a velocity 20 m s^-1&. After how many seconds will its displacement be zero?,2 s,4 s,8 s,16 s,,b,,MCQ
+1,Measurement and Kinematics,Assessment - II,,1,Which of the following is kg m^2& s^-2& the unit for?,Power,energy,foce,momentum,,b,,MCQ
+1,Measurement and Kinematics,Assessment - II,,2,"If the dimensional formula of a physical quantity is [MLT^-1&], then what will be its CGS unit?",g cm s^-1&,g cm s^-2&,g cm s,g^-1& s cm,,a,,MCQ
+1,Measurement and Kinematics,Assessment - II,,3,What is the length of the object shown in the figure given below?,7 mm,7.8 mm,7.2 mm,9 mm,CH-1-3-ROW-19,d,,MCQ
+1,Measurement and Kinematics,Assessment - II,,4,Which of the following equations is dimensionally incorrect?,v = 2Öas,v = at,v = st,s=1/2 at^2&,,c,,MCQ
+1,Measurement and Kinematics,Assessment - II,,5,"When the thimble of a screw gauge is given 10 complete rotations, the tip of the screw advances 20 mm. When the studs of the screw gauge are in contact, the 90th division of the head scale is on the index line. 
+What is the zero error of the instrument?",0.02 mm,-0.2 mm,0.002 mm,0.2 mm,,b,,MCQ
+1,Measurement and Kinematics,Assessment - II,,6,"A body is moving with a uniform acceleration of 1 m s^-2&. If its initial velocity is zero, then determine its velocity after 5 s.",1 m s^-1&,2 m s^-1&,10 m s^-1&,5 m s^-1&,,d,,MCQ
+1,Measurement and Kinematics,Assessment - II,,7,"A body travels 20 m in the 5th second. If it starts from rest, then what will be its acceleration (in m s^-2&)?",4.4,5.5,6.6,3.3,,a,,MCQ
+1,Measurement and Kinematics,Assessment - II,,8,An object dropped from the top of a cliff reaches the ground in 2 s. What will be the distance (in metre) travelled in the last second?,25,20,15,10,,c,,MCQ
+1,Measurement and Kinematics,Assessment - II,,9,A ball projected upwards returns back to the initial position in 4 s. What will be its initial velocity (m s^-1&)?,20,30,40,50,,a,,MCQ
+1,Measurement and Kinematics,Assessment - II,,10,"An object is projected from certain height horizontally, with a velocity 20 m s^-1&, hits the ground in 3 s. Determine the height above the ground.",80 m,65 m,30 m,45 m,,d,,MCQ
+1,Measurement and Kinematics,Assessment - II,,11,"An object is projected vertically upwards from the top of a chiff of height ‘h’ with an initial velocity ‘u’. Write the steps to determine the time taken by the body to reach the ground in proper sequence.
+(i) Determine the displacement and note down the initial velocity of the body.
+(ii) Choose an equation of motion.
+(iii) Substitute the values of the initial velocity and displacement.
+(iv) Assign the signs to the displacement and the initial velocity according to the sign convention.
+(v) Obtain the time taken by the body to reach the ground.","I, ii, iv, iii, v","I, ii, iii, iv, v","I, iv, ii, iii, v","I, iv, iii, ii, v",,c,,MCQ
+1,Measurement and Kinematics,Assessment - II,,12,Match the statements of Column A with those of Column B.,P → q; Q → p; R → r,P → r; Q → p; R → q,P → p; Q → q; R → r,P → q; Q → r; R → p,CH-1-12-ROW-28,a,,MCQ
+1,Measurement and Kinematics,Assessment - II,,13,A vertically projected body reaches a maximum height of 20 m. Find the time taken by it to travel last 10 m in the upward journey.,1.5 s,0.5 s,18 s,2 s,,a,,MCQ
+1,Measurement and Kinematics,Assessment - II,,14,"The ratio of the weight of a body on the Earth and another planet is 3 : 2. If the body is projected with a velocity 20 m s^-1&, such that it makes an angle 30^0& with the horizontal, then determine the maximum horizontal distance travelled by it.",45Ö2 m,15Ö2 m,30Ö3 m,20Ö3 m,,c,,MCQ
+1,Measurement and Kinematics,Assessment - II,,15,An object is thrown vertically upwards. Its displacement become zero after 6 s. Determine its initial velocity.,40 m s^-1&,5 m s^-1&,10 m s^-1&,30 m s^-1&,,d,,MCQ
+2,Kinematics,Assessment - I,,1,"Assertion (A) : The fi nal velocity of a freely falling body is given by, v = u + at (where ‘u’ is the initial velocity, ‘a’ is the acceleration and ‘t’ is the time taken)
+Reason (R) : The body is moving with a non-uniform acceleration.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,c,,AR
+2,Kinematics,Assessment - I,,2,"Assertion (A) : A body is thrown vertically upwards from the top of a building. The displacement of the body is less than the distance travelled by the body when it reaches the surface of the earth.
+Reason (R) : The displacement of the body is equal to the height of the building.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,b,,AR
+2,Kinematics,Assessment - I,,3,Match the statements of Column A with those of Column B.,A - Q; B - P; C - S; D - R,A - R; B - S; C - P; D - R,A - Q; B - S; C - P; D - R,A - R; B - Q; C - S; D - P,CH-2-3-ROW-34,a,,MCQ
+2,Kinematics,Assessment - I,,4,"An object is dropped from a certain height ‘h’. When it reaches to h/2, the acceleration due to gravity ‘g’ becomes zero. Write the steps in a sequential order to determine the total time taken by the object to cover the total distance ‘h’.
+(i) Determine the final velocity ‘v’ at h/2level by using the formula v^2& - u^2& = 2as. Here, u = 0; a = +g; s = h/2.
+(ii) Find the values of h, g, u, h/2 and acceleration of the body after crossing h/2 level from the given information.
+(iii) Now, the rest of the distance (h/2) it covers with the same maximum velocity.
+(iv) Use the formula, v = u + at to find the time taken (t~1*) by the object to cover the distance h/2.
+(v) Use the formula, time = distance (h/2)/velocity(v) to find the rest of the time (t~2*) taken by the object.
+(vi) The total time taken, t = t~1* + t~2*","ii, I, iv, iii, v, vi","vi, v, I, ii, iv, iii","vi, iv, I, ii, v, iii","iii, iv, vi, v, I, ii",,a,,MCQ
+2,Kinematics,Assessment - I,,5,"A body is projected upwards from the ground with a velocity ‘u’. At the
+moment the body is projected, its angle of projection is determined and the total time taken by the body to reach the ground is calculated with the help of a stopwatch. The different steps to determine the maximum height of the body from the ground is given below. Arrange the steps in a proper sequence to obtain the maximum height.
+(i) Note down the initial velocity form the given data
+(ii) Use the formula, H~max* = u^2& sin^2&q/2g
+(iii) Find the vertical component of velocity using the formula, v~y* = u sin θ
+(iv) Substitute the values ‘u’, sin θ, ‘g’ and calculate the value of H~max*.","iv, iii, I, ii","ii, iv, iii, i","I, ii, iii, iv","I, iii, ii, iv",,d,,MCQ
+2,Kinematics,Assessment - I,,6,"If a shell projected with a velocity ‘u’, then at what angle (θ) with the horizontal will it have the maximum range?",90^0&,60^0&,45^0&,30^0&,,c,,MCQ
+2,Kinematics,Assessment - I,,7,"A stone P is dropped from the top of a building of height 100 m. At the same time, another stone Q is projected vertically upwards with a velocity 100 m s^-1& from the ground. When both the stones collide with each other in air, what will be the velocities of P and Q, respectively. (Given, g = 10 m s^-2&)","10 m s^-1&, 90 m s^-1&","90 m s^-1&, 10 m s^-1&","50 m s^-1&, 50 m s^-1&","90 m s^-1&, 30 m s^-1&",,a,,MCQ
+2,Kinematics,Assessment - I,,8,A bag is dropped from a helicopter moving with a speed of 100 m s^-1& from 2 km above the ground. What will be the distance at which the luggage falls from the point it is dropped? (Neglect the air resistance and take g = 10 m s^-2&).,1.5 km,2 km,3 km,Ö8 km,,b,,MCQ
+2,Kinematics,Assessment - I,,9,"A ball is thrown with a velocity 60 m s^-1& making 60^0& with the horizontal and at the same instant another ball is thrown up with a velocity ‘u’ making an angle 30^0& with the horizontal. If the time of flights for both the balls are equal, then what will be the value of u in m s^-1&?",60Ö2,12Ö3,120Ö2,60Ö3,,d,,MCQ
+2,Kinematics,Assessment - I,,10,"A ball is thrown vertically upwards with velocity 90 m s^-1&. What will be the ratio of displacement of the ball at the end of 1 s, 2 s and 3 s, respectively? (Given, g = 10 m s^-2&).",17 : 32 : 45,45 : 32 : 17,17 : 160 : 225,5 : 16 : 45,,a,,MCQ
+2,Kinematics,Assessment - I,,11,"A ball is thrown with velocity 60 m s^-1& making an angle 60^0& with the horizontal. Determine the ratio of horizontal displacement in the 1st, 2nd and 3rd seconds.",4 : 3 : 1,3 : 2 : 1,1 : 1 : 1,1 : 2 : 3,,c,,MCQ
+2,Kinematics,Assessment - I,,12,A ball is thrown with a velocity ‘u’ making an θ with the horizontal such that its maximum height is equal to Ö3/2 times the maximum horizontal range. Calculate the value of tanθ.,Ö3,1Ö2,2Ö3,2Ö3,,d,,MCQ
+2,Kinematics,Assessment - I,,13,"The motion of a train is depicted as shown below.
+Based on the graph, determine the average speed of the train (in m s^-1&).",45,4.5,14.5,40.5,CH-2-13-ROW-44,a,,MCQ
+2,Kinematics,Assessment - I,,14,An a-particle starts from rest and accelerates uniformly with 0.01 m s^-2& towards a positive plate in a straight path in an electric field for 10 s. What will be the average speed of the α-particle?,0.5 cm s^-&,0.5 cm s^-1&,0.5 m s^-1&,0.05 m s^-1&,,d,,MCQ
+2,Kinematics,Assessment - I,,15,"A bullet is fired horizontally from a height of 180 m. The bullet undergoes horizontal and vertical displacements of 500 m and 45 m, respectively, in nth second. What will be the maximum horizontal distance travelled by the bullet? (Take g = 10 m s^–2&).",4500 m,6100 m,1600 m,3000 m,,d,,MCQ
+2,Kinematics,Assessment - II,,1,"Assertion (A) :
+Reason (R): The body is moving with a non-uniform acceleration.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,CH-2-1-ROW-47,c,,AR
+2,Kinematics,Assessment - II,,2,"Assertion (A): A bus started from rest and accelerated uniformly and gains a speed of 80 km h^-1& in one hour, and then, it decelerates uniformly and attains a speed of 60 km h^-1& in the next hour. Then the average speed of the bus is 70 km h^-1&.
+Reason (R): The average speed of the bus is given by u+v/2.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,d,,AR
+2,Kinematics,Assessment - II,,3,Match the statements of Column A with those of Column B.,A - iii; B - i; C - iv; D - ii,A - ii; B - i; C - iv; D - iii,A - iii; B - iv; C - i; D - ii,A - ii; B - iv; C - i; D - iii,CH-2-3-ROW-49,d,,MCQ
+2,Kinematics,Assessment - II,,4,"A body is projected upwards from the ground with velocity ‘u’ making an angle θ with the horizontal. The different steps to determine the range of the body are given below. Arrange the steps in a proper sequence to obtain the range of the body.
+(i) Use the formula, R = u^2& sin2θ/g
+(ii) Note the values of θ and ‘u’ from the given data.
+(iii) Find the value of sin 2θ.
+(iv) Substitute the values of u, g, sin 2θ in above formula and calculate the value of R.","ii, iii, i, iv","iv, ii, i, iii","iv, ii, iii, i","i, iv, ii, iii",,a,,MCQ
+2,Kinematics,Assessment - II,,5,"An object is projected vertically upwards with a velocity of 19.6 m s^–1&. Arrange the following physical quantities measured in the SI unit in the increasing order of their magnitudes at the end of 4 s.
+(i) distance travelled (ii) displacement
+(iii) acceleration (iv) velocity","ii, iv, iii, i","i, iv, iii, ii","iv, iii, ii, i","ii, iii, iv, i",,d,,MCQ
+2,Kinematics,Assessment - II,,6,A body is projected with a velocity ‘u’. What will be the angle (θ) which its velocity will make with the vertical so that it reaches the maximum height?,0^0&,45^0&,60^0&,90^0&,,d,,MCQ
+2,Kinematics,Assessment - II,,7,"A ball is dropped from the top of a cliff of height ‘h’. At the same instant, another ball is thrown up vertically with a velocity 50 m s^-1& from the ground and if both the balls collide with each other in air, at the end of 2 s, then what will be the value of ‘h’? (Given, g = 10 m s^-2&)",100 m,50 m,150 m,80 m,,a,,MCQ
+2,Kinematics,Assessment - II,,8,"A gas balloon parachute is moving upwards with velocity 50 m s^-1& making an angle 45^0& with the horizontal. Suddenly a heavy bag is dropped from the parachute, then what will be the total time taken by the bag to cross the horizontal level from where it is dropped? (g = 10 m s^-2&)",10Ö2,5Ö2,2Ö2,3Ö3,,b,,MCQ
+2,Kinematics,Assessment - II,,9,"A body is thrown with a velocity ‘u’ making an angle 30^0& with the horizontal. Determine the ratio of the horizontal displacement in ‘n’ seconds to vertical displacement in the nth second. (Given, g = 10 m s^-2&)",1 : n^2&,n^2& : 1,n : 1,1 : n,,c,,MCQ
+2,Kinematics,Assessment - II,,10,"A shell is fired from a canon gun with velocity 160 m s^-1& making an angle 60^0& with the vertical. Determine the ratio of vertical displacement of the shell in the 2nd, 4th and 5th second. (Given, g = 10 m s^-2&)",15 : 11 : 9,13 : 9 : 7,9 : 7 : 5,7 : 5 : 3,,b,,MCQ
+2,Kinematics,Assessment - II,,11,"An object is projected vertically upwards with a velocity 100 m s^-1&. What will be the ratio of distance to displacement of the object at the end of 15 s? (Given, g = 10 m s^-2&)",3 : 5,5 : 3,13 : 15,15 : 13,,a,,MCQ
+2,Kinematics,Assessment - II,,12,"A stone is projected upwards with a velocity ‘u’ making an angle of 60^0& with the vertical such that the magnitude of its maximum height is equal to 25/2 times the total time of flight. Calculate the value of ‘u’ in m s-1. (Given, g = 10 m s^-2&)",100Ö3,150Ö3,100Ö3,200Ö3,,c,,MCQ
+2,Kinematics,Assessment - II,,13,Consider the velocity–time graph of a body moving in a rectilinear path. Determine the average velocity (in m s^-1&) of the body at the end of 35 s.,67/7,7/67,335/37,37/335,CH-2-13-ROW-59,a,,MCQ
+2,Kinematics,Assessment - II,,14,"Two elementary particles start from the state of rest and travel in the same direction along the same path, in an electric field for 10 s. If the first particle accelerates at 0.2 m s^-2& and the second particle at 0.1 m s^-2&, then what will be the distance between them at the end of 10 s?",15 cm,15 m,5 cm,5 m s^-1&,,d,,MCQ
+2,Kinematics,Assessment - II,,15,"A football is kicked horizontally with a velocity ‘u’ from the top of a building of height 50 m. If the maximum horizontal distance travelled by the ball is 100 m, then calculate the value of ‘u’. (Given, g = 10 m s^-2&)",100Ö10 m s^-2&,10Ö10 m s^-2&,100Ö5 m s^-2&,5Ö10 m s^-2&,,b,,MCQ
+3,Electricity,Assessment - I,,1,What is the SI unit of electric current?,volt,watt,ampere,joule,,c,,MCQ
+3,Electricity,Assessment - I,,2,"Effective resistance of two resistors A and B, when they are connected
+in parallel combination, is 12W. What would be the colour bands on
+B, if colour bands on resistor A are brown, yellow and black? (neglect
+tolerance)","Grey, Yellow, black","Grey, Red, black","Grey, Orange, black","Grey, Red, Orange",,a,,MCQ
+3,Electricity,Assessment - I,,3,"(A) Assertion: Horse power = 746 watts
+(R) Reason: Horse power is unit of electric potential.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,c,,AR
+3,Electricity,Assessment - I,,4,Which of the following is correct?,Resistance of a conductor depends on its mass.,Resistance of a conductor is directly proportional to its length.,Resistance of a conductor depends on temperature.,Both (b) and (c).,,d,,MCQ
+3,Electricity,Assessment - I,,5,"It takes 20 minutes to boil water in an electric kettle. By change in the length of the coil in the kettle, using the same power supply, water is to be boiled in 14 minutes. Then the change in the length of the coil is ______ original length.",7/10th ,10/7th,3/10th,10/3rd,,c,,MCQ
+3,Electricity,Assessment - I,,6,The reading of ammeter shown in the circuit given below is 5 A. What will be the mass of copper deposited at the cathode in a voltameter connected across the terminals P and Q after 30 min? [Electrochemical equivalent (e.c.e.) of copper = 0.000332 g C^–1&],1.494 kg,0.5976 g,1494 kg,0.5976 kg,CH-3-6-ROW-67,b,,MCQ
+3,Electricity,Assessment - I,,7,200 J of work is done in moving a 10 C charged particle between two points in a uniform electric field of 64 V m^–1& along the direction of the electric field. Find the distance between the two points.,7/17 m,9/17 m,7/15 m,5/16 m,,d,,MCQ
+3,Electricity,Assessment - I,,8,Match the statements of Column A with those of Column B.,"A → R, B → Q, C → P","→ P, B → R, C → Q","A → Q, B → R, C → P","A → R, B → P, C → Q",CH-3-8-ROW-69,a,,MCQ
+3,Electricity,Assessment - I,,9,"Calculate the strength of the electric field at a point, if a 20 Mc charge is placed at the point experiences a force of 20 N.",10^3& N m^-1&,10^6& N m^-1&,10^9& N m^-1&,10^12& N m^-1&,,b,,MCQ
+3,Electricity,Assessment - I,,10,A total of 10^19& electrons flow through a conductor of resistance 20 W in one second. Find the potential difference between the terminals of the conductor.,32 V,64 V,16 V,20 V,,a,,MCQ
+3,Electricity,Assessment - I,,11,"A bulb is connected to a battery through a resistor. If another resistor is connected parallel to the first resistor, then what will happen to the brightness of the bulb?",increases,remains the same,decreases,increases or decreases depending upon the resistance of the filament,,a,,MCQ
+3,Electricity,Assessment - I,,12,The ratio of the length of the two wires made of the same material is 1 : 3 and their volumes are in the ratio of 2 : 3. What is the ratio of their resistances?,1 : 3,3 : 2,1 : 4,1 : 6,,d,,MCQ
+3,Electricity,Assessment - I,,13,Study the circuit given below and determine the effective resistance (in W) between A and B.,5,10,15,20,CH-3-13-ROW-74,a,,MCQ
+3,Electricity,Assessment - I,,14,What will be the resistance of a bulb rated 100 W – 230 V?,838 W,434 W,529 W,683 W,,c,,MCQ
+3,Electricity,Assessment - I,,15,"A copper voltameter is arranged as shown below. If the heat developed in the resistor after one hour is 3,60,000 J, then what will be the mass (in g) of copper deposited in the cathode after 1 h?
+[The e.c.e. of copper is 0.0003294 g C^–1&]",4.6,0.85,1.32,2.37,CH-3-15-ROW-76,d,,MCQ
+3,Electricity,Assessment - II,,1,What is the SI unit of potential difference?,volt,watt,ampere,joule,,a,,MCQ
+3,Electricity,Assessment - II,,2,"Effective resistance of two resistors A and B connected in parallel combination is x. Find the value of x if colour bands on A are blue, yellow, black and colour bands on B are red, yellow, black.",13.5 W,17.5 W,20.5 W,15.7 W,,b,,MCQ
+3,Electricity,Assessment - II,,3,"Assertion (A): 1 kilowatt = 1000 J s^–1&
+Reason (R): watt and J s^–1& both are SI units of power.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,a,,AR
+3,Electricity,Assessment - II,,4,Which of the following is correct?,The emf of a new dry cell is greater than old identical cell which is used for 3 months.,Internal resistance of a new cell must be greater than old one.,emf of new cell is less than that of old cell and internal resistance is greater than that of old.,The emf is a characteristic of a cell and is different for different cells.,,d,,MCQ
+3,Electricity,Assessment - II,,5,"It takes 5 minute to boil water in an electric kettle. If the length of the
+coil in the kettle is changed to half of its original length, then what will be the time taken to boil the same amount of water, with the same power supply?",2.5 min,5 min,10 min,20 min,,a,,MCQ
+3,Electricity,Assessment - II,,6,The reading of ammeter shown in the circuit given below is 10 A. Calculate time taken by the voltameter in which 10 g of mass is deposited at the cathode. [e.c.e of copper = 0.000332 g C^–1&],1.4 min,2 h,1.4 h,1.4 s,CH-3-6-ROW-82,c,,MCQ
+3,Electricity,Assessment - II,,7,Calculate the amount of work done in moving a 20 C charge between two points separated by 20 cm in a uniform electric field of strength 200 V m^–1&.,400 j,800 j,160 j,320 j,,b,,MCQ
+3,Electricity,Assessment - II,,8,Match the statements of Column A with those of Column B.,A → R; B → Q; C → P,A → G; B → P; C → R,A → R; B → P; C → Q,A → P; B → G; C → R,CH-3-8-ROW-84,c,,MCQ
+3,Electricity,Assessment - II,,9,The electric field at a point is 200 N C^–1&. Determine the acceleration of a charged particle of mass 100 g and charge 30 mC placed at that point.,11 X 10^-2& m s^-2&,8 X 10^-2& m s^-2&,6 X 10^-2& m s^-2&,4 X 10^-2& m s^-2&,,c,,MCQ
+3,Electricity,Assessment - II,,10,32 V is connected across the terminals of a conductor of resistance 40 W. Determine the number of electrons flowing through the conductor in 2 s.,10^36&,10^38&,10^18&,10^19&,,d,,MCQ
+3,Electricity,Assessment - II,,11,"A bulb is connected to a battery through a resistor. If another resistor is connected in series to the first, then what happens to the brightness of the bulb?",increases,remains same,decreases,increases or decreases depending upon the resistance of the filament,,c,,MCQ
+3,Electricity,Assessment - II,,12,The area of cross sections of two coils made of the same material is 1 : 2 and the ratio of their volumes is 2 : 3. Determine the ratio of their resistance.,5 : 4,8 : 7,8 : 3,3 : 5,,c,,MCQ
+3,Electricity,Assessment - II,,13,Study the circuit given below and determine the effective resistance (in W) between A and B.,3R/5,5R/3,3R/7,7R/3,CH-3-13-ROW-89,a,,MCQ
+3,Electricity,Assessment - II,,14,"A bulb is rated 60 W – 230 V. How much will be the current (in A) flowing through it, when connected to 115 V?",0.5,0.23,0.023,0.13,,d,,MCQ
+3,Electricity,Assessment - II,,15,A resistor is connected in series to a copper voltameter as shown in the circuit below. Determine the heat generated in the resistor in one hour if the mass of the ions deposited on the cathode is 3.294 g in 1000 s. [e.c.e. of copper is 0.0003294 g C^–1&],36 X 10^6& J,16 X 10^18& J,6 X 10^9& J,6 X 10^12& J,CH-3-15-ROW-91,a,,MCQ
+4,Dynamics,Assessment - I,,1,An object of mass 1 kg moves with an intitial velocity of 20 m s^-1&. How much is the force (in N) required to change the velocity to 30 m s^-1& in 1 ms?,10^3&,10^4&,10^2&,10^5&,,b,,MCQ
+4,Dynamics,Assessment - I,,2,"A force of 10 N is applied on a body of mass 1 kg. If the friction acting on it is 2 N, determine the acceleration of the body.",8 m s^-2&,4 m s^-2&,16 m s^-2&,12 m s^-2&,,a,,MCQ
+4,Dynamics,Assessment - I,,3,"A car of mass 2000 kg is moving uniformly at a velocity of 20 m s^-1&. If the engine gathers an extra momentum of 1000 kg m s^-1&, calculate the new velocity of the car.",25 m s^-1&,20.5 m s^-1&,14.5 m s^-1&,17.5 m s^-1&,,b,,MCQ
+4,Dynamics,Assessment - I,,4,"A body of mass 2 kg is dropped from 10 m height. Calculate the kinetic
+energy (in J) of the body on reaching the ground. (take g = 10ms^–2&)",400,300,200,100,,c,,MCQ
+4,Dynamics,Assessment - I,,5,The momentum of a body of mass 3 kg is 25 kg m s^–1&. Calculate the kinetic energy (in J) of the body.,180.2,104.16,275.8,325.6,,b,,MCQ
+4,Dynamics,Assessment - I,,6,"A force of 100 N acts on a body such that it makes an angle of 30^0& with the direction of displacement. If the displacement of the body is 2 m, find the work done.",100Ö3 J,50 J,150 J,150Ö2 J,,a,,MCQ
+4,Dynamics,Assessment - I,,7,Find the power developed by an engine in filling water of 2000 L from a well of depth 20 m in 20 s.,6 kW,20 kW,4 kW,2 kW,,b,,MCQ
+4,Dynamics,Assessment - I,,8,Calculate the work done by the gravity when an object of mass 50 kg is lifted upwards through a distance 20 m.,10^4& J,-10^4& J,10^2& J,-10^2& J,,b,,MCQ
+4,Dynamics,Assessment - I,,9,Match the statements of Column A with those of Column B.,A → S; B → Q; C → R; D → P,A → S; B → R; C → Q; D → P,A→ R; B → Q; C→ S; D → P,A → P; B → S; C → Q; D → R,CH-4-9-ROW-100,a,,MCQ
+4,Dynamics,Assessment - I,,10,A particle moves in a circular path of radius 20 cm with an angular velocity of 2p rad s^-1&. Find the speed of the particle.,0.4π m s^-1&,0.4π m s^-1&,2 m s^-1&,4 m s^-1&,,a,,MCQ
+4,Dynamics,Assessment - I,,11,An object of mass m is hanging from the ceiling of a cabin which is moving down with an acceleration ‘a’. Calculate the tension in the string.,m(g – a),m(g + a),m(g),ma,,a,,MCQ
+4,Dynamics,Assessment - I,,12,"A bullet of mass 100 g moving with a velocity of 100 m s^-1& is stopped by a plank. If the bullet travels a distance of 10 cm in the plank before it comes to rest, find the average force exerted by the plank.",100 N,1000 N,2500 N,5000 N,,d,,MCQ
+4,Dynamics,Assessment - I,,13,"A car of mass 1,500 kg takes a turn along a curved road of radius of curvature 20 m, with a speed of 36 km h^-1&. Determine the static friction acting on it if the road is not banked.",3200 N,4840 N,7500 N,8500 N,,c,,MCQ
+4,Dynamics,Assessment - I,,14,"A body starts to slide on a hemisphere of radius R from the topmost point as shown in the figure. If the surface is frictionless, determine the speed of the body at point B.",a,b,c,d,CH-4-14-ROW-105,c,,MCQ
+4,Dynamics,Assessment - I,,15,"A body of mass ‘m’ revolves around another body of mass ‘M’ in a circular path of radius ‘R’ due to the gravitational force of attraction. Arrange the following steps in sequential order to find the speed of the body:
+(P) Determine the speed of the body.
+(Q) Determine the gravitational force on the body.
+(R) Determine the centripetal force.
+(S) Equate the gravitational force with the centripetal force.",P R Q S,P R S Q,P S Q R,Q R S P,,d,,MCQ
+4,Dynamics,Assessment - II,,1,A car of mass 2000 kg is initially moving at 18 km h^–1&. How much is the force required to change the speed to 36 km h^-1& in 2 s?,2800 N,1500 N,2500 N,5000 N,,d,,MCQ
+4,Dynamics,Assessment - II,,2,"Two forces 20 N and 5 N act simultaneously on a body of mass 2 kg. Find its acceleration, if they act in opposite direction.",12.5 m s^-2&,2 m s^-2&,7.5 m s^-2&,5 m s^-2&,,c,,MCQ
+4,Dynamics,Assessment - II,,3,"An object of mass 20 kg is moving with a velocity 200 m s^-1&. If a force is applied so that the momentum is decreased by 100 kg m s^-1&, determine the new velocity of the object.",75 m s^-1&,205 m s^-1&,100 m s^-1&,195 m s^-1&,,d,,MCQ
+4,Dynamics,Assessment - II,,4,A body of mass 2 kg is thrown up with a velocity 10 m s^-1&. What is the maximum potential energy gained by the body?,100 J,200 J,300 J,400 J,,a,,MCQ
+4,Dynamics,Assessment - II,,5,The kinetic energy of a body of mass 5 kg is 200 J. Calculate the momentum (in kg m s^-1&) of the body.,20Ö5,Ö125,Ö175,Ö200,,a,,MCQ
+4,Dynamics,Assessment - II,,6,"The work done on a body by applying a force of 20 N, when the displacement is 4 m, is 40 J. Determine the angle between force and displacement.",45^0&,30^0&,60^0&,90^0&,,c,,MCQ
+4,Dynamics,Assessment - II,,7,Find the power developed by an engine if it imparts a velocity of 10 m s^-1& to a body of mass 2 kg in 0.1 s.,1 kW,2 kW,3 kW,4 kW,,a,,MCQ
+4,Dynamics,Assessment - II,,8,Calculate the work done by the gravity on an object of 20 kg when it is moved horizontally by applying a force of 20 N to produce a displacement of 2 m.,10 J,20 J,40 J,Zero ,,d,,MCQ
+4,Dynamics,Assessment - II,,9,Match the statements of Column A with those of Column B.,A → P; B → R; C → Q; D → S,A → S; B → Q; C → R; D → P,A → Q; B → P; C → S; D → R,A → Q; B → S; C→ R; D → P,CH-4-9-ROW-115,c,,MCQ
+4,Dynamics,Assessment - II,,10,A particle moves with a speed of 10 m s^-1& along a circular path of radius 30 cm. Calculate the angular velocity (in rad s^-1&).,121.2,11.1,33.3,22.2,,c,,MCQ
+4,Dynamics,Assessment - II,,11,An object of mass ‘m’ is hanging from a lift which is moving down with a uniform velocity. Find the tension in the string.,2 mg,mg,zero,3 mg,,b,,MCQ
+4,Dynamics,Assessment - II,,12,"A particle of mass 25 kg is dropped from 5 m height into a liquid. If the distance travelled by the particle before it comes to the state of rest in the liquid, is 200 cm, calculate the average resistance force offered by the liquid (neglect the upthrust).",2000 N,1800 N,875 N,8200 N,,c,,MCQ
+4,Dynamics,Assessment - II,,13,"A vehicle takes a turn along a curved road of radius of curvature 50 m, with a speed of 36 km h^-1&. Determine the coefficient of static friction if the road is not banked.",0.5,0.3,0.6,0.2,,d,,MCQ
+4,Dynamics,Assessment - II,,14,A body of mass ‘m’ slids on a hemisphere from the topmost point A. The velocity of the body at the point B is v m s^-1&. Then,a,b,c,d,CH-4-14-ROW-120,c,,MCQ
+4,Dynamics,Assessment - II,,15,A body is moving around another body of mass ‘M’ with a speed v m s^-1& due to the gravitational force of attraction between them. Determine the Radius of the orbit (in m).,GM/v,GM v,GM/v^2*,GM^2&/v,,c,,MCQ
+4,Dynamics,Assessment - III,,1,Choose the correct statement among the following.,Energy is conserved only when net external force is zero.,Momentum is conserved only when net external force is zero.,Power is a vector quantity,Energy is a vector quantity.,,b,,MCQ
+4,Dynamics,Assessment - III,,2,Calculate the power developed when a body of mass 20 kg is lifted to a height of 5 m in 2 s. (take g = 10 m s^–2&),5 kW,0.5 kW,10 kW,2 kW,,b,,MCQ
+4,Dynamics,Assessment - III,,3,"A spring balance is suspended from the ceiling of a lift which is moving up with a uniform acceleration of 2 m s^-2&. If a body of mass 3 kg is suspended from the spring balance, then what will be the reading shown by it? (take g = 10 m s^-2&)",54 N,42 N,38 N,36 N,,d,,MCQ
+4,Dynamics,Assessment - III,,4,Which among the following is different from others?,Tension in a string,Friction,Force exerted by a spring when it is compressed,Weight of a body,,d,,MCQ
+4,Dynamics,Assessment - III,,5,A body of mass 5 kg is at rest on an inclined plane of angle of inclination 30^0& as shown in the figure. What will be the resultant contact force (in N) exerted by the surface on the body?,25,70,25Ö3,50,CH-4-5-ROW-126,d,,MCQ
+4,Dynamics,Assessment - III,,6,"A car is moving along a curved road of radius of curvature 5 m. If the road is not banked and the coefficient of static fiction is Ö2 , how much can the maximum speed (in m s^-1&) of the car be?",Ö68.6,Ö47.3,Ö92.6,Ö82.3,,a,,MCQ
+4,Dynamics,Assessment - III,,7,"A pendulum of length 90 cm is set into oscillations. When it reaches to the mean position, the tension in the string is 5 N. If the mass of the body is 300 g, determine the maximum kinetic energy of the bob.",4 J,3 J,0.6 J,0.9 J,,d,,MCQ
+4,Dynamics,Assessment - III,,8,"A block of mass ‘m’ is projected with a velocity v towards a spring of spring constant ‘k’, which fixed on a rigid support. Determine the maximum compression of the spring. [The surface is frictionless]",a,b,c,d,CH-4-8-ROW-129,c,,MCQ
+4,Dynamics,Assessment - III,,9,A car moving with a speed of 72 km h^–1& is stopped by applying brake. The mass of the car is 1000 kg and the average frictional force used to stop the car is 6000 N. Determine the distance travelled before it comes to the state of rest.,44.44 m,22.22 m,33.33 m,11.11 m,,c,,MCQ
+4,Dynamics,Assessment - III,,10,"Two satellites of masses ‘m’ and ‘2m’ are moving around two planets of masses 2M and M, respectively. If ‘r’ and 2r are the radii of their orbits, determine the ratio of their time periods.",1/2,1/8,1/4,2/3,,c,,MCQ
+4,Dynamics,Assessment - III,,11,"Assertion (A): When a stone is tied to a string and rotated in a circular path, the work done by the tension of the string is zero.
+Reason (R): The tension is an electromagnetic force.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,b,,AR
+4,Dynamics,Assessment - III,,12,"Assertion (A): A satellite revolving in an orbit closer to the surface of the earth has more speed than one which is moving in an orbit of higher radius.
+Reason (R): The orbital velocity of a satellite is inversely proportional to the radius of the orbit.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,c,,AR
+4,Dynamics,Assessment - III,,13,Match the statements of Column A with those of Column B.,A → S; B → P; C → Q; D → R,A → S; B → R; C → Q; D → P,A → R; B → P; C → Q; D → S,A → R; B → P; C → Q; D → R,CH-4-13-ROW-134,d,,MCQ
+4,Dynamics,Assessment - III,,14,"Arrange the following in the increasing order of magnitude of force.
+(P) Force required to move a body of mass 10 kg up on a smooth inclined plane of angle of inclination 60^0&.
+(Q) The force required to move a body of mass 2 kg along a circular path of radius 2 m, with a speed 5 m s^–1&.
+(R) The resultant force acting on the body of mass 5 kg as shown in figure. All the surfaces are friction less.
+(S) A body is placed on an inclined plane. The normal force exerted by the inclined plane is 15 N and a frictional force of 5 N. The total force exerted by the inclined plane.",Q P R S,P R S Q,Q S P R, S Q R P,CH-4-14-ROW-135,d,,MCQ
+4,Dynamics,Assessment - III,,15,"Arrange the following actions in the increasing order of effort required.
+(P) The effort required to move a body of mass 20 kg by using a single movable pulley of negligible mass and friction.
+(Q) The effort required to lift an object of mass 50 kg by using a wheel and axle. The radii of the wheel and axle are 20 cm and 5 cm, respectively.
+(R) The effort required to lift an object of mass 50 kg by using an inclined plane of angle of inclination 30^0&.",R Q P,P R Q,P Q R,Q R P,,c,,MCQ
+4,Dynamics,Assessment - IV,,1,If an object is moving along a rough inclined plane its,mechanical energy and momentum are conserved.,mechanical energy and momentum are not conserved.,mechanical energy is conserved but momentum is not conserved.,mechanical energy is not conserved but momentum is conserved.,,b,,MCQ
+4,Dynamics,Assessment - IV,,2,Calculate the maximum kinetic energy gained by a body of mass 5 kg projected upwards if the time of flight of the body is 4 s. (take g = 10 m s^–2&),200 J,10 Kj,1 kJ,100 kJ,,c,,MCQ
+4,Dynamics,Assessment - IV,,3,"A weighing machine is placed in a lift which is descending with a uniform acceleration 3 m s^-2&. If a body of mass 50 kg is placed on the weighing machine, then what will be the reading shown by it? (take g = 10 m s^–2&)",350 N,650 N,500 N,250 N,,a,,MCQ
+4,Dynamics,Assessment - IV,,4,"E, N and G are the electromagnetic, nuclear and gravitational forces between two protons separated by 10 cm, then",E > N > G,G > E > N,E > G > N,N > G > E,,c,,MCQ
+4,Dynamics,Assessment - IV,,5,A body of mass 5 kg is placed on an inclined plane as shown in the figure given below. Determine the magnitude of minimum force ‘F’ required to keep the body under equilibrium. The coefficient of static friction is 1.,17.5 N,12.5 N,25Ö3 N,25 N,CH-4-5-ROW-141,a,,MCQ
+4,Dynamics,Assessment - IV,,6,"A car is moving along a curved road whose radius of curvature is 3 m, and it is banked at an angle 15^0&. What is the safe speed of the car?",a,b,c,d,CH-4-6-ROW-142,b,,MCQ
+4,Dynamics,Assessment - IV,,7,"When a pendulum of length 50 cm is set into oscillation, the maximum 
+change in potential energy is found to be 4 J. If the mass of the bob is 200 g, determine the tension in the string when it is at the mean position.",16 n,18 n,32 n,56 n,,b,,MCQ
+4,Dynamics,Assessment - IV,,8,"An object of mass 2 kg is suspended from a spring of spring constant 500 N m^–1&. If the natural length of the spring is 10 cm, what is the length of the spring when the body is suspended?",21 cm,4 cm,14 cm,18 cm,,c,,MCQ
+4,Dynamics,Assessment - IV,,9,"An object of mass 2 kg is moving with an initial velocity of 36 km h^-1& on a rough inclined surface of angle of inclination 45^0&. If the maximum increase in potential energy is 80 J, determine the coefficient of sliding friction between the surfaces.",0.3,0.7,0.1,Ö200,,d,,MCQ
+4,Dynamics,Assessment - IV,,10,"P and Q are two celestial objects moving around a star. D~1* and d~2* are the radii of the orbits of P and Q, respectively. Determine the ratio of their time periods.",a,b,c,d,CH-4-10-ROW-146,b,,MCQ
+4,Dynamics,Assessment - IV,,11,"Assertion (A): A body is moved from a point A to a point B and again
+brought back to the point A. If the body is moved on a rough surface, the total work done by the frictional force is zero.
+Reason (R): The total displacement of the body is zero and work done is given by Fs cos q",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,d,,AR
+4,Dynamics,Assessment - IV,,12,"Assertion (A): A person in a satellite experiences weightlessness.
+Reason (R): No gravitational force acts on the person.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,c,,AR
+4,Dynamics,Assessment - IV,,13,Match the statements of Column A with those of Column B.,A → Q; B → R; C → S; D → P,A → S; B → S; C → P; D → Q,A → S; B → R; C → Q; D → P,A → Q; B → S; C → R; D → Q,CH-4-13-ROW-149,b,,MCQ
+4,Dynamics,Assessment - IV,,14,"A body of mass 10 kg is suspended from the ceiling of a lift. Arrange the following cases with the increase in order of tension developed in the string.
+(P) When the lift is moving up with a uniform velocity.
+(Q) When the lift is accelerated uniformly in the upward direction.
+(R) When the lift is accelerated downwards uniformly.",P Q R,R P Q,R Q S,Q P R,,b,,MCQ
+4,Dynamics,Assessment - IV,,15,"Arrange the following actions in the increasing order of effort required.
+(P) The force required to lift an object of mass 1000 kg by using a screw jack of pitch 2 cm and length of the lever 28 cm.
+(Q) The effort required to lift a body of mass 25 kg by using a simple machine of efficiency 60% and velocity ratio 2.
+(R) The minimum force required to lift a body of mass 100 kg by using a rod of length 1 m and length of load arm = 10 cm.",P Q R,R P Q,Q R P,R Q P,,b,,MCQ
+5,Electromagnetism,Assessment - I,,1,"Assertion (A): After magnetization, the length of the iron rod increases.
+Reason (R): Magnetisation is nothing but rearranging molecules in the single direction.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,a,,AR
+5,Electromagnetism,Assessment - I,,2,"In Fleming’s left-hand rule,",the middle finger shows direction of electric current.,the fore finger shows direction of motion of the conductor.,the thumb shows magnetic field.,middle finger and thumb are not mutually perpendicular to each other.,,a,,MCQ
+5,Electromagnetism,Assessment - I,,3,"N~1* and N~2* are the number of turns in primary and secondary coil of a transformer, respectively. Then for a step-up transformer,",N~1* < N~2*,N~1* = N~2*,N~1* > N~2*,Insufficient information,,a,,MCQ
+5,Electromagnetism,Assessment - I,,4,Which of the following is an incorrect statement?,Angle of declination changes from place to place.,Angle of inclination changes from place to place.,Angle between the magnetic and geographical axis of the Earth is 17^0&.,The angle of dip is minimum at the magnetic poles.,,d,,MCQ
+5,Electromagnetism,Assessment - I,,5,Galvanometer constant is,inversely proportional to the number of turns in a coil.,directly proportional to the area of cross section of a coil.,directly proportional to the magnetic field.,inversely proportional to couple per unit twist.,,a,,MCQ
+5,Electromagnetism,Assessment - I,,6,5 A of current is passing through a coil of 500 turns and radius of each turn is p cm. The change in magnetic field induction ‘B’ at the centre of the coil if above coil is made into 250 turns without changing the length of the wire.,3.75 x 10^-2& T,3.75 x 10^-2& mT,7.75 x 10^-4& mT,3.75 T,,a,,MCQ
+5,Electromagnetism,Assessment - I,,7,Obtain the rate of current increased if 120 V of AC supply is connected to a coil of self inductance 20 H.,0.166 A s^-1&,3 A s^-1&,6 A s^-1&,8 A s^-1&,,c,,MCQ
+5,Electromagnetism,Assessment - I,,8,The relative permeability is the least in ______ magnetic substances.,dia,ferro,feeri,para,,a,,MCQ
+5,Electromagnetism,Assessment - I,,9,A coil of area 20 cm^2& is placed perpendicular to a magnetic field and the strength of the magnetic field is changed from 200 T to 400 T in 0.1 s. What will be the induced emf (in V) across the terminals of the conductor?,8,4,2,1,,b,,MCQ
+5,Electromagnetism,Assessment - I,,10,"The number of turns in primary and secondary coils of a transformer are 200 and 300, respectively. Determine the output voltage of the transformer if an input of 200 V is given to it.",1200 V,900 V,300 V,600 V,,c,,MCQ
+5,Electromagnetism,Assessment - I,,11,Two infinitely long wires carry electric current are shown below. Determine the resultant magnetic field at the point P.,5 x 10^-4& T,8 x 10^-2& T,2 x 10^-4& T,10^-3& T,CH-5-11-ROW-162,c,,MCQ
+5,Electromagnetism,Assessment - I,,12,Determine the strength of the magnetic field at the centre of a circular coil of radius 5 cm carrying 5 A electric current.,2π × 10^–4& T,3π × 10^–6& T,π × 10–6 T,4π × 10&^–17& T,,a,,MCQ
+5,Electromagnetism,Assessment - I,,13,"A current carrying conductor of mass 20 g and length 50 cm is placed in perpendicular to a magnetic field of strength 20 T on a friction less horizontal surface. Write the given steps in sequential order to determine the acceleration produced in the wire if 2 A current flows through it.
+(A) Note the given data.
+(B) Use the expression, F = Bil.
+(C) Use the expression, F = ma.
+(D) Equate the two expressions.
+(E) Determine the value of acceleration of wire.",A B C D E,B C D A E,A C D B E,B C A D E,,a,,MCQ
+5,Electromagnetism,Assessment - I,,14,"Assertion (A): A bundle of thin wires is used for the transmission of electrical energy instead of a single wire of same thickness.
+Reason (R): Charge flows only on the surface of the conductors.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,a,,AR
+5,Electromagnetism,Assessment - I,,15,Match the statements of Column A with those of Column B.,A – Q; B – P; C – R; D – S,A – Q; B – P; C – S; D – R,A – Q; B – R; C – P; D – S,A – S; B – R; C – Q; D – P,CH-5-15-ROW-166,c,,MCQ
+5,Electromagnetism,Assessment - II,,1,"Assertion (A): Iron rod is used to make temporary magnet.
+Reason (R): Susceptibility of iron is high and positive",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,b,,AR
+5,Electromagnetism,Assessment - II,,2,At what angle between the conductor and the magnetic field is the magnetic force acting on a conductor placed in a magnetic field maximum?,0^0&,30^0&,90^0&,45^0&,,c,,MCQ
+5,Electromagnetism,Assessment - II,,3,"For a step-down transformer,",input voltage is greater than output voltage.,input current is greater than output current,the primary voltage is stepped up to a higher value.,the number of turns of primary coil is less than that of secondary coil.,,a,,MCQ
+5,Electromagnetism,Assessment - II,,4,Which of the following is an incorrect statement?,Angle of dip is maximum at the poles.,Angle of dip is minimum at the equator.,Angle of dip is maximum at the equator.,"At magnetic equator of the earth, angle of dip is zero.",,c,,MCQ
+5,Electromagnetism,Assessment - II,,5,Galvanometer becomes,a voltmeter if a high resistance is connected in series with it.,an ammeter if a low resistance is connected in parallel with it.,an ammeter if a high resistance is connected in series with it.,Both (a) and (b),,d,,MCQ
+5,Electromagnetism,Assessment - II,,6,"2 A and 3 A of current is passing through two coils. Then what will be the ratio of the radii of the coils, if the magnetic field at the centres of the two coils are 10 T and 15 T, respectively and the ratio of number of turns is 1 : 2?",1 : 3,1 : 2,1 : 4,1 : 5,,b,,MCQ
+5,Electromagnetism,Assessment - II,,7,"200 V AC supply is connected to a coil. If the rate of current increases to 4 s^–1&, then how much will be the inductance of the coil?",50 H,60 H,0.02 H,55 H,,a,,MCQ
+5,Electromagnetism,Assessment - II,,8,The magnetic susceptibility is the highest in ______ magnetic substances.,dia,ferro,ferri,para,,b,,MCQ
+5,Electromagnetism,Assessment - II,,9,"A coil is placed perpendicular to a uniform magnetic field of strength 200 T. If the area of the coil is changed from 20 cm^2& to 25 cm^2& in 0.1 s, then what will be the induced emf (in V) in the coil?",3,8,1,2,,c,,MCQ
+5,Electromagnetism,Assessment - II,,10,A current of 20 A is passed through the primary coil of a transformer. The ratio of the number of turns in the primary to that in the secondary coil of the transformer is 1 : 5. Determine the output current.,10 A,4 A,8:00 AM,16 A,,b,,MCQ
+5,Electromagnetism,Assessment - II,,11,Two infinitely long wires are placed parallel to each other as shown below. Determine the ratio of the magnetic field due to A and B at the point P.,1/5,1/2,1/3,1/4,CH-5-11-ROW-177,d,,MCQ
+5,Electromagnetism,Assessment - II,,12,"Determine the amount of current flowing through a circular coil if the
+strength of magnetic field at the centre of the coil is 4 × 10^–5& T and its radius is 4 cm.",1/π A,2/π A,8/π A,4/π A,,c,,MCQ
+5,Electromagnetism,Assessment - II,,13,"A coil of mass 30 g is placed on a frictionless horizontal surface. A magnetic field is applied perpendicular to the wire of length 1 m carrying 5 A current. If the acceleration produced in the wire is 1 m s^–2&, arrange the following steps to determine the strength of the magnetic field in proper order.
+(A) Use the expression for the force, F = Bil.
+(B) Note the given values.
+(C) Use the expression, F = ma.
+(D) Equate the two equations and find out the value of magnetic field",B D A C,B A C D,D C A B,D A C B,,b,,MCQ
+5,Electromagnetism,Assessment - II,,14,"Assertion (A): A body can possess a charge of 8 × 10^-20& C.
+Reason (R): Charge present on a body is a sub-multiple of the charge of an electron.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,d,,AR
+5,Electromagnetism,Assessment - II,,15,Match the statements of Column A with those of Column B.,A – Q; B – R; C – P; D – S,A – S; B – R; C – Q; D – P,A – P; B – Q; C – R; D – S,A – R; B – S; C – P; D – Q,CH-5-15-ROW-181,d,,MCQ
+6,Light,Assessment - I,,1,A light ray is incident on a surface with a glancing angle of refl ection of 30^0&. Find the angle of deviation.,30^0&,45^0&,120^0&,60^0&,,d,,MCQ
+6,Light,Assessment - I,,2,"What is the frequency that corresponds to a light ray of wavelength 450 nm, when travelling through a glass of refractive index 3/2?",4.4 x 10^14& Hz,3.2 x 10^16& Hz,1.2 x 10^8& Hz,6.8 x 10^7& Hz,,a,,MCQ
+6,Light,Assessment - I,,3,"An object is placed in front of a concave and convex mirror as shown below. Determine the value of ‘x’ if the virtual images are formed on the same plane. The focal length of the concave and convex mirrors are 40 cm and 6.5 cm, respectively.",15 cm,10 cm,20 cm,25 cm,CH-6-3-ROW-184,b,,MCQ
+6,Light,Assessment - I,,4,An object is placed in front of a plane mirror. Determine the shift in position of the image if the object and the mirror are moved 5 cm each towards each other.,5 cm,10 cm,20 cm,15 cm,,d,,MCQ
+6,Light,Assessment - I,,5,Match the statements of Column A with those of Column B.,P → r; Q → p; R → q,P → r; Q → q; R → p,P → p; Q → r; R → q,P → q; Q → r; R → p,CH-6-5-ROW-186,a,,MCQ
+6,Light,Assessment - I,,6,"A tree of height 10 m is viewed by a diver under water at a certain distance from the surface. Determine the apparent height [m~w*=4/3]
+of the tree.",20 m,6.66 m,40/3 m,25 m,,c,,MCQ
+6,Light,Assessment - I,,7,The critical angle of a medium A with respect to medium B is 60^0&. Determine the velocity of light in B if the velocity of light in A is 2 × 10^8& m s^–1&.,3 x 10^8& m s^-1&,4/Ö3 x 10^8& m s^-1&,Ö4/3 x 10^8& m s^-1&,4/3 x 10^8& m s^-1&,,b,,MCQ
+6,Light,Assessment - I,,8,Which of the following produces real image?,convex lens,concave lens,convex mirror,plane mirror,,a,,MCQ
+6,Light,Assessment - I,,9,The refractive index of glass is Ö3 . Determine the angle of minimum deviation of an equilateral prism made of the glass.,30^0&,60^0&,90^0&,45^0&,,b,,MCQ
+6,Light,Assessment - I,,10,A green-coloured dress appears ____ when viewed in red light.,green,red,white,black,,d,,MCQ
+6,Light,Assessment - I,,11,The power of an eye lens used by a person is +2D. Which of the following defects is the person suffering from?,presbyopia,myopia,hypermetropia,astigmatism,,c,,MCQ
+6,Light,Assessment - I,,12,A person is unable to view the objects placed beyond 3 m. What is the power (in D) of the lens required to correct the defect?,-0.5,-0.33,0.33,+0.5,,b,,MCQ
+6,Light,Assessment - I,,13,An object is placed in front of a convex and concave lens as shown below. What will be the image distances (in cm) on the convex and concave lens? The focal length of both the lenses are 30 cm.,"17, 120","32, 132","18, 32","14, 15",CH-6-13-ROW-194,a,,MCQ
+6,Light,Assessment - I,,14,What does a combination of a convex lens of power +2 D and a concave lens of power –1 D behave as?,a convex lens of power +1 D.,a concave lens of power –1 D.,a convex lens of power +2 D.,a concave lens of power +1 D.,,a,,MCQ
+6,Light,Assessment - I,,15,"When a light ray is passed through a prism, two different colours are seen on a screen as shown below. If m~1*, m~2* and V~1*, V~2* are the refractive indices and velocities of these colours (1) and (2), respectively, arrange the following steps to compare their refractive indices and velocity of light in the prism.
+(A) Use the relation between refractive index and velocity of light.
+(B) Use the fact that higher the angle of deviation, higher is the refractive
+index.
+(C) Compare the angle of deviation of the two colours.
+(D) Compare the velocity of light.",A C B D,C B A D,A D B E,C D A B,CH-6-15-ROW-196,b,,MCQ
+6,Light,Assessment - II,,1,The angle of deviation of a light ray when it is reflected from a surface is 120^0&. What will be the angle of incidence?,15^0&,120^0&,30^0&,60^0&,,c,,MCQ
+6,Light,Assessment - II,,2,"A light ray of frequency 5 × 10^14& Hz is travelling through water. If the refractive index of water is 4/3, then determine the wavelength?",450 mm,500 mm,700 mm,600 mm,,a,,MCQ
+6,Light,Assessment - II,,3,"An object is placed infront of a concave and plane mirror as shown in the figure given below. If the focal length of the concave mirror is 25 cm and the virtual images coincide each other, determine the value of x.",15.6 cm,11.25 cm,23.55 cm,26.5 cm,CH-6-3-ROW-199,b,,MCQ
+6,Light,Assessment - II,,4,An object is placed in front of a plane mirror at a distance x cm. Determine the shift in position of the mirror required to shift the image through 20 cm towards the mirror.,10 cm towards the object,10 cm towards the image,20 cm towards the object,20 cm towards the image,,a,,MCQ
+6,Light,Assessment - II,,5,Match the statements of Column A with those of Column B.,P → p; Q → r; R → q,P → p; Q → q; R → r,P → r; Q → q; R → r,P → q; Q → p; R →r,CH-6-5-ROW-201,c,,MCQ
+6,Light,Assessment - II,,6,A person on the top of a coconut tree of height 10 m looks at the bottom of a swimming pool of depth 2 m. Determine the apparent position of the bottom of the pool viewed by the person (Refractive index of water = 4/3),80/3 m,4/3 m,23/2 m,30/7 m,,c,,MCQ
+6,Light,Assessment - II,,7,"The velocities of light in medium P and Q are 2.5 × 10^8& m s^–1& and 2 × 10^8& m s^–1&, respectively. Determine the critical angle of the pair of medium.",a,b,c,d,CH-6-7-ROW-203,d,,MCQ
+6,Light,Assessment - II,,8,Which of the following does not form a real image?,reflection,refraction,convex lens,plane mirror,,d,,MCQ
+6,Light,Assessment - II,,9,The angle of minimum deviation of a prism of refracting angle 60^0& is 30^0&. Determine its refractive index.,Ö2,Ö3,Ö3/2,2Ö2,,a,,MCQ
+6,Light,Assessment - II,,10,A blue-coloured object appears blue when viewed in some light. Then it is –––––––––––– light.,Blue ,White,Red,Either (a) or (b),,d,,MCQ
+6,Light,Assessment - II,,11,"The power of a lens used by a person is –0.5 D. Which of the following
+defects is the person suffering from?",myopia,hypermetropia,astigmatism,presbyopia,,a,,MCQ
+6,Light,Assessment - II,,12,A person is unable to view the objects placed closer than 50 cm. What will the power of the lens required to correct the defect?,-2 D,+2 D,3 D,-3 D,,b,,MCQ
+6,Light,Assessment - II,,13,An object is placed in front of a convex lens of focal length 50 cm and concave lens as shown below. Find the focal length of concave lens if the image on the convex lens is formed at 80 cm from it.,15 cm,30 cm,45 cm,60 cm,CH-6-13-ROW-209,a,,MCQ
+6,Light,Assessment - II,,14,What does a combination of a convex lens of power +3 D and a concave lens of power –2 D behavs as?,a convex lens of power +1 D.,a concave lens of power –1 D.,a convex lens of power +5 D.,a concave lens of power –2 D.,,a,,MCQ
+6,Light,Assessment - II,,15,"When a light ray is passed through a prism, three different colours are seen on the screen as shown below. If the l~1*, l~2* and l~3* are their wavelengths, m~1*, m~2* and m~3* are their refractive indices, arrange the following steps to compare the wave lengths and refractive indices of these colours.
+(A) Use the fact-more the angle of deviation, more is the refractive index.
+(B) Compare the angle of deviation.
+(C) Use the relation between refractive index and velocity of light.
+(D) Compare the wave length of light and velocity.
+(E) Use the relation, V= nl",A C B D E,E D B A C,B A C E D,B A D C E,,c,,MCQ
+6,Light,Assessment - III,,1,"Assertion : Different colours of light travel at different speeds in vacuum.
+Reason : Refractive index of a medium depends upon the wavelength of light.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,c,,AR
+6,Light,Assessment - III,,2,"Assertion : Red colour is used in danger signals.
+Reason : The scattering of red is more as its wavelength is more.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,c,,AR
+6,Light,Assessment - III,,3,"A body is located on a wall. Its image of equal size is to be obtained on a parallel wall with the help of a convex lens. If the lens is placed at a distance of 20 cm ahead of second wall, then what will be the required focal length?",10 cm towards the object,more than 5 cm and less than 10 cm,20 cm,40 cm,,a,,MCQ
+6,Light,Assessment - III,,4,Which of the following is not due to total internal reflection?,Brilliance of diamond,Mirage on hot summer days,Working of optical fibre,Difference between apparent and real depth of pond.,,d,,MCQ
+6,Light,Assessment - III,,5,An air bubble in a glass slab (m = 3/2) is 6 cm deep when viewed from one face and 3 cm deep when viewed from the opposite face. Determine the thickness of the slab?,9 cm,13.5 cm,15 cm,18 cm,,b,,MCQ
+6,Light,Assessment - III,,6,"A ray of light is incident on the face of an equilateral prism. The ray suffers minimum deviation and the angle of deviation is 40^0&. Determine angle of the incident ray of light. (For minimum deviation, angle of incidence = angle of emergence.)",25^0&,50^0&,30^0&,40^0&,,b,,MCQ
+6,Light,Assessment - III,,7,"To obtain magnified image with simple microscope, where should be the object kept?",close to the lens between its focus and its optic centre.,at double the distance between focus and optic centre.,at infinity.,at triple the distance between the optic centre and the focus from the lens.,,a,,MCQ
+6,Light,Assessment - III,,8,Which of the following will the focal length of a convex lens be maximum for?,red light,yellow light,green light,blue light,,a,,MCQ
+6,Light,Assessment - III,,9,"If a light ray is incident normally onto the surface of a glass slab, then the ray _______.",emerges without any deviation,bends towards the normal,bends away from the normal,undergoes total internal reflection,,a,,MCQ
+6,Light,Assessment - III,,10,A small coin is placed in a transparent medium as shown in the figure. A ray of light from the coin travels up to the surface of the material and moves along its surface. How fast is the light travelling in the medium?,1.2 x 10^8& m s^-1&,2.1 x 10^8& m s^-1&,2.7 x 10^8& m s^-1&,1.6 x 10^8& m s^-1&,,c,,MCQ
+6,Light,Assessment - III,,11,"If an object appears blue in the presence of cyan light and red in the presence of yellow light, what is the colour of the object?",cyan,magneta,yellow,green,,b,,MCQ
+6,Light,Assessment - III,,12,"A ray of light is incident at an angle of ‘i’ on one surface of a prism of small angle 6^0& and emerges normally from the opposite surface. If the refractive index of the material of prism is 3/2, then the angle of incidence ‘i’ is nearly equal to _____. [For small angles sinq~q]",8^0&,6^0&,9^0&,30^0&,,c,,MCQ
+6,Light,Assessment - III,,13,A transparent cube of density 0.2 g cm^-3& floats in water. The thickness of the cube is 10 cm and the depth of the water in the container is 17 cm. A mark at the bottom of the container is observed from air and it appears at a distance of 20 cm from the upper surface of the transparent material. Obtain refractive index of the transparent material. (m~w*=4/3),8/7,11/8,3/7,3/2,,a,,MCQ
+6,Light,Assessment - III,,14,Match the statements of Column A with those of Column B.,P → s; Q → q; R → r; S → p,P → s; Q → p; R → q; S → r,P → p; Q → r; R → q; S → s,P → s; Q → p; R → r; S → q,CH-6-14-ROW-225,b,,MCQ
+6,Light,Assessment - III,,15,"Ramesh observed that a coin placed at the bottom of a bucket filled with water appears to be raised. He determined the shift in position of the coin and listed the steps in the calculation. Arrange the steps in the proper sequence.
+(A) Note the refractive index of the water.
+(B) Determine the depth of the water in the bucket, (d).
+(C) Determine the shift in position of the coin as, (d – d~a*).
+(D) Determine the apparent depth of the coin, (d~a*).",B A D C,C D A B,A B C D,B D A C,,a,,MCQ
+6,Light,Assessment - IV,,1,"Assertion: In the visible spectrum, the deviation of violet colour is maximum when it enters one medium from another.
+Reason: Deviation depends on the refractive index of the medium for a given wavelength of light.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,a,,MCQ
+6,Light,Assessment - IV,,2,"Assertion: Sky appears in blue colour.
+Reason: Blue colour in sunlight travelling through atmosphere undergoes maximum scattering.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,a,,MCQ
+6,Light,Assessment - IV,,3,"A converging lens is placed in between an object and a screen. The magnification produced due to the lens is 2. If the distance between the object and the screen is 45 cm, then calculate its focal length (in cm).",20,30,40,10,,d,,MCQ
+6,Light,Assessment - IV,,4,"Just before setting, the sun may appear to be elliptical. Which of the following phenomena is responsible for this?",Reflection,Dispersion,Refraction,Diffraction,,c,,MCQ
+6,Light,Assessment - IV,,5,A glass slab of thickness 3 cm and refractive index 1.5 is placed on a paper. A person looks at it from a distance of 5 cm above the paper. At what distance (in cm) from the person does the paper appear to be?,1,2,3,4,,d,,MCQ
+6,Light,Assessment - IV,,6,The refractive index of the material of a prism is Ö2 and its refracting angle is 30^0&. One of the refracting surfaces of the prism is made a mirror inwards. At what angle of incidence of the prism will a beam of monochromatic light enters the prism from the opposite face of the slivered surface?,30^0&,60^0&,45^0&,90^0&,,c,,MCQ
+6,Light,Assessment - IV,,7,"Four lenses having the focal lengths of +15 cm, +20 cm, +150 cm and +250 cm, respectively are provided to make an astronomical telescope. What should be the focal length of the eye piece, to produce largest magnification?",+250 cm,+150 cm,+20 cm,15 cm,,d,,MCQ
+6,Light,Assessment - IV,,8,"The focal length of a convex lens is measured by focusing a parallel beam of yellow, violet and green colours at the principal axis. If f~y*, f~v* and f~g* are the respective focal lengths, then which among the following is the correct relation?",f~v*=f~y*=f~g*,f~v* < f~g* < f~y*,f~v* > f~y* > f~g*,f~v* > f~g* > f~y*,,b,,MCQ
+6,Light,Assessment - IV,,9,"A beam of light composed of red and green rays is incident obliquely at a point on the face of a rectangular glass slab. When coming out on the opposite parallel face, where will the red and green rays emerge from?",two points propagating in two different parallel directions,one point propagating in two different directions,one point propagating in the same direction,two points propagating in two different non-parallel directions,,a,,MCQ
+6,Light,Assessment - IV,,10,"An opaque circular disc of diameter 20 cm is placed over a glass slab as shown in the figure. There is a mark x at the bottom of the glass slab vertically down the centre of the circular disc. For a person to observe the mark from the upper surface, what should be the minimum height (in cm) of the glass slab?
+(a~m* ~g* = 3/2)",5 Ö5,Ö5,10,2 Ö5,CH-6-10-ROW-236,a,,MCQ
+6,Light,Assessment - IV,,11,A convex lens and concave lens each having same focal length ‘f ’ are put in contact to form a combination of lenses. What will be the power of combination?,2f,3f,zero,infinite,,c,,MCQ
+6,Light,Assessment - IV,,12,An equilateral prism deviates a ray of light by 10^0& for two angles of incidence differing by 10°. Find out the two angles of incidence?,"30^0& , 40^0&","10^0& ,20^0&","50^0&, 40^0&","20^0& , 30^0&",,a,,MCQ
+6,Light,Assessment - IV,,13,A glass slab is placed in a beaker as shown in the figure. A paint mark at the bottom of the beaker when observed through the glass slab appears at a distance 2 cm below the top surface of glass slab. The beaker is then filled with water to a depth of 5 cm. What is the position (in cm) of the paint mark when observed from above the water surface?,6,4,3.5,8.3,CH-6-13-ROW-239,c,,MCQ
+6,Light,Assessment - IV,,14,"If u is the object distance, v is the image distance, f is the focal length and 2f is radius of curvature measured from the pole of a concave mirror, which among the following is the correct match of entries in column A to the entries in Column B.",P → s; Q → q; R → r; S → p,P → s; Q → p; R → q; S → r,P → r; Q → s; R → q; S → p,P → s; Q → q; R → r; S → p,CH-6-14-ROW-240,a,,MCQ
+6,Light,Assessment - IV,,15,"Srinivas wants to make blue light incident on a screen. He has a source of white light, magenta filter and cyan filter. Arrange the following steps in the proper sequence to obtain the blue light.
+(A) Allow the light to pass through cyan filter.
+(B) Allow the light ray to pass through magenta filter.
+(C) Place a white screen and allow the light to fall on it.",A C B,B A C ,A B C,Both (b) and (c).,,d,,MCQ
+7,Wave Motion and South,Assessment - I,,1,The intensity of sound wave at a distance of 40 m from the source is I. What will be the intensity at a distance of 90 m from the source?,I/5,I/2,I/3,I/7,,a,,MCQ
+7,Wave Motion and South,Assessment - I,,2,"Determine the value of velocity of sound in CO~2* if the velocity of sound in
+O~2* is 340 m s^–1& under the same pressure and temperature.",a,b,c,d,CH-7-2-ROW-243,c,,MCQ
+7,Wave Motion and South,Assessment - I,,3,"A scooterist moves away from a wall with a speed of 54 km h^–1&. He blows
+horn when he is at a distance of 100 m from the wall. Determine the time
+after which he hears the echo of the horn. The velocity of sound in air is 340
+m s^–1&.",0.6 s,0.9 s,2.5 s,3.45 s,,a,,MCQ
+7,Wave Motion and South,Assessment - I,,4,"One end of a string of length 2 m and mass 50 g is xed and a 2 kg mass is
+suspended from the other end. Determine the velocity of the wave travelling
+through the string.",10 m s^-1&,20 m s^-1&,20Ö2 m s^-1&,30Ö3 m s^-1&,,c,,MCQ
+7,Wave Motion and South,Assessment - I,,5,Which among the following is different from others?,Motion of the Earth on its own axis.,Motion of the Earth around the Sun.,Motion of the needle of a sewing machine.,Motion of the Moon around the Earth.,,c,,MCQ
+7,Wave Motion and South,Assessment - I,,6,Choose the incorrect statement,The velocity of sound is always not affected by the pressure.,The velocity of sound is not affected by the pressure when temperature is kept constant.,The velocity of sound increases if temperature is increased.,Speed of sound increases with humidity.,,b,,MCQ
+7,Wave Motion and South,Assessment - I,,7,"The first and second resonances take place in a resonating air column at 21
+cm and 61 cm, respectively. If the frequency of vibration is 400 Hz, determine
+the velocity of sound.",300 m s^–1&,260 m s^–1&,320 m s^–1&,340 m s^–1&,,c,,MCQ
+7,Wave Motion and South,Assessment - I,,8,"A string is in its first overtone when vibrated with a tuning fork of frequency
+50 Hz. If the length of the string is 20 cm, determine the velocity of the wave
+travelling through the string.",10 m s^-1&,20 m s^-1&,15 m s^-1&,30 m s^-1&,,a,,MCQ
+7,Wave Motion and South,Assessment - I,,9,"Write the following steps to determine the velocity of sound in air by resonating
+air column experiment in proper sequence.
+(A) Note the first resonating length of the air column (ℓ~1*).
+(B) Note the second resonating length of the air column (ℓ~2*).
+(C) Determine the velocity of sound in air by using the expression, v = f (ℓ~2* – ℓ~1*)
+(D) Find the difference in the length of the resonating air columns.",A C B D,A B D C,C B D A,B D C A,,b,,MCQ
+7,Wave Motion and South,Assessment - I,,10,Match the statements of Column A with those of Column B.,P → r; Q → p; R → q,P → r; Q → q; R → p,P → p; Q → q; R → q,P → q; Q → r; R → p,CH-7-10-ROW-251,a,,MCQ
+7,Wave Motion and South,Assessment - I,,11,"Assertion (A): Velocity of sound in iron is greater than that of in water. 
+Reason (R): Velocity of sound in solids is greater than that of in liquids.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,a,,AR
+7,Wave Motion and South,Assessment - I,,12,Which of the following has no unit?,Amplitude,Pitch,Frequency,Time period,,b,,MCQ
+7,Wave Motion and South,Assessment - I,,13,"Apparent frequency felt by the observer is changed from 250 Hz to 280 Hz
+when source of sound moving towards the observer changes its speed from
+10 m s^−1& to x m s^−1&. Calculate the value of x. (take velocity of sound in air
+= 350 m s^−1&)",15 m s^-1&,30 m s^-1&,46 m s^-1&,46 km s^-1&,,c,,MCQ
+7,Wave Motion and South,Assessment - I,,14,"A string of length 8 m is fixed between two ends in resonance with a tuning
+fork of frequency 420 Hz in 7th overtone. What would be the ratio of distances
+of the third antinode and the 5th antinodes?",7 m,1 m,2 m,5 m,,c,,MCQ
+7,Wave Motion and South,Assessment - I,,15,"Which of the following would be in resonance with tuning fork of frequency
+110 Hz?",a,b,c,d,CH-7-15-ROW-256,b,,MCQ
+7,Wave Motion and South,Assessment - II,,1,"At a distance of 5 m from a source, the intensity of a sound wave is found to
+be I. What would be the distance from the source at which the intensity is 4I?",1.25 m,10 m,20 m,2.5 m,,d,,MCQ
+7,Wave Motion and South,Assessment - II,,2,"The velocity of sound in a gas is 1,360 m s^–1&. The velocity of sound in O~2*
+under the same pressure and temperature is 340 m s^–1&. Which of the following
+gases is it?",CO~2*,H~2*,N~2*,Cl~2*,,b,,MCQ
+7,Wave Motion and South,Assessment - II,,3,"A car is moving at a speed of 108 km h–1 away from a wall. When it is at a
+distance of 100 m, the driver blows horn in the car. If he hears the echo of the
+horn after 2/3 s, determine the speed of the sound in air.",310 m s^-1&,320 m s^-1&,330 m s^-1&,340 m s^-1&,,c,,MCQ
+7,Wave Motion and South,Assessment - II,,4,"The velocity of wave through a string is 15 m s–1. If the string is held with a
+tension of 200 N, and the mass of the string is 50 g, determine the length of
+the string.",62.5 cm,5.6 cm,16.3 cm,22.5 cm,,b,,MCQ
+7,Wave Motion and South,Assessment - II,,5,Which among the following is not a periodic motion?,Motion of the pendulum of a clock.,Motion of a load attached to a spring.,Motion of molecules of a substance,Motion of a particle in the atmosphere,,d,,MCQ
+7,Wave Motion and South,Assessment - II,,6,Choose the incorrect statement:,Velocity of sound is least in solids.,"When sound travels through air, the temperature of air is constant.","When sound travels through air, the air molecules vibrate longitudinally.","Under similar conditions of temperature and pressure, the velocity of sound in hydrogen is greater than that in oxygen.",,a,,MCQ
+7,Wave Motion and South,Assessment - II,,7,"The 3rd and fifth resonance take place in a resonating air column experiment
+at the lengths of 82 cm and at 122 cm of the air column. If the velocity of the
+sound in the air is 320 m s^–1&, calculate the frequency (in Hz) of vibration.",800,400,200,350,,b,,MCQ
+7,Wave Motion and South,Assessment - II,,8,"A string is in its first harmonic motion, when vibrated with a tuning fork of
+frequency 10 Hz. If the velocity of the wave through the string is 10 m s^–1&,
+find out the length (in m) of the string.",0.2,0.4,0.5,0.6,,c,,MCQ
+7,Wave Motion and South,Assessment - II,,9,"Arrange the following steps to determine the velocity of wave through a string :
+(A) Use the formula V =ÖT/m to determine the velocity of wave.
+(B) Determine the linear density of the string.
+(C) Fix a string to a rigid support and hang a known weight from the other
+end.
+(D) Set the string into vibration.",A C B D,A D B C,C B D A,C A D B,,c,,MCQ
+7,Wave Motion and South,Assessment - II,,10,Match the statements of Column A with those of Column B.,P → q; Q → p; R → r,P → r; Q → p; R → q,P → q; Q → r; R → q,P → q; Q → r; R → p,CH-7-10-ROW-266,b,,MCQ
+7,Wave Motion and South,Assessment - II,,11,"Assertion(A): Velocity of sound in solid substance A is less than that of solid
+substance B if Young’s modulus of A is less than that of B and density of A
+and B are equal.
+Reason (R): Velocity of sound in solids is directly proportional to square
+root of Young’s modulus and inversely proportional to square root of density
+of solid.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false,,a,,MCQ
+7,Wave Motion and South,Assessment - II,,12,Which of the following is the unit of frequency?,cm,m,Hz,s,,c,,MCQ
+7,Wave Motion and South,Assessment - II,,13,"An observer is moving towards a stationary source of sound and frequency
+felt by him is 200 Hz. If the observer changes his speed from 5 m s^−1& to
+10 m s^−1&, then (take velocity of sound in air = 330 m s^−1&)",change in apparent frequency is 3 Hz.,apparent frequency when he moves with 10 m s^−1& is 203 Hz.,frequency of source of sound is 197 Hz.,All the above,,d,,MCQ
+7,Wave Motion and South,Assessment - II,,14,"A string is in resonance with a tuning fork of frequency 500 Hz in its 6^th& harmonic.
+If the distance between 1^st& node and 3rd antinode is 2.5 m, then what will be the length of the string?",6 m,2.5 m,3 m,7 m,,a,,MCQ
+7,Wave Motion and South,Assessment - II,,15,"An open pipe of length 2 m and a closed pipe of length 2.5 m are in resonance
+with the tuning fork of frequency 150 Hz. Find the number of harmonics
+in open pipe and closed pipe. (velocity of sound in air 300 m s^−1&)","5th, 2nd","2nd, 5th","3rd, 9th","9th, 3rd",,b,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,1,The electric potential at a point P is -10 V and that at a point Q is 20 V. Calculate the work done (in J) by the electric force to move a proton slowly from Q to P is.,48 x 10^-19&,16 x 10^-19&,24 x 10^-18&,12 x 10^-19&,,a,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,2,"A point charge q is placed at the centre of a square as shown in the figure given below.
+If W~P*, W~Q*, W~R* and W~S* are the work done on a point charge to move from infi nity to P, Q, R and S, respectively, then",W~P* = W~Q* > W~S* = W~R*,W~Q* > W~P* > W~R* > W~S*,W~P* = W~Q* = W~R* = W~S*,W~Q* = W~P* > W~R* = W~S*,CH-8-2-ROW-273,c,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,3,"A charged particle of mass 20 g and charge -20 μC is placed in a uniform electric fi eld of strength 100 N C^-1&. If the particle is at rest initially, then what will be the velocity (in m s^-1&) of the particle after 3 s?",3 X 10^4&,300,600,0.3,,d,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,4,"Two charged particles each of mass ‘m’ and charge ‘q’ are suspended from a common point with the help of two massless strings of equal length ‘l’. If they are under equilibrium, when the distance of separation is 2 x, which among the following is the correct relation?",A,B,C,D,CH-8-4-ROW-275,b,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,5,Three long wires are placed parallel to each other as shown in the figure and carry 5 A electric current. Determine the net force per unit length on the wire B due to the magnetic field produced by A and C.,8 X 10^-5& N m^-1&,2 X 10^-4& N m^-1&,6 X 10^-3& N m^-1&,Zero,CH-8-5-ROW-276,d,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,6,The magnetic field at the centre of a long hallow cylinder carrying a current ‘i’ is,a,b,c,d,CH-8-6-ROW-277,a,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,7,"An electron and proton are moving along two circular paths of common centre in the same direction of radii a and b, respectively such that b > a. Determine the resultant magnetic field at the centre of the circular paths if their frequency is f and their charge is q C.",A,B,C,D,CH-8-7-ROW-278,a,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,8,The ratio of electrostatic and gravitational forces between two electrons is approximately 4 × 10^42&. What will be the approximate ratio of electrostatic and gravitational forces between two protons? (Given mass of a proton is 2000 times the mass of an electron),4 × 10^42&,10^36&,1,10^19&,,b,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,9,Which of the following is/are the units of electric field?,N m^-1&,N C^-1&,V m^-1&,Both (b) and (c).,,d,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,10,"If 1/e~0* electric lines are drawn from a 1 C point charge, then calculate the strength of the electric field (in N C^-1&) at a distance r m from a q C point charge.",a,b,c,d,CH-8-10-ROW-281,a,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,11,"Two coils A and B are connected parallel to a battery. If the resistance of the coil A and B are 60 W and 100 W, respectively and the heat developed in the coil B is 420 J in 20 s, then how much heat (in J) is produced in the coil A in 60 s.",4200,2100,1640,1540,,b,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,12,"Assertion (A): A body possesses a charge of 8 × 10^-20& C.
+Reason (R): Charge present on a body is a sub-multiple of the charge of an electron.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,d,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,13,"Two long parallel wires A and B separated by a distance ‘r’ carry currents i~1*, and i~2* (i~1* > i~2*) in the same direction. Write the following steps in a sequential order to find the magnitude of the resultant magnetic field at a point P between the wires which is at a distance, r~1* from wire A.
+(A) Using the right hand thumb rule, find the directions of B~1* and B~2* at point P.
+(B) Find the magnitude of the magnetic field B~1* due to wire A using the relation B~1* = m~0*i~1*/2πr
+(C) If they have the same directions, the resultant magnetic field is B~1* + B~2*
+and if they have are opposite, direction the resultant magnetic field is
+B~1* - B~2*.
+(D) Determine the magnitude of the magnetic field B2 due to wire B using the relation, B2 = = m~0*i~2*/2π(r-r~1*)
+.",A C B D,B D A C,B A D C,A B C D,,b,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,14,"Three identical charged particles are placed at the vertices of an equilateral triangle. Arrange the following steps in the proper order to find the net force acting on any one of the charges due to other charges.
+(A) Determine the resultant force. (B) Let the three identical charges of charge +q be placed at the vertices of an equilateral triangle ABC of side ‘a’.
+(C) The force acting on the charge +q at C due to the similar charge at A is F~1* = 1/4πe~0* q^2&/a^2& acting away along AC.
+(D) The force acting on charge +q at C due to similar charge at B is F~2* = 1/4πe~0* q^2&/a^2& acting away along BC.",B C D A,B D A C,B A D C,B C A D,,a,,MCQ
+8,Electricity and Electromagnetism,Assessment - I,,15,Match the statements of Column A with those of Column B.,A → Q; B → R; C → P; D → S,A → S; B → R; C → Q; D → P,A → P; B → Q; C → R; D → S,A → R; B → S; C → P; D → Q,CH-8-15-ROW-286,d,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,1,An electric field E = 10 N C^–1& is applied between two metal plates separated by a distance of 20 cm. How much will be the potential difference (in V) between the plates?,200,5,2,0.2,,c,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,2,Four charged particles are placed at the four vertices of a square of side 1 m. Determine the resultant force acting on q~1*.,1.45 X 10^-3& N,12.6 X 10^-3& N,27.1 X 10^-3& N,8.1 X 10^-3& N,CH-8-2-ROW-288,d,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,3,"An electron is revolving in a circular path of radius ‘r’ m with a frequency ‘f ’ Hz. If the charge of the electron is q C, find out the magnitude of current (in A) flowing through the circuit.",A,B,C,D,CH-8-3-ROW-289,a,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,4,A charged particle charge ‘q’ is moving along a circular path of radius ‘x’ m with a frequency ‘n’ Hz. Determine the magnetic field at the centre of the circular path.,A,B,C,D,CH-8-4-ROW-290,b,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,5,A straight long wire is carrying 10 A of electric current. Determine the magnetic field at a distance of 5 cm from the wire.,4 x 10^-5&^ T,5 x 10^-7&^ T,15 x 10^-3&^ T,20 x 10^-5&^ T,,a,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,6,"Three identical wires each of length ‘l’ are joined to form an equilateral triangle ABC. An electric current ‘i’ enters from A and leaves from the vertex c as shown in the figure.
+Then the directions of magnetic field due AB, BC and AC at the centre of the triangle are _________, _________ and _________, respectively. The directions of magnetic field into the plane and out of the plane are represented as ⊗ and ⊙, respectively.",⊗ ⊙ ⊗,⊙ ⊙ ⊗,⊙ ⊗ ⊙,⊗ ⊗ ⊙,CH-8-6-ROW-292,d,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,7,"The area of a circular conducting loop, placed in a uniform magnetic field perpendicular to it, is increased from 0.1 cm^2& to 0.2 cm^2& in 0.1 s. Determine the induced current in the loop if the strength of the magnetic field is 0.2 T and resistance of material of the loop is 5 W which is assumed to be uniform.",4 x 10^-4&^ A,4 x 10^-6&^ A,3 x 10^-3&^ A,6 x 10^-3&^ A,,b,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,8,The gravitational force of attraction between two equally charged spheres each of mass 1 kg is found to be the same as the electrostatic force between them. Calculate the amount of charge (in C) present on each of these spheres.,A,B,C,D,CH-8-8-ROW-294,a,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,9,A charged particle of mass m is placed near a wire conducting electric current. Then the particle experiences,Gravitational force,Electric force,Magnetic force,All the above,,d,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,10,"When a potential difference of V volt is applied across the terminals of a wire of length ‘l’ and specific resistance r, the number of electrons passing through any cross-section of the wire in t s is found to be n. If ‘e’ represents the magnitude of charge of an electron, then determine the area of cross-section of the wire.",A,B,C,D,CH-8-10-ROW-296,c,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,11,"When a cell of emf 6 V is connected across the terminals of a resistor 11.5 W, the current flowing through the circuit is found to be 0.5 A. Determine the heat developed in the cell in 20 s.",4.2 J,0.5 J,2.5 J,6.5 J,,c,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,12,"Assertion (A) : A bundle of thin wires is used for the transmission of electrical energy instead of a single wire of same thickness.
+Reason (R) : Charge flows only on the surface of the conductors.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,a,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,13,"The magnetic fields at two points P~1* and P~2*, which are at distances of r~1* and r~2* from a long straight current carrying conductor, are 25 T and 5 T, respectively.
+Write the following steps in sequence to find the ratio of r~1* to r~2*.
+(A) Let the magnetic fields be B1 and B2 at distances r~1* and r~2* respectively.
+(B) Divide the two expressions to obtain the relation,B~1*/B~2*=r~2*/r~1*, because i is the same.
+(C) Write the expressions for B1 and B2 at two points using B =m~0*i/2πr.
+(D) Substitute the values of B~1* and B~2* to get the ratio of r~1* to r~2*.",A C B D E,A D C B,C B A D,C B D A,,a,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,14,"Arrange the following steps in proper sequence to find a point, between two like charges separated by some distance, where the net electric field strength is zero.",A D C B E,A C D B E,D B A C E,D B E A C,CH-8-14-ROW-300,c,,MCQ
+8,Electricity and Electromagnetism,Assessment - II,,15,Match the statements of Column A with those of Column B.,A → Q; B → P; C → R; D → S,A → Q; B → P; C → S; D → R,A → Q; B → R; C → P; D → S,A → S; B → R; C → Q; D → P,CH-8-15-ROW-301,c,,MCQ
+9,Hydrostatics,Assessment - I,,1,Which of the following is/are the units of pressure?,pascal,dyne cm^−2&,N m^-2&,Both (a) and (c),,d,,MCQ
+9,Hydrostatics,Assessment - I,,2,Which of the following is used to measure atmospheric pressure accurately?,Mercury barometer,Manometer,Fortin’s barometer,Torricelli barometer,,c,,MCQ
+9,Hydrostatics,Assessment - I,,3,"If a ship fl oating on the surface of water is in equilibrium, then",its centre of gravity and centre of buoyancy lie on the same vertical line.,the volume of the immersed part of the ship is not equal to the volume of water displaced.,the weight of the ship is not equal to the upthrust acting on the ship.,its centre of gravity and centre of buoyancy lie on the same horizontal line,,a,,MCQ
+9,Hydrostatics,Assessment - I,,4,Match the statements of Column A with those of Column B.,A → Q; B → P; C → R,A → R; B → P; C → Q,A → P; B → R; C → Q,A → R; B → Q; C → P,CH-9-4-ROW-305,a,,MCQ
+9,Hydrostatics,Assessment - I,,5,"Write the following steps of an activity in a sequential order to show that the atmosphere exerts pressure.
+(A) Heat the ‘can’ till steam is observed to come forcely from the mouth of the ‘can’.
+(B) Take a ‘tin can’ filled half of its volume with water, place it on a stand and heat it with a burner.
+(C) You observe that the ‘can’ gets crushed.
+(D) Stop heating and immediately close the mouth of the ‘can’ tightly with air tight stopper.
+(E) Remove the ‘can’ from the stand and pour cold water over it.",D E C A B,A D E B C ,B A E D C,B A D E C,,d,,MCQ
+9,Hydrostatics,Assessment - I,,6,"Assertion (A) : The volume of an air bubble increases as it moves from bottom to the surface of a water tank.
+Reason (R) : At constant temperature, the pressure of a gas is directly proportional to the volume occupied by the gas.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,c,,MCQ
+9,Hydrostatics,Assessment - I,,7,"A narrow glass tube, one end of which is closed, is used to entrap certain amount of dry gas with the help of mercury pellet of length 10 cm as shown in the figure below. How much will be the pressure of the gas inside the tube?",equal to the atmospheric pressure,greater than the atmospheric pressure,less than the atmospheric pressure,equal to 86 cm of Hg,CH-9-7-ROW-308,c,,MCQ
+9,Hydrostatics,Assessment - I,,8,"A body is floating in a liquid of density 2 g cm^–3&. If the density of the body is 0.5 g cm^–3&, the maximum weight that can be placed on the body before it sinks into the liquid is ______ the weight of the object.",twice,thrice,equal to,four times,,b,,MCQ
+9,Hydrostatics,Assessment - I,,9,The pressure exerted by a liquid at the bottom of a container filled with a liquid of density 5 g cm^–3& is _____ Pa at the depth 20 cm from the surface (Take the atmospheric pressure as 10^5& Pa).,1.1 x 10^5&,2.1 x 10^5&,8 x 10^4&,7 x 10^4&,,a,,MCQ
+9,Hydrostatics,Assessment - I,,10,"An object floats in a liquid with 65% of its volume is above the liquid surface.If the density of the body is 0.8 g cm^–3&, then determine the density (in g cm^-3&) of the liquid.",1.6,2.28,3.68,1.84,,b,,MCQ
+9,Hydrostatics,Assessment - I,,11,"Study the following figure and answer the following questions.
+Two objects of equal volumes are attached to the either sides of a rope and placed on the surface of water as shown in the figure. Determine the fraction of the volume of object B immersed if the density of A, B and the liquid are 10 g cm^–3&, 2 g cm^–3& and 8 g cm^–3&, respectively.",1/3,1/2,1/5,1/4,CH-9-11-ROW-312,b,,MCQ
+9,Hydrostatics,Assessment - I,,12,The angle of contact of a liquid in a capillarity tube is 135^0&. The level of the liquid in the tube is _______ the level of the liquid in the container.,above,below,equal to,above or below,,b,,MCQ
+9,Hydrostatics,Assessment - I,,13,"A pipe of negligible mass is fixed to a building to fill an overhead tank on it. The vertical portion of it is completely filled with water and the pressure of water leaking out, from a hole at 100 cm height from its bottom, changed from 5 × 10^4& Pa to 2 × 10^4& Pa in 2 minutes. Determine the speed of the centre of gravity of water.",0.125 cm s^-1&,1.25 cm s^-1&,0.125 m s^-1&,1.25 m s^-1&,,b,,MCQ
+9,Hydrostatics,Assessment - I,,14,"Vijay connected the left limb of a manometer to a gas cylinder and he 
+observed that the mercury level in the right limb raised up by 2 cm at normal atmospheric pressure. Next, he connected a vacuum pump to a cylinder without disconnecting the manometer to reduce the pressure of the gas by 2 mm of Hg in 4 seconds. Find the shift in the mercury level in the right limb in 10 minutes from the instant the vacuum pump is connected to the manometer.",26 cm,13 cm,15 cm,9 cm,,c,,MCQ
+9,Hydrostatics,Assessment - I,,15,"Liquids A, B and C of the same density and the same surface tensions are filled in three identical troughs and three identical capillary tubes are placed in three troughs. If the angles of contacts in A, B and C are 30^0&, 35^0& and 40^0&, respectively, then the capillary rise for liquids A, B and C are hA, hB and hC, respectively. Which one of the following holds true?",h~A* > h~B* > h~C*,h~A* < h~B* < h~C*,h~A* = h~B* = h~C*,h~A* > h~C* > h~B*,,a,,MCQ
+9,Hydrostatics,Assessment - II,,1,Which of the following is the unit of thrust?,dyne,newton,kg,Both (a) and (b),,d,,MCQ
+9,Hydrostatics,Assessment - II,,2,A barometer in which no liquid is used is a/an,Aneroid barometer,Torricellian barometer,Fortin’s barometer,Mercury barometer.,,a,,MCQ
+9,Hydrostatics,Assessment - II,,3,"If a ship on the surface of water is in unstable equilibrium, then",its meta centre lies between the centre of gravity and the centre of buoyancy.,its centre of gravity lies between its meta centre and the centre of buoyancy.,its meta centre and the centre of gravity coincide.,its centre of gravity is below the meta centre.,,a,,MCQ
+9,Hydrostatics,Assessment - II,,4,Match the statements of Column A with those of Column B.,A → R; B → S; C → P; D → Q,A → Q; B → S; C → P; D → R,A → Q; B → P; C → S; D → R,A → P; B → Q; C → S; D → R,CH-9-4-ROW-320,b,,MCQ
+9,Hydrostatics,Assessment - II,,5,"Write the following steps in a sequential order to find the relative density of a given liquid using Archimedes’ principle.
+(A) Find the apparent loss of weight of the body in the liquid.
+(B) Determine the weight of the body in air using spring balance.
+(C) Find the apparent loss of weight of the body in water.
+(D) Immerse the body in the given liquid and determine its weight.
+(E) Now immerse the body in water and determine its weight.
+(F) Determine the relative density of the liquid by taking the ratio of apparent loss of weight of the body in the liquid to the apparent loss of weight of the body in water.",E F B D C A,B D A E C F,B D E F A C,A E C F B D,,b,,MCQ
+9,Hydrostatics,Assessment - II,,6,"Assertion (A): The cohesive forces in solids are very strong.
+Reason (R): The space between the molecules called intermolecular space is very less in solids.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,a,,MCQ
+9,Hydrostatics,Assessment - II,,7,"A barometer has some dry air entrapped above the mercury level in the glass tube. At normal atmospheric pressure, what will be the height (in cm of Hg) of the mercury column?",< 76,> 76,= 76,= 100,,a,,MCQ
+9,Hydrostatics,Assessment - II,,8,An object is floating on the surface of a liquid of density 5 g cm^–3&. The extra force required to immerse the object completely into the liquid is four times the weight of the object. Determine the density (in g cm-3) of the object.,2,1,3,4,,b,,MCQ
+9,Hydrostatics,Assessment - II,,9,"The pressure at the bottom of a swimming pool is 2.1 × 10^5& Pa. If the atmospheric pressure is 10^5&+ Pa, then calculate the depth (in m) of the swimming pool.",5,11,15,20,,b,,MCQ
+9,Hydrostatics,Assessment - II,,10,"The density of an object, floating on the surface of a liquid of density
+2 g cm^–3&, is 0.6 g cm^–3&. How much is the percentage of volume of the object seen outside the surface of the liquid?",70%,30%,35%,65%,,a,,MCQ
+9,Hydrostatics,Assessment - II,,11,"Study the following figure and answer the following questions.
+Two objects of equal volumes are in equilibrium as shown in the figure. Determine the force exerted by the bottom of the container on the object. Density of A, B and the liquid are 5 g cm^–3&, 15 g cm^–3& and 10 g cm^–3&, respectively. The fraction of volume of A immersed is 0.5 and volume of the object is 100 cm^3&.",5 N,7.5 N,2.5 N,1.5 N,CH-9-11-ROW-327,a,,MCQ
+9,Hydrostatics,Assessment - II,,12,The angle of contact for a liquid in a capillarity tube is 40^0&. Then the level of the liquid in the tube is _______ the level in the container.,equal to ,below,above,above or below,,c,,MCQ
+9,Hydrostatics,Assessment - II,,13,A pipe of negligible mass is fixed to a building as shown in figure to fill an overhead tank. The vertical portion of it is completely filled with water and pressure of water leaking out from a hole at 50 cm height from its bottom changed from 6 × 10^4& Pa to x × 10^4& Pa in 1 minute. Determine value of x if average speed of C.G of water is 2 cm s^−1&.,6 m,3.6 m,2.4 m,3.25 m,CH-9-13-ROW-329,b,,MCQ
+9,Hydrostatics,Assessment - II,,14,"Mohan connected the left limb of a manometer to a gas cylinder at normal atmospheric pressure and he observed that the mercury level in the right limb came down by 1 cm. Next, he connected a vacuum pump to a cylinder without disconnecting the manometer to reduce the pressure of the gas and he observed that the mercury level further decreased by 3 cm in the right limb after 8 minutes. Find the rate of decrease in the pressure of gas in the cylinder.",125 cm of Hg s^-1&,76 cm of Hg s^-1&,0.125 mm of Hg s^-1&,12.5 mm of Hg s^-1&,,c,,MCQ
+9,Hydrostatics,Assessment - II,,15,Soaps and detergents are added to water for washing clothes because,they prevent wetting,they decrease the angle of contact.,they increase surface tension.,they increase the angle of contact,,b,,MCQ
+10,Wave Motion and South,Assessment - I,,1,"Two containers of areas of cross section A~1* and A~2* are fi lled with equal volume of liquids of densities d~1* and d~2*, respectively. Determine the ratio of pressure at the bottom of the container (Neglect the air pressure).",a,b,c,d,CH-10-1-ROW-332,d,,MCQ
+10,Wave Motion and South,Assessment - I,,2,"An air bubble of volume V~1* becomes V~2* when raised from the bottom to the top of a water column of height 13.6 m fi lled in a container when one atmospheric pressure acts on it, then determine V~2*.",A,B,C,D,CH-10-2-ROW-333,a,,MCQ
+10,Wave Motion and South,Assessment - I,,3,"A solid cylinder of radius 10 cm and height 50 cm is made to immerse in three immiscible liquids A, B and C, respectively as shown in the fi gure. If the relative densities of the liquids A, B and C are 2, 4 and 6, respectively, then calculate the weight (in N) of the cylinder. (g = 10 m s^-2*)",6280,6.28,62.8,628,CH-10-3-ROW-334,d,,MCQ
+10,Wave Motion and South,Assessment - I,,4,"Two objects P and Q of equal volumes can be balanced by immersing them in liquids A and B as shown in the figure given below. The relative densities of P, Q and liquid A are 2, 4 and 1, respectively. Calculate the density of liquid B. (g = 10 m s^-2&)",4000 kg m^-3&,3 g m^-3&,2000 kg m^-3&,5 g m^-3&,CH-10-4-ROW-335,b,,MCQ
+10,Wave Motion and South,Assessment - I,,5,Match the statements of Column A with those of Column B.,A → S; B → T; C → P; D → Q,A → R; B → S; C → P; D → Q,A → R; B → T; C → P; D → S,A → S; B → R; C → P; D → Q,CH-10-5-ROW-336,b,,MCQ
+10,Wave Motion and South,Assessment - I,,6,"Write the following steps in sequential order to determine the velocity of sound in air.
+(A) Consider two hills which are in the same line of sight separated by a distance of 3 or 4 km.
+(B) The observer at Q will start a stop watch as soon as he sees the flash of light from the cannon and stops the watch at the moment he hears the sound of firing.
+(C) A cannon is mounted on hill P and an observer is made to sit on hill Q.
+At a particular time, the cannon is fired from the hill P.
+(D) The time interval (t) between the flash of light seen and the sound heard is found and the distance (d) between the two hills is measured.
+(E) The velocity of sound is determined by, V = d/t.",C A B D E,C D A E B,A C B D E,A C D E B,,c,,MCQ
+10,Wave Motion and South,Assessment - I,,7,"A person standing between two cliffs (A and B) finds the distance he stands from the cliffs by using the echo method. He fires a bullet and hears an echo after 2 s and 3 s, respectively. Now he moves towards A by 17 m and again fires a bullet. He then hears an echo after 1.9 s and 3.1 s, respectively, calculate the distance between the cliff. (The velocity of sound in air is 350 m s^-1&)",175 m,850 m,875 m,525 m,,b,,MCQ
+10,Wave Motion and South,Assessment - I,,8,"A vibrator of frequency 10,000 Hz sets vibrations at one end of a metallic rail track of length 400 m. If the sound reaches the other end of the track at the time the vibrator completes 500 vibrations, then find the velocity (in m s^-1&) of sound in track.",8000,1800,4000,2000,,a,,MCQ
+10,Wave Motion and South,Assessment - I,,9,A tuning fork is used to produce sound in two gas chambers filled with O~2* and CO~2* at the same temperature and pressure. Determine the ratio of the time taken by sound to travel the same distance in O~2* and CO~2* gas chambers.,a,b,c,d,CH-10-9-ROW-340,b,,MCQ
+10,Wave Motion and South,Assessment - I,,10,A tuning fork of frequency 100 Hz produces fundamental frequency in an open organ pipe. One end of the pipe is closed and first harmonic is produced with a tuning fork of frequency ______ Hz.,50,25,75,125,,a,,MCQ
+10,Wave Motion and South,Assessment - I,,11,"The density of a solid is 8000 kg m^-3& and its weight is 80 g in air. Write the following steps in sequence to find the weight of the solid when it is completely immersed in water.
+(A) Determine the relative density of the solid.
+(B) Give the values of the weight of the solid in air (W~1*) and the density of the solid in C.G.S. unit.
+(C) Use Archimedes’ principle, R.D of solid = W~1*/W~1* - W~2*, where W~2* is weight of solid in water.
+(D) Substitute the given data and determine the value of W~2*.",B C D A,B A C D,A C B D,C B A D,,b,,MCQ
+10,Wave Motion and South,Assessment - I,,12,"A weight of 2 kgwt is suspended from the string whose resonating length is 50 cm for a given tuning fork of frequency 100 Hz. If the load is doubled, then how much would be the resonating length for same tuning fork? (g = 10 m s^-2*)",A,B,C,D,CH-10-12-ROW-343,c,,MCQ
+10,Wave Motion and South,Assessment - I,,13,"Two metal wires (A and B) of the same mass with their linear mass densities in the ratio 2 : 3 are suspended by the same load, determine the ratio of fundamental frequencies of A and B wires after stretching.",A,B,C,D,CH-10-13-ROW-344,d,,MCQ
+10,Wave Motion and South,Assessment - I,,14,"Assertion (A) : The wall of a dam is made thicker at the bottom compared to that at the top.
+Reason (R) : The pressure exerted by the water decreases with depth.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,c,,AR
+10,Wave Motion and South,Assessment - I,,15,"Assertion (A) : When the bob of a pendulum is set into oscillations, the oscillations cease after some time.
+Reason (R) : The energy given to the bob is used to do work against air friction.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,a,,AR
+10,Wave Motion and South,Assessment - II,,1,"Two containers of equal area of cross-sections are filled with two liquids of densities d~1* and d~2*, respectively. If the volume of the liquids filled in the containers are V~1* and V~2*, respectively, the ratio of pressure exerted at the bottom of the container is (neglect the atmospheric pressure).",A,B,C,D,CH-10-1-ROW-347,b,,MCQ
+10,Wave Motion and South,Assessment - II,,2,"An air bubble rises from the bottom to top in a swimming pool. If the
+volume of the air bubble at the bottom is V~1* and the pressure due to the water column at the bottom is 1/2 of the atmospheric pressure, then how much is the volume of the air bubble at the top? (1 atmospheric pressure = 76 cm of Hg).",A,B,C,D,CH-10-2-ROW-348,b,,MCQ
+10,Wave Motion and South,Assessment - II,,3,A solid cube of side 40 cm and weight 1640 N is immersed in two immiscible liquids A and B as shown in the figure given below. If the density of A is 1 g cm^-3& then what will be the relative density of B? (g = 10 m s^-2&),4.75,3.25,7.25,2.75,CH-10-3-ROW-349,a,,MCQ
+10,Wave Motion and South,Assessment - II,,4,Two spheres of the same radii balance each other when suspended in a liquid of density 0.5 g cm-3 as shown in figure given below. The density of the first sphere would be ______ the density of the second sphere.,More than ,Less than,equal,cannot be determined,CH-10-4-ROW-350,c,,MCQ
+10,Wave Motion and South,Assessment - II,,5,Match the statements of Column A with those of Column B.,A → R; B → S; C → T; D → Q,A → R; B → S; C → P; D → Q,A → Q; B → S; C → T; D → S,A → R; B → Q; C → T; D → Q,CH-10-5-ROW-351,b,,MCQ
+10,Wave Motion and South,Assessment - II,,6,"Write the following steps in sequence that are involved in the reproduction of sound by using magnetic tapes.
+(A) During reproduction the recorded tape is made to run in front of the narrow gap of the playback head.
+(B) The varying magnetic impression recorded on the tape creates a varying magnetic field in the gap of the head.
+(C) These signals are amplified by an amplifier and sent to a loud-speaker which converts electrical signals into sound vibrations.
+(D) This produces electrical signals in the wire wound around the head.",B D C A,B A D C,A D B C,A B D C,,d,,MCQ
+10,Wave Motion and South,Assessment - II,,7,"A scooterist moving towards a hill with 50 m s^-1& speed blows a horn and hears the echo after 6 s. If the speed of sound in air is 350 m s^-1&, then what will be the initial distance between the scooterist and the hill?",300,3600,7200,1200,,d,,MCQ
+10,Wave Motion and South,Assessment - II,,8,"A vibrator of frequency 500 Hz is used to set vibrations in water. By the time the vibrator completes 200 vibrations, the water waves travel a distance of 50 m. Calculate the velocity (in m s^-1&) of water waves in water.",200,500,125,250,,c,,MCQ
+10,Wave Motion and South,Assessment - II,,9,"A vibrating tuning fork of frequency 500 Hz is placed in a gas chamber of temperature 0^0&C and time taken by sound to reach opposite side is noted. Now, the tuning fork is replaced with another vibrating turning fork of frequency 1000 Hz and the temperature of the gas in the chamber is raised to 100^0&C. Then time taken by sound to reach the other end is noted. Determine the ratio of the time taken by the sound to reach the other end.",A,B,C,D,CH-10-9-ROW-355,d,,MCQ
+10,Wave Motion and South,Assessment - II,,10,A movable piston is fixed at one of the ends of an open organ pipe. Determine the distance through which the piston to be moved from the open end so that the air column is in resonance in its fundamental mode with a tuning fork of frequency 170 Hz. Take the velocity of sound in air as 340 m s^-1& (Neglect the end correction),50 cm,25 cm,75 cm,12.5 cm,,d,,MCQ
+10,Wave Motion and South,Assessment - II,,11,"A metal cube of density 8 g cm-3 and side 5 cm is immersed completely in liquid of density 2 g cm^-3&. Write the following steps in a sequence to find the upthrust acting on the cube.
+(A) Note the given values of density of the metal (d~m*), density of the liquid (d~L*) and side of the cube(s).
+(B) Substitute the given values in the above formula to determine the
+upthrust.
+(C) Determine the volume (V) of the cube.
+(D) The upthrust acting on the metal cube is given by, U = V × d~L* × g.",C A B D,D C A B,A C D B,A D B C,,c,,MCQ
+10,Wave Motion and South,Assessment - II,,12,"A load of 1 kgwt is hanged to the end of a sonometer wire. It resonates to a tuning fork of frequency 50 Hz with resonating length 70 cm. If extra load of 2 kgwt is added to the string, then how much is the resonating length for the same tuning fork? (g = 10 m s^-2&)",A,B,C,D,CH-10-12-ROW-358,d,,MCQ
+10,Wave Motion and South,Assessment - II,,13,A metallic sonometer wire of length 100 cm is stretched by 10%. Find the ratio of fundamental frequency of the wire (The tension in the string is constant),A,B,C,D,CH-10-13-ROW-359,b,,MCQ
+10,Wave Motion and South,Assessment - II,,14,"Assertion (A) : The more is the upthrust acting on a body immersed in a liquid, the lesser is the apparent loss in weight of the body.
+Reason (R) : The upthrust increases with increase in the density of the liquid.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,d,,MCQ
+10,Wave Motion and South,Assessment - II,,15,"Assertion (A) : In a closed-end organ pipe, only the frequencies of odd harmonics are present.
+Reason (R) : The pitch of a given sound is the measure of its frequency.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,b,,MCQ
+11,heat,Assessment - I,,1,Water equivalent of a substance of mass 200 g is 400 g. What is the specifi c heat capacity (in cal g^-1& ^0&C^-1&) of the substance?,1,0.5,2,8,,c,,MCQ
+11,heat,Assessment - I,,2,A liquid of mass m at a temperature of 20^0&C is mixed with a similar liquid of mass m at 30^0&C. What will be the temperature of the mixture?,30^0&C,20^0&C,50^0&C,25^0&C,,d,,MCQ
+11,heat,Assessment - I,,3,Which of the following statements defi nes heat?,the internal energy of a substance,the part of internal energy transferred,the total kinetic energy of the molecules of a substance,the total potential energy present in a body,,b,,MCQ
+11,heat,Assessment - I,,4,"A substance of mass 400 g with an initial temperature of 30^0&C and specific heat capacity of 1 cal g^–1& ^0&C^–1& is dropped into a calorimeter filled with liquid of mass 50 g at a temperature of 10^0&C. If the specific heat capacity of the liquid is 2 cal g^–1& ^0&C^–1&, and the resultant temperature is 20^0&C then what will be the water equivalent (ing) of the calorimeter?",500,100,300,200,,c,,MCQ
+11,heat,Assessment - I,,5,"A metal plate, with a hole in it, is heated. What will happen to the size of the hole?",increases,decreases,remains same,increases or decreases depending upon the nature of the material.,,a,,MCQ
+11,heat,Assessment - I,,6,"Three metal rods of initial lengths ℓ~1*, ℓ~2* and ℓ~3* made of different materials are heated to the same temperature. If ℓ~1* > ℓ~2* > ℓ~3*, then what would be the relation between the final lengths ℓ~1*′, ℓ~2*′, ℓ~3*′?",a,b,c,d,CH-11-6-ROW-367,d,,MCQ
+11,heat,Assessment - I,,7,"The time period of a pendulum clock is 1 s at 0^0&C. If the temperature of
+the pendulum is increased to 50^0&C, and the material of the pendulum clock
+is made of brass with the coefficient of linear expansion 2 × 10^–5& ^0&C^–1&, then
+determine the new time period of the pendulum.",1 s,1.0005 s,1.0001 s,1.02 s,,b,,MCQ
+11,heat,Assessment - I,,8,"Water falls from a height of 300 m. If 80% of the mechanical energy is used
+to increase the temperature of the water, then what would be the change in
+temperature (in ^0&C) of the water?",0.34,0.42,0.82,0.57,,d,,MCQ
+11,heat,Assessment - I,,9,5 g of ice at 0^0&C is mixed with 5 g of water at 20^0&C what will be the resultant temperature (in ^0&C) of the mixture?,0,60,15,10,,a,,MCQ
+11,heat,Assessment - I,,10,"5 kg of water is at a temperature of 70^0&C. How much amount (in kg) of water at 20^0&C is to be added, so that the resultant temperature is 40^0&C?",7.5,5,10,2.5,,a,,MCQ
+11,heat,Assessment - I,,11,Match the statements of Column A with those of Column B.,A → R; B → P; C → Q,A → Q; B → R; C → P,A → R; B → Q; C → P,A → Q; B → P; C → R,CH-11-11-ROW-372,b,,MCQ
+11,heat,Assessment - I,,12,"Arrange the following steps to determine the specific heat capacity of a substance in a sequential order.
+(A) Note the initial temperature of water.
+(B) Use the law of mixture.
+(C) Take a known mass of water in calorimeter.
+(D) Determine the specific heat capacity of the material.
+(E) Drop the material taken from hot water into the colorimeter.
+(F) Find the temperature of the mixture.",C E A B F D,C A E B F D,D A E F B C,C A E F B D,,d,,MCQ
+11,heat,Assessment - I,,13,A body X is not in thermal equilibrium with A and A is not in thermal equilibrium with B. Which of the following statements holds true?,X and B cannot be in thermal equilibrium,X and B must be in thermal equilibrium,X and B may be in thermal equilibrium,"X, A and B must have different temperatures",,c,,MCQ
+11,heat,Assessment - I,,14,"An object is dropped into water at 20^0&C and water at 40^0&C. If the upthrust acting on it is F~1* and F~2* at 20^0&C and 40^0&C, respectively, then what will be the relation between them?",F~1* = F~2*,F~1* > F~2*,F~1* < F~2*,F~1* = 2F~2*,,b,,MCQ
+11,heat,Assessment - I,,15,"The temperature of the atmosphere is 20^0&C and the amount of water vapour in the atmosphere is 12.78 g m^–3&. Using the table below, find the dew point.",20^0&C,15^0&C,10^0&C,25^0&C,CH-11-15-ROW-376,b,,MCQ
+11,heat,Assessment - II,,1,The water equivalent of a substance is 40 g. How much is the heat energy (in cal) required to raise the temperature of the substance by 20^0&C?,400,200,800,1600,,c,,MCQ
+11,heat,Assessment - II,,2,"When a liquid at 50^0&C is mixed with a similar liquid of the same mass, the resultant temperature of the mixture is found to be 30^0&C. How much is the initial temperature of the second liquid?",40^0&C,30^0&C,20^0&C,10^0&C,,d,,MCQ
+11,heat,Assessment - II,,3,Which of the following statements defines temperature?,total kinetic energy of the molecules,average kinetic energy of the molecules,total internal energy of the molecules.,total potential energy of the molecules,,b,,MCQ
+11,heat,Assessment - II,,4,The water equivalent of a container filled with 300 g of water at 30^0&C is 200 g. How much heat energy (in cal) required to raise the temperature of the content to 70^0&C?,10000,20000,40000,80000,,b,,MCQ
+11,heat,Assessment - II,,5,"A hollow metal sphere is heated. What will be its internal volume and external volume, respectively.","increases, increases","decreases, decreases","increases, decreases","decreases, decreases",,a,,MCQ
+11,heat,Assessment - II,,6,"Equal volume of three different liquids A, B and C are heated through the same temperature change. If DV~A*, DV~B*, DV~C* are the changes in the volumes of the liquids, then, then which of the following is true?",DV~A* = DV~B* = DV~C*,DV~A* > DV~B* > DV~C*,DV~A* < DV~B* < DV~C*,the change in volume depends on the nature of the liquid used.,,d,,MCQ
+11,heat,Assessment - II,,7,A pendulum has a time period of 2 s at 10^0&C. What would be its time period if the temperature is increased to 110^0&C (a = 2 × 10^–5& ^0&C^–1&).,2 s,2.005 s,1.008 s,2.002 s,,d,,MCQ
+11,heat,Assessment - II,,8,"The temperature of water is 20^0&C. If the water falls from a height of 500 m, and 90% of the potential energy is used to increase the temperature of water, then what is the final temperature (in ^0&C) of the water?",21.07,22.08,23.01,21.8,,a,,MCQ
+11,heat,Assessment - II,,9,10 g of ice at –20^0&C is mixed with 10 g of water at 10^0&C. What will be the resultant temperature (in ^0&C) of the mixture?,5,10,0,20,,c,,MCQ
+11,heat,Assessment - II,,10,What is the number of metal balls each of mass 50 g of specific heat capacity of 0.1 cal g^–1& ^0&C^–1& at temperature of 90^0&C to be added to 300 g of water at 25^0&C so that the resultant temperature is equal to 60^0&C?,50,70,90,120,,b,,MCQ
+11,heat,Assessment - II,,11,Match the statements of Column A with those of Column B.,A → Q; B → P; C → R,A → R; B → Q; C → P,A → P; B → R; C → Q,A → Q; B → R; C → P,CH-11-11-ROW-387,a,,MCQ
+11,heat,Assessment - II,,12,"Arrange the following steps to determine the latent heat of fusion of ice in a proper sequence.
+(A) Measure the final temperature of the mixture.
+(B) Take a known quantity of ice at 0^0&C into a calorimeter.
+(C) Drop a piece of metal ball of known mass, specific heat capacity and temperature into the calorimeter.
+(D) Use the law of mixture and find latent heat of fusion of the substance.",C B D A,B C A D,A D B C,B A D C,,b,,MCQ
+11,heat,Assessment - II,,13,"A body P is in thermal equilibrium with Q and Q is not in thermal equilibrium with R, then which of the following statements holds true?",P and R may be in thermal equilibrium.,P and R cannot be in thermal equilibrium,P and R must be in thermal equilibrium,Data is insufficient,,b,,MCQ
+11,heat,Assessment - II,,14,"An object, half immersed, is floating in water. What happens to the volume immersed in the liquid when only the temperature of the water is increased?",decreases,increases,remains the same,cannot be determined,,b,,MCQ
+11,heat,Assessment - II,,15,"Using the table given below, determine the relative humidity at 25^0&C if the amount of water vapour in the atmosphere is 11.48 g m^–3&.",100%,50%,75%,30%,CH-11-15-ROW-391,b,,MCQ
+11,heat,Assessment - III,,1,Which among the following is the unit of thermal conductivity?,W m^-1& K^-1&,J m^-1& K^-1&,W m^-1& K,J m^-1& K,,a,,MCQ
+11,heat,Assessment - III,,2,"If a metal is stretched so that its length is increased by 1/8 of the original length, the ratio of the rate of flow of heat, when temperature of their ends are maintained constant, is ______",81/64,19/32,81/36,36/49,,a,,MCQ
+11,heat,Assessment - III,,3,Which among the following is/are the units of heat energy?,Calorie ,Joule,Ergs,All the above,,d,,MCQ
+11,heat,Assessment - III,,4,Metals are better conductors of heat than water and air. This is because of,more number of electrons in metals.,more density of metals,less specific heat capacity metals.,more melting and boiling point of metals.,,a,,MCQ
+11,heat,Assessment - III,,5,"When one end of a metal conductor is heated, the flow of heat to the other end is due to",only conduction,only convection,only radiation,"conduction, convection and radiation",,a,,MCQ
+11,heat,Assessment - III,,6,A black body is ______ of radiation.,good emitter,good absorber,conductor,Both (1) and (2),,d,,MCQ
+11,heat,Assessment - III,,7,"A pendulum clock made of a metal of coefficient of linear expansion α shows the correct reading at t~1* ^0&C. If the temperature is increased to t~2* ^0&C, then which of the following statements holds true?",it losses time,it gains time,its time period increases,Both (a) and (c),,d,,MCQ
+11,heat,Assessment - III,,8,What is the ratio of specific heat capacity and heat capacity?,mass,1/mass,temperature,1/temperature,,b,,MCQ
+11,heat,Assessment - III,,9,The length of the mercury column of a thermometer is found to be 6 cm when the temperature of a substance is 5^0&C. What is the length of the mercury column when the thermometer is in contact with boiling water?,100 cm,120 cm,60 cm,30 cm,,b,,MCQ
+11,heat,Assessment - III,,10,"By using the data given in the following table determine the approximate dew point at 20^0&C. The vapour pressure in the atmosphere is 12.6 mm of Hg, when the temperature is 20^0&C.",20^0&C,15^0&C,10^0&C,5^0&C,CH-11-10-ROW-401,b,,MCQ
+11,heat,Assessment - III,,11,Match the statements of Column A with those of Column B.,A → Q; B → P; C → S; D → R,A → Q; B → R; C → P; D → S,A → P; B → R; C → Q; D → S,A → Q; B → P; C → R; D → S,CH-11-11-ROW-402,d,,MCQ
+11,heat,Assessment - III,,12,"Assertion (A): If two bodies of equal initial temperature after supplying equal amount of heat energy are brought in contact, no heat energy flows from one body to another body.
+Reason (R): Heat energy flows from one body to another only when different amount of heat energy is supplied to them.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,d,,MCQ
+11,heat,Assessment - III,,13,"Assertion (A): Pendulum clocks are made of materials having less linear expansion coefficient.
+Reason (R) : Sudden expansion or contraction develops cracks in the
+materials.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,c,,MCQ
+11,heat,Assessment - III,,14,"Arrange the following steps to calculate the specific heat capacity of a solid.
+(A) Measure the mass of the solid substance whose specific heat capacity is
+to be determined.
+(B) Measure the final temperature of water.
+(C) Measure the initial temperature and mass of the water filled in a container.
+(D) Drop the solid into a container filled with boiling water.
+(E) Transfer the solid into the container filled with water.
+(F) Use the principle of calorimetry.",A D C E B F,A D E C B F,A C D E B F,A B D E C F,,c,,MCQ
+11,heat,Assessment - III,,15,"Arrange the following processes in the increasing order of the heat energy required.
+(A) To melt 100 g of ice.
+(B) To change the temperature of 100 g of water by 10^0&C.
+(C) To boil 100 g of water initially at 10^0&C.
+(D) To vaporize 10 g of water at 10^0&C.",A B C D,D C B A,D B C B,B D A C,,d,,MCQ
+11,heat,Assessment - IV,,1,"The thermal conductivities of aluminum, brass and copper are 209 W m^-1& K^-1&, 109 W m^-1& K^-1& and 385 W m^-1& K^-1&, respectively. Which among them is a good conductor of heat?",Aluminium,Brass,Copper,All the metals are equally good conductors,,c,,MCQ
+11,heat,Assessment - IV,,2,"Two metal wires of length l and 3l and same area of cross-section and of thermal conductivities α and 2α are joined end-on-end such that the total length is 4l. If T~1* and T~2* are the temperature at either ends, what will be the temperature at the junction?",a,b,c,d,CH-11-2-ROW-408,c,,MCQ
+11,heat,Assessment - IV,,3,"Which among the following of molecules remains constant when ice is
+melted?",Potential energy,Kinetic energy,Temperature,Both (b) and (c),,d,,MCQ
+11,heat,Assessment - IV,,4,It is difficult to stay on a metal plate than on a glass plate when both are placed in the bright sun. Which of the following explains this?,the specific heat of metal is less than that of glass.,thermal conductivity of metal is greater than that of glass.,density of metal is greater than that of glass.,expansion of metal is more than that of glass,,b,,MCQ
+11,heat,Assessment - IV,,5,The heat flows from the Sun to the Earth by,conduction,convection,radiation,both conduction and radiation,,c,,MCQ
+11,heat,Assessment - IV,,6,"If absorptive power of a body is defined as energy absorbed to the total energy incident on it, then what will be the absorptive power of a black body?",one,less than one,greater than one,depends upon the density of the substance,,a,,MCQ
+11,heat,Assessment - IV,,7,"A pendulum made of metal of coefficient of linear expansion α is taken from
+a place of acceleration due to gravity g to a place where the acceleration due
+to gravity is g^1&(g^1& > g). Determine the change of temperature of the pendulum
+clock so that the time period of the pendulum is the same at the both the
+places.",A,B,C,D,CH-11-7-ROW-413,a,,MCQ
+11,heat,Assessment - IV,,8,"Which of the following is the unit for quantity 
+specific heat capacity / latent heat of fusion ?",K,K^-1&,kg,J^-1&,,b,,MCQ
+11,heat,Assessment - IV,,9,"When two different thermometers A and B are in contact with an object, at equilibrium the length of the mercury column is found to be 3 cm and 6 cm, respectively. When they are in contact with another object, the length of mercury thread of A is increased by 3 cm. What will be the length (in cm) of the mercury thread of the thermometer B?",12,8,15,10,,d,,MCQ
+11,heat,Assessment - IV,,10,"When the atmospheric temperature is 20^0&C, the relative humidity is 69% and when the temperature is suddenly dropped by 5^0&C, the relative humidity has increased to 94.7%. Determine the saturate vapour pressure at 20^0&C if the saturate vapor pressure at 15^0&C is 12.67 mm of Hg.",17.38 mm of Hg,18.3 mm of Hg,8.94 mm of Hg,21.15 mm of Hg,,a,,MCQ
+11,heat,Assessment - IV,,11,Match the statements of Column A with those of Column B.,A → S; B → R; C → P; D → Q,A → S; B → P; C → Q; D → R,A → S; B → Q; C → P; D → R,A → S; B → Q; C → R; D → P,CH-11-11-ROW-417,c,,MCQ
+11,heat,Assessment - IV,,12,"Assertion (A): Two bodies ‘P’ and ‘Q’ of equal masses have their initial temperatures 30^0&C. They are heated by using two identical heating devices for the same time. Then the final temperature of both P and Q need not be the same.
+Reason (R): If two bodies are made of different materials their specific heat capacities are different.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,a,,MCQ
+11,heat,Assessment - IV,,13,"Assertion (A) : A pendulum clock losses time when the temperature in a room is increased.
+Reason (R) : When the temperature is increased, the length of the pendulum increases and as a result the time period increases.",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false.,,a,,MCQ
+11,heat,Assessment - IV,,14,"Arrange the following steps to determine the latent heat of vaporization of ice.
+(A) Measure the mass of the ice.
+(B) Measure the final temperature of water.
+(C) Take water in a container whose mass and initial temperature is known.
+(D) Drop the piece of ice into water and wait until it completely melts.
+(E) Use the principle of calorimetry.",A C D B E,C B D E A,C A B D E,A B C D E,,a,,MCQ
+11,heat,Assessment - IV,,15,"Arrange the following process in the increasing order of final temperature of the content.
+(A) When 1000 cal of heat is supplied to 80 g of ice at -4^0&C.
+(B) When 1000 cal of heat is supplied to 100 g of water at 0^0&C.
+(C) When 1000 cal of heat is supplied to 50 g of water at 0^0&C.
+(D) When 1000 cal heat is supplied to 5 g of ice at -5^0&C.",A B C D,B A C D,C D B A,A B D C,,a,,MCQ
+12,Modern physics and Electronic,Assessment - I,,1,For which of the following is speci c charge maximum for?,β-rays,protons,neutrons,α-rays,,a,,MCQ
+12,Modern physics and Electronic,Assessment - I,,2,"What are ~7*N^14&, ~7*N^15& called as?",isotones,isobars,isotopes,isomers,,c,,MCQ
+12,Modern physics and Electronic,Assessment - I,,3,What happens to the width of the depletion region in reverse biased condition of diode?,decreases,increases,remains same,_x005F_x001f_ rst decreases and then remains constant,,b,,MCQ
+12,Modern physics and Electronic,Assessment - I,,4,Which of the following is not a high-level language?,FORTAIN,COBOL,Assembly,JAVA,,c,,MCQ
+12,Modern physics and Electronic,Assessment - I,,5,Match the statements of Column A with those of Column B.,A → R; B → S; C → P; D → Q,A → R; B → P; C → S; D → Q,A → R; B → Q; C → P; D → S,A → R; B → S; C → R; D → Q,CH-12-5-ROW-426,d,,MCQ
+12,Modern physics and Electronic,Assessment - I,,6,Match the statements of Column A with those of Column B.,P → D; Q → B; R → A; S → C,P → B; Q → D; R → A; S → C,P → B; Q → C; R → A; S → D,P → D; Q → A; R → B; S → C,CH-12-6-ROW-427,b,,MCQ
+12,Modern physics and Electronic,Assessment - I,,7,"Write the following steps in sequential order to calculate the binding energy of helium nucleus. Given the actual mass of helium is (M).
+(A) Determine the sum of the individual masses of constituents in ~2*He^4& 
+(B) Note the actual mass of the nucleus (M), number of nucleons in helium is 4, M~p* and M~n*. Find the number of protons and number of neutrons in the nucleus.
+(C) Calculate the binding energy of the nucleus from the formula, binding energy = 931.5 × Dm
+(D) Calculate the mass defect of the given nucleus (Dm).",B A C D,B A D C,A B D C,B C A D,,b,,MCQ
+12,Modern physics and Electronic,Assessment - I,,8,"In the circuit diagram given below if the potential barrier of the diode is 1 V, then choose the correct readings recorded by the ammeter and the voltmeter from the following.",A,B,C,D,CH-12-8-ROW-429,c,,MCQ
+12,Modern physics and Electronic,Assessment - I,,9,From the figure given below choose the correct one from the following.,"D~1*, D~2* and D~3* are reverse biased.","D~1*, D~2* are reverse biased and D~3* is forward biased","D~1*, D~3* are forward biased and D~2* is reverse biased","D~1*, D~2* and D~3* are forward biased.",CH-12-9-ROW-430,a,,MCQ
+12,Modern physics and Electronic,Assessment - I,,10,"In a vacuum diode, 3 × 10^19& electrons emitted from the cathode reach the plate of a vacuum diode in 2 s. If the potential difference between the cathode and the plate is 400 V, then what would be the resistance of the diode?",161.6 W,166.6 W,160 W,661.6 W,,b,,MCQ
+12,Modern physics and Electronic,Assessment - I,,11,"The masses of the proton and the neutron are 1.0078 u and 1.0087 u, respectively. Mass of ~4*Be^9& is 9.012 u. Determine binding energy of its nucleus.",58.4 MeV,54.8 MeV,58.8 MeV,60 MeV,,a,,MCQ
+12,Modern physics and Electronic,Assessment - I,,12,"From the circuit diagram given below, determine the amount of charge
+stored in a single capacitor.",200 C,50 A,50 C,25 C,CH-12-12-ROW-433,c,,MCQ
+12,Modern physics and Electronic,Assessment - I,,13,In the circuit diagram how much will be the required capacitance of the given capacitor to increase the charge storage by 30%?,3/10 C,13/10 C,10/13 C,10/3 C,CH-12-13-ROW-434,b,,MCQ
+12,Modern physics and Electronic,Assessment - I,,14,"Radius of the nucleus is given as 1.3 × 10^–15&m. If the mass number of the nucleus is increased to 8 times, then determine the volume of the new nucleus.",7.4 x 10^-44& m^3&,7.4 x 10^-46& m^3&,7.4 x 10^-45& m^3&,7.4 x 10^-40& m^3&,,a,,MCQ
+12,Modern physics and Electronic,Assessment - I,,15,The half-life period of a radioactive substance is 20 days. How much will be the time taken for 7/8th of its original mass to disintegrate?,40 days,140 days,60 days,80 days,,c,,MCQ
+12,Modern physics and Electronic,Assessment - II,,1,Which of the following is specific charge is minimum for?,protons,electrons,neutrons,b-particle,,c,,MCQ
+12,Modern physics and Electronic,Assessment - II,,2,"What are ~14*Si^31&, ~15*P^31& called?",isotones,isobars,isotopes,isomers,,b,,MCQ
+12,Modern physics and Electronic,Assessment - II,,3,What happens to the conduction in a diode a forward biased condition?,increases,remains same,decrease by 1/3,decrease by 1/2,,a,,MCQ
+12,Modern physics and Electronic,Assessment - II,,4,Which of the following is a program that converts a PASCAL program to a machine language?,Basic,Compiler,Java,FORTRAN,,b,,MCQ
+12,Modern physics and Electronic,Assessment - II,,5,Match the statements of Column A with those of Column B.,A → S; B → Q; C → P; D → R,A → S; B → P; C → R; D → Q,A → S; B → P; C → Q; D → R,A → S; B → Q; C → R; D → P,CH-12-5-ROW-441,c,,MCQ
+12,Modern physics and Electronic,Assessment - II,,6,Match the statements of Column A with those of Column B.,P → D; Q → B; R → C; S → A,P → D; Q → C; R → B; S → A,P → D; Q → A; R → B; S → C,P → C; Q → D; R → A; S → B,CH-12-6-ROW-442,c,,MCQ
+12,Modern physics and Electronic,Assessment - II,,7,"Write the steps in sequential order according to liquid drop model. Show the stages of energy liberation in a nuclear fission reaction.
+(A) This leads to the disturbance of the internal forces and sets up oscillations.
+(B) During the bombardment of a nucleus by neutrons, a neutron could be absorbed by the drop like the nucleus.
+(C) These oscillations lead to the development of a thick neck forming two parts, giving the nucleus an elongated shape.
+(D) A heavy nucleus is treated as a liquid drop with uniformly distributed positive charge.
+(E) From this stage, the repulsive forces take over causing the fission of the nucleus.",D A B C E,D E B A C,D B C A E,D B A C E,,d,,MCQ
+12,Modern physics and Electronic,Assessment - II,,8,"From the given circuit diagram if the potential across the diode is 2 V and resistance of the diode is 0.5W, find out the exact readings from the ammeter and two voltmeters V~1* and V~2*.","3.6 A, 7.2 V, 10.9 V","3.6 A, 7.2 V, 9.2 V","6.2 A, 5.2 V, 10.2 V","2.6 A, 4.2 A, 11.2 V",CH-12-8-ROW-444,a,,MCQ
+12,Modern physics and Electronic,Assessment - II,,9,"Choose the correct one among the following, from the circuit diagram given below.",A and C are forward biased and B is reverse biased.,A B and C are forward biased.,"A, B and C are reverse biased.",A and B are forward biased and C is reverse biased.,CH-12-9-ROW-445,b,,MCQ
+12,Modern physics and Electronic,Assessment - II,,10,"In a vacuum diode, 4 × 10^19& electrons emitted from the cathode reach the plate of a vacuum diode 3 s. If the potential difference between the cathode and the plate is 300 V, then how much is the power consumed by it?",460 W,64 W,406 W,640 W,,d,,MCQ
+12,Modern physics and Electronic,Assessment - II,,11,"The masses of proton and neutron are 1.0078 u and 1.0087 u, respectively. Actual mass of the ~2*He^4& is 4.0026 u, determine the mass defect (in kg). (where 1 u = 1.66 × 10^–27& kg)",5.04 x 10^-27&,5.04 x 10^-26&,5.04 x 10^-29&,5.04 x 10^-29&,,d,,MCQ
+12,Modern physics and Electronic,Assessment - II,,12,"From the circuit diagram given below, find the ratio of the charge on C~1*, C~2*, and C~3*.",1 : 2 : 3,2 : 1 : 3,3 : 1 : 2,3 : 2 : 1,CH-12-12-ROW-448,b,,MCQ
+12,Modern physics and Electronic,Assessment - II,,13,"In the circuit diagram given below if the capacitance is increased by 50%, then how much is the amount of charge stored on it?",3/2 C,15/2 C,2/15 C,2/3 C,CH-12-13-ROW-449,b,,MCQ
+12,Modern physics and Electronic,Assessment - II,,14,"The radius of the nucleus and its mass number are 1.3 × 10^–15& m and A, respectively. What would be the mass number of the nucleus to increase its radius to 3 times that of its original value?",9:00 AM,6:00 AM,3:00 AM,27 A,,d,,MCQ
+12,Modern physics and Electronic,Assessment - II,,15,The half-life period of radium is 1600 years. How much is the fraction of its original mass to disintegrate in the time of 3200 years?,1/4,3/4,4/3,4/1,,b,,MCQ
+12,Modern physics and Electronic,Assessment - III,,1,Match the statements of Column A with those of Column B.,A → R; B → Q; C → S; D → P,A → S; B → R; C → Q; D → P,A → S; B → R; C → P; D → Q,A → S; B → P; C → R; D → Q,CH-12-1-ROW-452,c,,MCQ
+12,Modern physics and Electronic,Assessment - III,,2,"Assertion: It is easy to separate the constituents of a nucleus with high binding energy.
+Reason: More the binding energy of a nucleus, the lesser is its stability",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false,,d,,MCQ
+12,Modern physics and Electronic,Assessment - III,,3,"In the nuclear reaction shown below, mention the order in which the particles/radiations are emitted.",a,b,c,d,CH-12-3-ROW-454,a,,MCQ
+12,Modern physics and Electronic,Assessment - III,,4,Which of the following statements is wrong about a nuclear reactor?,Uranium is used in it.,Products are radioactive in nature,Controlled nuclear fission reaction takes place.,Moderator is used to control the reaction.,,d,,MCQ
+12,Modern physics and Electronic,Assessment - III,,5,Which of the following statements holds true for positron?,mass equal to that of proton,charge equal to that of proton,charge equal to that of electron,both (a) and (c),,b,,MCQ
+12,Modern physics and Electronic,Assessment - III,,6,How much energy can be generated by the complete fission of 235 g of U^235& if fission of 1 atom of U^235& results in release of 200 MeV energy?,12 x 10^31& J,19.2 x 10^12& J,19.2 x 10^20& J,12 x 10^31& eV,,b,,MCQ
+12,Modern physics and Electronic,Assessment - III,,7,a and b particles are emitted with the same velocity. Which of the following statements holds true for them?,they have the same kinetic energy,they have the same momenta.,they have the same kinetic energy but different momenta,they have different kinetic energy and momenta.,,d,,MCQ
+12,Modern physics and Electronic,Assessment - III,,8,"The half-life period of a radioactive element is 2 days. If 100 g of the substance is present initially, then how much the amount (in g) will be left after 10 days?",25,625,3.125,12.5,,c,,MCQ
+12,Modern physics and Electronic,Assessment - III,,9,Which of the following is the function of cadmium rod in a nuclear reactor?,It controls the nuclear reaction.,It slows down the neutrons.,It releases neutrons,It removes the heat in the reactor,,a,,MCQ
+12,Modern physics and Electronic,Assessment - III,,10,"Arrange the following radioactive elements in the increasing order of their
+half-life period.
+(A) 2 g is reduced to 0.25 g in 6 days.
+(B) 50 g is reduced to 12.5 g in 6 days.
+(C) 200 g is reduced to 12.5 g in 16 days.",C A B,A B C,B C A,B A C,,b,,MCQ
+12,Modern physics and Electronic,Assessment - III,,11,"How much is the amount of heat (in J) produced in the resistor shown in the
+figure given below after 10 s?",4 x 10^4&,zero,10^4&,5 x 10^4&,CH-12-11-ROW-462,b,,MCQ
+12,Modern physics and Electronic,Assessment - III,,12,"In a junction transistor, electric current is due to the flow of ________.",electrons,holes,protons,both (a) & (b),,d,,MCQ
+12,Modern physics and Electronic,Assessment - III,,13,The work function of a metal depends on,nature of material,temperature of material.,surrounding pressure.,volume,,a,,MCQ
+12,Modern physics and Electronic,Assessment - III,,14,Determine the ammeter reading (in A) in the following circuit,7.5,10,25,2.5,CH-12-14-ROW-465,c,,MCQ
+12,Modern physics and Electronic,Assessment - III,,15,"Which of the following is the correct symbolic representation of an npn
+transistor?",A,B,C,D,CH-12-15-ROW-466,c,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,1,Match the statements of Column A with those of Column B.,A → Q; B → S; C → R; D → P,A → R; B → Q; C → S; D → P,A → R; B → S; C → P; D → Q,A → R; B → S; C → Q; D → P,CH-12-1-ROW-467,d,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,2,"Assertion: Nucleus with more mass defect is more stable than that with less
+mass defect.
+Reason: More the mass defect more is binding energy and that implies more
+stability",A and R are true and R is the correct explanation of A.,"A and R are true, but R is not the correct explanation of A.",A is true but R is false.,Both A and R are false,,a,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,3,"In the following nuclear reaction, what is the order in which the particles/
+radiations are emitted?",a,b,c,d,CH-12-3-ROW-469,b,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,4,Which of the following is true about nuclear fission?,This reaction takes place in the Sun.,"In this reaction, the energy released per nucleon is more than that of fusion reaction.",Products formed are radioactive and are harmful.,both (a) and (b).,,c,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,5,"Select the correct statement(s).
+Nuclear force is
+(A) always attractive.
+(B) operates between nucleons at any distance of separation.
+(C) independent of charge.",Only A,Both (A) and (B),Both (A) and (C) ,"A, B, and C",,c,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,6,"How many grams of U^235& are required to produce 1600 × 10^20& J of energy?
+The energy released by the fission of one U^235& atom is 200 MeV.",195 x 10^10& g,195 x 10^7& g,165 x 10^8& g,135 x 10^11& g,,a,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,7,"a and b particles have the same momentum. Which of the following is true
+for them?",they have same kinetic energy,they have same velocity,they have same kinetic energy but different velocity.,they have different velocity and kinetic energy.,,d,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,8,"200 g of a radio active substance disintegrates to 25 g in 15 days. What will
+be its half-life period (in days)?",5,15,7.5,2.5,,a,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,9,What is the use of heavy water in a nuclear reactor?,It slows down the neutrons,It captures the neutrons,It speeds up the neutrons,It controls the nuclear reaction,,a,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,10,"The initial and final amounts of radioactive substance present in different
+materials and their half life periods are given below. Arrange the radioactive
+elements in the increasing order of their ages.",A B C,C A B,A C B,B A C,CH-12-10-ROW-476,d,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,11,"The amount of heat produced in the resistors R~1* and R~2* after 1 minute shown
+in the diagram below are _____ and ______, respectively.","2400 J, 2400 J","Zero, 2400 J","2400 J, Zero ","Zero, Zero",CH-12-11-ROW-477,c,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,12,"A transistor is used in
+(A) amplifier (B) oscillator (C) rectifier",only A and (B),"A, B and (C)",only (A) and (C),only B and C,,a,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,13,Electron can be removed from the surface of a metal by,heating,cooling,making light of suitable wavelength to be incident on it,both (a) and (c),,d,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,14,"What are the readings of ammeter, A~1* and A~2*?","2 A, 2 A","1 A, 1 A","Zero, 2 A","Zero, Zero",CH-12-14-ROW-480,c,,MCQ
+12,Modern physics and Electronic,Assessment - IV,,15,Which one of the following is the symbol of pnp transistor?,A,B,C,D,CH-12-15-ROW-481,b,,MCQ
