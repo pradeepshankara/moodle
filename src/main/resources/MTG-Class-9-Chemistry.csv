@@ -1,0 +1,863 @@
+Chapter Number,ChapterName,SubChapterName,Classification,QuestionNumber,QuestionText,Option1,Option2,Option3,Option4,Image?,Answer,AnswerDescription,QuestionType
+1,Matter in our Surroundings ,,level-1,1,Addition of impurities to water,decreases the freezing point of water,increases the boiling point of water,does not affect the freezing or boiling point of water,both (a) and (b).,,d,,MCQ
+1,Matter in our Surroundings ,,level-1,2,"Which of these choices is defined as ""Standard Pressure""?",14.7 psi,1 atm,760 torr,All of these,,d,,MCQ
+1,Matter in our Surroundings ,,level-1,3,Which of the following indicates the relative randomness of particles in the three states of matter?,Solid > liquid > gas,Liquid < solid < gas,Liquid> gas> solid,Gas> liquid > solid,,d,,MCQ
+1,Matter in our Surroundings ,,level-1,4,The process of evaporation causes,heating,cooling,increase in temperature,none of these,,b,,MCQ
+1,Matter in our Surroundings ,,level-1,5,lce floats on the surface of water because,it is heavier than water,the density of both water and ice is the same,ice is lighter than water,none of these,,c,,MCQ
+1,Matter in our Surroundings ,,level-1,6,Which of the following statements is not correct?,Matter is continuous in nature,Interparticle spaces are maximum in the gaseous state of a substance,Particles which constitute the matter follow a zig-zag path,Solid state is the most compact state of a substance,,c,,MCQ
+1,Matter in our Surroundings ,,level-1,7,Evaporation of a liquid can take place,at its boiling point,below its boiling point,above its boiling point,at a fixed temperature,,b,,MCQ
+1,Matter in our Surroundings ,,level-1,8,A liquid is kept in a China dish. The evaporation of the liquid can be accelerated by,keeping the dish in the open,blowing air into the liquid,keeping the dish under a running fan,all of these,,d,,MCQ
+1,Matter in our Surroundings ,,level-1,9,Which one of the following statements is wrong for gases?,Gases do not have a definite shape and volume,Volume of the gas is equal to the volume of the container confining the gas,Confined gas exerts uniform pressure on the walls of container in all directions,Mass of the gas cannot be determined by weighing a container in which it is enclosed,,d,,MCQ
+1,Matter in our Surroundings ,,level-1,10,The quantity of matter present in an object is called its,weight,gramn,mass,density,,c,,MCQ
+1,Matter in our Surroundings ,,level-1,11,Which of the following describes the liquid phase?,Ithas a definite shape and a definite volume,It has a definite shape but not definite volume,It has a definite volume but not a definite shape.,It has neither a definite shape nor a definite volume,,c,,MCQ
+1,Matter in our Surroundings ,,level-1,12,Which of the following states has the least energetic molecules?,Solid,Liquid,Gas,Plasma,,a,,MCQ
+1,Matter in our Surroundings ,,level-1,13,Which of the following represent ne densest state of matter?,Solids,Liquids,Gases,Vapours,,a,,MCQ
+1,Matter in our Surroundings ,,level-1,14,"When ice melts to water, then heat is",absorbed,evolved,no change,depends on conditions,,a,,MCQ
+1,Matter in our Surroundings ,,level-1,15,A gas can be best liquefied,by increasing the temperature,by lowering the pressure,by increasing the pressure and reducing the temperature,none of these,,c,,MCQ
+1,Matter in our Surroundings ,,level-1,16,Which of the following statements does not go with the liquid state?,Particles are loosely packed in the liquid state.,Fluidity is maximum in the liquid state,Liquids cannot be compressed much,Liquids take up the shape of any container in which they are placed,,b,,MCQ
+1,Matter in our Surroundings ,,level-1,17,The state of matter which consists of super energetic particles in the form of ionized gases is called,gaseous state,liquid state,Bose-Einstein condensate,plasma state,,d,,MCQ
+1,Matter in our Surroundings ,,level-1,18,The value of latent heat of vaporisation of water in kcal/kg is,80,540,334,225,,b,,MCQ
+1,Matter in our Surroundings ,,level-1,19,"When liquid starts boiling, further heat energy which is supplied",is lost to the surroundings as such,increases the temperature of the liquid,increases the kinetic energy of the particles in the liquid,is absorbed as latent heat of vaporisation by the liquid,,d,,MCQ
+1,Matter in our Surroundings ,,level-1,20,The forces of attraction between the particles of matter are maximum in,iron rod,kerosene oil,glycerine,dry air,,a,,MCQ
+1,Matter in our Surroundings ,,level-1,21,The substance having the maximum tendency to flow is,water,sodium,sodium chloride,chlorine,,d,,MCQ
+1,Matter in our Surroundings ,,level-1,22,Which of the following is not correct regarding gases?,Gases exert pressure.,Gases have large intermolecular spaces,Gases have weak tendency to diffuse,Gases have weak intermolecular forces of attraction.,,c,,MCQ
+1,Matter in our Surroundings ,,level-1,23,"The electric bulb on long use forms a black coating on its inner surface.
+The process associated with this is",melting of tungsten,sublimation of tungsten,oxidation of tungsten,reduction of tungsten,,b,,MCQ
+1,Matter in our Surroundings ,,level-1,24,If few spoons of salt are dissolved in pure water then,its b.pt. becomes less than 100^0&C,its b.pt. becomes more than 100^0&C,its freezing point becomes more than 0^0&C,none of these,,b,,MCQ
+1,Matter in our Surroundings ,,level-1,25,The evaporation of a liquid can be best carried out in a,beaker,China dish,test tube,flask.,,b,,MCQ
+1,Matter in our Surroundings ,,level-1,26,The unit of latent heat is,joules per kilogram,calories per gram per 0^0&C,ergs per K,all of these.,,a,,MCQ
+1,Matter in our Surroundings ,,level-1,27,Latent heat of vaporisation is used to,overcome the forces of attractiorn between molecules in solid state,increase the kinetic energy of molecules in liquid state,overcome the forces of attraction between molecules in liquid state,increase the kinetic energy of molecules in of matter are maximum in vapour state,,c,,MCQ
+1,Matter in our Surroundings ,,level-1,28,The rate of diffusion decreases,with increase in temperature,with increase in kinetic energy of molecules,with decrease in temperature,no effect of temperature,,c,,MCQ
+1,Matter in our Surroundings ,,level-1,29,What type of a process is evaporation?,Exothermic,Endothermic,Photochemical,Biochemical,,b,,MCQ
+1,Matter in our Surroundings ,,level-1,30,The high diffusibility of gases is due to,high intermolecular forces of attraction,high kinetic energy of molecules,restricted translatory motion in upward direction,all of the above,,b,,MCQ
+1,Matter in our Surroundings ,,level-2,31,The density of water is maximum at,0^0&C,277 K,100^0&C,283 K,,b,,MCQ
+1,Matter in our Surroundings ,,level-2,32,Which one of the following gases undergoes diffusion most readily?,LPG,Carbon dioxide,Hydrogen,Nitrogen,,c,,MCQ
+1,Matter in our Surroundings ,,level-2,33,"In which of the following substances, the interparticle forces of attraction are the strongest?",Sodium chloride,Glycerine,Ethyl alcohol,Carbon dioxide,,a,,MCQ
+1,Matter in our Surroundings ,,level-2,34,"During evaporation, particles of a liquid change into vapours only",from the surface,from the bulk,from both surface and bulk,neither from surface nor from bulk,,a,,MCQ
+1,Matter in our Surroundings ,,level-2,35,In which conversion do H~2*O molecules lose speed?,Ice -> Water,Ice -> Steam,Steam -> Ice,Water -> Steam,CH-1-35-ROW-36,c,,MCQ
+1,Matter in our Surroundings ,,level-2,36,At higher altitudes,boiling point of a liquid increases,boiling point of a liquid decreases,no change in boiling point,melting point of solid increases,,b,,MCQ
+1,Matter in our Surroundings ,,level-2,37,The liquid which has the highest rate of evaporation is,mercury,nail polish remover,water,alcohol-water mixture,,b,,MCQ
+1,Matter in our Surroundings ,,level-2,38,"A flask containing a liquid X is heated until it boils as shown in the figure.
+Choose the incorrect statement about the particles of the substance during this process.","Energy is absorbed by particles in the
+liquid X",The particles lose kinetic energy,"Eventually, the particles throughout the liquid have enough energy to overcome the forces holding them together",Both (a) and (b).,CH-1-38-ROW-39,b,,MCQ
+1,Matter in our Surroundings ,,level-2,39,All liquids have same,density,viscosity,solubility,none of these,,d,,MCQ
+1,Matter in our Surroundings ,,level-2,40,Which of the following will not change the state of matter?,Temperature,Crushing a crystal,Pressure,Electricity,,b,,MCQ
+1,Matter in our Surroundings ,,level-2,41,If we add common salt in water then its freezing point,increases,decreases,remains constant,can't be determined,,b,,MCQ
+1,Matter in our Surroundings ,,level-2,42,Which of the following has more heat content?,10 g of ice at 0^0&C,10 g of water at 0^0&C.,Both have same heat content,Their heat content cannot be compared,,b,,MCQ
+1,Matter in our Surroundings ,,level-2,43,"The states of matter depending upon the interparticle distances are shown in the following diagram.
+The conditions a, b, c, d are",A,B,C,D,CH-1-43-ROW-44,a,,MCQ
+1,Matter in our Surroundings ,,level-2,44,"Which of the following factors, when increased, affect the rate of evaporation adversely?",Temperature of liquid,Surface area of liquid exposed to surroundings,Humidity in air,None of these,,c,,MCQ
+1,Matter in our Surroundings ,,level-2,45,"When a teaspoon of solid sugar is dissolved in a glass of liquid water, what phase or phases are present after mixing?",Liquid only,Both solid and liquid,Solid only,None of these,,a,,MCQ
+1,Matter in our Surroundings ,,level-2,46,Which of the following is not an example of a plasma?,Aurora borealis,Fluorescent light bulb,Neorn sign bulb,Incandescent light bulb,,d,,MCQ
+1,Matter in our Surroundings ,,level-2,47,A drop each of two non-corrosive and nonirritating liquids A and B at temperature of 22^0&C are placed on the skin. Liquid A gives more cooling sensation than liquid B. Which of the following can be said about the liquids A and B?,Liquid A has higher boiling point than that of liquid B,Liquid A has high latent heat of vaporisation than that of liquid B.,LiquidA has low latent heat of vaporisation than that of liquid B.,The boiling points of liquids A and B are equal.,,c,,MCQ
+1,Matter in our Surroundings ,,level-2,48,Which of the following substances has the highest density?,Water,Kerosene oil,Iron,Lead,,d,,MCQ
+1,Matter in our Surroundings ,,level-2,49,"Nitrogen dioxide (M, = 46) and sulphur dioxide (M, 64) are gases that cause acid rain. If their rates of diffusion are measured at 22^0&C and 44^0&C, which gas is expected to have the faster rate of diffusion at these temperatures?",Nitrogen dioxide at 22^0&C,Nitrogen dioxide at 44^0&C,Sulphur dioxide at 22^0&C,Sulphur dioxide at 44^0&C,,b,,MCQ
+1,Matter in our Surroundings ,,level-2,50,Which of the following statements best explains heat why a closed balloon filled with helium gas rises in air?,"Helium is a monatomic gas, whereas nearly all the molecules that make up air, such as nitrogen and oxygen, are diatomic","The average speed of helium atoms is higher than the average speeds of air molecules, and the higher speed of collisions with the balloon walls propels the balloon upward","Because the helium has a lower molar mass than the average air molecule, the helium gas is less dense than air.","Because helium has a lower molar mass than the average air molecule, the helium atoms are in faster motion. This means that the temperature of the helium is higher than the air temperature. Hot gases tend to rise.",,c,,MCQ
+1,Matter in our Surroundings ,,level-2,1,Match the following,"P-3, Q-2, R-1, S-4","P-4, Q-3, R-2, S-1","P-2, Q-3, R-1, S-4","P-1, Q-2, R-3, S-4",CH-1-1-ROW-52,b,,MCQ
+1,Matter in our Surroundings ,,level-2,2,Match the following,"P-1, Q-2, R-4, S-3","P-1, Q-4, R-3, S-2","P-2, Q-1, R-3, S-4","P-4, Q-2, R-3, S-1",CH-1-2-ROW-53,a,,MCQ
+1,Matter in our Surroundings ,,level-2,3,Match the following,"P-1, Q-4, R-3, S-2","P-2, Q-1, R-3, S-4","P-2, Q-1, R-4, S-3","P-3, Q-2, R-1, S-4",CH-1-3-ROW-54,c,,MCQ
+1,Matter in our Surroundings ,,level-2,4,Match the following,"P-2, Q-1, R-4, S-3","P-1, Q-3, R-2, S-4","P-3, Q-2, R-1, S-4","P-1, Q-2, R-4, S-3",CH-1-4-ROW-55,a,,MCQ
+1,Matter in our Surroundings ,,level-2,5,Match the following,"P-3, Q-1, R-2, S-4","P-3, Q-1, R-4, S-2","P-1, Q-3, R-2, S-4","P-2, Q-3, R-4, S-1",CH-1-5-ROW-56,b,,MCQ
+1,Matter in our Surroundings ,,level-2,1,"Assertion : Camphordisappears without leaving any residue 
+Reason : Camphor undergoes sublimation.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+1,Matter in our Surroundings ,,level-2,2,"Assertion : Liquids diffuse less easily as compared to gases.
+Reason :  Intermolecular forces are greater in gases",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+1,Matter in our Surroundings ,,level-2,3,"Assertion : Ice floats on the surface of water.
+Reason : The density of both water and ice is same.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+1,Matter in our Surroundings ,,level-2,4,"Assertion : The intermolecular forces in solid state are stronger than those in the liquid state.
+Reason : The space between the particles of matter is called intermolecular space.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+1,Matter in our Surroundings ,,level-2,5,"Assertion : The rate of evaporation increases with increase in temperature
+Reason : Increase in temperature increases the kinetic energy of the particles",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+1,Matter in our Surroundings ,,level-2,6,"Assertion : Solids do not diffuse in air.
+Reason : The particles are closely packed in solids.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+1,Matter in our Surroundings ,,level-2,7,"Assertion : There is no change in the temperature a change of state though it is still being heated.
+Reason : The heat suppliedis absorbed either as latent heat of fusion or as latent heat of vaporisation",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+1,Matter in our Surroundings ,,level-2,8,"Assertion : Naphthalene does not leave any residue when kept open for somne time.
+Reason : The conversion of a solid directly into gas is called condensation",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+1,Matter in our Surroundings ,,level-2,9,"Assertion : The term vapour is used to represent the gaseous state of a substance which is otherwise liquid at room temperature.
+Reason : It is proper to regard the gaseous state of ammonia as vapours",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+1,Matter in our Surroundings ,,level-2,10,"Assertion : Naphthalene, camphor, iodine, ammonium chloride are some common examples of the substances which undergo sublimation
+Reason : All solids are first converted to liquids and then to gases on heating",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,1,"Given figure shows the effects of pressure and temperature on the changes among three states of matter.
+Select the correct statements.
+I. Change 1 is carried out under high temperature and low pressure.
+II. Change 4 is carried out under low temperature and high pressure.
+III. Change 2 is carried out under low temperature and high pressure.
+IV. Change 3 is carried out under low temperature and high pressure.",II and III,I and II,I. II and IV,"I, II and III",CH-1-1-ROW-67,c,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,2,Dry ice is an example of ________ process.,evaporation,crystallization,sublimation,purification,,c,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,3,"Diagrams W, X and Y show how the particles of a substance are packed at different temperatures.
+The given graph shows changes in the state of a substance on heating. In which region of the graph would all the particles be packed as in Y?",I,II,III,IV,CH-1-3-ROW-69,c,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,4,Observe the given curve carefully and mark the -86 correct statement.,T~1*i is the melting point and dry ice changes to CO~2* gas from time t~1* to t~2*.,T~1* is the boiling point and water vapours change to water from time t~1* to t~2*.,"T~1* is the freezing point and molten copper(II) sulphate changes to solid copper(II) sulphate
+from time t~1* to t~2*.",T~1* is the melting point and solid copper(II) sulphate changes to molten copper(II) sulphate from time t~1* to t~2*,CH-1-4-ROW-70,c,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,5,"When water at 0^0&C freezes to form ice at the IV. Change 3 is carried out under low temperature and high pressure. Same temperature of 0^0&C, then it:",absorbs some heat,releases some heat,neither absorbs nor releases heat,absorbs exactly 3.34 x 10^5& J/kg of heat,,b,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,6,Gases can be liquefied,by increasing temperature and pressure,by increasing temperature and decreasing pressure,by decreasing temperature and increasing pressure,by decreasing pressure and temperature,,c,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,7,The arrangement of particles of an unknown substance at the same pressure at two different temperatures is shown in the diagrams:,A,B,C,D,CH-1-7-ROW-73,c,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,8,"Study the given graph carefully and select the correct statement(s).
+I. When water is cooled to 4^0&C, the volume decreases.
+II. Ice and water co-exist at 0^0&C.
+IlI. Water has minimum density at point Q.
+IV. The volume of ice is more than that of water.",I only,Il and III only,"I, II and IV only",All of these,CH-1-8-ROW-74,c,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,9,"Which of the following factors are responsible for the change in state of solid carbon dioxide when kept exposed to air?
+(i) increase in pressure
+(ii) increase in temperature
+(iii) decrease in pressure
+(iv) decrease in temperature",(i) and (ii),(i) and (iii),(ii) and (iii),(iii) and (iv),,c,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,10,"Priya and Kartik wanted to study about diffusion among liquids. They took identical beakers and poured 100 mL of H~2*O in both the beakers. Priya heated the water to 50^0&C but Kartik maintained the water at room temperature. They both added 5 drops of ink into the beaker, what will they notice?",Colour of ink spreads faster in Priya's beaker.,Colour of ink spreads faster in Kartik's beaker.,Colour of ink spreads at the same rate in both beakers,"In both the beakers, ink drops settle down at the bottom without spreading",,a,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,11,"Which of the following statements are correct?
+I. At 273 K, both ice and water co-exist.
+II. Ice at 0 ^0&C is more effective in cooling a lee substance than water at 0 ^0&C.
+III. Particles in water at 0 ^0&C have more energy Water as compared to particles in ice at the same temperature.
+IV. Increase in pressure increases the freezing point of ice.",I and IV only,"I, II and III only",III and IV only,"I, II, III and IV",,b,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,12,"The given graph represents the cooling curve of substance X. Which of the following statements are incorrect?
+I. Process I represents cooling of liquid state of X while process III involves cooling of the solid state.
+II The freezing point of substance X is 25 ^0&C.
+III. At 35  ^0&C, the substance exists in solid state.
+IV. Substance X exists both in gaseous and liquid form along the curve QR.",I and III only,II and IV only,III and IV only,none of these,,a,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,13,"In which state of a substance, it has the definite shape?",Liquid,Liquid & Gas,Gas,Solid,,d,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,14,The physical state of water at 298 K temperature notice? is,Gaseous,Solid,Liquid,Plasma,,c,,MCQ
+1,Matter in our Surroundings ,,Olympiad / HOTS Corner,15,High melting point of a compound indicates,strong intermolecular forces,kinetic energy of molecules is more,speed of molecules is more,compound can diftuse easily,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,1,If the components of the substance can be separated by a chemical change only then it is a/an,element,compound,mixture,None of these,,b,,MCQ
+2,Is Matter Around Us Pure?,,level-1,2,The zig-zag movement of dispersed phase particles in a colloidal system is known as,Brownian motion,translational motion,circular motion,linear motion,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,3,lodized common salt is,homogeneous mixture,heterogeneous mixture,pure substance,oxidized substance,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,4,Pigments of natural colours can be separated by,chromatography,centrifugation,filtration,sublimation,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,5,The fine particles of an insoluble substance uniformly dispersed throughout a gas or liquid is called,suspension,precipitate,colloidal solution,impurity.,,c,,MCQ
+2,Is Matter Around Us Pure?,,level-1,6,Which of the following upon shaking with water will not form a true solution?,Alum,Common salt,Albumin,Sucrose,,c,,MCQ
+2,Is Matter Around Us Pure?,,level-1,7,Which of the following will show Tyndall effect?,Starch solution,Sodium chloride solution,Copper sulphate solution,Sugar solution,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,8,An emulsion is a colloidal solution formed by mixing,two miscible liquids,any two liquids,any two gases,two immiscible liquids,,d,,MCQ
+2,Is Matter Around Us Pure?,,level-1,9,The size of colloidal solution is in the range of,1 - 100 nm,100 - 1000 nm,10^-5& m - 10^-7& m,10^7& 10^9& m,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,10,Brass contains,gold and copper,copper and zinc,zinc and silver,copper and silver,,b,,MCQ
+2,Is Matter Around Us Pure?,,level-1,11,Which of the following is a homogeneous mixture?,Solution of sugar in water,Chalk powder in water,Kerosene oil in water,None of these,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,12,Solutions with low concentrations of solutes are,concentrated solutions,dilute solutions,solvents,none of these,,b,,MCQ
+2,Is Matter Around Us Pure?,,level-1,13,Which of the following statements is correct?,A pure substance must contain only one type of atom.,A mixture containing two compounds must be heterogeneous,A heterogeneous mixture must contain at least three elements,A homogeneous mixture must be uniform,,d,,MCQ
+2,Is Matter Around Us Pure?,,level-1,14,Which of the following is not an example of a physical change?,Dissolving sugar in water,Casting iron in moulds,Setting of cement,Magnetisation of iron,,c,,MCQ
+2,Is Matter Around Us Pure?,,level-1,15,Separation of petroleum into its components is done by,chromatography,sublimation,distillation,fractional distillation,,d,,MCQ
+2,Is Matter Around Us Pure?,,level-1,16,"A mixture contains four solid compounds A, B, C, D. On heating C changes to vapour state. C can be separated from rest of the solids by",crystallisation,sublimation,distillation,filtration,,b,,MCQ
+2,Is Matter Around Us Pure?,,level-1,17,Identify the false statement,Colloids are homogeneous,Colloids show Tyndall effect,Colloids show Brownian movement,The size of colloidal particles ranges between 1-100 nm.,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,18,Smoke is an example of,gas dispersed in liquid,gas dispersed in solid,solid dispersed in gas,solid dispersed in solid,,c,,MCQ
+2,Is Matter Around Us Pure?,,level-1,19,Which one of the following is correctly matched?,Emulsion - curd,Foam - mist,Aerosol - smoke,Solid sol - cake,,c,,MCQ
+2,Is Matter Around Us Pure?,,level-1,20,"If we heat iodine, then it is a",physical change,chemical change,no change,colour change,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,21,Which gas present in air has the highest boiling point?,Oxygen,Nitrogen,Argon,Hydrogen,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,22,Which of the following involves both physical and chemical change?,Burning of a candle,Rusting of iron,Cooking of food,Boiling of water,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,23,What is the name of the insoluble substance which settles to the bottom of its container?,Solute,Solvent,Sediment,Slag,,c,,MCQ
+2,Is Matter Around Us Pure?,,level-1,24,We can separate a pure solid from its solution by,crystallization,simple distillation,sedimentation,both (a) and (b).,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,25,Soda water is a solution of carbon dioxide in water. What is this solution composed of?,Liquid solute in a gaseous solvent,Gaseous solute in a liquid solvent,Liquid solute in a liquid solvent,Gas in suspended form in liquid,,b,,MCQ
+2,Is Matter Around Us Pure?,,level-1,26,Which of the following is not true for a Compound?,It is heterogeneous in nature,A compound contains different elements in a fixed ratio,Properties of a compound are entirely different from those of the elements present in it.,Constituents of a compound cannot be separated by simple physical methods,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-1,27,Purity of a solid substance can be checked by its characteristic,boiling point,melting point,solubility in water,solubility in alcohol,,b,,MCQ
+2,Is Matter Around Us Pure?,,level-1,28,Which of the following pairs does not contain both elements?,"Carbon, silicon","Helium, nitrogen","Bronze, zinc","Copper, silver",,c,,MCQ
+2,Is Matter Around Us Pure?,,level-1,29,Principle of chromatography is,rate of absorption,rate of adsorption,rate of diffusion,none of these,,b,,MCQ
+2,Is Matter Around Us Pure?,,level-1,30,A 15% alcohol solution means,15 mL alcohol and 85 mL water,15 mL alcohol and 100 mL water,15 mlL water and 85 mL alcohol,15 mL alcohol and 50 mL water,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-2,31,"While using the given apparatus, what must be given apparatus, what must be
+(d) Boiling of water",The mixture in the distillation flask must contain a solid,The temperature difference between the boiling points of components of the mixture must be less than 25^0&C.,The temperature difference between the boiling points of components of the mixture must be more than 25^0&C.,All of these,CH-2-31-ROW-112,c,,MCQ
+2,Is Matter Around Us Pure?,,level-2,32,"A small amount of the sample of a soil was mixed with water in beaker. After stirring for sometime, the beaker was allowed to stand. The mud was found to settle down. The liquid above the mud
+was carefully filtered. The filtrate will be",a true solution,a colloidal solution,can be a true solution or a colloidal solution,a suspension,,b,,MCQ
+2,Is Matter Around Us Pure?,,level-2,33,"Water was taken in four beakers labelled as I to IV. To these beakers, the following substances were added
+Beaker (I) - Common salt
+Beaker (II) - Alum
+Beaker (III) - Potassium nitrate
+Beaker (IV) - A few drops of barium chloride
+and a few drops of dilute H~2*SO~4*
+After sometime, the contents of the beakers were filtered. The contents of which beaker will leave residue on the filter paper?",Beaker (I),Beaker (II),Beaker (III),Beaker (IV),,d,,MCQ
+2,Is Matter Around Us Pure?,,level-2,34,A student mixed a small amount of iron filings and sulphur powder in a dish. He could not affect the separation by simple hand picking. Which liquid will you suggest to effect the separation?,Carbon disulphide,Cold water,Boiling water,Kerosene,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-2,35,"A mixture of common salt, sulphur, and iron filings is shaken with carbon disulphide and filtered through a filter paper. The filtrate is
+evaporated to dryness in a China dish.What will be left in the dish after evaporation?",Sand,Sulphur,Iron filings,Common salt,,b,,MCQ
+2,Is Matter Around Us Pure?,,level-2,36,"A mixture of sulphur and iron filings is heated strongly to obtain a residue. Which of the following is not a characteristic property of the
+residue?",It can be separated into sulphur and iron filings by physical methods,Its composition does not change from one part to another,Its properties are entirely different from those of sulphur and iron filings,Its appearance is different from those of sulphur and iron filings.,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-2,37,Mark the correct sequence of substances obtained during fractional distillation of petroleum in ascending order of their boiling points,"Petroleum gas, Kerosene, Petrol, Diesel, Paraffin wax","Petrol, Petroleum gas, Kerosene, Light Crude oil, Diesel","Petroleum gas, Petrol, Kerosene, Diesel, Lubricating oil","Petroleum gas, Petrol, Lubricating oil, Diesel, Kerosene",,c,,MCQ
+2,Is Matter Around Us Pure?,,level-2,38,Match the column-I with column-II and select the correct option from the codes given below,a,b,c,d,CH-2-38-ROW-119,b,,MCQ
+2,Is Matter Around Us Pure?,,level-2,39,"Nandita has a substance Y which boils at 3S8 K and is immiscible with water. Y does not react with water. Which of the following separation
+methods will Nandita adopt to separate Y trom a mixture containing another substance Z which boils at 278 K? (Both Y and Z are miscible).",A,B,C,D,CH-2-39-ROW-120,b,,MCQ
+2,Is Matter Around Us Pure?,,level-2,40,"Two substances, A and B were made to react to form a third substance, A~2*B according to the following reaction: 2A + B ->A~2*B. 
+Which of the following statements concerning this reaction are incorrect?
+(i) The product A~2B shows the properties of substances A and B.
+(ii) The product will always have a fixed composition.
+(iii) The product so formed cannot be classified as a compound.
+(iv) The product so formed is an element.",(i) (ii) and (iii),(i) (iii) and (iv),"(i), (ii) and (iv)",(iii) and (iv),,c,,MCQ
+2,Is Matter Around Us Pure?,,level-2,41,"A drop of a sample of food colouring (X) and four dyes (P Q R and S) are put onto a chromatography paper. The four dyes are banned because they are not safe to consume.
+Study the given chromatogram carefully and choose the correct statement among the following.",X contains P and Q dyes.,Dyes P and S are mixtures of two different dyes,X contains R dye.,Dyes P and R are pure,CH-2-41-ROW-122,c,,MCQ
+2,Is Matter Around Us Pure?,,level-2,42,"Seema told Rohan that water is a compound, not an element and to justify it, she gave the following reasons:
+I. Heat and light are given out during its formation from its constituent elements.
+II. It contains hydrogen and oxygen in the ratio of 1:8 by mass.
+III. Its boiling point is 373 K under one atmospheric pressure.
+The correct reasons are",I and II only,II and III only,I and IIl only,"I, II and III",,d,,MCQ
+2,Is Matter Around Us Pure?,,level-2,43,Which method is used to separate drugs from blood?,Fractional distillation,Crystallisation,Chromatography,Distillation,,c,,MCQ
+2,Is Matter Around Us Pure?,,level-2,44,A mixture of sulphur and carbon disulphide is,heterogeneous and shows Tyndall effect,homogeneous and shows Tyndall effect,heterogeneous and does not show Tyndall effect,homogeneous and does not show Tyndall effect.,,d,,MCQ
+2,Is Matter Around Us Pure?,,level-2,45,"There is a mixture of three solid compounds A, B and C. Out of these compounds A and C are soluble in water and compound C is sublimable also. In what sequence the following techniques can be used for their effective separation?
+I. Filtration
+II. Sublimation
+III. Crystallisation from water extract
+IV. Dissolution in water","(II), (I), (IV), (III)","(IV), (I), (II), (III)","(I), (II), (III), (IV)","(II), (IV), (I), (III)",,d,,MCQ
+2,Is Matter Around Us Pure?,,level-2,46,Identify X and Y in the given figure.,"X= Mixture of naphthalene and anthracene
+Y=Solid naphthalene","X = Mixture of NaCl and water
+Y= Solid NaCl","X= Mixture of NaCl and anthracene
+Y = Solid anthracene","X=Mixture of sugar and NaCl
+Y= Solid sugar",CH-2-46-ROW-127,c,,MCQ
+2,Is Matter Around Us Pure?,,level-2,47,Two substances A and B when brought together form a substance C with the evolution of heat. The properties of C are entirely different from those of A and B. The substance C is,a compound,an element,a mixture,none of these,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-2,48,In chromatography different constituents of a mixture get adsorbed differently on same adsorbent because,they have difference in pressure,they have different rates of movement,both (a) and (b),none of these.,,b,,MCQ
+2,Is Matter Around Us Pure?,,level-2,49,How many grams of NaOH are present in 250 mL of 0.5 M NaOH solution?,7.32 g,3.8 g,5 g,0.5 g,,c,,MCQ
+2,Is Matter Around Us Pure?,,level-2,50,What is the mass of urea required for making 2.5 kg of 0.25 molal aqueous solution?,37 g,25 g,125 g,27.5 g,,a,,MCQ
+2,Is Matter Around Us Pure?,,level-2,1,Match the following,"P-1,Q-2, R-4, S -3","P-4,Q-1, R -2, S-3","P-1,Q-3, R -2, S-4","P-1, Q-4, R -3, S -2",CH-2-1-ROW-132,b,,MCQ
+2,Is Matter Around Us Pure?,,level-2,2,Match the following,"P-3, Q-4, R-2, S-1","P-2,Q-4, R-3, S-1","P-3, Q-2, R - 1, S-4","P-2, Q-4, R-1,S-3",CH-2-2-ROW-133,a,,MCQ
+2,Is Matter Around Us Pure?,,level-2,3,Match the following,"P-1,Q-3, R -2, S-4","P-1,Q-4,R-2, S-3","P-3, Q-4, R -1, S-2","P-2, Q-4, R -3, S -1",CH-2-3-ROW-134,b,,MCQ
+2,Is Matter Around Us Pure?,,level-2,4,Match the following,"P-1,Q-2,R -3, S -4","P-4, Q-3, R -2, S -1","P-2, Q-3, R -4, S - 1","P-4, Q-2, R -3, S - 1",CH-2-4-ROW-135,c,,MCQ
+2,Is Matter Around Us Pure?,,level-2,5,Match the following,"P-1,Q-2, R -3, S -4","P-2, Q-3, R -2, S- 1","P-2, Q-3, R -1, S-2","P-4, Q-2, R -3, S -1",CH-2-5-ROW-136,c,,MCQ
+2,Is Matter Around Us Pure?,,level-2,1,"Assertion :  In sublimation, a substance changes from solid to vapour 
+without passing through liquid state and vice-versa.
+Reason : Distillation involves two processes",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+2,Is Matter Around Us Pure?,,level-2,2,"Assertion :  Impure benzoic acid can be purified by sublimation
+Reason : Benzoic acid sublimes on heating",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+2,Is Matter Around Us Pure?,,level-2,3,"Assertion : Colloidal solutions are stable and the colloidal particles do not settle down.
+Reason : Brownian movement counters the force of gravity acting on colloidal particles.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+2,Is Matter Around Us Pure?,,level-2,4,"Assertion : mixture of benzoic acid and of the following processes,
+naphthalene can be separated by crystallisation with hot water.
+Reason :  Benzoic acid is soluble in hot water but naphthalene is insoluble in hot water",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+2,Is Matter Around Us Pure?,,level-2,5,"Assertion : A mixture of sugar and benzoic acid can be separated by shaking with ether.
+Reason : Sugar is insoluble in water",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+2,Is Matter Around Us Pure?,,level-2,6,"Assertion : When a beam of light is passed through a colloidal solution placed in a dark place the path of the beam becomes visible.
+Reason : Light gets scattered by the colloidal particles",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+2,Is Matter Around Us Pure?,,level-2,7,"Assertion : A solution of table salt in a glass of water is homogeneous
+Reason : A solution having different composition throughout is homogeneous.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+2,Is Matter Around Us Pure?,,level-2,8,"Assertion :  Tyndall effect is an optical property
+Reason : Electrophoresis is an electrical property.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+2,Is Matter Around Us Pure?,,level-2,9,"Assertion : A mixture of acetone and methanol can be separated by fractional distillation.
+Reason : The difference between their boiling points is very less",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+2,Is Matter Around Us Pure?,,level-2,10,"Assertion : A mixture of camphor and ammonium chloride cannot be
+separated by sublimation 
+Reason : Camphor on heating sublimes, ammonium chloride does not",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,1,"Three students Ankit, Dinesh and Manoj were given three unknown substances X, Y and Z respectively during the lab activity.
+On the basis of these properties, which student has chosen the correct separation technique, to separate a substance from the substance-water mixture?",Ankit - Separating funnel,Dinesh - Distillation,Manoj - Fractional distillation,All are correct,CH-2-1-ROW-147,c,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,2,A mixture of iodine and carbon tetrachloride is,heterogeneous and shows Tyndall effect,heterogeneous and does not show Tyndall effect,homogeneous and shows Tyndall effect,homogeneous and does not show Tyndall effect,,d,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,3,Solubility of KNO~3*,increases with temperature,decreases with temperature,remains constant with temperature,is not related to the temperature fluctuations,,a,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,4,"Four samples P, Q, R and S were analysed using paper chromatography to check the presence of three different additives X, Y and Z.
+The final chromatograms are shown as
+Read the following statements carefully.
+I. P contains three components out of which one is X.
+II. S contains only one component which is X.
+III Qcontains two components which are X and Z.
+IV. Rcontains two components out of which one is Y.
+The correct statements are",II and IV,I and III,"I, II and IV",All of these,,c,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,5,When two liquids in a mixture differ by their boiling points. Which of the following is the best method to separate these liquids?,Evaporation,Distillation,Chromatography,Filtration,,b,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,6,"A special technique used nowadays for separation and identification of the constituents in a mixture is chromatography.
+The principle is based on difference in adsorption of constituents of a mixture by a surface of an appropriate adsorbent material or solid medium (stationary) phase. The rate of adsorption of a particular constituent depends upon its solubility in the solvent.
+Following diagram shows a chromatograph obtained for black ink 
+Black ink",is a pure substance,is a combination of four different dyes,contains orange and blue dyes,"contains red, blue and green dyes",CH-2-6-ROW-152,d,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,7,The path of light gets illuminated when passed through the ,blood solution(aq.),brine solution(aq.),copper sulphate solution(aq.),acetic acid solution(aq.).,,a,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,8,The colloidal solution among the following is,milk,oil in water,kerosene in water,chalk powder in water,,a,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,9,Milk of magnesia is an example of which type of colloid?,Gel,Emulsion,Sol,Foam,,c,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,10,"The given diagram represents an activity to separate a mixture of two substances X and Y:
+Substances X and Y are respectively",sugar and common salt,acetone and water,ammonium chloride and naphthalene,ethyl alcohol and sodium chloride,CH-2-10-ROW-156,c,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,11,What will be the mass by mass percentage of a solution containing 30g of common salt in 220g of water?,3%,1.20%,12%,22%,,c,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,12,Which of the following shows the Tyndall effect?,Solution of common salt,Milk,Lemon juice,Solution of copper sulphate,,b,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,13,"Which of the following statements are correct about properties of colloids?
+I. A colloid is a homogeneous mixture.
+II The size of particles of a colloid is too small to be individually seen by naked eye.
+III. Colloids are big enough to scatter a beam of light passing through it and make its path visible.","I, II and III",II and III,I and II,I and III,,b,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,14,"Ms Diksha, a science teacher gave different substances to three students. One spatula full of copper sulphate was given to student 1, wheat flour was given to student 2 and ink was given to student 3. Each student added the given sample to water and stirred. Which of the following statements is incorrect about the mixtures prepared by them?",Particles are not visible to the naked eye in case of mixtures obtained by student 1 and student 3.,The path of light becomes visible in case of mixture obtained by student 1.,"When passed through filter paper, particles of mixture obtained by student 2 remain behind on the filter paper",The particles of mixture obtained by student 3 are about 100 times bigger than those of the mixture obtained by student 1.,,b,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,15,"Read the given passage and fill in the blanks by choosing an appropriate option.
+When a mixture of two __(i)__ liquids having a difference of 25^0&C in their boiling points is to be separated, a __(ii)___ is used which increases the ___(iii)__ surface area. As a result, when the vapours of both the liquids rise, the __(iv)___volatile liquid will condense while the vapours of ___(v)__ volatile liquid will rise.",a,b,c,d,CH-2-15-ROW-161,c,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,16,Which of the following statements is correct in context to Tyndall effect?,Scattering and polarizing of light by small suspended particles is called Tyndall effect,Tyndall effect of colloidal particles is due to dispersion of light.,Tyndall effect is due to refraction of light,It is due to zig-zag motion of suspended particles.,,b,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,17,Choose the correct option about cheese.,Cheese is an example of emulsion in which dispersed phase is a liquid and dispersion medium is solid,Cheese is an example of gel in which dispersed phase is solid and dispersion medium is liquid.,Cheese is an example of emulsion in which dispersed phase is solid and dispersion medium is liquid,Cheese is an example of gel in which dispersed phase is liquid and dispersion medium is solid.,,d,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,18,What type of colloidal system is fog?,Gas in liquid,Liquid in gas,Liquid in liquid,Solid in gas,,b,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,19,Match the Column-I with Column-II and choose the correct option using the codes given below,a,b,c,d,CH-2-19-ROW-165,d,,MCQ
+2,Is Matter Around Us Pure?,,Olympiad / HOTS Corner,20,Match the column I with column II and select the correct option from the given codes,A,B,C,D,CH-2-20-ROW-166,d,,MCQ
+3,Atoms and Molecules,,level-1,1,"A sample of pure water, irrespective of its source (d) 2.5 x 104 kg
+contains 11.1% hydrogen and 88.9% oxygen. The data supports",law of constant proportions,law of conservation of mass,law of reciprocal proportions,law of multiple proportions,,a,,MCQ
+3,Atoms and Molecules,,level-1,2,Which of the following has the smallest mass?,4 g of He,6.022 x 10^23& atoms of He,1 atom of He,1 mole atoms of He,,c,,MCQ
+3,Atoms and Molecules,,level-1,3,Which of the following is a triatomic molecule?,Carbon dioxide,Ammonia,Helium,Sugar,,a,,MCQ
+3,Atoms and Molecules,,level-1,4,The atomic mass of calcium (Ca) is 40 g. The number of moles in 60 g of calcium are,0.5 mol,2.0 mol,1.5 mol,0.75 mol,,c,,MCQ
+3,Atoms and Molecules,,level-1,5,All samples of carbon dioxide contain carbon and oxygen in the mass ratio 3 8. This is in agreement with the law of,conservation of mass,constant proportions,multiple proportions,gaseous volumes,,b,,MCQ
+3,Atoms and Molecules,,level-1,6,What mass of carbon dioxide (CO~2*) will contain 3.011 x 10^23& molecules?,11.0 g,22.0 g,4.4 g,44.0 g,,b,,MCQ
+3,Atoms and Molecules,,level-1,7,How many grams of H~2*SO~4* are present in 0.25 mole of H~2*SO~4*,2.45,24.5,0.245,0.25,,b,,MCQ
+3,Atoms and Molecules,,level-1,8,The number of atoms present in a molecule of a substance is called,molecularity,atomicity,valency,reactivity,,b,,MCQ
+3,Atoms and Molecules,,level-1,9,The valency of nitrogen in ammonia (NH~3*) is,2,0,3,4,,c,,MCQ
+3,Atoms and Molecules,,level-1,10,The mass of a molecule of water is,3 x 10^-26& kg,3 x 10^-25& kg,1.5 x 10^-26& kg,2.5 x 10^-26& kg,,a,,MCQ
+3,Atoms and Molecules,,level-1,11,The volume occupied by 4.4 g of CO~2* at STP is,22.4 L,2.24 L,0.224 L,0.1 L,,b,,MCQ
+3,Atoms and Molecules,,level-1,12,Molecular mass is defined as the,mass of one atom compared with the mass of one molecule,mass of one atom compared with the mass of one atom of hydrogen,"mass of one molecule of any substance
+compared with the mass of one atom of
+C-12",none of the above,,c,,MCQ
+3,Atoms and Molecules,,level-1,13,The molecular formula P~2*O~5* means that,a molecule contains 2 atoms of P and 5 atoms of O,the ratio of the mass ofP to the mass of O in the molecule is 2:5,there are twice as many P atoms in the molecule as there are O atoms,the ratio of the mass of P to the mass of O in the molecule is 5: 2.,,a,,MCQ
+3,Atoms and Molecules,,level-1,14,The formula of chloride of a metal M is MCl~3* then the formula of the phosphate of metal M will be,MPO~4*,M~2*PO~4*,M~3*PO~4*,M~2*(PO~4*)~3*,,a,,MCQ
+3,Atoms and Molecules,,level-1,15,An atom is the,smallest particle of matter known,smallest particle of a gas,smallest particle of an element that can take part in a chemical change,radioactive emission,,c,,MCQ
+3,Atoms and Molecules,,level-1,16,Which of the following represents a polyatomic ion?,Sulphide,Chloride,Sulphate,Nitride,,c,,MCQ
+3,Atoms and Molecules,,level-1,17,Valency of silver in Ag~2*S is,1,2,0,3,,a,,MCQ
+3,Atoms and Molecules,,level-1,18,52 g of He contains,4 x 6.022 x 10^23& atoms,13 atoms,13 x 6.022 x 10^23& atoms,4 atoms,,c,,MCQ
+3,Atoms and Molecules,,level-1,19,Atomicity of sulphur is,8,4,2,1,,a,,MCQ
+3,Atoms and Molecules,,level-1,20,A chemical equation is always balanced to fulfil the condition of,Dalton's atomic theory,law of constant composition,law of multiple proportions,law of conservation of mass,,d,,MCQ
+3,Atoms and Molecules,,level-1,21,Chemical formula of ferric oxide is,FeO,Fe~2*O~3*,Fe~3*O~4*,none of these,,b,,MCQ
+3,Atoms and Molecules,,level-1,22,Mass of 1 mole of nitrogen atoms is,28 g,14.0 g,28 amu,14 amu,,b,,MCQ
+3,Atoms and Molecules,,level-1,23,The atomic mass of sodium is 23. The number of moles in 46 g of sodium are,1,2,2.3,4.6,,b,,MCQ
+3,Atoms and Molecules,,level-1,24,How many molecules are present in one gram of hydrogen?,6.022 x 10^23&,6.022 x 10^22&,3.01 x 10^23&,3.0125 x 10^-12&,,c,,MCQ
+3,Atoms and Molecules,,level-1,25,"In which of the following the valency of each of the constituent elements is equal to the total number of atoms in one molecule of the
+compound?",HCI,H~2*S,CaO,MgCl~2*,,c,,MCQ
+3,Atoms and Molecules,,level-1,26,Number of moles of water present in 180 g of water will be,5,10,15,18,,b,,MCQ
+3,Atoms and Molecules,,level-1,27,Mass of 3 moles of NaOH in grams is,240 g,120 g,100 g,69 g,,b,,MCQ
+3,Atoms and Molecules,,level-1,28,Which one of the following statements is incorrect?,One gram atom of carbon-12 contains Avogadro's number of atoms,Onemole of oxygen gas contains Avogadro's number of molecules,One mole hydrogen gas containsAvogadro's number of atoms.,One mole of electron stands for 6.02 x 10^23& electrons.,,c,,MCQ
+3,Atoms and Molecules,,level-1,29,The volume occupied by 1 mole atom of a diatomic gas at STP is,22.4 L,11.2 L,5.6 L,44.8 L,,b,,MCQ
+3,Atoms and Molecules,,level-1,30,Molecules of phosphorus and ammonia are respectively,monoatomic and triatomic,monoatomic and diatomic,tetratomic and triatomic,tetratomic and tetratomic,,d,,MCQ
+3,Atoms and Molecules,,level-2,31,Which of the following molecules has highest number of particles?,8 gof CH~4*,4.4 g of CO~2*,34.2 g of C~12*H~22*O~11*,2g of H~2*,,d,,MCQ
+3,Atoms and Molecules,,level-2,32,Which one of the following pairs of gases contains the same number of molecules?,16g of O~2* and 14g of N~2*,8 g of O~2* and 22 g of CO~2*,28 g of N~2* and 22 g of CO~2*,32 g of O~2* and 32g of N~2*,,a,,MCQ
+3,Atoms and Molecules,,level-2,33,Weight of 6.022 x 10^20& atoms of silver (at. Mass 108 u) is,108 x 10^3& g,108 g,0.108 g,10.8 g,,c,,MCQ
+3,Atoms and Molecules,,level-2,34,The number of carbon atoms in 1 g of CaCO~3* is,6.022 x 10^23&,6.022 x 10^21&,3.0125 x 10^22&,1.204 x 10^23&,,b,,MCQ
+3,Atoms and Molecules,,level-2,35,"In carbon disulphide (CS~2*), the mass of sulphur in combination with 3.0 g of carbon is",4.0 g,6.0 g,64.0 g,16.0 g,,d,,MCQ
+3,Atoms and Molecules,,level-2,36,Which one of the following statements is true? ,Mass of 0.5 mole of Na gas > Mass of 0.5 mole of N atoms,Mass of 0.5 mole of N2 gas = Mass of 0.5 mole of N atoms,Mass of 0.5 mole of N2 gas < Mass of 0.5 mole of N atoms,Mass of 0.5 mole of N2 gas = Mass of 0.5 mole of O~2* gas,,a,,MCQ
+3,Atoms and Molecules,,level-2,37,Two gaseous samples were analysed. One contained 1.2 g of carbon and 3.2 g of oxygen. The other contained 27.3% carbon and 72.7% oxygen. The experimental data are in accordance with,law of conservation of mass,law of definite proportions,law of reciprocal proportions,law of multiple proportions,,b,,MCQ
+3,Atoms and Molecules,,level-2,38,20.8 g of BaClh on reaction with 9.8 g of H~2*SO~4* produces 7.3 g of HCI and some amount of BaSO~4*. The amount of BaSO~4* formed is,23.3 g,20.8 g,9.8 g,10.4 g,,a,,MCQ
+3,Atoms and Molecules,,level-2,39,Number of atoms in 4.25 g of NH3 is nearly,1 x 10^23&,1.5 x 10^23&,2 x 10^23&,6 x 10^23&,,d,,MCQ
+3,Atoms and Molecules,,level-2,40,A sample of phosphorus trichloride (PCl~3*) contains 1.4 moles ot the substance. How many atoms are there in the sample?,4,8.4 x 10^23&,3.36 x 10^24&,5.6,,c,,MCQ
+3,Atoms and Molecules,,level-2,41,The mass of one C atom is,6.023x 10^23& g,1.99x 10^-23& g,2.00 g,12 g,,b,,MCQ
+3,Atoms and Molecules,,level-2,42,"What are the total number of moles of atoms in 4.32 g of Sc(NO~3*)~3*?
+(Atomic weights : Sc = 45, O = 16, N = 14)",0.0132,0.324,0.0187,0.243,,c,,MCQ
+3,Atoms and Molecules,,level-2,43,The weigh of a molecule of the compound C~60&H~122& is,1.4 x 10^-21& g,1.09 x 10^-21& g,5.025 x 10^23& g,16.023 x 10^23& g,,a,,MCQ
+3,Atoms and Molecules,,level-2,44,"In a science project, Aditya has to make a chart, illustrating various elements and their atomicity. Aditya decided to show elements of different atomicity by different shapes",a,b,c,d,CH-3-44-ROW-210,c,,MCQ
+3,Atoms and Molecules,,level-2,45,The mass of few entities are mentioned in the column Il. Match the two columns and mark the correct option from the codes given below.,A,B,C,D,CH-3-45-ROW-211,a,,MCQ
+3,Atoms and Molecules,,level-2,46,"Which of the following is a suitable example for illustrating the law of conservation of mass? 
+(Atomic mass of O = 16; H = 1)",18 g of water is formed by the combination of 16 g of oxygen with 2 g of hydrogen.,18 g of water in liquid state obtained by heating 18 g of ice.,18 g of water is completely converted into vapour state on heating.,18 g of water freezes at 4°C to give same mass of ice,,a,,MCQ
+3,Atoms and Molecules,,level-2,47,"Which of the following correctly represent 360 g of water?
+I. 2 moles of H~2*O                             
+II. 20 moles of water 
+III. 6.022x 10^23& molecules of water    
+IV. 1.2044 x 10^25& molecules of water",I,I and IV,II and III,II and IV,,d,,MCQ
+3,Atoms and Molecules,,level-2,48,"In an experiment, 1.50 g of pure copper(II) oxide was reduced to pure metal by heating with pure carbon. In another experiment, 1.15g ot pure copper was treated with nitric acid and the product formed was heated strongly till no further change was observed. The mass of copper(II) oxide so formed was found to be 1.40 g. The mass of pure metal formed in the first experiment and the law followed are
+respectively",1.15 g and law of conservation of mass,1.50 g and law of constant proportions,1.23 g and law of constant proportions,2.47g and law of multiple proportions,,c,,MCQ
+3,Atoms and Molecules,,level-2,49,A solution contains 58.5 g of common salt in 360 g of water. Calculate the total number of protons in solution.,21 x 6.023 x 10^23&,22.8 x 6.023 x 10^23&,200 x 6.023 x 10^23&,228 x 6.023 x 10^23&,,d,,MCQ
+3,Atoms and Molecules,,level-2,50,"The given figure shows the set-up to study the reaction between gas X and copper (II) oxide :
+Which of the following statements are correct?
+(Given: Atomic mass of N = 14 u, H 1 u, O = 16 u, C 12u)
+I. Gas X is a compound of two elements, nitrogen and hydrogen.
+II The number of atoms present in 11.2 L of N~2* is 6.023x10^23&
+III. 1 mole of H~2*O contains 1 mole of oxygen molecules and 2 moles of hydrogen atoms.
+IV. Nagas being soluble in water is collected by upward displacement of water.",I and II only,I and III only,II and IV only,III and IV only,CH-3-50-ROW-216,a,,MCQ
+3,Atoms and Molecules,,level-2,1,Match the following,"P-4, Q-3, R-2, S-1","P-1, Q-4, R-3, S-2","P-2, Q-3, R-1, S-4","P-4, Q-2, R-3, S-1",CH-3-1-ROW-217,a,,MCQ
+3,Atoms and Molecules,,level-2,2,Match the following,"P-1, Q-4, R-3, S-2","P-3, Q-2, R-4, S-1","P-2, Q-1,R-4, S-3","P-2, Q-3, R-1, S-4",CH-3-2-ROW-218,c,,MCQ
+3,Atoms and Molecules,,level-2,3,Match the following,"P-1, Q-2, R-3, S-4","P-2, Q-1, R-4, S-3","P-4, Q-1, R-3, S-2","P-1, Q-4, R-3, S-2",CH-3-3-ROW-219,b,,MCQ
+3,Atoms and Molecules,,level-2,4,Match the following,"P-4, Q-3, R-2, S-1","P-1, Q-2, R-3, S-4","P-3, Q-1, R-4, S-2","P-2, Q-1, R-4, S-3",CH-3-4-ROW-220,d,,MCQ
+3,Atoms and Molecules,,level-2,5,Match the following,"P-3, Q-4, R-1, S-2","P-2, Q-3, R-4, S-1","P-4, Q-1, R-2, S-3","P-1, Q-2, R-3, S-4",CH-3-5-ROW-221,c,,MCQ
+3,Atoms and Molecules,,level-2,1,"Assertion : When 10gof CaCO~3* is decomposed 5.6 g of residue is left and 4.4 g of CO~2* escapes
+Reason : Law of conservation of mass is followed.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+3,Atoms and Molecules,,level-2,2,"Assertion : Pure water obtained from different sources such as river, well, spring sea etc. always contains hydrogen and oxygen combined in the ratio of 1:8 by mass.
+Reason : A chemical compound always contains same elements combined in same fixed proportion by mass.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+3,Atoms and Molecules,,level-2,3,"Assertion : Molecular weight of SO~2* is double to that of O~2*
+Reason : One mole of SO~2* contains double the number of molecules present in one mole of O~2*",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+3,Atoms and Molecules,,level-2,4,"Assertion : 1 mole of H~2* and O each occupy 22.4 Lat standard temperature and pressure.
+Reason : Molar volume for all gases at the standard temperature and pressure has the same value.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+3,Atoms and Molecules,,level-2,5,"Assertion : Atomic mass of aluminium is 27.
+Reason : An atom of aluminium is 27 times heavier than 1/12th of the mass of carbon-12 atom.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+3,Atoms and Molecules,,level-2,6,"Assertion : One atomic mass unit (amu) is mass of an atom equal to exactly one-twelfth of the mass of a carbon-12 atom.
+Reason : Carbon-12 isotope was selected as standard.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+3,Atoms and Molecules,,level-2,7,"Assertion : Numberof gram-molecules of SO~2*Cl~2* in 13.5 g of sulphuryl chloride is 0.1.
+Reason : Gram molecular mass is equal to one gram molecule",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+3,Atoms and Molecules,,level-2,8,"Assertion : Percentage of carbon in Na~2*CO~3* is 11.32%.
+Reason : ",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,CH-3-8-ROW-229,a,,AR
+3,Atoms and Molecules,,level-2,9,"Assertion :  Atomicity of O~3*, is 3.
+Reason : mole of an element contains 6.023 x 10^23& atoms.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+3,Atoms and Molecules,,level-2,10,"Assertion : Both 44 g CO~2* and 16 g CH~4* have same number of carbon atoms
+Reason : Both contain 1 g atom of carbon which contains 6.023x10^23& carbon atoms.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+3,Atoms and Molecules,,Olympiad / HOTS Corner,1,"A compound, PO; has the following arrangement of electrons:
+The elements P and Q are respectively","N, Cl","Cl, S","O, F","Na, F",CH-3-1-ROW-232,c,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,2,How many moles of electrons weigh one kilogram? [Mass of electron = 9.108 x 10^-31& kg; Avogadro number = 6.023 x 10^23&],a,b,c,d,CH-3-2-ROW-233,a,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,3,A sample of MgCO~3* contains 3.01 x 10^23& Mg^2+& ions and 3.01 x 10^23& CO~3*^2-&  ions. The mass of the sample is,42 mg,84 g,0.042 kg,42 mol,,c,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,4,What mass of hydrogen and oxygen will be produced on complete electrolysis of 18 g of water?,2 g hydrogen and 32 g oxygen,2 g hydrogen and 16 g oxygen,4 g hydrogen and 32 g oxygen,4 g hydrogen and 14 g oxygen,,b,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,5,"Ninhydrin having molecular formula C~9*H~6*O~4*, is commonly used by forensic scientists to detect and analyse fingerprints. The number of molecules in 7.4 g of ninhydrin is
+(Atomic mass of C = 12 u, H =1 u, O = 16 u)",1.5 x 10^22&,2.5 x 10^23&,2.5 x 10^22&,4.2 x 10^23&,,c,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,6,"A sample of ascorbic acid (vitamin C) is synthesised in the laboratory. It contains 1.50 g of carbon and 2.00 g of oxygen. Another sample of
+ascorbic acid isolated from citrus fruits contains 6.35 g of carbon. How many grams of oxygen does it contain? Which law do you assume in
+answering this question? ",7.25: Law of conservation of mass,6.35 : Law of definite proportions,8.47: Law of definite proportions,6.35 Law of multiple proportions,,c,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,7,The total number of electrons present in 16 g of methane gas is,96.352 x 10^23&,48.176 x 10^23&,60.22 x 10^23&,30.110 x 10^23&,,c,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,8,The number of atoms in 0.1 mole of a triatomic gas is,6.026 x 10^22&,1.806 x 10^23&,3.6 x 10^23&,1.8 x 10^22&,,b,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,9,The number of particles present in one mole of any substance is equal to,6.022 x 10^23&,60.22 x 10^23&,6.022 x 10^27&,60.22 x 10^27&,,a,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,10,"""Atoms are neither created nor destroyed in a chemical reaction"". This postulate was given by",J. J. Thomson,Niels Bohr,John Dalton,Amedeo Avogadro,,c,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,11,"Which of the following statements are correct?
+water? (Given: At. wt. of Ca = 40 u, Mg = 24 u, N=14 u, H-1u, Na = 23 u, Cl =35.5 u)
+I. 240 g of calcium and 240 g of magnesium elements have a molar ratio of 3 5.
+II. 100 g of N contains more atoms than 100g of NH~3*
+III. Total number of ions in 5.85 g of sodium chloride is 1.2 x 10^22&
+V. 1 gram molecule of hydrogen gas contains 12.046 x 10~22& atoms of hydrogen.
+V. 5.6 g of nitrogen gas ocupies 3.2 L of volume at STP.",II and III only,"I, II and III only",I and IV only,IV and V only,,c,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,12,Elements belonging to different groups of the periodic table are given below. If the element X forms a chloride whose formula is 'XCl~2*' then element 'X' belongs to the group whose representative element is,Al,Na,Mg,Si,,c,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,13,Which of the following contains maximum number of molecules?,1 g N~2*,1 g CO~2*,1 g H~2*,1 g O~2*,,c,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,14,What is the mass of 12.044 x 10^23& number of O~2* molecules?,8 g,16 g,32 g,64 g,,d,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,15,"If three gases X, Y and Z are arranged in increasing order of their relative molecular mass and the mass of each gas is 10 g at S.T.P state, which gas will contain the least number of molecules and which will contain the most?",X least and Y maximum,X maximum and Z least,Y maximum and Z least,Y least and Z maximumn,,b,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,16,The maximum number of molecules are present in,15 L H~2* gas at STP,5L N~2* gas at STP,0.5 g H~2* gas,10 g O~2* gas.,,a,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,17,"You are provided with 64 g of solid sulphur in container A and 64 g of oxygen in container B. Which will have more number of molecules?
+(Atomic mass of S = 32, O = 16)",64 g of Sg,64 g of O2,Both have equal number of molecules,Cannot be calculated with the given information.,,b,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,18,"Arrange the following in the order of increasing mass. (Atomic mass of O = 16 u, Cu = 63 u, N 14 u)
+I. one atom of oxygen
+II. one atom of nitrogen
+III. 1 x 10^-10& mole of oxygen gas
+IV. 1 x 10^-10& mole of copper",II < 1 < III < IV,I < II < II < IV,III < II < IV < I,IV < II < III < I,,a,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,19,Valency of sulphur atom in SO~2*is,3,2,4,6,,c,,MCQ
+3,Atoms and Molecules,,Olympiad / HOTS Corner,20,"Some rocket engines use a mixture of hydrazine, N~2*H~4*  and hydrogen peroxide, H~2*O~2* as the propellant. The reaction is given by the following equation : 
+N~2*H~4(l)* + 2H~2*O~2(l)* > N~2g*+4H~2*O~(g)*
+How much of the excess reactant, remains unchanged when 0.750 mol of N~2*H~4*, is mixed with 17 g of H~2*O~2*?",16 g N~2*H~4*,0.25 mol H~2*O~2*,0.25 mol N~2*H~4*,8.5 g H~2*O~2*,,a,,MCQ
+4,Structure of the Atom,,level-1,1,"The mass number A, atomic number Z and number of neutrons n are related as",n = A - Z,n = A + Z,n = A x Z,none of these,,a,,MCQ
+4,Structure of the Atom,,level-1,2,Rutherford's experiment on scattering of a-particles showed for the first time that the atom has,nucleus,electron,proton,neutron,,a,,MCQ
+4,Structure of the Atom,,level-1,3,In the nucleus,40 protons and 20 electrons,20 protons and 40 electrons,20 protons and 20 neutrons,20 protons and 40 neutrons,CH-4-3-ROW-254,c,,MCQ
+4,Structure of the Atom,,level-1,4,Maximum number of electrons present in 'N' shell is,18,32,2,8,,b,,MCQ
+4,Structure of the Atom,,level-1,5,Cathode rays are made up of,positively charged particles,negatively charged particles,neutral particles,none of these,,b,,MCQ
+4,Structure of the Atom,,level-1,6,Rutherford's experiment which established the nuclear model of the atom used a beam of,B-particles which impinged on the metal foil and got absorbed,T-rays which impinged on a metal foil and ejected electrons,"hydrogen atoms, which impinged on a metal foil and got scattered","a-particles nuclei, which impinged on a metal foil and got scattered",,d,,MCQ
+4,Structure of the Atom,,level-1,7,Rutherford's alpha particle scattering experiment eventually led to the conclusion that ,mass and energy are related,nucleus is present in the centre of the atom,neutrons are buried deep in the nucleus,the point of impact with matter can be precisely determined,,b,,MCQ
+4,Structure of the Atom,,level-1,8,A neutral atom (atomic number> 1) has,electron and proton,neutron and electron,"neutron, electron and proton",neutron and proton,,c,,MCQ
+4,Structure of the Atom,,level-1,9,Isotopes have,same physical and chemical properties,same physical properties but different chemical properties,same chemical properties but different physical properties,different physical and chemical properties,,c,,MCQ
+4,Structure of the Atom,,level-1,10,Select the pair of isobars from the following shell is species,A and B,A and C,C and E,C and D,CH-4-10-ROW-261,b,,MCQ
+4,Structure of the Atom,,level-1,11,Valency of oxygen is,1,2,3,4,,b,,MCQ
+4,Structure of the Atom,,level-1,12,"Which of the following shows the electronic configuration of Ca""?",He,Ne,Ar,F^-1&,,c,,MCQ
+4,Structure of the Atom,,level-1,13,The number of neutrons in the element ^9&~4*Be is,4,5,9,13,,b,,MCQ
+4,Structure of the Atom,,level-1,14,Which of the following particles is not deflected by a magnetic field?,Proton,Neutron,Electron,All of these,,b,,MCQ
+4,Structure of the Atom,,level-1,15,Which of the following elements contains only two electrons in the outermost shell?,Helium,Beryllium,Magnesium,All of these,,d,,MCQ
+4,Structure of the Atom,,level-1,16,"The charge on the atom having 17 protons, 18 electrons is",+1,-1,-2,Zero,,b,,MCQ
+4,Structure of the Atom,,level-1,17,Maximum number of electrons in any orbit is,n^2&,2n^2&,1/2n^2&,None of these,,b,,MCQ
+4,Structure of the Atom,,level-1,18,Which of the following statements are part of Bohr's model of hydrogen atom?,Energy of the electrons in the orbit is quantized,The electron in the orbit nearest to the nucleus has the lowest energy,Electrons revolve in different orbits around the nucleus,All of these,,d,,MCQ
+4,Structure of the Atom,,level-1,19,The number of electrons in the valence shell of calcium is,6,8,2,4,,c,,MCQ
+4,Structure of the Atom,,level-1,20,Na^+& ion is isoelectronic with,Li^+&,Mg^2+&,Ca^2+&,Ba^2+&,,b,,MCQ
+4,Structure of the Atom,,level-1,21,Which of the following is not true for isotopes?,They have the same atomic number,They have the same mass number,They have the same electronic configuration,They have the same chemical properties,,b,,MCQ
+4,Structure of the Atom,,level-1,22,The valency of an element is,the mass of the element displacing 1 part by the mass of hydrogen,the mass of the element combining with 8 parts by the mass of oxygen,the number of atoms of hydrogen combining with 1 atom of the given element,the number of atoms in 1 molecule of the given element,,c,,MCQ
+4,Structure of the Atom,,level-1,23,Which of the following electronic configurations is wrong?,"Li (3) -2, 1","O (8) =2, 6","S (16) 2, 6, 8","P (15) -2, 8, 5",,c,,MCQ
+4,Structure of the Atom,,level-1,24,"MgCl~2* is the formula for an ionic compound of magnesium and chlorine. If the charge on CI is -1, then the charge on Mg must be",+ 2,+ 3,- 2,- 3,,a,,MCQ
+4,Structure of the Atom,,level-1,25,A cation has a positive charge because,there are more protons than neutrons,the neutrons in the nucleus are charged,there are fewer electrons than protons,there are more electrons than protons,,c,,MCQ
+4,Structure of the Atom,,level-1,26,What will be the valency of an atom if its outermost shell contains four electrons?,8,4,2,6,,b,,MCQ
+4,Structure of the Atom,,level-1,27,In Rutherford's gold foil experiment most of the a-particles pass through the gold foil without any deviation from their paths. This indicates that,the atom is spherical,there is a positively charged nucleus at the centre of the atom,the entire mass of the atom is concentrated at the nucleus of the atom,most portion of the atom is empty space,,d,,MCQ
+4,Structure of the Atom,,level-1,28,"Rutherford's model of an atom could not explain its stability. This was overcome by another atomic model. The postulates of the new model
+of atom are
+(i) an atom consists of a positively charged sphere and the electrons are embedded in it
+(ii) each shell or orbit corresponds to a definite energy, therefore, these circular shell are also known as energy shells
+(iii) as long as the electrons revolve in the stationary orbit it neither radiates nor absorbs energy.",(i) and (ii),(ii) and (iii),(i) and (iii),"(i), (ii) and (iii)",,b,,MCQ
+4,Structure of the Atom,,level-1,29,Isotones have,same mass number but different atomic numbers,same atomic number but different mass numbers,same value of (mass number - atomic number),same number of electrons.,,c,,MCQ
+4,Structure of the Atom,,level-1,30,The main drawback of Rutherford's model of the atom is that,it does not explain the stability of atom,it does not show the location of protons,it does not explain neutral nature of an atom,it does not explain existence of a nucleus in an atom,,a,,MCQ
+4,Structure of the Atom,,level-2,31,How many electrons are present in the M shell of an atom of an element with atomic number 23?,5,6,12,11,,d,,MCQ
+4,Structure of the Atom,,level-2,32,The ratio between number of neutrons in Cand Si with respect to atomic mass 12 and 28 is,2 : 3,3 : 2,3 : 7,7 : 3,,c,,MCQ
+4,Structure of the Atom,,level-2,33,"An element M has a atomic mass 19 and atomic number 9, its ion is represented by",M^+&,M^2+&,M^-&,M^2-&,,c,,MCQ
+4,Structure of the Atom,,level-2,34,Which of the following do not have the same number of valence electrons?,"H, Li, Na, K","He, Mg. Be, Ca","B, Al, N, P","O, S, Se",,c,,MCQ
+4,Structure of the Atom,,level-2,35,"The triad of nuclei, which is isotone, is",a,b,c,d,CH-4-35-ROW-286,a,,MCQ
+4,Structure of the Atom,,level-2,36,"The electronic configuration of elements A, B, C and D are (2, 8, 1), (2, 8, 2), (2, 8, 6) and (2, 8, 7) respectively. Which of them can make an ion with two negative charges?",A,B,C,D,,c,,MCQ
+4,Structure of the Atom,,level-2,37,"According to Bohr's atomic model, as we move away from the nucleus",radius of the orbit go on increasing,energy of the orbits go on decreasing,both (a) and (b),neither (a) or (b),,a,,MCQ
+4,Structure of the Atom,,level-2,38,"A has 9 protons, 9 electrons and 10 neutrons, B has 12 protons, 12 electrons and 12 neutrons. Formula of the compound between A arnd B is",BA~2*,AB~2*,B~2*A~3*,AB~4*,,a,,MCQ
+4,Structure of the Atom,,level-2,39,The number of electrons in carbon and fluorine atom are respectively,"6, 9","9, 6","4, 7","8, 8",,a,,MCQ
+4,Structure of the Atom,,level-2,40,The increasing order for the values of e/m (charge/mass) is,"e, p n, a","n, p e, a","n, p a, e","n, a, p e,",,d,,MCQ
+4,Structure of the Atom,,level-2,41,How many total protons are found in one molecule of retinol (C~20*H~30*O)?,51,151,600,158,,d,,MCQ
+4,Structure of the Atom,,level-2,42,An element A has atomic mass 39 and atomic number 19. Which one of the following ions it will form on ionising one electron?,A^+& ion,A^-& ion,A^++& ion,A^--& ion,,a,,MCQ
+4,Structure of the Atom,,level-2,43,Which of the following has more electrons than neutrons?,F^-&,Al^3+&,O^2-&,Na^+&,,c,,MCQ
+4,Structure of the Atom,,level-2,44,Which of the following is an accurate illustration of a nitrogen atom?,a,b,c,d,CH-4-44-ROW-295,a,,MCQ
+4,Structure of the Atom,,level-2,45,Which of the following isa correct representation of Cl^-&?,a,b,c,d,CH-4-45-ROW-296,a,,MCQ
+4,Structure of the Atom,,level-2,46,"Two particles X and Y have the composition as shown in the table.
+The particles X and Y are",metal atoms,non-metal atoms,negative ions,positive ions,CH-4-46-ROW-297,c,,MCQ
+4,Structure of the Atom,,level-2,47,The relative atomic mass of naturally occurring chlorine is not a whole number. What is the reason for this?,Chlorine atoms can have different numbers of neutrons,Naturally occurring chlorine cannot be obtained pure.,Chlorine is unstable,The mass of the electrons has been included,,a,,MCQ
+4,Structure of the Atom,,level-2,48,An element L has 9 protons and its valency is 1. Another element M has valency 3 and 5. What is the difference in the number of electrons in L and M?,6,5,4,3,,a,,MCQ
+4,Structure of the Atom,,level-2,49,"Schematic atomic structures of three elements are given below:
+Which of the following is the correct formula of the compound formed by the given three elements?",Na~3*PO~4*,Na~2*CO~3*,Na~2*SO~4*,Na~2*SO~3*,CH-4-49-ROW-300,b,,MCQ
+4,Structure of the Atom,,level-2,50,"Vivek was given few models of atoms representing of Cl? their structures. He was asked to choose one pair of isotopes and one pair of isobars.
+",A,B,C,D,CH-4-50-ROW-301,c,,MCQ
+4,Structure of the Atom,,level-2,1,Match the following,"P-4, Q-3, R-2, S-1","P-1, Q-2, R-3, S-4","P-2, Q-1, R-4, S-3","P-2,Q-1, R-3, S-4",CH-4-1-ROW-302,c,,MCQ
+4,Structure of the Atom,,level-2,2,Match the following,"P-4,Q-3, R-1, S-2","P-1,0-2, R-3, S-4","P-3, Q-2, R-1, S-4","P-4, Q-2, R-1, S-3",CH-4-2-ROW-303,a,,MCQ
+4,Structure of the Atom,,level-2,3,Match the following,"P-1,Q-2, R-3, S-4","P-1,Q-4, R-2, S-3","P-2, Q-1, R-3, S-4","P-4, Q-1, R-2, S-3",CH-4-3-ROW-304,b,,MCQ
+4,Structure of the Atom,,level-2,4,Match the following,"P-4, Q-3, R-2, S-1","P-1, Q-2, R-3, S-4","P-3,Q-1, R-2, S-4","P-4,Q-3, R-1, S-2",CH-4-4-ROW-305,d,,MCQ
+4,Structure of the Atom,,level-2,5,Match the following,"P-1,Q-2, R-3, S-4","P-4, Q-3, R-2, S-1","P-2, Q-4, R-3, S-1","P-2, Q-3, R-4, S-1 Reason :",CH-4-5-ROW-306,d,,MCQ
+4,Structure of the Atom,,level-2,1,"Assertion : Bohr's orbits are called stationary orbits.
+Reason : Electrons remain stationary in these orbits for sometime.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+4,Structure of the Atom,,level-2,2,"Assertion : In Rutherford's gold foil experiment very few o-particles are deflected back.
+Reason : Nucleus present inside the atom is heavy.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+4,Structure of the Atom,,level-2,3,"Assertion : Anions are larger in size than the parent atom
+Reason : In an anion, the number of protons in the nucleus is less than the number of electrons moving around it.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+4,Structure of the Atom,,level-2,4,"Assertion : For noble gases, valency is zero.
+Reason : Noble gases have 8 valence electrons",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+4,Structure of the Atom,,level-2,5,"Assertion : The atoms of different elements having same mass number but different atomic numbers are known as isobars.
+Reason : The sum of protons and neutrons, in the isobars is always different",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+4,Structure of the Atom,,level-2,6,"Assertion : Cathode rays travel in straight lines
+Reason : Cathode rays do not penetrate through thin sheets",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+4,Structure of the Atom,,level-2,7,"Assertion : Thomson's atomic model is known as 'raisin pudding' model
+Reason : The atom is visualized as a pudding of positive charge with electrons (raisins) embedded in it.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+4,Structure of the Atom,,level-2,8,"Assertion : Atom is electrically neutral
+Reason : Aneutral particle, neutroni s present in the nucleus of atom",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+4,Structure of the Atom,,level-2,9,"Assertion : Cathode rays get deflected towards the positive plate of electric field.
+Reason : Cathode rays consist of negatively charged particles known as electrons.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+4,Structure of the Atom,,level-2,10,"Assertion : Isotopes are electrically neutral
+Reason : lsotopes are species with same mass number but different atomic numbers.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+4,Structure of the Atom,,Olympiad / HOTS Corner,1,Study the table carefully and select the correct statement.,W is a noble gas,X and Y are cations,U and V are anions,Z is the lightest element while V is the heaviest,CH-4-1-ROW-317,d,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,2,"The nucleon number of atom X is 37. It exists as a diatomic molecule, X~2*. One molecule of X~2* contains 34 protons. How many neutrons are present in the nucleus of atom X?",17,20,21,25,,b,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,3,"Consider the following graph of % abundance vs mass of lead.
+The relative atomic mass of lead is",208,207.567,207.302,209,,c,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,4,If there are 12 neutrons in an atom and its atomic number is 11. How many protons are present in it?,11,12,23,1,,a,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,5,"The schematic atomic structures of three elements X, Y and Z are given as:
+Which of the following statements is/are incorrect?
+I. Z can form ZCl and ZCl~5*
+II. Y exists in monoatomic form.
+III. Xand Zcombine to form X~3*Ztype compound.
+IV. Xand Ycombine to form XY~2* type compound
+V. X will gain two electrons to form a stable compound",I and II only,"I, II and IV only","II, IV and V only","III, IV and V only",,d,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,6,"The given table shows the number of protons, neutrons and electrons in atoms or ions. Which atom/ion in the table is an isotope of the atom with the composition of 11 p, 11e and 14 n?",P,Q,R,S,CH-4-6-ROW-322,a,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,7,"X and Y are the two atomic species 
+Select the correct statement about X and Y.",X and Y are isobars,X and Y have different chemical properties,X and Yhave different physical properties,X and Y are the atoms of different elements,CH-4-7-ROW-323,c,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,8,The atomic masses of two isotopes of chlorine are 35 and 37. The number of neutrons respectively will be,"18, 20","20, 18","17, 18","18, 17",,a,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,9,"The number of protons, neutrons and electrons in four elements I, I, III and IV are as follows: 
+I.   p = 6, n = 6, e = 6
+II.  p = 6, n = 7, e = 6
+III. p = 18, n = 22, e = 18
+IV. p = 19, n = 21, e = 19
+In these,",elements I and II are isotopes and elements III and IV are isobars,elements I and II are isotopes but elements II and IV are not isobars,elements I and II are isobars and element III and IV are isotopes,elements I and II are isobars but elements III and IV are not isotopes,,a,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,10,An ion having a mass number 52 has 3 units of positive charge. The number of neutrons in the ion exceeds the number of electrons in it by 7.  The atomic number of the element is,28,22,26,24,,d,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,11,The number of neutrons in an atom of ^23&~11*X is,23,11,34,12,,d,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,12,Element P has 5 electrons in its L shell while element Q has 5 electrons in its M shell. Which of the following statements is correct regarding elements P and Q?,Both elements have valency equal to 5 only,Both elements have the same mass number,Atomic number of element P is 7 and that   of element Q is 15,Both elements show valency equal to 3 only,,c,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,13,If there are 12 neutrons in an atom and its atomic number is 11 then how many electrons are present in it?,23,12,10,11,,d,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,14,Which one of the following is not isoelectronic with neon atom?,a,b,c,d,CH-4-14-ROW-330,d,,MCQ
+4,Structure of the Atom,,Olympiad / HOTS Corner,15,Chlorine atom does not differ from the chloride ion in which of the following context?,Electron,Volume,Proton,Chemical reactivity,,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,1,Bivalent cation is,aluminium,gold,nickel,sodium,,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,2,A balanced chemical equation supports,law of chemical equilibrium,law of conservation of energy,law of conservation of mass,none of these,,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,3,The substance that takes part in reaction is called,radical,product,reactant,ion,,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,4,The substance that is formed in the reaction is called,radical,product,reactant,ion,,b,,MCQ
+5,Chemical Reactions and Equations,,level-1,5,Which of the following is correct?,Product -> reactant,Reactant -> product,Product -> radical,Radical -> product,,b,,MCQ
+5,Chemical Reactions and Equations,,level-1,6,AB ® A + B represents,decomposition reaction,combination reaction,displacement reaction,double displacement reaction,,a,,MCQ
+5,Chemical Reactions and Equations,,level-1,7,Digestion of food in our body is,combination reaction,displacement reaction,decomposition reaction,neutralisation reaction,,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,8,Which of the following plays a major role in chemical equations?,Radicals and ions,Cations and anions,Reactants and products,Both (a) and (b),,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,9,Which of the following is a balanced chemical equation?,H~2* + Cl~2* ® 4HCI,Zn + 2HCI ® ZnCl~2* + H~2*,KNO~3* ® KNO~2* + O~2*,ZnCO~3* ® ZnO + 2CO~2*,,b,,MCQ
+5,Chemical Reactions and Equations,,level-1,10,Which of the following (d) none of the above. is not a balanced chemical equation?,H~2* + CuO ® Cu + H~2*O,Zn + 2AgNO~2* ® Zn(NO~3*)~2*+2Ag,Mg +2HCI ® MgCl~2* + H~2*,4Al + 2HCI ® 2AICl~3* + 4H~2*,,d,,MCQ
+5,Chemical Reactions and Equations,,level-1,11,The chemical equation tells about,substances which react in chemical reaction,number of atoms of all substances,reaction will complete or not,both (a) and (b).,,d,,MCQ
+5,Chemical Reactions and Equations,,level-1,12,The chemical equation is represented by,®,«,both (a) and (b),-,,a,,MCQ
+5,Chemical Reactions and Equations,,level-1,13,A balanced equation has,more number of reactants,more number of products,equal number of atoms in reactants and products,unequal number of atoms in reactants and products.,,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,14,A skeleton equation has,more number of reactants,more number of products,equal number of atoms in reactants and products,unequal number of atoms in reactants and products.,,d,,MCQ
+5,Chemical Reactions and Equations,,level-1,15,Chemical reactions involve,chemical change,rearrangement of atoms,formation of new substances,all of these.,,d,,MCQ
+5,Chemical Reactions and Equations,,level-1,16,Change in colour is a characteristic of,chemical formula,chemical equation,chemical reaction,all of these.,,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,17,"Phosphorus burns in chlorine gas to form PCl~5*.
+Which type of reaction is this?",Combination reaction,Displacement reaction,Decomposition reaction,Neutralisation reaction,,a,,MCQ
+5,Chemical Reactions and Equations,,level-1,18,Formation of carbon disulphide from carbon and sulphur takes place by,absorption of heat,evolution of heat,no change in heat content,none of the above,,a,,MCQ
+5,Chemical Reactions and Equations,,level-1,19,The reaction between an acid and a base is known as,condensation reaction,addition reaction,neutralisation reaction,elimination reaction.,,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,20,"The chemical reaction
+HNO~3* + KOH ® KNO~3* +H~2*O is an example of",neutralization,double displacement,neutralization and double displacement,combination,,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,21,Which of the following does not corrode when exposed to the atmosphere?,Iron,Copper,Gold,Silver,,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,22,Which of the following is a double displacement reaction?,A,B,C,D,CH-5-22-ROW-353,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,23,Which of the following reactions will occur?,A,B,C,D,CH-5-23-ROW-354,d,,MCQ
+5,Chemical Reactions and Equations,,level-1,24,"The types of reaction are
+(1) displacement       (2) precipitation
+(3) combination         (4) double displacement",(1) and (3),"(1), (2) and (3)",(2) and (3),(2) and (4),CH-5-24-ROW-355,d,,MCQ
+5,Chemical Reactions and Equations,,level-1,25,Heat is evolved during,endothermic reaction,displacement reaction,combustion reaction,combination reaction,,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,26,A change is said to be a chemical change when,energy changes occurs,new substances are formed,the change can not be easily reversed,all of these,,d,,MCQ
+5,Chemical Reactions and Equations,,level-1,27,Copper displaces which of the following metals from its salt solution,ZnSOD~4*,FeSO~4*,AgNO~3*,NiSO~4*,,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,28,"Which of the following statements is correct?
+Rusting of iron is a chemical change because",a new substance with new properties is produced,chemical composition of reactant is changed,change is permanent and can not be reversed easily,all of these.,,d,,MCQ
+5,Chemical Reactions and Equations,,level-1,29,In the balanced equation,3 and 5,8 and 6,4 and 2,7 and 1,CH-5-29-ROW-360,c,,MCQ
+5,Chemical Reactions and Equations,,level-1,30,"On heating ferrous sulphate crystals, one would get",sweet smell,rotten egg smell,irritating chocking smell,fruity smell,,c,,MCQ
+5,Chemical Reactions and Equations,,level-2,31,Which of the following is a decomposition reaction?,A,B,C,D,CH-5-31-ROW-362,c,,MCQ
+5,Chemical Reactions and Equations,,level-2,32,"Which of the following statements about the given reactions is correct ?
+ZnO + CO ® Zn + CO~2*",ZnO is being oxidizing.,CO is being reduced.,CO~2* is being oxidized,ZnO is being reduced,,d,,MCQ
+5,Chemical Reactions and Equations,,level-2,33,"In the decomposition of lead (II) nitrate to give lead (II) oxide, nitrogen dioxide and oxygen gas, the coefficient of nitrogen dioxide (in the balanced equation) is",1,2,3,4,,d,,MCQ
+5,Chemical Reactions and Equations,,level-2,34,Which of the following is not an example of single displacement reaction ?,a,b,c,d,CH-5-34-ROW-365,c,,MCQ
+5,Chemical Reactions and Equations,,level-2,35,The reaction in which two compounds exchange their ions to form two new compounds is called ,displacement reaction,combination reaction,double displacement reaction,redox reaction,,c,,MCQ
+5,Chemical Reactions and Equations,,level-2,36,Antioxidants are,hydrating agents,dehydrating agents,oxidizing agents,reducing agents,,d,,MCQ
+5,Chemical Reactions and Equations,,level-2,37,Aluminium is more reactive than iron. But aluminium is less easily corroded than iron because,aluminium is a noble metal,oxygen forms a protective oxide layer,iron undergoes reaction easily with water,iron forms mono and divalent ions,,b,,MCQ
+5,Chemical Reactions and Equations,,level-2,38,The example for exothermic reaction is,melting of ice cubes,decomposition of vegetable matter into compost,cooking an egg,baking bread.,,b,,MCQ
+5,Chemical Reactions and Equations,,level-2,39,What does the symbol (aq) represent in a chemical equation?,Solid state,Gaseous state,Solution made in water,Supercooled state,,c,,MCQ
+5,Chemical Reactions and Equations,,level-2,40,"In the reaction between lead sulphide and hydrogen peroxide which substance is reduced? 
+PbS + 4H~2*O~2* ® PbSO~4* + 4H~2*O",Lead sulphide,Hydrogen peroxide,Lead sulphate,Water,,b,,MCQ
+5,Chemical Reactions and Equations,,level-2,41,Which of the following reactions is involved in black and white photography?,A,B,C,D,CH-5-41-ROW-372,b,,MCQ
+5,Chemical Reactions and Equations,,level-2,42,Which of the following is not a combination reaction?,A,B,C,D,CH-5-42-ROW-373,d,,MCQ
+5,Chemical Reactions and Equations,,level-2,43,Which of the following is not a double displacement reaction?,A,B,C,D,CH-5-43-ROW-374,d,,MCQ
+5,Chemical Reactions and Equations,,level-2,44,The addition of oxygen to a substance is called,redox,oxidation,reduction,none of these,,b,,MCQ
+5,Chemical Reactions and Equations,,level-2,45,Identify the following type of reaction,It is a combination reaction,It is a decomposition reaction and is accompanied by release of heat,It is a photochemical decomposition reaction by release of heat.,It is a decomposition reaction and is endothermic in nature,CH-5-45-ROW-376,d,,MCQ
+5,Chemical Reactions and Equations,,level-2,46,Which of the following pairs will give displacement reactions?,NaCl solution and copper metal,MgCl~2* solution and aluminium metal,FeSO~4* solution and silver metal,AgNO~3* solution and copper metal,,d,,MCQ
+5,Chemical Reactions and Equations,,level-2,47,Which of the following is a chemical change?,Melting of ice,Dissolving salt in water,Rusting of iron,Boiling of water into steam,,c,,MCQ
+5,Chemical Reactions and Equations,,level-2,48,"When copper sulphate solution reacts with iron metal, copper metal is formed. This reaction comes under which of the following category?",Decomposition reaction,Single displacement reaction,Double displacement reaction,Combination reaction,,b,,MCQ
+5,Chemical Reactions and Equations,,level-2,49,Which information is not conveyed by a balanced chemical equation?,Physical quantity of reactants and products,Symbols and formula of all the substances involved in a particular reaction.,Number of atoms/molecules of the reactants and products formed.,Whether a particular reaction is actually feasible or not,,d,,MCQ
+5,Chemical Reactions and Equations,,level-2,50,Process of respiration is,an oxidation reaction which is endothermic,a reduction reaction which is exothermic,a combination reaction which is endothermic,an oxidation reaction which is exothermic,,d,,MCQ
+5,Chemical Reactions and Equations,,level-2,1,Match the following,"P-2, Q-4, R-3, S-1","P-2, Q-1, R-4, S-3","P-4, Q-1, R-3, S-2","P-1, Q-4, R-3, S-2",CH-5-1-ROW-382,a,,MCQ
+5,Chemical Reactions and Equations,,level-2,2,Match the following,"P-2, Q-3, R-1","P-2, Q-1, R-3","P-3, Q-2, R-1","P-1, Q-3, R-2",CH-5-2-ROW-383,b,,MCQ
+5,Chemical Reactions and Equations,,level-2,3,Match the following,"P-3, Q-2, R-1","P-2, Q-1, R-3","P-2, Q-3, R-1","P-1, Q-3, R-2",CH-5-3-ROW-384,d,,MCQ
+5,Chemical Reactions and Equations,,level-2,4,Match the following,"P-1, Q-2, R-3, S-4","P-4, Q-3, R-2, S-1","P-2, Q-3, R-1, S-4","P-4, Q-1, R-2, S-3",CH-5-4-ROW-385,c,,MCQ
+5,Chemical Reactions and Equations,,level-2,5,Match the following,"P-4, Q-3, R-2, S-1","P-1, Q-2, R-3, S-4","P-2, Q-1, R-4, S-3","P-3, Q-1, R-4, S-2",CH-5-5-ROW-386,d,,MCQ
+5,Chemical Reactions and Equations,,level-2,1,"Assertion : Chemical reactions are chemical changes.
+Reason : It does not tells about the state of substance.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+5,Chemical Reactions and Equations,,level-2,2,"Assertion :  Balancing a chemical equation is important to study a chemical reaction.
+Reason : Abalanced chemical equation tells about energy changes that take place.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+5,Chemical Reactions and Equations,,level-2,3,"Assertion : 2H~2* + O~2* ® 2H~2*O is balanced equation.
+Reason : Formation of water is combination reaction",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+5,Chemical Reactions and Equations,,level-2,4,"Assertion : Chemical equation is made up of reactants and products.
+Reason : The equation which have equal number of atoms in reactant and product is called skeleton equation",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+5,Chemical Reactions and Equations,,level-2,5,"Assertion : Corrosion of iron is commonly known as rusting.
+Reason : Corrosion of iron occurs in presence of water and air.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+5,Chemical Reactions and Equations,,level-2,6,"Assertion : The reaction is which a substance is decomposed into two or more simple substances is known as decomposition reaction
+Reason : Thedecomposition can be carried out by giving energy in the form of heat, light, electricity, etc.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+5,Chemical Reactions and Equations,,level-2,7,"Assertion : Nitrogen and hydrogen combine together to form ammonia.
+Reason : It is an endothermic reaction.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+5,Chemical Reactions and Equations,,level-2,8,"Assertion : 2H~2*S~(g)*+O~2(g)* ® 2S~(s)* +2H~2*O~(l)* 
+It is an oxidation reaction.
+Reason : Oxidation is a process which involves removal of hydrogen",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+5,Chemical Reactions and Equations,,level-2,9,"Assertion : Hydrogen gas combines with nitrogen gas to form nitric acid.
+Reason : It is a decomposition reaction",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,d,,AR
+5,Chemical Reactions and Equations,,level-2,10,"Assertion : Reaction between barium chloride and sodium sulphate is a double displacement and precipitation reaction.
+Reason : Reaction between barium chloride and sodium sulphate involves the exchange of ions between the reactants and a white precipitate of barium sulphate is formed.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+6,Carbon and its Compounds,,level-1,1,The hydrocarbon with the general formula C~n*H~2n + 2* is an,alkane,alkene,alkyne,unsaturated compound,,a,,MCQ
+6,Carbon and its Compounds,,level-1,2,Which of the following is an alkane?,C~2*H~6*,C~3*H~4*,C~2*H~2*,C~4*H~6*,,a,,MCQ
+6,Carbon and its Compounds,,level-1,3,The functional group of alcohols is,a,b,c,d,CH-6-3-ROW-399,c,,MCQ
+6,Carbon and its Compounds,,level-1,4,Which of the following formula represents alkenes?,A,B,C,D,CH-6-4-ROW-400,a,,MCQ
+6,Carbon and its Compounds,,level-1,5,The functional group of carboxylic acid is,A,B,C,D,CH-6-5-ROW-401,c,,MCQ
+6,Carbon and its Compounds,,level-1,6,Which of the following compounds can have a triple bond?,C~2*H~6*,C~3*H~4*,C~3*H~8*,C~3*H~6*,,b,,MCQ
+6,Carbon and its Compounds,,level-1,7,An alkyne has 8 carbon atoms. The number of hydrogen atoms in it are,8,16,18,14,,d,,MCQ
+6,Carbon and its Compounds,,level-1,8,Vital force theory was proposed by,Berzelius,Wohler,Lavoisier,Lewis,,a,,MCQ
+6,Carbon and its Compounds,,level-1,9,"Identify the unsaturated compounds from the following :
+i) Propane                   (ii) Propyne
+(iii) Propene               (iv) Chloropropane",(i) and (ii),(ii) and (iv),(iii) and (iv),(ii) and (iii),,d,,MCQ
+6,Carbon and its Compounds,,level-1,10,"Which of the following statements are usually correct for carbon compounds? These
+i) are good conductors of electricity
+ii) are poor conductors of electricity
+iii) have strong forces of attraction between their molecules
+iv) do not have strong forces of attraction between their molecules.",(i) and (iii),(ii) and (iii),(i) and (iv),(ii) and (iv),,d,,MCQ
+6,Carbon and its Compounds,,level-1,11,A molecule of ammonia (NH~3*) has,only single bonds,only double bonds,only triple bonds,two double bonds and one single bond,,a,,MCQ
+6,Carbon and its Compounds,,level-1,12,Structural formula of ethyne is,a,b,c,d,CH-6-12-ROW-408,a,,MCQ
+6,Carbon and its Compounds,,level-1,13,Which of the following does not belong to the same homologous series?,CH~4*,C~2*H~6*,C~3*H~8*,C~4*H~8*,,d,,MCQ
+6,Carbon and its Compounds,,level-1,14,The first member of alkyne homologous series IS,ethyne,ethene,propyne,methane.,,a,,MCQ
+6,Carbon and its Compounds,,level-1,15,Which among the following are unsaturated hydrocarbons?,(i) and (iii),(ii) and (iii),(ii) and (iv),(iii) and (iv),CH-6-15-ROW-411,c,,MCQ
+6,Carbon and its Compounds,,level-1,16,Urea was synthesised for the first time by,Friedrich Wohler,Berzelius,Kolbe,Berthelot.,,a,,MCQ
+6,Carbon and its Compounds,,level-1,17,Buckminsterfullerene is an example of,an isomer,an isotope,an allotrope,a furnctional group,,c,,MCQ
+6,Carbon and its Compounds,,level-1,18,Can homologues be isomers?,Yes,No,Sometimes,None of these,,b,,MCQ
+6,Carbon and its Compounds,,level-1,19,Compounds having same molecular formula but different properties are called,isotopes,isobars,isomers,isochores,,c,,MCQ
+6,Carbon and its Compounds,,level-1,20,The IUPAC name of CH~3*CHO is,acetaldehyde,methanal,ethanal,formaldehyde.,,c,,MCQ
+6,Carbon and its Compounds,,level-1,21,Which of the following is correct set?,a,b,c,d,CH-6-21-ROW-417,c,,MCQ
+6,Carbon and its Compounds,,level-1,22,Which of the following is wood spirit?,Methanol,Ethanol,Methane,Ethane,,a,,MCQ
+6,Carbon and its Compounds,,level-1,23,Which of the following are correct structural isomers of butane?,(i) and (iii),(ii) and (iv),(i) and (ii),(iii) and (iv),CH-6-23-ROW-419,c,,MCQ
+6,Carbon and its Compounds,,level-1,24,An alkene has 5 carbon atoms. The number of hydrogen atoms in it is,2,4,8,10,,d,,MCQ
+6,Carbon and its Compounds,,level-1,25,The difference in molecular weights of two consecutive members of a homologous series is,14,2,4,8,,a,,MCQ
+6,Carbon and its Compounds,,level-1,26,The credit for preparation of the first organic compound from it's elements went to,Berzelius,Berthelot,Kolbe,Wohler,,c,,MCQ
+6,Carbon and its Compounds,,level-1,27,The first organic compound that have been prepared in the laboratory was,acetic acid,acetylene,methane,urea,,d,,MCQ
+6,Carbon and its Compounds,,level-1,28,Which of the following is not an aliphatic compound?,Alkane,Alkene,Alkyne,Benzene,,d,,MCQ
+6,Carbon and its Compounds,,level-1,29,The correct IUPAC name of the compound ,2-methylbut-2-enoic acid,3-methylbut-3-enoic acid,3-methylbut-2-enoic acid,2-methylbut-3-enoic acid,CH-6-29-ROW-425,c,,MCQ
+6,Carbon and its Compounds,,level-1,30,The nature of linkage in organic compounds is,ionicc,covalent,co-ordinate,both (a) and (b),,b,,MCQ
+6,Carbon and its Compounds,,level-2,31,"When a mixture of potassium cyanate and ammonium chloride is heated, it gives",urea,methane,acetic acid,methanol,,a,,MCQ
+6,Carbon and its Compounds,,level-2,32,Chemically similar compounds having the same functional group but different by a -CH~2* group in their molecular formula are known as,homologues,isomers,polymers,allotropes.,,a,,MCQ
+6,Carbon and its Compounds,,level-2,33,Ethanol reacts with sodium to form,sodium ethanoate and hydrogen,sodium ethanoate and oxygen,sodium ethoxide and hydrogen,sodium ethoxide and oxygen,,c,,MCQ
+6,Carbon and its Compounds,,level-2,34,Which of the following compound is Marsh gas?,Methane,Ethane,Ethene,Ethyne,,a,,MCQ
+6,Carbon and its Compounds,,level-2,35,Which is the molecular formula of decane?,C~10*H~22*,C~8*H~16*,C~12*H~24*,C~5*H~12*,,a,,MCQ
+6,Carbon and its Compounds,,level-2,36,In ethane each carbon atom is bonded to,two atoms,three atoms,four atoms,six atoms,,c,,MCQ
+6,Carbon and its Compounds,,level-2,37,Saponification is the hydrolysis of an ester under basic conditions to form,alkane and salt of carboxylic acid,ketone and salt of carboxylic acid,aldehyde and salt of carboxylic acid,alcohol and salt of carboxylic acid,,d,,MCQ
+6,Carbon and its Compounds,,level-2,38,Which of the following is not an allotrope of carbon?,Graphite,Coal,Diamond,Fullerene,,b,,MCQ
+6,Carbon and its Compounds,,level-2,39,The saturated hydrocarbons are called,olefins,alkenes,alkanes,alkynes,,c,,MCQ
+6,Carbon and its Compounds,,level-2,40,The branch of chemistry which deals with study of hydrocarbons and their derivatives is termed as,organic chemistry,physical chemistry,inorganic chemistry,nuclear chemistry,,a,,MCQ
+6,Carbon and its Compounds,,level-2,41,An organic compound must contain,carbon,boron,oxygen,nitrogen.,,a,,MCQ
+6,Carbon and its Compounds,,level-2,42,A hydrocarbon is a,carbon found in nature in the free state,compound of carbon and hydrogeen,compound found in the form of sulphate,carbon found in nature in the form of carbonates.,,b,,MCQ
+6,Carbon and its Compounds,,level-2,43,Which of the following pairs of compounds of carbon will undergo combustion as well as addition reactions?,CH~4* and C~2*H~6*,C~2*H~~4**O and C~3*H~8*O,C~2*H~4*O~2* and C~3*H~6*O,C~2*H~2* and C~3*H~6*,,d,,MCQ
+6,Carbon and its Compounds,,level-2,44,IUPAC stands for,Indian Union of Pure and Applied Chemistry,International Union of Pure and Applied Chemistry,International United Pure Agricultural Corporation,International United Pure Agro Corporation,,b,,MCQ
+6,Carbon and its Compounds,,level-2,45,Olefins is the other name of,alkanes,alkenes,alkynes,alcohols.,,b,,MCQ
+6,Carbon and its Compounds,,level-2,46,Aldehydic group R - CHO is represented by suffix, - ol, - one, - al, - oate,,c,,MCQ
+6,Carbon and its Compounds,,level-2,47,Which of the following is chiefly present in LPG?,Methane,Ethane,Butane,Hexane,,c,,MCQ
+6,Carbon and its Compounds,,level-2,48,Which hydrocarbon is the main component of natural gas?,Ethane,Propane,Methane,Ethylene,,c,,MCQ
+6,Carbon and its Compounds,,level-2,49,All hydrocarbons burn in presence of air to produce,CO~2* + H~2*O,CO + H~2*O,CO~2* + H~2*,CO + H~2*,,a,,MCQ
+6,Carbon and its Compounds,,level-2,50,Vinegar is a solution of,50% - 60% acetic acid in alcohol,5% - 8% acetic acid in alcohol,5% - 8% acetic acid in water,50% 60% acetic acid water,,c,,MCQ
+6,Carbon and its Compounds,,level-2,1,Match the following,"P-3, Q-2, R-1, S-4","P-1, Q-2, R-3, S-4","P-2, Q-3, R-1, S-4","P-3, Q-1, R-2, S-4",CH-6-1-ROW-447,a,,MCQ
+6,Carbon and its Compounds,,level-2,2,Match the following,"P-1, Q-2, R-4, S-1","P-2, Q-3, R-4, S-1","P-3, Q-2, R-1, S-4","P-4, Q-2, R-3, S-1",CH-6-2-ROW-448,b,,MCQ
+6,Carbon and its Compounds,,level-2,3,Match the following,"P-3, Q-1, R-2, S-4","P-4, Q-2, R-1, S-3","P-1, Q-2, R-3, S-4","P-2, Q-4, R-1, S-3",CH-6-3-ROW-449,a,,MCQ
+6,Carbon and its Compounds,,level-2,4,Match the following,"P-1, Q-4, R-3, S-2","P-3, Q-2, R-4, S-1","P-2, Q-1, R-4, S-3","P-4, Q-2, R-1, S-3",CH-6-4-ROW-450,c,,MCQ
+6,Carbon and its Compounds,,level-2,5,Match the following,"P-2, Q-4, R-3, S-1","P-1, Q-3, R-2, S-4","P-2, Q-1, R-4, S-3","P-1, Q-4, R-3, S-2",CH-6-5-ROW-451,d,,MCQ
+6,Carbon and its Compounds,,level-2,1,"Assertion : Ethene can be catalytically hydrogenated.
+Reason : Ethene contains all C - H bonds.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+6,Carbon and its Compounds,,level-2,2,"Assertion : Geometrical isomerism is also called cis-trans isomerism
+Reason : Propene showS geometrical isomerism.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+6,Carbon and its Compounds,,level-2,3,"Assertion : Alkenes are reactive than alkanes
+Reason : Alkene contains double bonds.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+6,Carbon and its Compounds,,level-2,4,"Assertion : Acetylene forms acetylide but ethylene does not.
+Reason : Acetylene is lighter than air.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+6,Carbon and its Compounds,,level-2,5,"Assertion : Oxidation of alkanes generates large heat.
+Reason : Heat generated by burning coal is used to generate electricity.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+6,Carbon and its Compounds,,level-2,6,"Assertion : Both aldehydes and ketones contain carbonyl group
+Reason : In aldehydes, the functional group is attached to at least one hydrogen atom.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+6,Carbon and its Compounds,,level-2,7,"Assertion : Ethanol is the first member of the alcohol homologous series.
+Reason : A homologous series cannot be represented by a general formula",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,d,,AR
+6,Carbon and its Compounds,,level-2,8,"Assertion : Alkynes show geometrical isomerism.
+Reason : Geometrical isomerism arises due to the restricted rotation of a single bond.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,d,,AR
+6,Carbon and its Compounds,,level-2,9,"Assertion : Carbon possesses property of catenation
+Reason : Carbon atoms form double as well as triple bonds during catenation",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+6,Carbon and its Compounds,,level-2,10,"Assertion : 2-chloro-4-methylpentanal.
+Reason : Names are not to be written according to the alphabetical order of substituents",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,CH-6-10-ROW-461,d,,AR
+7,Periodic Classification of elements,,level-1,1,Elements were classified into metals and non-metals by,Lavoisier,Dobereiner,Newland,Faraday,,a,,MCQ
+7,Periodic Classification of elements,,level-1,2,The scientist who introduced law of triad is,Lavoisier,Dobereiner,Newland,Mendeleev,,b,,MCQ
+7,Periodic Classification of elements,,level-1,3,Law of octaves was proposed by,Lavoisier,Dobereiner,Newland,Mendeleev,,c,,MCQ
+7,Periodic Classification of elements,,level-1,4,"In 1869, Mendeleev formulated a law, which states that the properties of elements are periodic functions of their atomic masses. It is known as",periodic law,law of octaves,law of triads,none of these,,a,,MCQ
+7,Periodic Classification of elements,,level-1,5,"Mendeleev predicted the existence of two elements and named them as Eka-silicon and Eka-aluminium. Identify the element which
+took their position at later stage ",Si and Ge,Si and Ga,Ge and Ga,Si and Al,,c,,MCQ
+7,Periodic Classification of elements,,level-1,6,"Electronic configurations for four elements A, B, C and D are given below :
+A : 2, 1         B: 2, 8             C : 2, 8, 1        D : 2, 8, 8
+Identify the correct statemernts.
+(i) Elements A and B belong to the second period.
+(ii) Elements A and Cbelong to the same group.
+(iii) Element C is more reactive than element A.
+(iv) Elements Cand Dbelong to the third period",(i) and (iii),"(i), (ii) and (iii)",(ii) and (iv),All the statements are correct,,d,,MCQ
+7,Periodic Classification of elements,,level-1,7,The vertical columns in a periodic table are called,periods,groups,lines,rowS.,,b,,MCQ
+7,Periodic Classification of elements,,level-1,8,Third period of the periodic table contains the following number of elemernts,2,18,8,32,,c,,MCQ
+7,Periodic Classification of elements,,level-1,9,"Eka-boron predicted by Mendeleev, was named as ______________ after it's discovery",scandium,gallium,germanium,boron,,a,,MCQ
+7,Periodic Classification of elements,,level-1,10,The first group elements are called,alkali metals,alkaline earth metals,noble gases,halogens.,,a,,MCQ
+7,Periodic Classification of elements,,level-1,11,The elements which have incomplete penultimate shell are,representative elements,noble gases,transition elements,all of these,,c,,MCQ
+7,Periodic Classification of elements,,level-1,12,"Two elements A and B belong to group 1 and 2 respectively. Identify the correct statements.
+(i) Valency of A is one while that of B is two.
+(ii) Oxide of A has formula AO and that of B is B~2*O
+(iii) Element A is more metallic as compared to element B
+(iv) Element A is smaller than B in size.",(ii) and (iv),(i) and (iv),(i) and (iii),(ii) and (iii)],,c,,MCQ
+7,Periodic Classification of elements,,level-1,13,What type of oxide would Eka-aluminium form?,E O~3*,E~3* O~2*,E~2* O~3*,E O,,c,,MCQ
+7,Periodic Classification of elements,,level-1,14,The elements of the group 16 are called _________,halogens,noble gases,chalcogens,alkaline earth metals,,c,,MCQ
+7,Periodic Classification of elements,,level-1,15,The atoms of elements belonging to the same group of periodic table have the same,number of protons,number of electrons,number of neutrons,number of electrons in the outermost shell,,d,,MCQ
+7,Periodic Classification of elements,,level-1,16,Which amongst the following is not an alkaline earth metal ?,Mg,Ba,Fr,Sr,,c,,MCQ
+7,Periodic Classification of elements,,level-1,17,Which amongst the following is not a noble gas?,Helium,Neon,Radium,Radon,,c,,MCQ
+7,Periodic Classification of elements,,level-1,18,From top to bottom in a group of periodic table the electropositive character of an element,increases,decreases,remain unchanged,changes irregularly,,a,,MCQ
+7,Periodic Classification of elements,,level-1,19,"Arrange the following elements in the order of their increasing atomic size: F, CI, Br, I",F < CI < Br < I,F < I < Br < Cl,Cl < F < I < Br,I < Br < F < Cl,,a,,MCQ
+7,Periodic Classification of elements,,level-1,20,Which of the following statements about the modern periodic table is correct ?,18 horizontal rows are called periods,18 vertical columns are called groups,7 vertical columns are called periods,7 horizontal rows are called groups,,b,,MCQ
+7,Periodic Classification of elements,,level-1,21,Which one of the following element is chalcogen?,Te,I,Sb,Bi,,a,,MCQ
+7,Periodic Classification of elements,,level-1,22,"From left to right in a period, the acidic nature in the oxides of elements is",decreases,increases,doesn't change,irregular change,,b,,MCQ
+7,Periodic Classification of elements,,level-1,23,On moving from left to right in period,size of atom decreases,metallic character decreases,electropositive character decreases,all of these.,,d,,MCQ
+7,Periodic Classification of elements,,level-1,24,Which of the following is the lightest metal? ,Li,Mg,Na,Ca,,a,,MCQ
+7,Periodic Classification of elements,,level-1,25,Which one of the following doesn't change from top to bottom in a group of a periodic table?,Metallic nature,Atomic size,Electronegativity,Valence electron,,d,,MCQ
+7,Periodic Classification of elements,,level-1,26,An element has atomic number 16 it will belong to which period of the periodic table?,2,3,4,5,,b,,MCQ
+7,Periodic Classification of elements,,level-1,27,Which one of the following element is most electronegative?,Cl,Na,Al,P,,a,,MCQ
+7,Periodic Classification of elements,,level-1,28,"Element A has electronic configuration 2, 7, B has configuration 2, 8, 6, C has configuration 2, 8, 8 while D has 2, 8, 7. Which element will
+show similar chemical properties? ",A and C,A and D,B and C,B and D,,b,,MCQ
+7,Periodic Classification of elements,,level-1,29,The elements belonging to which group are called representative elements?,"Group 1, 2 and 13 to 17",Group 3 to 12,Group 13 to 18,Elements lying at the bottom of periodic table,,a,,MCQ
+7,Periodic Classification of elements,,level-1,30,The Father of periodic table is,Dobereiner,Mendeleev,Lother Meyer,Lewis.,,b,,MCQ
+7,Periodic Classification of elements,,level-2,31,Atomic size increases in a group due to,addition of more electrons,decrease in number of protons,addition of an extra shell,all of the above,,c,,MCQ
+7,Periodic Classification of elements,,level-2,32,The pair of atomic numbers which belongs to the same group,"9, 14","17, 51","6, 53","12, 56",,d,,MCQ
+7,Periodic Classification of elements,,level-2,33,"Among the following metals, which one has the weakest metallic character ?",Li,Na,K,Cs,,a,,MCQ
+7,Periodic Classification of elements,,level-2,34,Which one of the following element is a representative element ?,Fe,Mn,Ge,Cu,,c,,MCQ
+7,Periodic Classification of elements,,level-2,35,The long form of the periodic table is based on,number of protons,mass of the atoms,electronegativity,shape of the atom,,a,,MCQ
+7,Periodic Classification of elements,,level-2,36,"The electronic configuration of an element is 2, 8, 8, 2, this element is",an alkali metal,an alkaline earth metal,a halogen,a noble gas,,b,,MCQ
+7,Periodic Classification of elements,,level-2,37,"In the given elemernts, which element does not have 2 valence electrons?",Ba,Zn,Na,Ca,,c,,MCQ
+7,Periodic Classification of elements,,level-2,38,The general name of the elements of 17th group is,hydrides,halogens,chalcogens,noble gases,,b,,MCQ
+7,Periodic Classification of elements,,level-2,39,The correct order of metallic character among the following is,Na > Mg > Al > Si,Na > Al > Si > Mg,Al > Si > Na > Mg,Si > Mg > Na > Al,,a,,MCQ
+7,Periodic Classification of elements,,level-2,40,Which one of the following is not a transition metal?,Silver,Lead,Tungsten,Manganese,,b,,MCQ
+7,Periodic Classification of elements,,level-2,41,"Atomicnumber of the element whichis surrounded by elements with atomic numbers 17, 34, 36 and 53 in the modern periodic table is",18,52,37,35,,d,,MCQ
+7,Periodic Classification of elements,,level-2,42,Which of the following elements would lose an electron easily?,Mg,Na,K,Ca,,c,,MCQ
+7,Periodic Classification of elements,,level-2,43,Which among the following element can form amphoteric oxide?,Mg,C,N,Al,,d,,MCQ
+7,Periodic Classification of elements,,level-2,44,Which of the following sets belongs to the same period?,"Li, Na, K","Li, Mg, Ca","F, CI, Br","Ga, Ge, As",,d,,MCQ
+7,Periodic Classification of elements,,level-2,45,"Silicon is surrounded by the elements of atomic number 6, 13, 15 and 32 in the periodic table, then",the properties of the elements of atomic numbers 6 and 32 will be similar to silicon,the properties of the elements of atomic numbers 13 and 15 will be similar to silicon,the properties of the elements of atomic numbers 6 and 13 will be similar to silicon,the properties of elements of atomic numbers 15 and 32 will be similar to silicon,,a,,MCQ
+7,Periodic Classification of elements,,level-2,46,The elements in a period of the periodic table becomes,more non-metallic moving from top to bottom,less metallic from left to right,less metallic from top to bottom,none of these,,b,,MCQ
+7,Periodic Classification of elements,,level-2,47,The total number of inner transition elements are,10,18,28,50,,c,,MCQ
+7,Periodic Classification of elements,,level-2,48,Which period of the periodic table contains maximum number of elements?,3^rd&,6^th&,4^th&,5^th&,,b,,MCQ
+7,Periodic Classification of elements,,level-2,49,"The element with atomic number 14 is hard and forms acidic oxide and a covalent halide. To which of the following categories does the
+element belong?",Metal,Metalloid,Non-metal,Left-hand side element,,b,,MCQ
+7,Periodic Classification of elements,,level-2,50,"As you go down the group, the alkali metals become",brighter,hotter,more reactive,less reactive,,c,,MCQ
+7,Periodic Classification of elements,,level-2,1,Match the following,,,,,CH-7-1-ROW-512,b,,MCQ
+7,Periodic Classification of elements,,level-2,2,Match the following,,,,,CH-7-2-ROW-513,a,,MCQ
+7,Periodic Classification of elements,,level-2,3,Match the following,,,,,CH-7-3-ROW-514,a,,MCQ
+7,Periodic Classification of elements,,level-2,4,Match the following,,,,,CH-7-4-ROW-515,b,,MCQ
+7,Periodic Classification of elements,,level-2,5,Match the following,,,,,CH-7-5-ROW-516,d,,MCQ
+7,Periodic Classification of elements,,level-2,1,"Assertion : The first ionisation energy of Be is greater than that of B.
+Reason : 2p-orbital is lower in energy than 2s.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+7,Periodic Classification of elements,,level-2,2,"Assertion : According to Mendeleev's periodic law, the properties of elements are periodic function of their atomic numbers.
+Reason : Mendeleev's periodic law could explain the phenomerna of anomalous pairs.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,d,,AR
+7,Periodic Classification of elements,,level-2,3,"Assertion :  The original long form of periodic table was designed by Bohr and is also called Bohr's table.
+Reason : The vertical columns of elements in the periodic table are called periods.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+7,Periodic Classification of elements,,level-2,4,"Assertion : The increasing order of non-metallic character is Si < B < C.
+Reason : Non-metallic character increases along a period and decreases down the group.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+7,Periodic Classification of elements,,level-2,5,"Assertion : Alkali metals have the largest size in a period.
+Reason : They are at the extreme left of the periodic table",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+7,Periodic Classification of elements,,level-2,6,"Assertion : Noble gases are almost inert. 
+Reason : heyhave completely filled outermost shell.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+7,Periodic Classification of elements,,level-2,7,"Assertion : Newland's law of octaves of elements is a function of their state that the property of every eighth element is the repetition of the first
+Reason : The maximum of 8 electrons can be accommodated in valence shell",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+7,Periodic Classification of elements,,level-2,8,"Assertion :  F is more electronegative than Cl.
+Reason : F has high electron affinitythan Cl",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,c,,AR
+7,Periodic Classification of elements,,level-2,9,"Assertion :  According to Mendeleev, periodic properties of elemernts are function of their atomic masses
+Reason : Atomic number is equal to the number of protons",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+7,Periodic Classification of elements,,level-2,10,"Assertion : Alkali metals do not form dipositive ions.
+Reason : After loss of one electron alkali metals achieve stable configuration of noble gas.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+7,Periodic Classification of elements,,level-2,11,"Assertion : Elements in the same vertical column have similar properties 
+Reason : Periodicity of elements depends upon their atomic number",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+7,Periodic Classification of elements,,level-2,12,"Assertion : Properties of an atom and its corresponding ion remain same.
+Reason : Electronic configurations of both atom and ion remain same",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,d,,AR
+7,Periodic Classification of elements,,level-2,13,"Assertion :  Group 18 is placed at the extreme right of the periodic table
+Reason : It is in accordance with their electronic configuration.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+7,Periodic Classification of elements,,level-2,14,"Assertion : NaCl is ionic compound 
+Reason : Electronegativity difference between Na and CI is greater than 1.9.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,a,,AR
+7,Periodic Classification of elements,,level-2,15,"Assertion : P has higher I.E. than sulphur
+Reason : I.E. increases from left to right in a period.",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true but reason is not the correct erplanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,b,,AR
+8,Practice Papers,,Footsteps towards NEET,1,Which of the following would be described as impure?,Crystallized salt,Salt solution,Rock salt,All of these,,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,2,H~2* represents,1 mole of hydrogen atoms,1gof hydrogen,both (a) and (b),none of these,,d,,MCQ
+8,Practice Papers,,Footsteps towards NEET,3,"The charge on the atom having 15 protons, 18 electrons is",-3,-1,-2,zero,,a,,MCQ
+8,Practice Papers,,Footsteps towards NEET,4,"As the solid melts to form liquid,",interparticle forces of attraction decreases,the kinetic energy of the particles increases,compressibility increases,all of these,,d,,MCQ
+8,Practice Papers,,Footsteps towards NEET,5,How many total atoms are present in CoCl~3*.6H~2*O?,17,22,8,18,,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,6,The total number of neutrons in dipositive zinc ions with mass number 65 is,32,35,40,38,,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,7,The physical state of water at 10^0&C is,solid,liquid,gas,may be solid or liquid,,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,8,The average atomic mass of an element,"90%, 10%","10%, 90%","20%, 80%","80%, 20%",CH-8-8-ROW-539,a,,MCQ
+8,Practice Papers,,Footsteps towards NEET,9,"Calculate the percentage of oxygen in sulphuric acid, H~2*SO~4*",82.18%,34.69%,65.31%,50%,,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,10,A gas can be compressed to a fraction of its volume. The same volume of a gas can be spread all over a room. The reason for this is that,the volume occupied by molecules of a gas is negligible as compared to the total volume of the gas,gases consist of molecules which are in a state of random motion,gases consist of molecules having very large intermolecular space which can be reduced or increased under ordinary conditions,one mole of each gas occupies 22.4 L at STP.,,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,11,The gram atomic mass of an element is 32 g. The number of moles in 48 g of element are ,0.5 mol,2.0 mol,1.5 mol,0.75 mol,,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,12,"In an atom, an electron can jump from L shell to N shell by",emitting energy,absorbing energ8Y,increasing its velocity,none of these.,,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,13,A solution that has dissolved as much solute as it is capable of dissolving at a given temperature is,supersaturated solution,unsaturated solution,saturated solution,concentrated solution,,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,14,"When we put some crystals of potassium permanganate in a beaker containing water, we observe that after some time whole water has turned pink. This is due to",boiling,melting of potassium permanganate crystals,sublimation of crystals,diffusion,,d,,MCQ
+8,Practice Papers,,Footsteps towards NEET,15,Match the column I with column II and choose the correct option,a,b,c,d,CH-8-15-ROW-546,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,16,Solvent used in crystallisation should,not dissolve the impurities,not react chemically with substance,do not crystallise on cooling,all of the above,,d,,MCQ
+8,Practice Papers,,Footsteps towards NEET,17,Which of the following has a charge of +1 and a mass of 1 amu?,A neutron,A proton,An electron,A helium nucleus,,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,18,Which of the following is not a chemical change?,Electrolysis of water,Boiling of water,Digestion of food,Burning of magnesium,,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,19,Which oft he following electronic configurations is wrong?,"Be (3) = 2, 1","O (8) = 2,6","S (16) = 2, 6, 8","P (15) = 2, 8, 5",,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,20,Some elements along with their symbols are enlisted in the given table:,A,B,C,D,CH-8-20-ROW-551,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,21,Which of the following has the same number of electrons as an oxide ion (o^2-&)?,K^+&,Mg^2+&,Cl^-&,Sl^2-&,,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,22,Dry ice on heating produces,liquid CO~2*,liquid water,gaseous CO~2*,water vapour,,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,23,Simple distillation can be best used to separate,a mixture of benzene (boiling point 80^0&C) and toluene (boiling point 110^0&C),a mixture of acetone (boiling point 56^0&C) and methyl alcohol (boiling point 64^0&C),a mixture of ethanol (boiling point 78^0&C) and water (boiling point 100^0&C),none of these,,a,,MCQ
+8,Practice Papers,,Footsteps towards NEET,24,Which of the following weighs most?,2 g atoms of nitrogen,25 g iron,2x10^23& atoms of carbon,22.4 L of CO~2* at STP,,d,,MCQ
+8,Practice Papers,,Footsteps towards NEET,25,The diagram given below shows the sub-atomic particles present in the nucleus of atom X.,A,B,C,D,CH-8-25-ROW-556,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,26,"Which of the following process involves fractional distillation?
+X. Separation of components of a liquid air.
+Y. Separation of crude petroleum into useful fractions like gasoline, kerosene oil, diesel etc.
+Z. Separation of kerosene oil and water","X, Y, Z","X, Y","X, Z","Y, Z",,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,27,"Information about two atoms, X and Yare shown below :",A,B,C,D,CH-8-27-ROW-558,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,28,"Which of the following properties is different for solids, liquids and gases?",Movement of molecules,Particle size of the substance,Mass of the substance,Energy exchanges,,a,,MCQ
+8,Practice Papers,,Footsteps towards NEET,29,What mass of carbon dioxide (CO~2*) will contain 22. Dry ice on heating produces 3.011 x 10^23& molecules?,11.0 g,22.0 g,4.4 g,44.0 g,,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,30,Butter is a colloid formed when,fat is dispersed in fat,fat is dispersed in water,water is dispersed in fat,proteins dispersed in water,,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,31,15^0&C temperature is equal to,163 K,15 K,183 K,288 K,,d,,MCQ
+8,Practice Papers,,Footsteps towards NEET,32,"Name the substances X, Y and Z in the diagram given below :",a,b,c,d,CH-8-32-ROW-563,d,,MCQ
+8,Practice Papers,,Footsteps towards NEET,33,Which pair of atoms contains the same number of neutrons?,A,B,C,D,CH-8-33-ROW-564,d,,MCQ
+8,Practice Papers,,Footsteps towards NEET,34,According to the given reaction,10,5.6,4.4,11.1,CH-8-34-ROW-565,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,35,"Which of the following are metalloids?
+i) Boron                ii) Sodium
+i) Silicon               iv) Chlorine
+(v) Germanium",(ii) and (iv),(i) and (iv),(iii) and (v),"(i), (iii) and (v)",,d,,MCQ
+8,Practice Papers,,Footsteps towards NEET,36,Which is the most favourable condition for liquefaction of ammonia?,"High pressure, high temperature","High pressure, low temperature","Low pressure, low temperature","Low pressure, high temperature",,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,37,A flask X contains 0.5 mole of oxygen gas. Another flask Y contains 0.4 mole of ozone gas. Which of the two flasks contains greater number of oxygen atoms?,Flask X,Flask Y,Both have equal number of oxygen atoms,Data is insufficient,,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,38,Which of the following is not correct?,Solids have fixed shape and fixed volume,We can easily compress a liquid but not a gas,Solids have negligible kinetic energy of the particles.,Property of diffusion is maximum in the gaseous state.,,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,39,The mass number of an ion is 48. It has 3 units of positive charge. The number of neutrons in the ion exceeds the number of electrons in it by 7. The atomic number of the element is,21,22,24,26,,b,,MCQ
+8,Practice Papers,,Footsteps towards NEET,40,Which of the following is likely to be a pure substance?,A colourless liquid that boils over the range of temperature from 70^0&C to 80^0&C.,A green solid which starts to melt at 80^0&C and is completely melted at 90^0&C.,A white solid which produced a chromatogramn consisting of only one spot,A brown liquid that is completely miscible with water.,,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,41,"Which of the following molecules are diatomic?
+(i) Nitrogen              (ii) Neon               (iii) Oxygen
+(iv) Sulphur              (v) Phosphorus     (vi) Ozone
+(vii) Fluorine            (viii) Hydrogen      (ix) Fullerence",(ii) (iv) (v) and (vi),"(iv), (v) and (ix)",(ii) and (vi),"(i), (iii), (vi) and (viii)",,d,,MCQ
+8,Practice Papers,,Footsteps towards NEET,42,Rate of diffusion of a gas is,directy proportional to its density,directly proportional to its molecular mass,directly proportional to the square root of its molecular mass,inversely proportional to the square root of its molecular mass,,d,,MCQ
+8,Practice Papers,,Footsteps towards NEET,43,"Three students Nisha, David and Manu were given three unknown substances A, B and C respectively during the lab activity.",Nisha - Separating funnel,David - Distillation,Manu - Fractional distillation,All are correct,CH-8-43-ROW-574,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,44,Which of the following do not represent Bohr's model of an atom correctly?,(i) and (ii),(ii) and (iii),(ii) and (iv),(i) and (iv),CH-8-44-ROW-575,c,,MCQ
+8,Practice Papers,,Footsteps towards NEET,45,"Which of the following statements are correct regarding
+liquid state?
+i) Particles are loosely packed in the liquid state.
+ii) Fluidity is maximum in the liquid state.
+Iii) Liquids cannot be compressed much.
+iv) Liquids take up the shape of any container in which they are placed",(i) (ii) and (iii),(i) (iii) and (iv),(i) (ii) and (iv),All statement are correct,,b,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,1,"Which of the following elements has same number of protons, electrons and neutrons?",Al,Mg,P,Cl,,b,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,2,"Diagrams (I). (II) and (III) each illustrates the particles of one of the three substances, mercury, helium and copper, at room temperature.
+Which set of substances are best illustrated by each diagram?",a,b,c,d,CH-8-2-ROW-579,d,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,3,Hydrogen was passed over heated 2 g copper oxide till only copper was left. The mass of copper obtained was 16 g. The percentage of oxygen in copper oxide is ,80%,60%,40%,20%,,d,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,4,Chromatography method is used to separate,two or more immiscible liquids,volatile impurities,a volatile solid from a non-volatile liquid,a non-volatile solid from a volatile liquid,,d,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,5,"Which of the following phenomena shows that diffusion has occurred?
+1. Balloons deflate and become smaller.
+2. The aroma of coffee spreads through the air.
+3. A puddle of water disappears on hot days.",1 and 3,1 and 2,"1, 2 and 3",2 and 3,,b,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,6,An oxide of iodine (I = 127) contains 25.4 g of iodine and 8 g of oxygen. Its formula could be,I~2*O~3*,I~2*O,I~2*O~5*,I~2*O~9*,,c,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,7,"The atomic mass of the lead is 208 u and its atomic number is 82, the atomic mass of bismuth is 209 u and its atomic number is 83. The ratio of the neutrons/protons.",is higher in lead than bismuth,is lower in lead than bismuth,is equal in both lead and bismuth,does not depend on the above data,,a,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,8,Match the column I with column II and choose the correct option.,a,b,c,d,CH-8-8-ROW-584,a,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,9,"Consider the following experimental set-up.
+The conclusions obtained from the above experiment are 
+I. particles of matter are continuously moving in a fixed direction.
+II. matter is made up of tiny particles.
+III. particles of salt occupy the spaces present in between the particles of water.
+The correct statements are",I and II only,II and III,I and III,All of these,,b,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,10,The element which becomes liquid at a temperature slightly above the room temperature is,caesium,silicon,iodine,sodium.,,a,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,11,Which of the following have the same number of valence electrons?,"N, Li, Na, C","He, Mg, Be, Ca","B, Al, N, P","0, S, Se, Rb",,b,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,12,"How many moles of electrons weigh one kilogram?
+[Mass of electron = 9.108 x 10^-31& kg;
+Avogadro's number = 6.022 x 10^23&]",a,b,c,d,CH-8-12-ROW-588,a,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,13,"At temperature T~1*, the particles of substance X vibrate in fixed positions.
+At temperature T~2*, the particles move about freely but are still close to one another.
+Which change of state has taken place from T~1* to T~2*",Boiling,Condensation,Freezing,Melting,,d,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,14,"State which of the following is not a property of an element?
+I.  On heating gives off a gas and leaves a residue.
+II. Burns in air to form carbon dioxide and water. 
+III. Changes into solid at 273 K and to a gas at 373 K.",I,II and ,I and III,"I, II, III",,d,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,15,"The reaction given below shows as atom of element X being changed into an ion :
+Consider the following statements.
+I.  One electron is lost.
+II.  The ion is cation.
+III. The ion is smaller than the atom.
+Identify the correct option.",I Only,I and II Only,II and III only,"I, II and III",CH-8-15-ROW-591,d,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,16,"The diagrams show the arrangement of particles of a substance at temperatures 20^0&C and 40^0&C.
+What are the likely melting and boiling points of the substance?",A,B,C,D,CH-8-16-ROW-592,a,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,17,Which of the following is not a colloid?,Sugar syrup,Fog,Milk,Cheese,,a,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,18,"The table given shows the numbers of protons,neutrons and electrons in four ions. For which ion is the data correct?",A,B,C,D,CH-8-18-ROW-594,c,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,19,The weight of a molecule of the compound C~60*H~122* is,1.4 x 10^-21& g,1.09 x 10^-21& g,5.025 x 10^23& g,16.023 x 10^23& g,,a,,MCQ
+8,Practice Papers,,Footsteps towards JEE Main,20,Distillation involves all the following processes except,change of state,boiling,condensation,evaporation,,d,,MCQ

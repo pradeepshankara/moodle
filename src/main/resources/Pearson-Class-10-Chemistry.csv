@@ -1,0 +1,679 @@
+Chapter Number,ChapterName,SubChapterName,Classification,QuestionNumber,QuestionText,Option1,Option2,Option3,Option4,Image?,Answer,AnswerDescription,QuestionType
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,1,"Doubling the pressure of a gas at constant temperature, doubles the volume occupied by the gas.",,,,,,0,,TF
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,2,"When a 200 mL gas, in a closed vessel, is heated to 50^0&C from 25^0&C, the volume becomes doubled.",,,,,,0,,TF
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,3,The rate of diffusion of methane is double the rate of diffusion of sulphur dioxide gas.,,,,,,1,,TF
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,4,1 g atom of nitrogen contains 6.023 × 10^23& atoms of nitrogen.,,,,,,1,,TF
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,5,"Gay-Lussac’s law of combining volumes is applicable to the reaction, 2C + O~2* → 2CO~2*.",,,,,,0,,TF
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,6,Gases show deviations from ideal behaviour at high temperature and high pressure.,,,,,,0,,TF
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,7,"The greater the critical temperature of a gas, the easier is the liquefaction of the gas.",,,,,,1,,TF
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,8,The ratio of the volumes of 11 g of CO~2* and 28 g of CO at STP is __________.,1 : 5,2 : 3,1 : 3,1 : 4,,D,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,9,The number of oxygen molecules required for the complete combustion of 5 moles of methane is __________.,6.0 x 10^24& molecules,6.023 x 10^-24& molecules,6.023 x 10^24& molecules,6.022 x 10^24& molecules,,C,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,10,"The volume of CO~2* liberated at STP is _________ L, on thermal decomposition of 84 g of sodium bicarbonate.",,,,,,11.2,,FIB
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,11,‘ous’ acid of a non-metal ‘X’ has 2 ‘O’ atoms. Per acid of the same non-metal has the formula _______.,HXO~4*,HXO~2*,HXO~3*,None of these,,A,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,12,The ratio of the gram atomic weight of nitrogen and oxygen is __________.,7 : 9,7 : 11,7 : 8,7 : 10,,C,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,13,Pressure exerted by water vapour in moist gas is called _____.,,,,,,Aqueous tension,,FIB
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,14,Mole fraction of NaOH in an aqueous solution is 0.3. Mole fraction of water is _________.,,,,,,0.7,,FIB
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,15,Match the entries given in Column A with appropriate ones in Column B.,"A:e, B:b, C:a, D:c, E:d, F:f","A:e, B:b, C:d, D:a, E:c, F:f","A:e, B:b, C:a, D:d, E:f, F:c","A:e, B:b, C:a, D:d, E:c, F:f",CH-1-15-ROW-16,D,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,16,"The number of oxygen atoms present in 2 moles of a compound, which consists of a bivalent metal and a perchlorate ion is",4 N,6 N,8 N,16 N,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,17,"When one mole each of CO and O~2* are made to react at STP, the total number of moles at the end of the reaction is",1.5 moles,1 mole,4 moles,2 moles,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,18,"When 180 g of glucose is subjected to combustion, the volume of CO~2* liberated at STP is",22.4 L,67.2 L,44 L,134.4 L,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,19,"20 cc of a hydrocarbon, on complete combustion, gave 80 cc of CO~2* and 100 cc of H~2*O at STP.
+The empirical formula of that compound is",C~2*H~5*,C~2*H~6*,C~3*H~8*,C~4*H~10*,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,20,How many molecules would be there in 0.01 moles of sodium hydroxide?,6.023 x 10^23&,6.023 x 10^21&,6.023 x 10^22&,6.023 x 10^20&,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,21,44 g of CO~2* contains,2 moles of oxygen atoms,1 mole of oxygen atoms,1.5 moles of oxygen atoms,2 moles of oxygen molecules,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,22,0.1225 g of potassium chlorate decomposes completely. Write the possible chemical equation and the amount of oxygen liberated.,"4KClO~3* → 4KCl + 6O~2*, 0.048 g","4KClO~3* → 4KCl + 5O~2*, 0.048 g","2KClO~3* → 2KCl + 3O~2*, 0.048 g","2KClO~3* → 2KCl + 3O~2*, 0.048 g",,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,23,The ratio by mass of sulphur and oxygen in SO~2* is,1 : 2,2 : 1,1 : 1,1 : 4,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,24,"Critical temperatures of the gases A, B, C and D are",5.2 K,33.2 K,126.3 K,191.1 K,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,25,Which of the following pairs of gases corresponds to the ratio of the rates of diffusion as Ö2 : 1?,H~2* and He,He and CH~4*,H~2* and CH~4*,CH~4* and SO~2*,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,26,"When ammonia gas is subjected to sudden expansion from a region of high pressure into a region of low pressure, which of the following changes is expected to take place?",decrease in kinetic energy and potential energy,conversion of kinetic energy to potential energy,conversion of potential energy to kinetic energy,increase in kinetic energy and potential energy,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,27,Dalton’s law of partial pressures cannot hold good for,NO~2* + O~2*,H~2* + Cl~2*,CO~2* + O~2*,NH~3* + He,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,28,"A 600 mL vessel containing oxygen at 800 mm anda 400 mL vessel  containing nitrogen at 600 mm, at the same temperature, are joined to each other. The final pressure of the mixture is",1400 mm,1000 mm,720 mm,700 mm,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,29,"It is found that with an increase in temperature by 40%, the volume decreases by 20% with change in pressure. Find the percentage change in pressure.",40% decrease,60% decrease,75% increase,80% increase,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,30,23 g of NO~2* contains same number of molecules as,8 g of oxygen,28 g of carbon monoxide,16 g of SO~2*,22 g of SO~2*,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,31,Which of the following is in the correct order according to metal reactivity series?,Al < Fe < Na< Ca,Fe < Ca< Al < Na,Fe< Al< Ca< Na,Na < Ca< Al< Fe,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,32,"Arrange the following compounds in the correct order of percentage of metallic element.
+(a) potassium hydroxide
+(b) potassium carbonate
+(c) potassium bicarbonate
+(d) potassium sulphide",a > b > c > d,b > a > c> d,c > b > a > d,d > a > b > c,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,33,"Empirical formula of a compound is A~2*B~4*. If its empirical formula weight is half of its vapour density, determine the molecular formula of the compound.",A~4*B~8*,A~8*B~16*,A~2*B~4*,A~3*B~6*,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,34,"The number of oxygen atoms present in 2 moles of a compound, which consists of a bivalent metal and a perchlorate ion is",4 N,6 N,8 N,16 N,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,35,"KMnO~4* + H~2*SO~4* + FeSO~4* → K~2*SO~4* + MnSO~4* + Fe~2* (SO~4*)~3* + H~2*O
+Coefficients of sulphuric acid and ferric sulphate in the balanced equation of above reaction are ___ and ____, respectively","8, 4","5, 8","4, 3","8, 5",,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,36,"A certain mass of a gas occupies a volume of 600 mL at a certain temperature and pressure. If the temperature is increased by 80% what will be the volume occupied by the same mass of gas at the
+same pressure?",1080 mL,108 mL,120 mL,102mL,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,37,"The weight of an empty china dish is 39 g and when a saturated solution of potassium nitrate is poured into it, its weight is 108 g at 50^0&C. After evaporating the solution to dryness, if the weight of the dish along with the crystals is 72 g then the solubility of potassium nitrate at 50^0&C is _____.",83.9,95.6,91.6,87.4,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,38,"If 15 mg of N~2*O~3* is added to 4.82 × 1020 molecules of N~2*O~3*, the total volume occupied by the gas at STP is",0.044 L,0.022 L,0.22 L,0.44 L,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,39,"In a 2.5 L flask at 27^0&C temperature, the pressure of a gas was found to be 8 atm. If 2.41 × 10^23& molecules of the same gas are introduced into the container, the temperature changed to T~2*. The pressure of gas is found to be 10 atm. Find out the value of T~2*.",253 K,347 K,230 K,370 K,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,40,"A certain mass of a gas occupies a volume of 600 mL at a certain temperature and pressure. If pressure is decreased by 40% what will be the volume occupied by the same mass of the gas at the same
+temperature?",240 mL,1000 mL,300 mL,120 mL,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,41,Calculate the molarity of a solution obtained by mixing 250 mL of 0.5 M HCl with 750 mL of 2 M HCl.,1.8,2.0,1.6,0.8,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,42,40% w/W Ca(OH)2 solution has a molarity of 7.8 M. Calculate the density of the solution.,1.03 g/cc,1.04 g/cc,1.54 g/cc,1.44 g/cc,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,43,Which one of the following is different from the others with respect to valency?,potassium,ammonium,barium,lithium,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,44,Plumbous ion is represented as,Pb^+2&,Pb^+4&,Pb^+3&,Pb^+1&,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",Concept Application Level-1,,45,0.5 moles of a salt contains ‘3N’ oxygen atoms. Identify the formula of the salt.,MXO~3*,MX~2*O~3*,M~2*XO~3*,M(XO~3*)~2*,,d,,MCQ
+2,Atomic Structure,Concept Application Level-1,,1,The dual nature of electron was given by Sommerfeld.,,,,,,0,,TF
+2,Atomic Structure,Concept Application Level-1,,2,"Among 4p, 4s, 3p and 3d orbitals, 3d orbital has the least energy.",,,,,,0,,TF
+2,Atomic Structure,Concept Application Level-1,,3,Azimuthal quantum number indicates the angular momentum of an electron.,,,,,,1,,TF
+2,Atomic Structure,Concept Application Level-1,,4,Any two electrons in an atom can have maximum of three quantum numbers same.,,,,,,1,,TF
+2,Atomic Structure,Concept Application Level-1,,5,Pairing of electrons in degenerate orbitals takes place only when the degenerate orbitals are filled with one electron each.,,,,,,1,,TF
+2,Atomic Structure,Concept Application Level-1,,6,Bohr’s theory can explain the spectra of multielectron species.,,,,,,0,,TF
+2,Atomic Structure,Concept Application Level-1,,7,"In iron, the differentiating electron enters into the orbital of a penultimate shell.",,,,,,1,,TF
+2,Atomic Structure,Concept Application Level-1,,8,"For a given value of ‘ℓ,’ the total number of ‘m’ values is _________.",2l + 2,2l + 3,2l + 1,2l + 5,,C,,MCQ
+2,Atomic Structure,Concept Application Level-1,,9,If the azimuthal quantum number of an electron is 2 then the shape of orbital is _______.,,,,,,double dumbbell,,FIB
+2,Atomic Structure,Concept Application Level-1,,10,The value of Planck’s constant is ______.,6.62 x 10^-27& egg s or 6.62 x 10^-34& J,6.627 x 10^-28& egg s or 6.627 x 10^-34& J,6.627 x 10^-27& egg s or 6.62 x 10^-34& J,6.627 x 10^-27& egg s or 6.627 x 10^-34& J,,D,,MCQ
+2,Atomic Structure,Concept Application Level-1,,11,The ratio of energy to frequency of electromagnetic radiation is equal to _________.,,,,,,Planck's constant,,FIB
+2,Atomic Structure,Concept Application Level-1,,12,"The minimum angular momentum of an electron with the magnetic quantum numbers –1, 0, +1 is ________.",h/2π,2h/π,h/π,h,,C,,MCQ
+2,Atomic Structure,Concept Application Level-1,,13,Bohr’s model introduced the concept of quantisation of Angular momentum and energy.,,,,,,1,,TF
+2,Atomic Structure,Concept Application Level-1,,14,The ratio of the energies of two different radiations whose frequencies are 3 × 10^14& Hz and 5 × 10^14& Hz is _________.,,,,,,3.5,,FIB
+2,Atomic Structure,Concept Application Level-1,,15,Match the entries given in Column A with appropriate ones from Column B.,"A:b, B:a, C:e, D:d, E:c","A:b, B:a, C:c, D:e, E:d","A:b, B:a, C:e, D:c, E:d","A:a, B:b, C:e, D:c, E:d",CH-2-15-ROW-61,C,,MCQ
+2,Atomic Structure,Concept Application Level-1,,16,The Bohr’s model could successfully explain,the stability of the atom,the atomic spectra of hydrogen atom,the calculation of energy of the electron in a particular orbit of hydrogen atom,all the above,,d,,MCQ
+2,Atomic Structure,Concept Application Level-1,,17,"Among the following, the orbital that has the lowest energy is",5f,4f,6s,6p,,c,,MCQ
+2,Atomic Structure,Concept Application Level-1,,18,"What is the maximum number of electrons, present in an orbit whose angular momentum is 2h/π?",18,2,32,8,,c,,MCQ
+2,Atomic Structure,Concept Application Level-1,,19,‘The simultaneous location of both the position and the velocity of an electron in motion cannot be found with desired accuracy.’ This was proposed by,Bohr,Heisenberg,Sommerfeld,de Broglie,,b,,MCQ
+2,Atomic Structure,Concept Application Level-1,,20,Which of the following sets of quantum numbers represent electron in hydrogen atom?,"1, 1, 0, + 1/2","1, 0, 0, + 1/2","3, 0, 0 - 1/2","4, 2, 1 - 1/2",,b,,MCQ
+2,Atomic Structure,Concept Application Level-1,,21,The electronic configuration of chromium is,[Ar] 3d^5& 4s^1&,3d^5& 4s^1&,[Ar] 3d^4& 4s^2&,3d^4& 4s^2&,,a,,MCQ
+2,Atomic Structure,Concept Application Level-1,,22,The electronic configuration in which Pauli’s exclusion principle or Hund’s rule is not violated is,a,b,c,d,CH-2-22-ROW-68,b,,MCQ
+2,Atomic Structure,Concept Application Level-1,,23,"In the following pairs, identify the pair having a different (n + ℓ ) value:","4s, 3p","3d, 4p","4s, 3d","4d, 5p",,c,,MCQ
+2,Atomic Structure,Concept Application Level-1,,24,The maximum value of ℓ for n = 4 is,2,4,3,5,,c,,MCQ
+2,Atomic Structure,Concept Application Level-1,,25,The maximum number of electrons that can be accommodated in p-subshell is,2,4,6,10,,c,,MCQ
+2,Atomic Structure,Concept Application Level-1,,26,Which of the following sets of quantum numbers is correct for an electron in 3d orbital?,"3, 0, 0, + 1/2","3, 1, 1 - 1/2","3, 2, 1, + 1/2","3, 2, 3, + 1/2",,c,,MCQ
+2,Atomic Structure,Concept Application Level-1,,27,Probability of finding a dyz electron is zero along the,x-axis,y-axis,z-axis,all of these,,d,,MCQ
+2,Atomic Structure,Concept Application Level-1,,28,Heisenberg’s uncertainty principle is not applicable to,all the bodies moving with high speed,protons,electrons,all the microparticles moving with high speed,,a,,MCQ
+2,Atomic Structure,Concept Application Level-1,,29,If 20 electrons are present in the 4th orbit then the atomic number of that element is,58,59,56,60,,b,,MCQ
+2,Atomic Structure,Concept Application Level-1,,30,Zeeman and Stark effects can be explained by ______ quantum number.,principal,azimuthal,magnetic,spin,,c,,MCQ
+2,Atomic Structure,Concept Application Level-1,,31,Discoveries of isotopes and isobars contradict some of the postulates of ______ atomic theory.,Bohr’s,Dalton’s,Rutherford’s,Thomson’s,,b,,MCQ
+2,Atomic Structure,Concept Application Level-1,,32,According to ______ atomic model positive charge is thinly spread throughout the atom.,Bohr’s,Dalton’s,Rutherford’s,Thomson’s,,d,,MCQ
+2,Atomic Structure,Concept Application Level-1,,33,Which of the following statements is false?,Bohr’s theory explains only the spectra of single electron species,The energy of an electron remains constant during electronic transition,The angular momentum of an electron is quantised,"According to Bohr’s theory, electrons revolve around the nucleus in circular orbits",,b,,MCQ
+2,Atomic Structure,Concept Application Level-1,,34,The difference in energy of radiation emitted (or) absorbed during electronic transition is,directly proportional to frequency,directly proportional to wavelength,inversely proportional to frequency,inversely proportional to velocity of light,,DUMMY,,MCQ
+2,Atomic Structure,Concept Application Level-1,,35,Which of the following statements regarding orbitals is false?,1s orbital has one nodal region,2s orbital is spherical with one nodal region,2px orbital is dumb bell with one nodal plane,3d orbital has two nodal planes,,a,,MCQ
+2,Atomic Structure,Concept Application Level-1,,36,Quantum theory of radiation was proposed by,Pauli,Planck,Hund,Aufbau,,b,,MCQ
+2,Atomic Structure,Concept Application Level-1,,37,"The azimuthal quantum number of an electron is zero, then the shape of its orbital will be",circular,spherical,elliptical,dumbbell,,b,,MCQ
+2,Atomic Structure,Concept Application Level-1,,38,The number of nodes of an s-orbital increases with,the increase in n value,the decrease in n value,the increase in l value,the decrease in l value,,a,,MCQ
+2,Atomic Structure,Concept Application Level-1,,39,"The statements given below are the postulates of various atomic models. Arrange them in their chronological order.
+(1) Fine structure is due to the presence of subshells in the main energy level
+(2) The size of an atom is much larger than the size of its nucleus
+(3) As long as the electron is present in a particular orbit, its energy remains constant
+(4) Negatively charged particles are uniformly spread in the lump of positive charge","4, 3, 2, 1","2, 3, 4, 1","4, 2, 3, 1","3, 4, 2, 1",,c,,MCQ
+2,Atomic Structure,Concept Application Level-1,,40,"(1) As long as an electron revolves in a particular orbit, the electron does not lose its energy.  Therefore, these orbits are called stationary orbits and the electrons are said to be in stationary energy states
+(2) Each orbit or shell is associated with a definite amount of energy. Hence, these are also called energy levels
+(3) An electron jumps from a lower energy level to a higher energy level, by absorbing energy.
+It jumps from a higher energy level to a lower energy level by emitting energy in the form of electromagnetic radiation
+(4) Electrons move around the nucleus in specified circular paths called orbits or shells or energy levels and are designated as K, L, M and N shells respectively
+Arrange the above postulates of Bohr’s theory in a correct sequence.","4, 1, 3, 2","4, 2, 1, 3","4, 1, 2, 3","2, 4, 1, 3",,b,,MCQ
+2,Atomic Structure,Concept Application Level-1,,41,"(1) The probability of finding an electron is maximum at certain places in space
+(2) Energy change takes place only during excitation or deexcitation of electrons
+(3) Electron has both particle and wave nature
+(4) Angular momentum of the electrons revolving in different elliptical orbits is quantised
+","1, 2, 3, 4","2, 4, 3, 1","4, 3, 2, 1","2, 3, 1, 4",,b,,MCQ
+2,Atomic Structure,Concept Application Level-1,,42,Energy of an electron in a particular orbit of single electron species of beryllium is the same as the energy of an electron in the ground state of hydrogen atom. Identify the orbit of beryllium.,1,2,3,4,,d,,MCQ
+2,Atomic Structure,Concept Application Level-1,,43,The difference between the angular momentum of two orbits of He^+2& is 2h/π. The energy of an electron present in the higher orbit is –1.51 eV. Identify the lower orbit.,1,2,3,4,,d,,MCQ
+2,Atomic Structure,Concept Application Level-1,,44,Velocity of the electron in electron microscope is 1.6 × 106 m/s. What would be the wavelength of the electron?,5.39 A,4.55 A,3.54 A,6.78 A,,b,,MCQ
+2,Atomic Structure,Concept Application Level-1,,45,"An atom of an element has nine electrons with l = 0 value, 18 electrons with l = 1 value and 10 electrons with l = 2 value. Calculate the atomic number of the element.",37,41,38,39,,a,,MCQ
+3,Periodic Table,Concept Application Level-1,,1,Modern periodic table is based on atomic number.,,,,,,1,,TF
+3,Periodic Table,Concept Application Level-1,,2,"In a period, the first element has the smallest size.",,,,,,0,,TF
+3,Periodic Table,Concept Application Level-1,,3,‘s’ and ‘p’ block elements except zero group are known as representative elements.,,,,,,1,,TF
+3,Periodic Table,Concept Application Level-1,,4,The inert gas present in the second long period is Xe.,,,,,,1,,TF
+3,Periodic Table,Concept Application Level-1,,5,"Among the isoelectronic ions Na^+&, Mg^2+& and Al^3+&, Na^+& ion have the largest size.",,,,,,0,,TF
+3,Periodic Table,Concept Application Level-1,,6,Alkali metals act as strong reducing agents by undergoing reduction.,,,,,,1,,TF
+3,Periodic Table,Concept Application Level-1,,7,Electronegativity is the property of an atom in a bonded molecule.,,,,,,1,,TF
+3,Periodic Table,Concept Application Level-1,,8,"In the periodic table, vertical columns of elements are called groups and horizontal rows of elements are called _____.",,,,,,periods,,FIB
+3,Periodic Table,Concept Application Level-1,,9,"In the long form of the periodic table, _______ group elements can release maximum amount of energy by the addition of electron into its valence shell.",VI,V,VII,IV,,C,,MCQ
+3,Periodic Table,Concept Application Level-1,,10,"The ascending order of the first ionisation potential of C, N, O and F is _____.","C, N, O, F","C, F, N, O","F, O, N, C","C, O, N, F",,D,,MCQ
+3,Periodic Table,Concept Application Level-1,,11,The total number of inner transition elements present in the 7th period are ________.,,,,,,14,,FIB
+3,Periodic Table,Concept Application Level-1,,12,"Amongst the species Br^−&, Br, Br^+&, the smallest one in size is _____.",Br^-&,Br,Br^+&,None of these,,C,,MCQ
+3,Periodic Table,Concept Application Level-1,,13,"In most of the lanthanides, the penultimate shell contains _________ electrons in ______orbitals.","2, s, p","8, s, p","8, s",None of these,,B,,MCQ
+3,Periodic Table,Concept Application Level-1,,14,Metals exhibit _____ oxidation states in their compounds.,,,,,,Positive,,FIB
+3,Periodic Table,Concept Application Level-1,,15,Match the entries in Column A with the appropriate ones in Column B.,"A:d, B:f, C:g, D:e, E:c, F:b, G:h, H:a","A:d, B:f, C:g, D:c, E:e, F:b, G:a, H:h","A:d, B:g, C:f, D:e, E:c, F:b, G:a, H:h","A:d, B:f, C:g, D:e, E:c, F:b, G:a, H:h",CH-3-15-ROW-106,D,,MCQ
+3,Periodic Table,Concept Application Level-1,,16,"Assertion (A) : First ionisation energy of beryllium is greater than that of boron.
+Reason (R) : Boron has larger size than beryllium.",Both A and R are true and R is the correct explanation of A,Both A and R are true and R is not the correct explanation of A,"A is true, R is false","A is false, R is true",,b,,MCQ
+3,Periodic Table,Concept Application Level-1,,17,Which of the following properties is a periodic property?,Colour ,Melting point,Refractive index,Atomic size,,d,,MCQ
+3,Periodic Table,Concept Application Level-1,,18,Which one of the following electronic configurations corresponds to the most electropositive character?,[He]2s^1&,[Ne]3s^1&,[Ar]4s^1&,[Xe]6s^1&,,d,,MCQ
+3,Periodic Table,Concept Application Level-1,,19,The general electronic configuration of representative elements is,ns^1-2& np^1-6&,ns^1-2& np^1-5&,ns^1-2& (n-1)p^1-5&,ns^1-2& (n-1)p^1-6&,,c,,MCQ
+3,Periodic Table,Concept Application Level-1,,20,"Predict the formula of a compound formed between a metal ‘M’ that has 1st, 2nd, 3rd IP values as 518, 7314, 9820 kJ/mol, respectively and a halogen ‘X.’",MX~2*,M~2&X~3*,MX~3*,MX,,d,,MCQ
+3,Periodic Table,Concept Application Level-1,,21,"In a period, from the left to right the electron affinity increases, but alkaline earth metals have lower electron affinity than alkali metals because",alkaline earth metals have lesser atomic radius than alkali metals.,alkaline earth have higher electronegativity than alkali metals.,alkaline earth metals have completely filled ‘s-’ orbitals.,alkaline earth metals have lesser electronegativity than alkali metals.,,c,,MCQ
+3,Periodic Table,Concept Application Level-1,,22,5f series elements are known as,lanthanides,representative elements,transition elements,actinides,,d,,MCQ
+3,Periodic Table,Concept Application Level-1,,23,"The first ionisation energies of Li, Be, B and C are in the order:",Li > Be < B < C,Li < Be > B < C,Li > Be > B > C,Li < Be > B > C,,b,,MCQ
+3,Periodic Table,Concept Application Level-1,,24,Predict the powerful oxidizing agent in the 3rd period:,sulphur,sodium,chlorine,bromine,,c,,MCQ
+3,Periodic Table,Concept Application Level-1,,25,An element with atomic number ‘32’ belongs to,"4th period, VIA group","3rd period, IVA group","4th period, IVA group","5th period, VA group",,c,,MCQ
+3,Periodic Table,Concept Application Level-1,,26,The element having the electronic configuration [Kr] 4d^10& 4f^14& 5s^2& 5p^6& 5d^2& 6s^2& belongs to,s-block,p-block,d-block,f-block,,c,,MCQ
+3,Periodic Table,Concept Application Level-1,,27,The number of valence electrons that can be present in the second element of any period is,1,2,5,7,,b,,MCQ
+3,Periodic Table,Concept Application Level-1,,28,Transition metals can exhibit variable valency. It is because of,the smaller atomic radius,the high screening effect,the very less energy difference between (n−1) d-subshell and ns-subshell,the high nuclear charge,,c,,MCQ
+3,Periodic Table,Concept Application Level-1,,29,"Arrange O, F, Cl and N in the descending order of their electronegativity:",O > F > Cl > N,F > O > Cl > N,F > N > O > Cl,Cl > Fl >O > N,,b,,MCQ
+3,Periodic Table,Concept Application Level-1,,30,"In the sixth period, the orbitals that are completely filled are","6s, 6p, 5d, 5f","6s, 6p, 6d, 6f","6s, 5f, 6d, 6p","6s, 4f, 5d, 6p",,d,,MCQ
+3,Periodic Table,Concept Application Level-1,,31,"Which of the following sequence of explanation is appropriate for explaining the reason for the periodicity of reducing property in a period or group?
+(1) Tendency to undergo oxidation decreases in a period and increases in a group.
+(2) In a period ionisation energy increases and in a group it decreases.
+(3) In a period the atomic size decreases and in a group it increases.
+(4) The elements present in the left side of the periodic table have strong reducing property.",3 2 1 4,3 4 2 1,4 3 1 2,4 2 1 3,,a,,MCQ
+3,Periodic Table,Concept Application Level-1,,32,Which of the following triads does not follow Dobereiner’s law of triads?,"Li, Na, K","Ca, Sr, Ba","Be, Mg, Ca","Cu, Ag, Au",,d,,MCQ
+3,Periodic Table,Concept Application Level-1,,33,"X belongs to IA or 1st group and 5th period and Y succeeds X in the group. Z succeeds Y in the period. Arrange the following statements in the correct sequence in order to arrange X, Y and Z in the increasing order of their atomic sizes.
+(1) Effect of number of valence electrons and number of shells on the atomic size.
+(2) Identification of the elements X, Y and Z.
+(3) Determination of the number of shells and the number of valence electrons present in X, Y and Z.
+(4) Determination of the positions of Y and Z in the periodic table based on the position of X.",4 2 3 1,2 4 3 1,3 1 4,4 3 1,,a,,MCQ
+3,Periodic Table,Concept Application Level-1,,34,Which among the following is not an anomalous pair in Mendeleev ’s periodic table?,"Co, Ni","Te, I","Ar, K","Sc, Ga",,d,,MCQ
+3,Periodic Table,Concept Application Level-1,,35,"The energy released when an electron is added to the valence shell of a neutral, gaseous, isolated atom is called _________",electronegativity,ionisation potential,electron affinity,lattice energy,,c,,MCQ
+3,Periodic Table,Concept Application Level-1,,36,Which one of the following electronic configuration corresponds to the element with maximum electropositive character?,[Kr]5s^1&,[Ne]3s^1&,[Ar]4s^1&,[Xe]6s^1&,,d,,MCQ
+3,Periodic Table,Concept Application Level-1,,37,Which of the following elements has maximum electronegativity?,P,S,Al,Si,,b,,MCQ
+3,Periodic Table,Concept Application Level-1,,38,Which of the following elements acts as the best reducing agent?,Na,Cl,Mg,F,,a,,MCQ
+3,Periodic Table,Concept Application Level-1,,39,The elements present in d-block are,metals and non-metals,only metals,only non-metals,"metals, metalloids and non-metals",,b,,MCQ
+3,Periodic Table,Concept Application Level-1,,40,The total number of elements present in the 6th period is,18,31,32,17,,c,,MCQ
+3,Periodic Table,Concept Application Level-1,,41,An element with atomic number ‘32’ belongs to,"4th period, VIA group or 16th group","3rd period, IVA group or 14th group","4th period, IVA group or 14th group","5th period, VA group or 15th group",,c,,MCQ
+3,Periodic Table,Concept Application Level-1,,42,The formulae of oxides formed when barium burns in presence of oxygen are,"Ba~2*O, BaO","BaO, BaO~2*","BaO, Ba~2*O~2*","Ba~2*O, BaO~2*",,d,,MCQ
+3,Periodic Table,Concept Application Level-1,,43,"If the consecutive ionisation energies of an element A are 496, 4564, 6918, 9542 kJ/mole respectively, the formula of the oxide formed by A is",A~2*O~3*,AO,AO~2*,A~2*O,,d,,MCQ
+3,Periodic Table,Concept Application Level-1,,44,The numerical value of ionisation energy of a unipositive ion is approximately equal to,IP value of neutral atom,EA value of neutral atom,IP value of dipositive ion,EA value of dipositive ion,,d,,MCQ
+3,Periodic Table,Concept Application Level-1,,45,"Which of the following sets of atomic numbers corresponds to elements belonging to s-, d-, f-,p-blocks respectively?","35, 37, 29, 70","35, 29, 70, 37","37, 29, 70, 35","37, 29, 35, 70",,c,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,1,Ionic compounds are soluble in organic solvents.,,,,,,0,,TF
+4,Chemical Bonding,Concept Application Level-1,,2,All covalent compounds possess co-ordinate covalent bonds,,,,,,0,,TF
+4,Chemical Bonding,Concept Application Level-1,,3,BF~3* does not obey the octet rule.,,,,,,1,,TF
+4,Chemical Bonding,Concept Application Level-1,,4,The bond angle in ammonia is 109^0&28´.,,,,,,0,,TF
+4,Chemical Bonding,Concept Application Level-1,,5,A sigma (σ) bond is stronger than a pi (π) bond.,,,,,,1,,TF
+4,Chemical Bonding,Concept Application Level-1,,6,The hydrogen bond is always formed between the molecules of the same substance.,,,,,,0,,TF
+4,Chemical Bonding,Concept Application Level-1,,7,Covalent bonds are non-directional bonds.,,,,,,0,,TF
+4,Chemical Bonding,Concept Application Level-1,,8,"In CaF~2*, the number of electron(s) transferred from calcium to fluorine atoms is ______.",,,,,,2,,FIB
+4,Chemical Bonding,Concept Application Level-1,,9,The bond formed by end on overlap is ______ than the bond formed by side on overlap.,,,,,,stronger,,FIB
+4,Chemical Bonding,Concept Application Level-1,,10,Linear overlapping of any two pure atomic p-orbitals lead to ________ bond formation.,,,,,,sigma,,FIB
+4,Chemical Bonding,Concept Application Level-1,,11,Cl–C–Cl bond angle in CCl~4* is _____.,109^0&28',119^0&28',108^0&28',None of these,,A,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,12,Among the hydrogen halides _____ has maximum ionic character.,,,,,,HF,,FIB
+4,Chemical Bonding,Concept Application Level-1,,13,The shape of BeCl~2* molecule is ______.,,,,,,linear,,FIB
+4,Chemical Bonding,Concept Application Level-1,,14,"In ammonia–boron trifluoride complex, the donor molecule is ______.",,,,,,ammonia,,FIB
+4,Chemical Bonding,Concept Application Level-1,,15,Match the entries given in Column A with appropriate ones from Column B.,"A:e, B:g, C:b, D:c, E:d, F:a, G:f","A:e, B:g, C:b, D:c, E:f, F:d, G:a","A:e, B:g, C:b, D:c, E:a, F:d, G:f","A:g, B:e, C:b, D:c, E:a, F:d, G:f",CH-4-15-ROW-151,C,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,16,Expanded octet occurs in,NH~3*,PF~5*,H~2*O,O~2*,,b,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,17,The lesser covalency of FeCl~2* over FeCl~3* is due to,lower polarizing power of Fe^+2& than that of Fe^+3& ion,lower polarizing power of Fe^+3& than that of Fe^+2&,higher polarizability of Fe^+3& than Fe^+2&,higher polarizability of Fe^+2& than Fe^+3&,,a,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,18,An element X has low ionisation energy and another element Y has high electron affinity. The bond formed between them could be,ionic,polar covalent,co-ordinate covalent,non-polar covalent,,a,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,19,Which of the following statements regarding pi bond is not true?,It may be formed by the overlapping of p-atomic orbitals.,It has no independent existence.,It is weaker bond compared to σ bond.,It can be formed by hybrid orbitals.,,d,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,20,"Arrange the following in increasing order of their bond lengths.
+C–C, C=C, C≡C",C≡C < C=C < C–C,C=C < C–C < C≡C,C≡C < C–C < C=C,C–C < C=C < C≡C,,a,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,21,Which of the following statements is wrong?,KCl is soluble in water.,HCl conducts electricity in its aqueous solution,Acetic acid is soluble in water.,"The bond formed between aluminum and
+fluorine is covalent.",,d,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,22,NH^+&~4* is isostructural with,PCl~3*,CH~4*,BF~3*,NO~3*^-&,,b,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,23,"In water molecule, the bond angle of 104.5^0& around oxygen is accounted due to",high electron affinity of oxygen.,very high repulsions between lone pair and bond pair of electrons.,very high repulsion between lone pair and lone pair electrons,small size of hydrogen,,c,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,24,Which of the following bonds is more polar when compared to others?,O-H,N-H,C-H,H-H,,a,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,25,The number of sigma and pi bonds in benzene are,6σ and 3π bonds,12σ and 3π bonds,9σ and 3π bonds,6σ and 6π bonds,,b,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,26,Which among the following pairs of molecules possess same geometry?,"BeCl~2*, SiO~2*","CO~2*, SiO~2*","BF~3*, PCl~3*","F~2*O, H~2*S",,d,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,27,The number of σ and π bonds in C~2*H~2* is ________.,0 and 4,2 and 2,3 and 2,4 and 2,,c,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,28,A species H~3*O^+& pyramidal in shape. The number of lone pairs of electrons is,0,1,2,3,,b,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,29,The shape of H~2*O molecule is ________.,Linear,tetrahedral,v-shaped,trigonal planar,,c,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,30,The covalency of ‘N’ in NH~4*^+& ion is equal to number of,covalent bonds.,co-ordinate bonds.,covalent bonds and co-ordinate bonds.,valence electrons.,,c,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,31,"Two substances X and Y are dissolved in water under suitable conditions. X is a gas while Y is a solid under normal conditions. Solution of Y is found to conduct electricity but not ‘X.’ Based on
+the conclusion identify the nature of bond present in X and Y with appropriate reasons as given below.
+Arrange the steps given below in a sequence.
+(1) Y is a solid at room temperature and its aqueous solution conducts electricity. This shows that it is an ionic compound.
+(2) X on dissolution in water does not conduct electricity and is a gas at room temperature. Hence it should be a non-polar covalent molecule.
+(3) Aqueous solutions of both ionic compounds and polar covalent compounds conduct electricity because of the presence of free ions.
+(4) All ionic compounds are solids and most of the non-polar covalent molecules are gases or solids at room temperature. Polar covalent compounds are liquids or gases.",3 4 2 1,1 4 3 2,1 3 2 4,3 1 2 4,,A,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,32,"The formation of double bond in an oxygen molecule is explained below. Arrange the given points in a sequential order.
+(1) 2p~y* orbitals of each oxygen atom overlap laterally/sidewise to form a pi bond.
+(2) Thus, double bond between two oxygen atoms in which one p~z*–p~z* sigma bond and p~y*–p~y* p~i* bond is formed.
+(3) All the three 2p orbitals are perpendicular to each other. Hence, 2p~z* orbitals of each oxygen atom overlap end to end to form a sigma bond.
+(4) The electronic configuration of oxygen is O: 1s^2&2^2&~s*2p^2&^1&~x*2p^2&~y*2p^1&~x*",3 1 4 2,4 3 1 2,3 4 2 1,3 4 1 2,,B,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,33,"The necessary steps required to show the formation of CCl~4* by Lewis electron dot diagram have been jumbled. Arrange them in a sequence.
+",1 3 2 4,2 1 3 4,4 3 2 1,3 2 4 1,CH-4-33-ROW-169,C,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,34,Which among the following substances does not conduct electricity in its aqueous solution state?,glucose,alcohol,hydrochloric acid,common salt,,A,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,35,The ease of formation of which of following chlorides is maximum?,NaCl,KCl,RbCl,CsCl,,D,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,36,"During the formation of sodium chloride from its constituents,",Na undergoes oxidation and acts as an oxidizing agent.,Na undergoes reduction and Cl undergoes oxidation.,Cl undergoes reduction and acts as a reducing agent.,Na acts as a reducing agent and Cl acts as an oxidizing agent.,,D,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,37,"The valence electronic configurations of two elements are 4s^1& and 3s^2& 3p^5&, respectively. The type of bond expected to be present between them is",polar covalent bond,non-polar covalent bond,metallic bond,ionic bond,,D,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,38,The angular shape of water molecule is due to,high electron affinity of oxygen,very high repulsions between lone pair and bond pair of electrons,very high repulsion between lone pair and lone pair electrons,small size of hydrogen,,C,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,39,"The element that has the strongest metallic bond among ~11*A^23*, ~12*B^24&, ~13*C^27& and ~19*D^39& is _______.",A,B,C,D,,C,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,40,Identify the compound that exhibits maximum ionic character among the following:,MgCl~2*,BaCl~2*,NaCl,CsCl,,D,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,41,Identify the favourable conditions for the formation of ionic bond:,"low IP value of metal, low EA value of non-metal","high IP value of metal, high EA value of non-metal","low IP value of metal, high EA value of non-metal","high IP value of metal, low IP value of non-metal",,C,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,42,"Among the following molecules, p–p overlap takes place in",H~2* and He,BeCl~2*,F~2*,HF,,C,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,43,Among the following molecules H-bond is present in,NH~3*,PH~3*,H~2*S,CH~4*,,A,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,44,The covalency of oxygen in hydronium ion is equal to number of,covalent bonds,co-ordinate bonds,covalent bonds and co-ordinate bonds,valence electrons,,C,,MCQ
+4,Chemical Bonding,Concept Application Level-1,,45,A solid compound ‘A’ consists of simple ions. Choose corresponding answers from the choices given below. Nature of the bond present in A will be,ionic,covalent,molecular,hydrogen bond,,A,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,1,Formation of co-ordinate covalent bond between NH~3* and BF~3* is an example of neutralisation reaction according to Bronsted theory,,,,,,0,,TF
+5,"Acids, Bases and Salts",Concept Application Level-1,,2,A di-acidic base has one replaceable hydroxide ion.,,,,,,0,,TF
+5,"Acids, Bases and Salts",Concept Application Level-1,,3,"For a dibasic acid, normality is twice the molarity for a given solution.",,,,,,1,,TF
+5,"Acids, Bases and Salts",Concept Application Level-1,,4,S^−2& is the conjugate base of HS^−&.,,,,,,1,,TF
+5,"Acids, Bases and Salts",Concept Application Level-1,,5,Methyl orange exhibits yellow colour in basic medium,,,,,,0,,TF
+5,"Acids, Bases and Salts",Concept Application Level-1,,6,Curd is sour in taste due to the presence of an acidic substance,,,,,,1,,TF
+5,"Acids, Bases and Salts",Concept Application Level-1,,7,K~2*SO~4*.Al~2* (SO~4*)~3* 24H~2*O gives reactions of both K^+& and Al^+3& ions respectively.,,,,,,1,,TF
+5,"Acids, Bases and Salts",Concept Application Level-1,,8,Phenolphthalein is a/an_______ indicator.,,,,,,acidic,,FIB
+5,"Acids, Bases and Salts",Concept Application Level-1,,9,The salt obtained by partial neutralisation of sodium hydroxide and sulphuric acid is ________ in nature.,,,,,,acidic,,FIB
+5,"Acids, Bases and Salts",Concept Application Level-1,,10,Metallic oxides are either basic or _____ in nature.,,,,,,amphoteric,,FIB
+5,"Acids, Bases and Salts",Concept Application Level-1,,11,[H^+&] of nitric acid having a pH value of 6 is ____,0.000001 mol ion / L,0.00001 mol ion / L,0.0000001 mol ion / L,0.0011 mol ion / L,,C,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,12,The pH of aqueous solution of salt obtained by the reaction between NaOH and CH~3*COOH is greater than ____at 25^0&C.,,,,,,7,,FIB
+5,"Acids, Bases and Salts",Concept Application Level-1,,13,"A salt, X is prepared by the complete neutralisation of Cu(OH)~2* with H~2*SO~4*. The nature of X is
+__________",,,,,,Normal salt,,FIB
+5,"Acids, Bases and Salts",Concept Application Level-1,,14,The units of K~w* are __________.,mol.ion^2&/L^1&,mol.ion^1&/L^2&,ion^2&/L^2&,mol.ion^2&/L^2&,,D,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,15,Match the entries given in Column A with appropriate ones from Column B.,"A:b, B:a, C:c, D:d, E:f, F:e","A:b, B:a, C:d, D:c, E:e, F:f","A:b, B:d, C:a, D:c, E:f, F:e","A:b, B:a, C:d, D:c, E:f, F:e",CH-5-15-ROW-196,D,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,16,Which of the following is not a base according to any of the theories?,Mg(OH)~2*,NH~3*,H~2*PO^-&~4*,BF~3*,,d,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,17,"According to Lewis acid–base concept, which is a correct statement?",Species in which central atom has completed octet cannot act as acid.,All negatively charged ions are acids.,Molecule in which the central atom has vacant ‘d’ orbitals acts as acid.,All positively changed ions are bases.,,c,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,18,"At a certain temperature, K~w* was found to be 1 × 10^–10& mol^2&/L^2&. At this temperature, a solution is taken and red litmus is added to this solution. The solution turned to blue. pH range of the solution could be",between 5 to 7,between 7 to 10,less than 5,both 1 and 2,,d,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,19,Which of the following indicators is the best indicator for the detection of end point in the titration of CH~3*COOH and KOH?,methyl orange,phenolphthalein,methyl red,none of these,,b,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,20,"According to Lewis theory, neutralisation is the",transfer of proton from acid to base.,transfer of proton from base to acid.,transfer of electron pair from acid to base.,transfer of electron pair from base to acid.,,d,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,21,The indicator that shows colour changes in the entire pH range is,phenolphthalein,methyl orange,universal indicator,thymol blue,,c,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,22,Which of the following has the highest value of pH?,HCl,NaOH,Ca(OH)~2*,CH~3*COOH,,b,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,23,Heat of neutralisation is less than 13.7 kcal/mol for the reaction,HCl + NaOH → NaCl + H~2*O,H~2*SO~4* + 2NaOH → Na~2*SO~4* + 2H~2*O,HNO~3* + NaOH → NaNO~3* + H~2*O,CH~3&COOH + NaOH → CH~3&COONa + H~2&O,,a,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,24,Which among the following does not undergo hydrolysis?,Na~2*CO~3*,CH~3*COOH,CH~3*COONH~4*,K~2*SO~4*,,d,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,25,Which of the following acts as both Bronsted acid and Lewis acid?,Cu^+2&,SO~2*,Fe^+3&,NH^+&~4*,,d,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,26,Which among the following factors changes the value of ionic product of water?,change in temperature,addition of acid,addition of base,addition of either acid and base,,a,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,27,Which of the following solutions has the same concentration of H^+& ions as 0.1 N HCl?,0.1 N H~2*SO~4*,0.3 N H~3*SO~4*,0.2 N HNO~3*,all of these,,a,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,28,Which of the following cannot show acidic nature?,H~2*CO~3*,CaCO~3*,HCl,HSO~4*^-&,,b,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,29,The spectator ions in the hydrolysis of (NH~4*)~2*CO~3* are,"NH~4*^+&, H^+&, OH^-&","NH~4*^+&, CO^2-&~3*,H^+&, OH^-&","CO~3*^2-&, H^+&, OH^-&",No spectator ions,,d,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,30,Disodium potassium phosphate is a/an _____ salt.,acid,mixed,complex,double,,b,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,31,"V~1* mL of x molar hydrochloric acid is mixed with V~2* mL of y molar sodium hydroxide.
+Arrange the following steps in correct sequence for calculation of pH of the mixture. (y > x and V~1* > V~2*)
+(1) Calculation of the number of equivalents of acid and base.
+(2) Calculation of the total volume of mixture.
+(3) Calculation of the normality of acid and base.
+(4) Calculation of the net OH^–& ion concentration.
+(5) Taking the negative logarithm of H^+& ion concentration.
+(6 ) Dividing K~w* by OH^–& ion concentration.",1 3 2 6 4 5,3 1 2 4 5 6,3 1 2 6 4 5,1 2 3 4 5 6,,c,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,32,"A strongly acidic solution is taken and a base is slowly added to it drop by drop. Arrange the colours observed during the process of addition in proper sequence.
+(1) green               (2) indigo                   (3) orange               (4) red
+(5) blue                 (6) violet                    (7) yellow",3 4 1 7 2 5 6,4 3 7 1 5 2 6,4 3 1 7 5 2 6,3 4 7 1 6 2 5,,b,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,33,"A red litmus paper when dipped in an aqueous solution of potassium acetate turned blue. Arrange the following steps in proper sequence to explain the above observation.
+(1) identification of spectator ions.
+(2) identification of free ions that caused the colour change of the litmus paper.
+(3) identification of positive and negative radicals.
+(4) writing the net reaction taking place.
+(5) writing ionic equation for the reaction of positive and negative radicals with water.",3 5 1 4 2,3 1 5 4 2,5 1 4 3 2,5 3 1 4 2,,a,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,34,Identify the species that can give both conjugate acid and conjugate base.,NH^+&~4*,H~2*PO~4*^-&,PO~4*^-3&,H~2*O^+&,,b,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,35,The basicity of acetic acid is the same as the basicity of ______.,HNO~3*,H~2*SO~4*,H~3*PO~4*,H~2*CO~3*,,a,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,36,"Which of the following species cannot have conjugate
+base?",HSO^-&,HPO^-2&~4*,PO^-3&~4*,H~2*PO~-*^2&,,c,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,37,Which among the following pairs of acid and base are weak respectively?,HCOOH and NH~4*OH,HCl and NaOH,CH~3*COOH and KOH,HClO~4* and CsOH,,a,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,38,The pH of 0.001 N sodium hydroxide solution at 25^0&C is,3,4,11,12,,c,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,39,A solution turns methyl orange red. It can turn the universal indicator to ______,voilet,blue,orange,green,,c,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,40,Which of the following pH values at 25^0&C corresponds to the strongest acid?,2,4,6,8,,a,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,41,Which of the following during hydrolysis gives an acidic solution in water?,KNO~3*,NH~4*Cl,(NH~4*)~2*CO~3*,KCl,,b,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,42,X is formed by the partial replacement of hydroxyl groups of a diacidic base by an acidic radical. The number of ionizable hydroxyl groups in X is ______.,0,1,2,3,,c,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,43,"In the reaction between silver nitrate and sodium chloride, the spectator ion is ______.",Ag^+&,Cl^-&,NO^-&~3*,All of these,,c,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,44,Which among the following statements is false?,Every protonic acid has its conjugate acid.,Pair of Bronsted acid and base that differ by a proton is conjugate acid–base pair.,A substance that accepts an electron pair to form co-ordinate covalent bond is an acid.,Arrhenius theory is confined to aqueous solutions.,,a,,MCQ
+5,"Acids, Bases and Salts",Concept Application Level-1,,45,Which of the following salts can produce only two types of radicals?,NaKCO~3*,CaOCl~2*,NH~4*HSO~4*,Na(NH~4*)HPO~4*,,c,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,1,"If the rate with respect to O~2*, NO and NO~2* are, respectively
+
+then the corresponding chemical equation is 2NO + O~2* → 2NO~2*.",,,,,CH-6-1-ROW-227,1,,TF
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,2,The slope obtained by drawing a tangent at time ‘t’ on the curve for the concentration of reactants vs time is equal to instantaneous rate.,,,,,,1,,TF
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,3,"In an equilibrium, the catalyst increases the rate of the forward reaction while decreases the rate of the backward reaction.",,,,,,0,,TF
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,4,Threshold energy = Energy of normal molecules + Activation energy.,,,,,,1,,TF
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,5,An increase in pressure increases the rate of reaction due to the increase in the number of collisions among the molecules.,,,,,,1,,TF
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,6,"In the reaction: NO~2* + CO  ⇄  NO + CO~2*, the equilibrium state may be recognised by the constancy of colour.",,,,,,1,,TF
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,7,At equilibrium the reaction quotient is greater than equilibrium constant.,,,,,,0,,TF
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,8,Equilibrium constant has a definite value for every reaction at a given temperature. It is independent of concentration and __________.,,,,,,pressure,,FIB
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,9,The minimum energy that two molecules should possess so that their collisions result in a chemical reaction is called __________ energy.,,,,,,threshold,,FIB
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,10,Decomposition of phosphorous pentachloride is an example of _____ equilibria.,,,,,,homogeneous,,FIB
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,11,K~c* changes with change in ______.,,,,,,temperature,,FIB
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,12,__________ in temperature favours an endothermic reaction.,,,,,,increase,,FIB
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,13,The equilibrium constant of a reaction A + B ⇄ 2C if the concentrations of A and B together is 0.8 moles L^−1& and that of C is 0.6 mol L^−1& is _____,,,,,,0.5625,,FIB
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,14,"If K~C* for the formation of ammonia is 2 mol^−2& L^2&, K~c* for decomposition of ammonia is ______.",0.5 mol~2&/l^-2&,0.51 mol~2&/l^2&,0.5 mol~2&/l^2&,5 mol~2&/l^2&,,C,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,15,Match the entries given in Column A with appropriate ones from Column B.,"A:e, B:c, C:a, D:d, E:b","A:e, B:a, C:c, D:b, E:d","A:c, B:e, C:a, D:b, E:d","A:e, B:c, C:a, D:b, E:d",CH-6-15-ROW-241,D,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,16,which of the following is the corresponding reaction?,2/3 A + 2/5 B → 3/7 C,2/3 A + 5/2 B → 7/3 C,3/2 A + 5/2 B → 7/3 C,7/3 C + 5/2 B → 3/2 A,CH-6-16-ROW-242,a,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,17,"In the reaction N~2* + O~2*  ⇄ 2NO – Heat, which of following conditions is suitable to get a good yield of NO?",Increase in temperature,Decrease in temperature,Increase in pressure,The addition of a catalyst,,a,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,18,Which of the following is true?,"In an endothermic equilibrium reaction, activation energy required for a forward reaction is higher than that for a backward reaction.","To an endothermic equilibrium reaction,
+activation energy required to forward reaction is lower than that for a backward reaction.",Activation energy required for both forward and backward reactions is same in equilibrium.,No activation energy is required for an exothermic backward equilibrium reaction.,,a,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,19,"The equilibrium constant for the given reaction,
+CaCO~3(s)* CaO~(s)* + CO~2(g)* is given by:",A,B,C,D,CH-6-19-ROW-245,c,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,20,For a chemical reaction to occur,the reacting molecules must collide with each other,reacting molecules should have sufficient energy at the time of collision,reacting molecules must be properly oriented,all of the above,,d,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,21,"If an activated complex is formed in chemical reactions according to the collision theory, which of the following is true with respect to its stability?",It is highly stable because it has high energy.,It is less stable because it has lower energy.,It is less stable because it has high energy,None of the above.,,c,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,22,The equilibrium constant for the reactions,A,B,C,D,CH-6-22-ROW-248,b,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,23,"With respect to the equilibrium reaction A ⇄ B, which of the following graphs indicate the highest K~c* value?",A,B,C,D,CH-6-23-ROW-249,c,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,24,Equilibrium position of which of the following reactions is not affected by change in pressure?,A,B,C,D,CH-6-24-ROW-250,b,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,25,"The equilibrium constant K~c* is 10^2& for the reaction AB + C ⇄ AC + B
+The rate constant for the forward reaction K is 10^6&, the rate constant of backward reaction is",10^4&,10^8&,10^-4&,1/100,,a,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,26,"Which among the following is the graphical representation of a reaction if the ΔH for the forward reaction is twice the activation energy of the Ι step and activation energy of the ΙΙ step is half of the Ι
+step",A,B,C,D,CH-6-26-ROW-252,c,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,27,"For a particular reaction, A + B → C was studied at 25^0&C. The following results are obtained :
+Take the value of x is _________",6 × 10^−3& mol L^−1&,3 × 10^−3& mol L^−1&,4.5 × 10^−3& mol L^−1&,9 × 10^−3& mol L^−1&,CH-6-27-ROW-253,d,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,28,"2SO~2(g)* + O~2(g)* ⇄ 2SO~3(g)* + Q kJ
+In the above reaction, how can the yield of product
+be increased without increasing the pressure?",by increasing temperature,by decreasing temperature,by increasing the volume of the reaction vessel,by the addition of the catalyst,,B,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,29,"For a reaction 2A + B → 2AB, it is found that doubling the concentration of both the reactants increases the rate to eight times that of initial rate but doubling the concentration of B alone doubles
+the rate. Then the order of the reaction with respect to A and B is","0, 3","0, 2","2, 1","2, 2",,C,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,30,"In the reaction N~2*O~4*  ⇄ 2NO~2*, the degree of dissociation
+of N~2*O~4* increases with the",increase in pressure,decrease in temperature,increase in volume,presence of catalyst,,C,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,31,"Identify the correct sequence of steps in an experiment to show the effect of temperature on the rate of the reaction.
+(1) Measuring the volumes of H~2* gas liberated in the two test tubes.
+(2) Heating the test tube B by 10^0&C.
+(3) Comparison of relative volumes of H~2* liberated
+in test tubes B and A.
+(4) Addition of same concentration of HCl to the two test tubes.
+(5) Taking equal masses of fine granules of zinc in two test tubes A and B.",3 4 5 1 2,5 4 2 1 3,2 1 3 5 4,5 4 2 3 1,,B,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,32,"The graph given below shows the change in concentration of ‘B’ with time for the reaction A → B. Identify the steps given below in sequence for determining instantaneous rate.
+(1) Find the slope of the tangent = y~2* - y~1*/z~2* - z~1*
+(2) Change in the y-axis, that is, y~2*–y~1* gives change in concentration of ‘B,’ whereas change in the. x-axis, that is, x~2*–x~1* gives a small change in time interval.
+(3) Slope of the tangent is equal to instantaneous rate.
+(4) Draw the tangent on the curve at a particular instant of time ‘t.’",3 1 2 4,1 2 3 4 ,4 2 1 3,4 3 1 2,CH-6-32-ROW-258,C,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,33,"For the reaction A → B, identify the correct sequence of steps for the calculation of average rate of reaction.
+(1) plotting a graph of concentration of ‘A’ at various time intervals
+(2) identification of C~2* and C~1* at different time intervals
+t~2* and t~1*, respectively by reading the graph
+(3) calculation of C~2* - C~1*/t~2*-t~1*
+(4) finding out the experimental values of concentrations of ‘A’ at regular intervals",4 2 3 1,4 1 2 3,3 2 1 4,1 2 3 4,,B,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,34,"Initial number of moles of reactants taken in a closed reaction vessel is given. Percentage degree of dissociation is also given. Identify the correct sequence of steps to calculate K~c* value.
+(1) calculation of equilibrium concentrations of reactants and products
+(2) calculation of equilibrium number of moles
+(3) writing equilibrium constant expression for the reaction
+(4) calculation of K~c* value by using the equilibrium concentration",4 2 3 1,2 1 3 4,3 2 1 4,2 1 4 3,,B,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,35,Which among the following reactions is an example of instantaneous reaction under normal conditions?,2H~2* + O~2* → 2H~2*O,N~2* + O~2* → 2NO,NaOH + HCl → NaCl + H~2*O,C~12*H~22*O~11* + H~2*O → C~6*H~12*O~6* + C~6*H~12*O~6*,,C,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,36,The rate for the reaction between ionic compounds cannot be determined because they are generally,immeasurably slow reactions,moderately slow reactions,instantaneous reactions,not precipitation reactions,,C,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,37,"For a reaction A + B → C, the rate law is written as r = k[A]^2&[B]. Doubling the concentration of ‘A’ without changing concentration of ‘B’ increases the rate of reaction by",2 times,4 times,8 times,16 times,,B,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,38,Identify the common property for a chemical reaction at dynamic equilibrium:,"The measurable properties like concentration, density, colour, pressure, etc., remain constant at constant temperature.",The forward and backward reactions take place with the same rate.,It can be achieved from both directions.,All of the above,,D,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,39,Which of the following Kc values corresponds to the maximum yield of the products?,9.2 x 10^2&,1.8 x 10^-15&,2.8 x 10^3&,3.4 x 10^-25&,,C,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,40,"For a reaction A + B ⇄ C + D, if the activation energy of backward reaction is more than that of forward reaction, the forward reaction is",endothermic,exothermic,reaction need not necessarily involve heat changes,cannot be predicted,,B,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,41,"According to Le Chatelier’s principle,",an increase in pressure always causes a change in position of equilibrium for any reaction,the yield of NH~3* decreases from its constituents at lower temperature,an increase in temperature causes a decrease in the value of Kc for an exothermic reaction,"the Kc is decreased for the reaction A~(s)* + B~(g)*→ C~(g)*, if the concentration of A is increased",,C,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,42,"In which among the following reactions, the formation of product is favoured by decreasing the temperature or volume?",a,b,c,d,CH-6-42-ROW-268,D,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,43,The rate of a reaction depends on the,temperature of the reaction,catalyst,concentration of the reactants,all of these,,D,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,44,"In the formation of NO and O~2* from NO~2*, the rate of production of",NO and O~2* are equal,NO is double the rate of consumption of NO~2*,NO is twice the rate of production of O~2*,O~2* is twice the rate of production of NO,,C,,MCQ
+6,Chemical Kinetics and Equilibrium,Concept Application Level-1,,45,"For a reaction A + B → C, the rate law is written as r = k[A]^2&[B]. Doubling the concentrations of both of ‘A’ and ‘B’ increases the rate of reaction by",2 times,4 times,8 times,16 times,,C,,MCQ
+7,Electrochemistry,Concept Application Level-1,,1,Electrolysis brings about a chemical change.,,,,,,1,,TF
+7,Electrochemistry,Concept Application Level-1,,2,Batteries are voltaic cells.,,,,,,1,,TF
+7,Electrochemistry,Concept Application Level-1,,3,"During electrolysis, cations move towards the positive terminal.",,,,,,0,,TF
+7,Electrochemistry,Concept Application Level-1,,4,The negative sign of the reduction potential indicates that reduction occurs at that electrode when connected to the standard hydrogen electrode.,,,,,,1,,TF
+7,Electrochemistry,Concept Application Level-1,,5,"In the electrochemical series, ions are arranged in an increasing order of discharge potentials.",,,,,,1,,TF
+7,Electrochemistry,Concept Application Level-1,,6,The salt bridge permits movement of charge and mixing of the solution.,,,,,,0,,TF
+7,Electrochemistry,Concept Application Level-1,,7,The deposition of different ions at electrodes stops when the supply of electricity is stopped.,,,,,,1,,TF
+7,Electrochemistry,Concept Application Level-1,,8,The extent to which an electrolyte can dissociate into ions is called _____.,,,,,,degree of dissociation,,FIB
+7,Electrochemistry,Concept Application Level-1,,9,Zn^+2& and Ag+ are present in a solution to be electrolysed. The metal that is deposited first at cathode is _____.,,,,,,zinc,,FIB
+7,Electrochemistry,Concept Application Level-1,,10,The thickness of _____ increases in the electrorefining of copper.,,,,,,cathode,,FIB
+7,Electrochemistry,Concept Application Level-1,,11,"During electrolysis of molten PbBr~2*, _____ fumes are liberated at the anode.",,,,,,bromine,,FIB
+7,Electrochemistry,Concept Application Level-1,,12,The electrode potential of standard hydrogen electrode is assigned a value of _____ volt,,,,,,0,,FIB
+7,Electrochemistry,Concept Application Level-1,,13,Thick sheets of pure copper are obtained at _____ in electrorefining.,,,,,,cathode,,FIB
+7,Electrochemistry,Concept Application Level-1,,14,"In cell representation, oxidation half-cell is represented on the _____.",,,,,,left-hand side,,FIB
+7,Electrochemistry,Concept Application Level-1,,15,Match the entries given in column A with the appropriate ones in column B.,"A-> c, B-> e, C->d, D->a, E→b","A->e, B-> c, C->d, D->b, E->a","A-> c, B-> d, C->e, D->b, E->a","A-> c, B-> e, C->d, D→b, E->a",CH-7-15-ROW-286,D,,MCQ
+7,Electrochemistry,Concept Application Level-1,,16,"On increasing temperature, conduction in metallic conductors_____.",increases,decreases,remains constant,none of these,,b,,MCQ
+7,Electrochemistry,Concept Application Level-1,,17,The aqueous solution of non-electrolytes contains ______.,atoms,ions,electrons,molecules,,d,,MCQ
+7,Electrochemistry,Concept Application Level-1,,18,"The metal deposited first at the cathode when a solution containing Fe^+2&, Cu^+2& is electrolysed is ________.",Fe,Cu,Fe^+3&,both 1 and 2,,b,,MCQ
+7,Electrochemistry,Concept Application Level-1,,19,Which of the following electrolytes exhibits maximum conductivity?,1 M NaCl,1 M KCl,1 M Ca(NO~3*)~2*,1 M Al~2*(SO~4*)~3*,,d,,MCQ
+7,Electrochemistry,Concept Application Level-1,,20,Electrolysis of aqueous CuSO~4* with inert electrodes gives_____.,"Cu at cathode, anode gets dissolved","Cu at cathode, O~2* at anode","O~2* at anode, H~2* at cathode","O~2* at anode, cathode gets dissolved",,b,,MCQ
+7,Electrochemistry,Concept Application Level-1,,21,The amount of copper deposited by the passage of 1 mole of electrons during the electrolysis of aqueous CuSO~4* solution is,63.5 g,31.75 g,159.5 g,79.75 g,,b,,MCQ
+7,Electrochemistry,Concept Application Level-1,,22,Negative sign in the standard electrode potential indicates,greater ease of oxidation compared to that of hydrogen,greater ease of reduction compared to that of hydrogen,lesser ease of oxidation compared to that of hydrogen,none of the above,,a,,MCQ
+7,Electrochemistry,Concept Application Level-1,,23,The products of electrolysis of dilute aqueous solution of sodium hydride are,Na at cathode and H~2* at anode,H~2* at cathode and O~2* at cathode,Na at cathode and O~2* at anode,H~2* at both cathode and anode,,d,,MCQ
+7,Electrochemistry,Concept Application Level-1,,24,"In a Daniel cell, if A (E~0* = −0.76 V) and B (= −2.36 V) half-cells are taken then",B acts as an anode,A acts as an anode,B acts as a cathode,cannot be predicted,,a,,MCQ
+7,Electrochemistry,Concept Application Level-1,,25,"In the electroplating of iron by nickel, nickel sulphate solution is taken as an electrolyte. What is the acid that is added to the electrolyte during the process?",HCl,HCN,HNO~3*,H~2*SO~4*,,d,,MCQ
+7,Electrochemistry,Concept Application Level-1,,26,Equimolar solutions of zinc sulphate and ferric sulphate are subjected to electrolysis. What is the ratio of Faradays of electricity required for deposition of one mole each of zinc and iron?,1 : 2,2 : 3,1 : 3,3 : 2,,b,,MCQ
+7,Electrochemistry,Concept Application Level-1,,27,Emf of a voltaic cell can be given by_____.,SRP of anode – SRP of cathode,SRP of cathode + SRP of anode,SOP of cathode − SOP of anode,SOP of cathode + SOP of anode,,a,,MCQ
+7,Electrochemistry,Concept Application Level-1,,28,The process used in purifying metals by electrolysis is called_____.,electroplating,electrometallurgy,electrorefining,electrodeposition,,c,,MCQ
+7,Electrochemistry,Concept Application Level-1,,29,"In a voltaic cell, if iron and silver electrodes are connected with each other then current flows",from iron to silver outside the cell,from silver to iron within the cell,from silver to iron outside the cell,current does not flow in this cell,,c,,MCQ
+7,Electrochemistry,Concept Application Level-1,,30,"The amount of sodium produced by passage of
+2 moles of electrons in the electrolysis of fused NaCl is_____.",23 g,46 g,11.5 g,58.5 g,,b,,MCQ
+7,Electrochemistry,Concept Application Level-1,,31,"The standard electrode potentials of the electrodes are given below. Arrange them in decreasing order of ease of oxidation.
+(1) Electrode − I, E^0& = −2.89 V
+(2) Electrode − II, E^0& = −0.16 V
+(3) Electrode − III, E^0& = 0.77 V
+(4) Electrode − IV, E^0& = −2.93 V
+(5) Electrode − V, E^0& = −1.67 V",3 2 5 1 4,4 1 5 2 3,3 5 1 4 2,3 2 1 4 5,,b,,MCQ
+7,Electrochemistry,Concept Application Level-1,,32,"Pairs of electrodes and their corresponding standard electrode potentials are given. Arrange the cells constructed by these electrodes in increasing order of emf values.
+(1) Electrode → A, E^0& = −2.92 V and Electrode → B, E^0& = −2.71 V
+(2) Electrode → C, E^0& = −0.760 V and Electrode → D, E^0& = −0.44 V
+(3) Electrode → B, E^0& = −2.71 V and Electrode → D, E^0& = −0.44 V
+(4) Electrode → A, E^0& = −2.92 V and Electrode → C, E^0& = −0.76 V",2 1 4 3,1 2 3 4 ,2 4 1 3,2 4 3 1,,b,,MCQ
+7,Electrochemistry,Concept Application Level-1,,33,1 faraday = ______ coulombs.,10000,95000,96.5,96500,,d,,MCQ
+7,Electrochemistry,Concept Application Level-1,,34,Identify the set of metals that require same amount of charge for the deposition of one mole of metals:,"Na, Ag, Al","Zn, Cu, Ag","Al, Cu, Zn","Mg, Zn, Cd",,d,,MCQ
+7,Electrochemistry,Concept Application Level-1,,35,"The amounts of metals deposited when 965 C of electricity is passed through NaCl and AgNO~3* solutions are ______ and ______, respectively.","23 g, 108 g","11.5 g, 54 g","0.23 g, 1.08 g","2.3 g, 10.8 g",,c,,MCQ
+7,Electrochemistry,Concept Application Level-1,,36,"The order of ease of oxidation of the ions F^–&, OH^–&,Br^–&, SO~4*^2-& is ______.",SO~4*^2-&  < F^-& < Br^-& < OH^-&,SO~4*^2-&  < Br^-& < OH^-& < F^-&,SO~4*^2-& > F^-& > Br^-& > OH^-&,OH^-& < Br^-& < F^-& < SO~4*^2-&,,a,,MCQ
+7,Electrochemistry,Concept Application Level-1,,37,The electrolytic process by which an oxide of a metal is coated over metal surface is called ______.,electrolysis,electroplating,anodising,electrorefining,,c,,MCQ
+7,Electrochemistry,Concept Application Level-1,,38,"The standard electrode potentials of four metals A, B, C and D are given below. Based on these values, arrange them in the descending order of ease of deposition of metals from their salt solutions when subjected to electrolysis under standard conditions.
+(1) → –0.9 V                   (2) → –2.71 V
+(3) → 0.77 V                   (4) → 0.8 V",4 3 2 1,2 1 3 4,3 4 1 2,4 3 1 2,,d,,MCQ
+7,Electrochemistry,Concept Application Level-1,,39,Which of the following concentrations of the electrolyte corresponds to maximum conductivity?,1 M HCl,1 M HNO~3*,1 M HClO~4*,1 M H~2*SO~4*,,d,,MCQ
+7,Electrochemistry,Concept Application Level-1,,40,Identify the false statement among the following:,"Oxidation takes place at positive electrode in electrolytic cell, whereas reduction at negative
+electrode in voltaic cell.",Deposition of metals takes place in both electrolytic and galvanic cells.,Direction of flow of current is from cathode to anode in electrolytic cell.,Both (a) and (b).,,DUMMY,,MCQ
+7,Electrochemistry,Concept Application Level-1,,41,"When an aqueous solution of zinc sulphate is subjected to electrolysis, 280 mL of oxygen gas at STP is liberated at anode. Calculate the quantity of electricity passed through the electrolyte.",0.05 F,0.5 F,0.005 F,5 F,,A,,MCQ
+7,Electrochemistry,Concept Application Level-1,,42,"Ratio of number of Faradays of electricity required to deposit magnesium, aluminium and sodium in equimolar ratio on electrolysis of their respective molten salts is ______",2 : 3 : 2,2 : 1 : 1,2 : 3 : 1,4 : 6 : 1,,C,,MCQ
+7,Electrochemistry,Concept Application Level-1,,43,The ratio of volumes of H~2* and O~2* liberated on electrolysis of water is ______.,1 : 2,1 : 3,2 : 1,3 : 1,,C,,MCQ
+7,Electrochemistry,Concept Application Level-1,,44,"Assertion (A): Passage of 48,250 C of electricity through cupric sulphate and ferrous sulphate solutions result in the deposition 0.5 moles each of iron and copper at the respective cathodes.
+Reason (R): Number of equivalents of a metal deposited at cathode is equal to the number of faradays of electricity passed through the electrolyte.",Both A and R are true and R is the correct explanation of A,Both A and R are true and R is not the correct explanation of A,"A is true, R is false","A is false, R is true",,DUMMY,,MCQ
+7,Electrochemistry,Concept Application Level-1,,45,100 mL of 0.05 M aqueous CuSO~4* solution is subjected to electrolysis. Calculate the quantity of electricity required for the deposition of entire copper at the cathode.,0.005 F,0.01 F,0.1 F,0.05 F,,B,,MCQ
+8,Metallurgy,Concept Application Level-1,,1,"In metallurgy, the concentration of ore is followed by the dressing of ore.",,,,,,0,,TF
+8,Metallurgy,Concept Application Level-1,,2,"In calcination and roasting, volatile impurities are removed.",,,,,,1,,TF
+8,Metallurgy,Concept Application Level-1,,3,Metals that have low melting point are refined by liquation.,,,,,,1,,TF
+8,Metallurgy,Concept Application Level-1,,4,"In froth flotation process, pine oil is usually added to wet the gangue particles in the ore.",,,,,,0,,TF
+8,Metallurgy,Concept Application Level-1,,5,Mercuric oxide is reduced by thermal decomposition.,,,,,,1,,TF
+8,Metallurgy,Concept Application Level-1,,6,"Monel metal is an alloy of Cu, Ni and Fe.",,,,,,1,,TF
+8,Metallurgy,Concept Application Level-1,,7,"In purification of metals, during distillation, metal is strongly heated above its boiling point in the presence of air.",,,,,,0,,TF
+8,Metallurgy,Concept Application Level-1,,8,In the upper region of blast furnace ______ helps in the reduction of iron oxide to iron.,,,,,,carbon monoxide,,FIB
+8,Metallurgy,Concept Application Level-1,,9,In Bessemer converter __________ is removed as phosphate slag.,,,,,,phosphorus,,FIB
+8,Metallurgy,Concept Application Level-1,,10,Cu~2*S and ___________ are partially oxidised during roasting in the extraction of copper.,,,,,,FeS,,FIB
+8,Metallurgy,Concept Application Level-1,,11,Iron pyrites are converted to iron oxide by the process of ______.,,,,,,Roasting,,FIB
+8,Metallurgy,Concept Application Level-1,,12,The reaction that is not associated with the middle region of blast furnace during smelting is C + O~2* -> CO~2*.,,,,,,1,,TF
+8,Metallurgy,Concept Application Level-1,,13,Chromium and manganese oxides are reduced to metals by using ______.,,,,,,Aluminium,,FIB
+8,Metallurgy,Concept Application Level-1,,14,"The components in solder are Sn, Pb.",,,,,,1,,TF
+8,Metallurgy,Concept Application Level-1,,15,Match the entries given in Column A with the appropriate ones in Column B.,"A:e, B:g C:a, D:b, E:f, F:c, G:d","A:e, B:g C:a, D:b, E:f, F:d, G:c","A:e, B:a C:g, D:b, E:f, F:c, G:d","A:e, B:gm C:b, D:a, E:f, F:c, G:d",CH-8-15-ROW-331,A,,MCQ
+8,Metallurgy,Concept Application Level-1,,16,Electromagnetic separation is employed for the concentration of those ores in which,the ore is magnetic,the gangue is magnetic,both the ore and the gangue are magnetic,either the ore or the gangue is magnetic,,d,,MCQ
+8,Metallurgy,Concept Application Level-1,,17,The following flow chart represents the extraction of ______.,copper,zinc,iron,aluminium,CH-8-17-ROW-333,a,,MCQ
+8,Metallurgy,Concept Application Level-1,,18,"In the extraction of iron, the most preferred ores are",hematite and limonite,copper pyrites and siderite,magnetite and iron pyrites,limonite and copper pyrites,,a,,MCQ
+8,Metallurgy,Concept Application Level-1,,19,An ore contains arsenic and antimony as impurities. How are they removed during the process of roasting?,by conversion into As~2*O~3* and Sb~2*O~3*,by conversion into As~2*O~5* and Sb~2*O~5*,by conversion into both trioxides and pentoxides,by conversion into sulphides,,a,,MCQ
+8,Metallurgy,Concept Application Level-1,,20,"Aluminium is added in Bessemer process to remove certain impurities, but not in L–D process. This is because",pure oxygen is passed in Bessemer process,pure oxygen is passed in L–D process,air is passed in L–D process,of addition of spiegel in Bessemer process,,b,,MCQ
+8,Metallurgy,Concept Application Level-1,,21,Which among the following is an oxide ore of lead?,led ochre,galena,anglesite,dolomite,,a,,MCQ
+8,Metallurgy,Concept Application Level-1,,22,Zinc is refined by,liquation (or) distillation under reduced pressure,electrolytic method or polling,liquation or electrolytic method,distillation under reduced pressure or electrolytic method,,d,,MCQ
+8,Metallurgy,Concept Application Level-1,,23,Lustre of metal is attributed to,loosely bound electrons present in the valence shell of the metal atoms,strong electrostatic force of attraction between electrons and metal kernels,omnidirectional nature of metallic bond,none of the above,,a,,MCQ
+8,Metallurgy,Concept Application Level-1,,24,The volatile impurities associated with zinc spelter are _________.,Cd and Fe,Fe and As,Cd and C,Cd and As,,d,,MCQ
+8,Metallurgy,Concept Application Level-1,,25,Match the entries in Column A with appropriate ones in Column B.,1 → b 2 → c 3 → d 4 → a,1 → c 2 → d 3 → a 4 → b,1 → d 2 → c 3 → b 4 → a,1 → d 2 → a 3 → b 4 → c,CH-8-25-ROW-341,c,,MCQ
+8,Metallurgy,Concept Application Level-1,,26,The process employed for the purification of copper with cuprous oxide as the impurity is,polling,liquation,electrolytic process,oxidation,,a,,MCQ
+8,Metallurgy,Concept Application Level-1,,27,‘Alclad’ is perfectly resistant to corrosion by sea water. The alloy is,magnalium coated with aluminium,duralumin coated with aluminium,r-alloy duralumin,a mixture of magnalium and duralumin,,b,,MCQ
+8,Metallurgy,Concept Application Level-1,,28,Hardened steel on heating in the range from 220 to 330^0&C and on slow cooling gives,hard steel,brittle steel,hard and brittle steel,hard and tough steel,,d,,MCQ
+8,Metallurgy,Concept Application Level-1,,29,"If an ore contains impurity of SiO~2*, identify the appropriate flux for the removal of it",MnO,P~4*O~10*,O~2*,SO~2*,,a,,MCQ
+8,Metallurgy,Concept Application Level-1,,30,"In the electrolytic reduction of alumina, the electrolyte is covered with coke powder because it",prevents oxidation of aluminium formed,reacts with aluminium forming aluminium carbide,prevents heat loss from the electrolyte,none of the above,,c,,MCQ
+8,Metallurgy,Concept Application Level-1,,31,"Sequence the following steps involved generally in the extraction of a metal in pure form from its ore.
+(1) The metal obtained from its oxide requires further purification for end use.
+(2) The ore should be converted to its oxide form.
+(3) The ore is beneficial to us if it is hand-picked then metal crushed and ground, and later subjected to Pulverisation as per the requirement.
+(4) The ore in the form of oxide is required to be reduced.
+(5) Dressed ore is required for it to be concentrated.",5 3 2 4 1,3 5 2 4 1,3 5 2 1 4,3 5 4 2 1,,d,,MCQ
+8,Metallurgy,Concept Application Level-1,,32,"Select the steps required for the extraction of aluminium and sequence them.
+(1) froth flotation
+(2) chemical separation
+(3) electrolytic reduction
+(4) smelting
+(5) distillation under low pressure
+(6) electrolytic refining
+(7) Pulverisation
+(8) conversion of concentrated ore into oxide
+(9) crushing and grinding",9 5 7 2 3 8 6 1,3 2 1 4 5 6 7 8,9 7 2 8 3 6,9 7 2 3 8 6,,c,,MCQ
+8,Metallurgy,Concept Application Level-1,,33,"The reactions given below represent the processes of reduction to obtain metals from their respective ores. Arrange them in the following order. Sodium, aluminium, zinc, chromium, iron, copper
+and mercury
+(1) Metal oxide + metal sulphide → Metal + SO~2*
+(2) Metal oxide + CO → Metal + CO~2*
+(3) Metal oxide + C → Metal + CO
+(4) Metal oxide → Metal + O~2*
+(5) Metal oxide  ---D®    Metal + O~2*
+(6) Metal oxide + Aluminium → Aluminium oxide + Metal
+(7) Metal chloride → Metal + Chlorine",7 4 3 6 2 1 5,7 4 3 6 2 5 1,1 3 2 4 6 7 5,7 4 5 2 6 1 5,,A,,MCQ
+8,Metallurgy,Concept Application Level-1,,34,"X + CuSO~4* → XSO~4* + Cu,
+Y + CuSO~4* → YSO~4* + Cu, in these reactions
+X and Y may be _______.","Zn, Ag","Zn, Fe","Fe, Ag","Ag, Al",,B,,MCQ
+8,Metallurgy,Concept Application Level-1,,35,The composition of thermite mixture is,iron (III) oxide and aluminium powder in the ratio 1 : 3,aluminium powder and iron (III) oxide in the ratio 1 : 3,aluminium powder and barium peroxide in the ratio 1 : 3,barium peroxide and aluminium in the ratio 1 : 3,,B,,MCQ
+8,Metallurgy,Concept Application Level-1,,36,"The order of processes involved in the dressing of an ore is
+(i) grinding and crushing                 (ii) hand-picking
+(iii) Pulverisation","(i), (ii), (iii)","(i), (iii), (ii)","(ii), (iii), (i)","(II), (i), (iii)",,D,,MCQ
+8,Metallurgy,Concept Application Level-1,,37,Chemical separation is one of the methods employed in,dressing of ore,concentration of ore,extraction of metal from its oxide,conversion of ore to oxide,,B,,MCQ
+8,Metallurgy,Concept Application Level-1,,38,Aluminium liberates hydrogen gas on reaction with,concentrated sulphuric acid,nitric acid,hydrochloric acid,none of these,,C,,MCQ
+8,Metallurgy,Concept Application Level-1,,39,The reaction that is not associated with the middle region of blast furnace during smelting is ____.,CO~2* + C → 2CO,CaCO~3* → CaO + CO~2*,CaO + SiO~2* → CaSiO~3*,C + O~2* → CO~2*,,D,,MCQ
+8,Metallurgy,Concept Application Level-1,,40,Gas liberated when zinc is treated with concentrated nitric acid is –––––.,nitrous oxide,nitric oxide,nitrogen dioxide,nitrogen,,C,,MCQ
+8,Metallurgy,Concept Application Level-1,,41,Bell metal is an alloy of ______.,"Cu, Zn","Cu, Pb","Cu, Sn","Cu, Ni",,C,,MCQ
+8,Metallurgy,Concept Application Level-1,,42,"Identify the metal that reacts with concentrated H~2*SO~4* or HNO~3*, but not with concentrated HCl.",Fe,Zn,Cu,Al,,C,,MCQ
+8,Metallurgy,Concept Application Level-1,,43,Which of the following metals is soft in nature?,Paltinum,Iron,Aluminium,Sodium,,D,,MCQ
+8,Metallurgy,Concept Application Level-1,,44,Which of the following metals forms amphoteric oxide when it reacts with oxygen?,sodium,magnesium,aluminium,potassium,,C,,MCQ
+8,Metallurgy,Concept Application Level-1,,45,Which among the following metals is not present in german silver?,Cu,Ag,Zn,Ni,,B,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,1,Fullerene molecules are synthesised by subliming coal using laser radiation.,,,,,,0,,TF
+9,Industrial Chemistry,Concept Application Level-1,,2,HCl can be used to remove rust from iron.,,,,,,1,,TF
+9,Industrial Chemistry,Concept Application Level-1,,3,A fire extinguisher contains sodium bicarbonate and acid.,,,,,,1,,TF
+9,Industrial Chemistry,Concept Application Level-1,,4,Impervious nature of ceramics is the effect of glazing.,,,,,,1,,TF
+9,Industrial Chemistry,Concept Application Level-1,,5,"On long standing, bleaching powder undergoes autooxidation",,,,,,1,,TF
+9,Industrial Chemistry,Concept Application Level-1,,6,Setting of mortar is the result of reaction between slaked lime and CO~2* of air.,,,,,,1,,TF
+9,Industrial Chemistry,Concept Application Level-1,,7,Phosphorous is widely used in match industry due to its low ignition temperature.,,,,,,1,,TF
+9,Industrial Chemistry,Concept Application Level-1,,8,In the preparation of diamonds industrially carbon changes its state from _______ to crystalline form.,,,,,,amorphous,,FIB
+9,Industrial Chemistry,Concept Application Level-1,,9,The reaction of NaCl and CaCO~3* gives sodium carbonate. But this reaction cannot be used for the manufacture of washing soda since it is ______ reaction,,,,,,reversible,,FIB
+9,Industrial Chemistry,Concept Application Level-1,,10,________ is the main ingredient used in the preparation of superphosphate of lime.,,,,,,phosphate rock,,FIB
+9,Industrial Chemistry,Concept Application Level-1,,11,Common name of calcium chloro hypochlorite is ________.,,,,,,bleaching powder,,FIB
+9,Industrial Chemistry,Concept Application Level-1,,12,______ and _____ are produced during the combustion of fossil fuels.,"CO~2*, H~2*O","CO, H~2*O","CO~2*, O~2*","CO,~2*",,A,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,13,The clay used for the manufacture of earthenware is ______.,,,,,,Kaolin,,FIB
+9,Industrial Chemistry,Concept Application Level-1,,14,The type of glass that consists of a layer of plastic embedded in between two layers of glass is called ___________.,,,,,,Safety glass,,FIB
+9,Industrial Chemistry,Concept Application Level-1,,15,Match the entries given in column A with the appropriate ones in column B.,"A:c, B:e, C:a, D:d, E:b","A:c, B:a, C:e, D:b, E:d","A:c, B:e, C:a, D:b, E:d","A:e, B:c, C:a, D:b, E:d",CH-9-15-ROW-376,C,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,16,Sugar on treating with H~2*SO~4* produces a black mass. In this H~2*SO~4* acts as a,decarboxylating agent,dehydrogenating agent,dehydrating agent,reducing agent,,c,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,17,"Noble metals get dissolved in aqua regia, the composition of aqua regia is",3HCl + HNO~3*,3HNO~3* + H~2*SO~4*,HCl + 3HNO~3*,HNO~3* + 3H~2*SO~4*,,a,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,18,Which of the following reactions is called slaking of lime?,CaCO~3* → CaO + CO~2*,CaO + 2HCl → CaCl~2* + H~2*O,CaO + H~2*O → Ca(OH)~2* + heat,CaCO~3* + NaCl → Na~2*CO~3* + CaCl~2*,,c,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,19,Identify which contributes for strengthening of lime mortar structures and contributes for weakening of RCC structures.,usage of water containing dissolved salts,addition of lime,absorption of CO~2* from atmospheric air,both (2) and (3),,c,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,20,"Bleaching powder is effective with cold water, but ineffective with hot water. This is because of",oxidation of chloride radical,reduction of chloride radical,reduction of hypochlorite radical,hydrolysis of hypochlorite radical,,c,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,21,Which among the following substances is not a component of the mixture used for glazing pottery?,feldspar,silica,borax,alumina,,b,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,22,Which of the following substances is a compound fertiliser?,can,Urea ,Epsom salt,Ammonium phosphate,,d,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,23,The glass containing litharge as an ingredient makes the optical fibres glow because it,increases the refractive index,has low density,is highly thermally resistant,scatters all the radiations incident on it,,a,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,24,Which property is imparted to glass by the addition of cerium oxide?,colour,resistance to breakage,increase of refractive index,protection from UV light,,d,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,25,The composition of flint glass is,SiO~2* + Na~2*CO~3* + CaCO~2*,SiO~2* + CaCO~3* + CuSO~4*,SiO~2* + K~2*CO~3* + CaCO~3*,SiO~2* + K~2*CO~3* + CaCO~3* + Pb~3*O~4*,,d,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,26,Which of the following statements is true about glass?,Arrangement of silicate units is similar to that of liquid state.,Arrangement of silicate units is similar to that of solid state.,It has low viscosity and hence is not a true solid.,It has high viscosity with sharp melting point and hence is a solid.,,a,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,27,The broken pieces of glass added to the fused raw materials in the manufacture of glass is called,batch,glass gall,cullet,none of these,,c,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,28,"When rain water percolates into the cracks of RCC, it further gets weakened due to the",formation of H~2*CO~3*,increase in pH value,increase in the percentage of free lime,exothermic hydration process,,a,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,29,Which of the following is not an ingredient of clinker cement?,calcium silicate,aluminium silicate,calcium aluminium silicate,gypsum,,d,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,30,Which of the nitrogenous fertilisers can meet the needs for immediate requirement of crop?,potassium nitrate,superphosphate of lime,calcium cyanamide,CAN,,a,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,31,"The steps for the manufacture of nitric acid by Ostwald process are given. Arrange them in sequence.
+(a) recirculation of nitric oxide
+(b) addition of H~2*O to nitrogen dioxide
+(c) oxidation of nitric oxide
+(d) catalytic oxidation of ammonia",4 3 2 1,4 3 1 2,3 4 2 1,3 4 1 2,,a,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,32,"For the manufacture of cement various steps are given below. Arrange the steps in a proper sequence.
+(1) clinker formation
+(2) crushing
+(3) addition of gypsum
+(4) mixing of raw materials
+(5) grinding to fine powder
+(6) calcination in rotary kiln",4 2 6 1 3 5,2 4 6 3 5 1,4 3 1 6 5 2,1 2 3 4 5 6,,a,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,33,"For the manufacture of glass, various steps are given below. Arrange the steps in a proper sequence.
+(1) melting of raw materials
+(2) adding cullet to raw materials
+(3) conversion of raw material to fine powder
+(4) annealing
+(5) refining",1 2 3 4 5,2 1 3 5 4,3 2 1 5 4,3 2 1 4 5,,C,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,34,Which of the following gases with a smell of rotten egg is evolved when sulphuric acid is treated with copper sulphide?,sulphur vapour,sulphur dioxide,hydrogen sulphide,sulphur trioxide,,C,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,35,Which of the following reagents is used to test the presence of SO~2* gas?,acidified potassium manganate,alkaline potassium manganate,alkaline potassium dichromate,acidified potassium dichromate,,d,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,36,Excess of nitrogenous fertilisers is harmful because they,increase the acidity of the soil,do not get distributed uniformly in the soil,get leached away from the soil easily and pollute the water bodies,produce extra heat that burns plants,,c,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,37,The ions responsible for the bleaching action of bleaching powder and the ions responsible for loss of bleaching action of bleaching powder due to the storage for long time respectively are,"Cl^-&, OCI^-&","OCI^-&, Cl^-&","OCl^-&, ClO^-&~3*","Cl^-&, ClO^-&",,C,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,38,"In which of the following uses of graphite, is the presence of van der Waal’s forces of attraction in graphite not exploited?",pencil lead,electrodes,lubricant,refractory crucibles,,d,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,39,Formula of plaster of Paris is,CaSO~4*.H~2*O,3CaSO~4*.H~2*O,CaSO~4*.2H~2*O,CaSO~4*.½H~2*O,,d,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,40,Identify the compound that is the final product of Solvay process,ammonium carbonate,ammonium bicarbonate,sodium carbonate,sodium bicarbonate,,c,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,41,Manufacture of which of the following does not require limestone as a raw material?,quick lime,baking soda,glass,plaster of Paris,,a,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,42,Which among the following is a micronutrient?,potassium,phosphorus,nitrogen,cobalt,,d,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,43,Which of the following imparts purple colour to glass?,Cr~2*O~3*,AuCl~3*,Cu~2*O,MnO~2*,,d,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,44,Which of the following fertilisers does not replenish nitrogen in the soil?,CAN,urea,superphosphate lime,ammonium phosphate,,c,,MCQ
+9,Industrial Chemistry,Concept Application Level-1,,45,Which of the following acids is produced by treating KNO~3* with H~2*SO~4* under suitable experimental conditions?,HNO~2*,H~2*SO~3*,HNO~3*,H~2*S~2*O~7*,,c,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,1,Both alkenes and cycloalkanes both can be represented by the same general formula.,,,,,,1,,TF
+10,Organic Chemistry - I,Concept Application Level-1,,2,The general formula C~n*H~2n* is valid for any alkene with any number of multiple bonds.,,,,,,0,,TF
+10,Organic Chemistry - I,Concept Application Level-1,,3,Acetone is the common name of propanone,,,,,,1,,TF
+10,Organic Chemistry - I,Concept Application Level-1,,4,The number of carbons present in isopentane and 2-Methylpentane are same.,,,,,,0,,TF
+10,Organic Chemistry - I,Concept Application Level-1,,5,"1, 2-Dibromoethane gives corresponding alkyne by treating with Zn dust under suitable conditions.",,,,,,0,,TF
+10,Organic Chemistry - I,Concept Application Level-1,,6,Isomers always show same chemical properties.,,,,,,0,,TF
+10,Organic Chemistry - I,Concept Application Level-1,,7,Ethylene when subjected to hydroxylation in the presence of Baeyer’s reagent gets oxidised to glyoxal.,,,,,,0,,TF
+10,Organic Chemistry - I,Concept Application Level-1,,8,"When methane is mixed with excess chlorine and the mixture is exposed to sunlight, the final product is CCl~4*.",,,,,,1,,TF
+10,Organic Chemistry - I,Concept Application Level-1,,9,The compound formed when ethyl alcohol is treated with conc. H~2*SO~4* at 170^0&C is _____.,,,,,,ethene,,FIB
+10,Organic Chemistry - I,Concept Application Level-1,,10,By treating alkylchloride with aq. KOH ______ is produced along with KCl.,,,,,,alcohol,,FIB
+10,Organic Chemistry - I,Concept Application Level-1,,11,Pyrolysis of methane takes place in _____ of air and the products are _____ and _____.,"absence, C, H~2*","presence, C, H~2*","presence, C, H",None of these,,A,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,12,Decolourisation of KMnO~4* solution takes place when it reacts with ethene. The final product of this reaction which is used as an anti-freeze is _____.,,,,,,ethylene glycol,,FIB
+10,Organic Chemistry - I,Concept Application Level-1,,13,Difference in molecular weight between two successive compounds in alkane homologous series is _________,,,,,,14,,FIB
+10,Organic Chemistry - I,Concept Application Level-1,,14,"C~6*H~12* and C~6*H~6* are the examples of ______ and ______ hydrocarbons, respectively.",,,,,,aliphatic aromatic,,FIB
+10,Organic Chemistry - I,Concept Application Level-1,,15,Match the entries in Column A with the appropriate ones in Column B.,"A:d, B:a, C:e, D:b, E:c","A:d, B:a, C:e, D:c, E:b","A:a, B:d, C:e, D:c, E:b","A:d, B:a, C:c, D:e, E:b",CH-10-15-ROW-421,B,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,16,Controlled hydrogenation of ethyne gives which of the following compounds?,ethane,ethene,methane,none of these,,b,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,17,Which of the following compound can be used to prepare ethene from ethyl alcohol?,Al~2*O~3*,H~2*SO~4*,CaO,Both (a) and (b).,,d,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,18,Catalytic hydrogenation of ethene produces _____.,ethane,acetylene,methane,ethyne,,a,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,19,Number of moles of oxygen required for the combustion of one mole of an alkane is equal to,a,b,c,d,CH-10-19-ROW-425,c,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,20,"The ratio of the difference between number of hydrogens present in propane and propyne, propane and propene is",1 : 2,2 : 1,3 : 2,2 : 3,,b,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,21,Which of the following groups consists of triple bond?,–C~3*H~7*,–C~4*H~7*,–C~5*H~7*,–C~5*H~11*,,c,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,22,What is the correct structural formula of 3-Methyl-1-Pentyne?,A,B,C,D,CH-10-22-ROW-428,b,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,23,Which of the following compounds cannot exhibit chain isomerism?,propane,butane,pentane,hexane,,a,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,24,Polymerisation of acetylene gives rise to _____.,polyethylene,polyacetylene,benzene,polypropene,,c,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,25,Which of the following hydrocarbons can decolourise the alkaline potassium permanganate solution?,C~2*H~6*,C~3*H~8*,C~5*H~12*,C~3*H~6*,,d,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,26,Identify the organic compound which can react with only one mole of sodium metal in the presence of strong base.,propyne,ethyne,2-Butyne,ethene,,a,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,27,Ethylene glycol is used as,an anti-freezer,a fuel,a refrigerant,an agent for ripening of fruits,,b,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,28,Which of the following components is present in major proportions in LPG and why?,Methane because it is easily liquefiable.,n-butane because it is easily liquefiable,Isooctane because it reduces knocking property.,n-propane because it has high calorific value.,,b,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,29,A molecule of hydrocarbon ‘X’ can add upon two molecules of Br~2*. ‘X’ on ozonolysis gives two different products which cannot be further oxidised. Identify ‘X.’,H2C = CH – CH = CH2,HC ≡ CH,H~3*C – C ≡ CH,H~3*C – CH = CH – CH~3*,,c,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,30,Products obtained at the end of the reaction when,acetaldehyde,propanaldehyde,"acetone, acetaldehyde","acetone, formaldehyde",CH-10-30-ROW-436,c,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,31,"The various steps for writing IUPAC name of an organic compound are given below. Arrange the steps in the correct order.
+(1) numbering of carbon chain
+(2) identification of primary suffix
+(3) selection of the longest chain
+(4) identification of secondary suffix
+(5) identification of number and nature of alkyl groups attached to carbon chain",3 1 2 4 5,3 1 5 2 4,3 2 4 1 5,1 3 2 4 5,,a,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,32,"Hexane exhibits chain isomerism. One of its isomers possesses two tertiary carbon atoms. Arrange the following steps in a proper sequence to write IUPAC name for the respective isomer.
+(1) Identification of number of carbon atoms in the main chain.
+(2) Writing the structure of respective isomer of hexane.
+(3) Numbering of carbon chain.
+(4) Giving position numbers for the alkyl groups attached to main chain.
+(5) Identification of nature of tertiary carbon atom.",2 1 3 5 4,5 1 2 3 4,2 5 3 1 4,5 2 1 3 4,,a,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,33,"Arrange the following hydrocarbons in the increasing order of volume of oxygen required for complete combustion per mole under the same
+conditions.
+(1) ethane                   (2) propyne                (3) ethyne 
+(4) propene                 (5) propane                (6) ethene",3 6 1 2 4 5,5 4 2 1 6 3,3 2 6 4 1 5,5 2 4 6 1 3,,a,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,34,Preceding and succeeding homologues of C~10*H~22* respectively are,"C~9*H~20*, C~11*H~22*","C~9*H~20*, C~11*H~24*","C~11*H~24*, C~9*H~20*","C~8*H~18*, C~9*H~20*",,b,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,35,Which of the following compounds contains a triple bond?,C~2*H~6*,C~4*H~8*,C~5*H~8*,C~5*H~12*,,c,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,36,The part of IUPAC name which indicates saturation or unsaturation is,root word,primary suffix,secondary suffix,prefix,,b,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,37,Which of the hydrocarbons cannot decolourise the red-coloured solution of bromine in CCl~4*?,CH~4*,C~2*H~4*,C~2*H~2*,C~3*H~6*,,a,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,38,Complete hydrogenation of ethyne gives ______,ethane,ethene,methane,none of these,,a,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,39,The hydrocarbons obtained by pyrolysis of ethane are ______ and ______.,"C~2*H~4*, C~2*H~2*","CH~4*, C~2*H~2*","C~2*H~4*, CH~4*","C~2*H~2*, C~6*H~6*",,c,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,40,What is the number of hydrogen atoms present in the hydrocarbon formed by the hydrogenation of ethylene?,4,6,8,2,,b,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,41,Which of the following compounds on hydrolysis produces methane?,CaCN~2*,CaC~2*,Al~4*C~3*,SiC,,c,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,42,How many grams of hydrogen is required to saturate one mole of acetylene?,3 g,6 g,10 g,4 g,,d,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,43,Which of the following molecular formulae corresponds to an unsaturated hydrocarbon with triple bond?,C~4*H~8*,C~4*H~6*,C~4*H~10*,C~6*H~12*,,b,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,44,"Assertion (A) : Unsaturated hydrocarbons decolourise the red coloured bromine water.
+Reason (R) : Unsaturated hydrocarbon undergoes substitution reaction with bromine water.",Both A and R are true and R is the correct explanation of A,Both A and R are true and R is not the correct explanation of A,"A is true, R is false","A is false, R is true",,DUMMY,,MCQ
+10,Organic Chemistry - I,Concept Application Level-1,,45,"Arrange the following in a proper sequence for writing the structural formula from the given IUPAC name 4-Methyl-4-Nonene.
+(1) Locate the primary suffix and insert at the given position.
+(2) Identify the substituent and insert at the given position.
+(3) Add suitable number of hydrogen atoms to satisfy the valencies of each carbon atom.
+(4) Identify the root word and write down the parent carbon chain.",4 1 3 2,2 4 1 3,4 1 2 3,4 2 3 1,,c,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,1,Ethyl alcohol on oxidation with acidified K~2*Cr~2*O~7* gives ethanol.,,,,,,0,,TF
+11,Organic Chemistry - II,Concept Application Level-1,,2,Propionic acid is the IUPAC name of carboxylic acid with three carbon atoms.,,,,,,0,,TF
+11,Organic Chemistry - II,Concept Application Level-1,,3,The bond is called glycoside bond.,a,b,c,d,CH-11-3-ROW-454,0,,TF
+11,Organic Chemistry - II,Concept Application Level-1,,4,Proteins are the polymers of amino acids.,,,,,,1,,TF
+11,Organic Chemistry - II,Concept Application Level-1,,5,Antiseptics are a class of chemotherapeutic drugs.,,,,,,1,,TF
+11,Organic Chemistry - II,Concept Application Level-1,,6,Lauric acid and stearic acid are unsaturated fatty acids.,,,,,,0,,TF
+11,Organic Chemistry - II,Concept Application Level-1,,7,Both glucose and sucrose give Fehling’s test.,,,,,,0,,TF
+11,Organic Chemistry - II,Concept Application Level-1,,8,The part of IUPAC name of the organic compound which denotes functional group is called ________.,,,,,,secondary suffix,,FIB
+11,Organic Chemistry - II,Concept Application Level-1,,9,Structural formula of methoxypropane is CH~3*–O–CH~2*–CH~2*–CH~3*.,,,,,,1,,TF
+11,Organic Chemistry - II,Concept Application Level-1,,10,________ is the additive used in transparent soaps,,,,,,Glycerol,,FIB
+11,Organic Chemistry - II,Concept Application Level-1,,11,Diethyl ketone and isopropyl methyl ketone are called _______. ,,,,,CH-11-ANSWER-11-ROW-462,metamers,,FIB
+11,Organic Chemistry - II,Concept Application Level-1,,12,The part of the dye molecule which forms bonds with fibre is called ________.,,,,,,auxochrome,,FIB
+11,Organic Chemistry - II,Concept Application Level-1,,13,The addition compound obtained by treating propanone with hydrogen cyanide is _______.,,,,,,Propane cyanohydrin,,FIB
+11,Organic Chemistry - II,Concept Application Level-1,,14,________ is obtained by the saponification of oils.,,,,,,Soap,,FIB
+11,Organic Chemistry - II,Concept Application Level-1,,15,Match the entries in column A with the appropriate ones in column B.,"A:e, B:f, C:d, D:g, E:b, F:c, G:a","A:e, B:f, C:d, D:g, E:b, F:a, G:c","A:f, B:e, C:d, D:g, E:b, F:c, G:a","A:e, B:f, C:d, D:b, E:g, F:c, G:a",CH-11-15-ROW-466,A,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,16,"Detergents are less or non-biodegradable when compared with soaps. For detergents to be biodegradable in nature, the non-polar part of the molecule should",consist of a hydrocarbon with more branching,consist of a hydrocarbon with more number of branches and unsaturation,have straight- or open-chain hydrocarbons,be replaced by aromatic rings substituted by alkyl groups,,c,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,17,"The secondary suffix, ‘– one’ indicates the following functional group in the given compounds.",A,B,C,D,CH-11-17-ROW-468,c,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,18,"In case of oligosaccharides, the monosaccharide units are joined by",glycoside bonds,peptide bond,dative bonds,covalent bonds,,a,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,19,"When an amino acid solution which is slightly alkaline is subjected to electrolysis, the resulting component migrates towards",cathode due to zwitter ion formation,anode due to the conversion of zwitter ion to positive ion,migrate to cathode due to the conversion to negative ion,one component towards cathode and the other towards anode due to the zwitter ion formation,,b,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,20,"By treating methyl alcohol with conc. H~2*SO~4* at 140^0&C, which of the following products is formed?",ethene,dimethyl ether,methyl ethylether,ethyne,,b,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,21,The salt-like structures of amino acids are called,zwitter ions,peptide bonds,essential amino acids,proteins,,a,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,22,Which of the following enzymes is used to convert glucose into ethyl alcohol?,diastase,maltase,zymase,invertase,,c,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,23,Which of the following carbohydrates is the sweetest sugar?,glucose,fructos,cellulose,maltose,,b,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,24,Give the corresponding functional isomer of the product formed when ethanol is treated with ethanoic acid.,propanoic acid,ethyl ethanoate,butanoic acid,butanone,,c,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,25,Which of the following is the anti-viral drug?,chloroquine,tetracycline,aureomycin,sulphadiazine,,c,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,26,Tollen’s reagent contains,silver nitrate,copper nitrate,copper sulphate,ammonical silver nitrate,,d,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,27,Sucrose doesn’t respond to Tollen’s test. But it gives a positive result after boiling with conc. HCl. It is due to the,cleavage of glycosidic linkage,formation of glycosidic linkage,formation of a compound containing carboxylic acid group,isomerisation to glucose units,,a,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,28,"In deodorant soaps, the additive added in deodorant is",glycerol,stearic acid,potassium bicarbonate,"3, 4, 5-Tribromosalicylaldehyde",,d,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,29, Which of the following comes under natural adhesives?,epoxyresins,polyamides,glue,polyvinyls,,c,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,30,Which among the following is a chromophore of azo dyes?,A,B,C,D,CH-11-30-ROW-481,c,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,31,"Arrange the reactions given below in a proper sequence for the conversion of ethane to methane.
+(1) treatment with sodium hydroxide
+(2) treatment with aqueous KOH
+(3) treatment with NaOH + CaO
+(4) halogenation
+(5) reaction with acidified K~2*Cr~2*O~7*",5 1 4 2 3,4 2 5 1 3,5 3 2 1 4,4 5 1 2 3,,b,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,32,"Identify the correct sequence of given steps for the conversion of calcium carbide to methyl alcohol.
+(1) reaction with aqueous KOH
+(2) hydrolysis
+(3) reaction with soda lime
+(4) reaction with HgSO~4*/H~2*SO~4*
+(5) reaction with HgSO~4*
+(6) reaction with PCl~5*",2 4 5 3 6 1,2 4 3 1 6 5,2 6 4 5 1 3,4 2 3 5 6 1,,a,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,33,"Arrange the following carbohydrates in the order of number of monosaccharide units formed on hydrolysis.
+(1) raffinose                             (2) fructose
+(3) maltose                              (4) stachyose",3 2 1 3,2 3 1 4,4 1 3 2,2 1 3 4,,b,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,34,The IUPAC name of CH~3*COOH is,acetic acid,formic acid,methanoic acid,ethanoic acid,,d,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,35,Oxidation of ethene with cold alkaline KMnO~4* produces,Formaldehyde,glyoxal,ethene glycol,oxalic acid,,c,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,36,Which of the following compounds on reduction with NaBH~4* gives 2-Propanol?,rthyl alcohol,acetaldehyde,propanaldehyde,acetone,,d,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,37,Which among the following reactions does not give methyl alcohol?,I)The reaction of ethylene with H2SO4 at 80°C,The reaction of water gas with hydrogen at II) high temperature,III) Alkaline hydrolysis of methyl bromide,IV)Both (I) and (II),,a,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,38,Which of the following enzymes is required for the conversion of starch to maltose?,diastase,maltose,invertase,zymase,,b,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,39,The chemical name of vitamin D is,retinol,ferridoxin,calciferol,ergosterol,,c,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,40,"In case of natural rubber, the monomeric units are",isoprene,propene,"1, 3-butadiene",vinyl chloride,,a,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,41,"In deodorant soaps, the additive added is",glycerol,stearic acid,potassium bicarbonate,"3, 4, 5-Tribromo salicylaldehyde",,d,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,42,Which of the following characteristics is not related to the amphoteric nature of amino acids?,zwitter ion formation,maintenance of pH of body fluids,response of amino acids to electric field,formation of peptide linkage,,d,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,43,"Arrange the following in a proper sequence for the extraction of petroleum.
+(1) Processing of crude oil to remove heavy oil.
+(2) Heating of the crude oil containing pure mixture of hydrocarbons over a specific range of temperature.
+(3) Separation of constituents by fractional distillation.
+(4) Purification of crude oil containing salt water.
+(5) Drilling of the oil through the various layers under the earth’s surface.",5 2 1 4 3,5 3 1 2 4,5 1 4 2 3,5 1 2 3 4,,c,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,44,"Four oils A, B, C and D have the following values of melting points:
+(a) 258 K                   (b) 273 K               (c) 295            (d) 303 K
+Among these, which oil is prohibited from consumption by cardiac patients?",a,b,c,d,,d,,MCQ
+11,Organic Chemistry - II,Concept Application Level-1,,45,Which of the following statements is wrong regarding amino acids?,The living systems in plants can synthesise essential amino acids.,The living systems in animals can synthesise only essential amino acids.,The living systems in animals can synthesise only non-essential amino acids,"The living systems in plants can synthesise
+non-essential amino acids.",,c,,MCQ

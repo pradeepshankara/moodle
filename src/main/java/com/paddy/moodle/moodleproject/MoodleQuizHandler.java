@@ -34,7 +34,7 @@ public class MoodleQuizHandler {
 
     }
 
-    public void generateMoodleFileForChapterNumber(QuestionMetadata questionMetadata,String questionsFileName,int chapterNumber) throws Exception {
+    public void generateMoodleFileForChapterNumber(QuestionMetadata questionMetadata,String questionsFileName,String chapterNumber) throws Exception {
         Document doc = moodleQuizBuilder.buildQuestionsFromCsvForChapterNumber(null,questionMetadata,questionsFileName,chapterNumber);
         new FileUtil().writeToFile(doc,questionsFileName+"-"+String.valueOf(chapterNumber),1);
     }

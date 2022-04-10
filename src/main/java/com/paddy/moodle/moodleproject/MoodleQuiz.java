@@ -11,7 +11,7 @@ public class MoodleQuiz {
     String idNumber;
     String questionText;
     int questionNumber;
-    int chapterNumber;
+    String chapterNumber;
     String questionType;
     String questionClassification;
     String option1;
@@ -78,11 +78,11 @@ public class MoodleQuiz {
         this.versionNumber = versionNumber;
     }
 
-    public int getChapterNumber() {
+    public String getChapterNumber() {
         return chapterNumber;
     }
 
-    public void setChapterNumber(int chapterNumber) {
+    public void setChapterNumber(String chapterNumber) {
         this.chapterNumber = chapterNumber;
     }
 

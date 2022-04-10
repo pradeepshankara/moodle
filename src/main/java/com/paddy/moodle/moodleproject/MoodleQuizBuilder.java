@@ -64,48 +64,12 @@ public class MoodleQuizBuilder {
             Document newDocument1 = getNewXMLDocument();
             return newDocument1;
         }
-
-        if(i==200) {
+        if(i%500==0) {
             documentList.add(newDocument);
             Document newDocument1 = getNewXMLDocument();
             return newDocument1;
         }
-        if(i==400) {
-            documentList.add(newDocument);
-            Document newDocument1 = getNewXMLDocument();
-            return newDocument1;
-        }
-        if(i==600) {
-            documentList.add(newDocument);
-            Document newDocument1 = getNewXMLDocument();
-            return newDocument1;
-        }
-        if(i==900) {
-            documentList.add(newDocument);
-            Document newDocument1 = getNewXMLDocument();
-            return newDocument1;
-        }
-        if(i==1200) {
-            documentList.add(newDocument);
-            Document newDocument1 = getNewXMLDocument();
-            return newDocument1;
-        }
-        if(i==1500) {
-            documentList.add(newDocument);
-            Document newDocument1 = getNewXMLDocument();
-            return newDocument1;
-        }
-        if(i==1800) {
-            documentList.add(newDocument);
-            Document newDocument1 = getNewXMLDocument();
-            return newDocument1;
-        }
-        if(i==2100) {
-            documentList.add(newDocument);
-            Document newDocument1 = getNewXMLDocument();
-            return newDocument1;
-        }
-        if(i>=2400)
+        if(i>=9400)
             throw new Exception("Too many questions in the file!!!");
         return newDocument;
     }
@@ -157,7 +121,7 @@ public class MoodleQuizBuilder {
 
     }
 
-    public Document buildQuestionsFromCsvForChapterNumber(Document newDocument,QuestionMetadata questionMetadata,String questionsFileName,int chapterNumber) throws Exception {
+    public Document buildQuestionsFromCsvForChapterNumber(Document newDocument,QuestionMetadata questionMetadata,String questionsFileName,String chapterNumber) throws Exception {
         if(newDocument==null)
             newDocument = getNewXMLDocument();
         List<String[]> questionsStringArray = readDataLineByLine(questionsFileName);
@@ -169,7 +133,7 @@ public class MoodleQuizBuilder {
         for (MoodleQuiz question: questionsArray
         ) {
             if(i>300) break;
-            if(chapterNumber!= question.chapterNumber) continue;
+            if(chapterNumber.equalsIgnoreCase(question.chapterNumber)) continue;
             if(question.getImageFileName().equalsIgnoreCase("X")) continue;
             //if(question.getAnswerOptions().size()<=0) continue;
             if(question.getAnswerOptions().get(0).equalsIgnoreCase("DUMMY")) continue;
@@ -519,8 +483,7 @@ public class MoodleQuizBuilder {
         List<MoodleQuiz> questionsArray = new ArrayList<>();
         for (String[] x : questionsStringArray) {
             MoodleQuiz moodleQuiz = new MoodleQuiz();
-            System.out.println(x[0]);
-            moodleQuiz.setChapterNumber(Integer.parseInt(x[0]));
+            moodleQuiz.setChapterNumber(x[0]);
             moodleQuiz.setChapterName(x[1]);
             moodleQuiz.setSubChapterName(x[2]);
             moodleQuiz.setQuestionClassification(x[3]);
@@ -611,6 +574,12 @@ public class MoodleQuizBuilder {
         text7.setTextContent("QuestionClassification:"+question.getQuestionClassification());
         tag7.appendChild(text7);
         tagsNode.appendChild(tag7);
+
+        Element tag8 = doc.createElement("tag");
+        Element text8 = doc.createElement("text");
+        text8.setTextContent("QuestionNumber:"+question.getQuestionNumber());
+        tag8.appendChild(text8);
+        tagsNode.appendChild(tag8);
 
     }
 

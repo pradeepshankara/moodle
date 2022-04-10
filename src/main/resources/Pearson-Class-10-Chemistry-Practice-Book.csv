@@ -1,0 +1,788 @@
+Chapter Number,ChapterName,SubChapterName,Classification,QuestionNumber,QuestionText,Option1,Option2,Option3,Option4,Image?,Answer,AnswerDescription,QuestionType
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,1,"A spherical balloon of volume 253 mL is to be fi lled with helium gas at STP from a cylinder containing gas at 20 atm and 127^0&C. If the cylinder can hold 2 L of water, then calculate the number of balloons that can be fi lled up.",150,100,50,160,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,2,"The composition of a gaseous mixture is N~2* = 56%, O~2* = 32%, Ar = 12% by mass. What is the partial pressure of nitrogen at 1 atm pressure?",0.3 atm,0.6 atm,0.1 atm,0.2 atm,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,3,"At a given temperature, the density of a given mass of a gas is ________.",proportional to pressure,inversely proportional to pressure,proportional to its volume,inversely proportional to the number of moles,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,4,"A gold manufacturing company manufactures gold coins with absolutely pure gold. If the mass of each gold coin is 9.85 g and 1000 gold coins are manufactured per day, calculate the number of moles of gold consumed per day. (At. wt. of gold is 197 amu)",100,50,0.05,20,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,5,A closed cylinder is fi rst evacuated and then connected to another cylinder of 75-L volume containing an ideal gas ‘X’. The pressure of the gas in the second cylinder falls from 22 atm to 10 atm. Calculate the volume of the first cylinder.,165 L,90 L,127 L,95 L,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,6,T he density of a mixture of He and O~2* at STP is 1.25 g/L. What is the partial pressure of O~2*?,0.95 atm,0.65 atm,0.85 atm,0.75 atm,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,7,A rubber balloon which is permeable to all the isotopes of hydrogen is filled with pure tritium. It is placed in a closed box containing pure hydrogen under similar conditions of temperature and pressure. Identify the correct observation regarding the balloon.,The balloon first expands and then contracts.,The balloon first contracts first and then expands.,The balloon expands.,The balloon contracts.,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,8,A bottle is heated from 27^0&C to 127^0&C at constant pressure. What fraction of air gets expelled?,25%,50%,75%,90%,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,9,An oxide of Cr contains 68.5% of Cr by weight. Find the empirical formula of the oxide. (Atomic weight of Cr = 52),Cr~2*O~3*,Cr~3*O~2*,Cr~2*O,CrO~2*,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,10,"Two gram atoms of Na are burnt in excess of oxygen and the oxide is
+dissolved in water to make up 500-mL solution. Calculate the molarity of the solution.",1 M,2 M,3 M,4 M,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,11,"Assertion (A) : 80 g of SO~3* occupies 22.4 L STP
+Reason (R) : 80 g of SO~3* corresponds to 1 mole.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,12,"Assertion (A) : Real gases behave ideally at low pressure and high
+temperature.
+Reason (R) : At low pressure and high temperature, intermolecular forces of attraction among the gas molecules are negligible.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,13,Match the entries of Column A with those of Column B.,(i) → (C); (ii) → (D); (iii) → (B); (iv) → (A),(i) → (D); (ii) → (C); (iii) → (A); (iv) → (B),(i) → (B); (ii) → (A); (iii) → (D); (iv) → (C),(i) → (B); (ii) → (C); (iii) → (D); (iv) → (A),CH-1-13-ROW-14,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,14,"3 moles of ammonia undergo decomposition to give two gases. One of the gases, on treatment with excess oxygen, gives a brown-coloured gas, ‘X’. To calculate the volume occupied by X at STP, arrange the following steps in correct sequence.
+(A) Identifying the number of moles of X formed.
+(B) Identifying the relation between the number of moles and volume occupied at STP.
+(C) Writing a balanced chemical equation for decomposition of NH3.
+(D) Identifying the number of moles of the gas that is used for the preparation of X.
+(E) Writing a balanced chemical equation for the formation of X.",C D A E B,C D E A B,E C D B A,E D B A C,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - I,15,"Arrange the following reactions as combination, decomposition, displacement and double displacement reactions.
+(A) Reaction between an acid and a base to from salt and water
+(B) Reaction between zinc and dil. H~2*SO~4*
+(C) Preparation of oxygen from potassium nitrate
+(D) Preparation of CO~2* from its constituents",C D A B,C D B A,D C B A,D C A B,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,1,A cylinder can hold 7.2 g of ozone at 1 atm and 27^0&C. Calculate the weight of oxygen that can be filled in the same cylinder at 3 atm and -73^0&C.,10.8 g,28.8 g,14.8 g,21.6 g,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,2,A gaseous mixture contains 16 g of O~2* and 20 g of Ne at 3 atm pressure and 27^0&C. Calculate the partial pressure of O~2* gas.,0.5 atm,1.5 atm,1 atm,2 atm,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,3,Which among the following gases possesses maximum density at a given temperature and pressure?,Oxygen,Carbon dioxide,Sulphur dioxide,Nitrogen,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,4,"If the Avogadro number is 9 × 10^23*, calculate the weight of 1 mole of CO~2* gas.",44 g,66 g,22 g,33 g,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,5,"At constant temperature and at 4 atm pressure, the given amount of gas occupies 6 L. If the pressure is increased by 6 atm, calculate the percentage change in the volume of the gas.",-60%,+60%,-100%,+100%,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,6,A gaseous mixture contains 48 g of SO~2* and 33 g of CO~2* at constant temperature and pressure. Calculate the average molecular mass of the gaseous mixture.,108,81,54,27,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,7,"Calculate the ratio of rates of diffusion of three isotopes of hydrogen protium, deuterium and trititum, respectively, at the same temperature and pressure.",a,b,c,d,CH-1-7-ROW-23,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,8,"3 × 10^23& molecules of nitrogen are taken in a 1-L vessel at 27^0&C and exert 3 atm pressure. If 9 × 10^23& molecules are added to the vessel, calculate the pressure exerted by the gas at the same temperature.",15 atm,6 atm,12 atm,9 atm,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,9,W hich among the following compounds possesses the same empirical formula mass and molecular mass?,CH~3*COOH,C~2*H~5*OH,C~4*H~10*,C~6*H~8*N~2*,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,10,1.6 g of sulphur on treatment with limited amount of oxygen forms a gas X which is dissolved in water and made up to 1500 mL. Calculate the molarity of the solution.,0.01 M,0.02 M,0.04 M,0.03 M,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,11,"Assertion (A): 84 g each of nitrogen gas and carbon monoxide gas possess equal number of molecules.
+Reason (R): Equal volumes of all gases possess equal number of moles at constant temperature and pressure.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,b,,AR
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,12,"Assertion (A): Gas laws are not applicable to the gases at all conditions of temperature and pressure.
+Reason (R): Gas laws are derived based on kinetic molecular theory of
+gases.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,13,Match the entries of Column A with those of Column B.,(i) → (C); (ii) → (D); (iii) → (B); (iv) → (A),(i) → (B); (ii) → (C); (iii) → (D); (iv) → (A),(i) → (D); (ii) → (C); (iii) → (A); (iv) → (B),(i) → (C); (ii) → (A); (iii) → (D); (iv) → (B),CH-1-13-ROW-29,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,14,"Arrange the following reactions in the correct sequence for the formation of white precipitate.
+(A) H~2* + Cl~2* → HCl
+(B) NaCl → Na + Cl~2*
+(C) HCl + AgNO~3* → AgCl + HNO~3*
+(D) HCl + H~2*O → HCl",B A D C,A B D C,D A B C,B D A C,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - II,15,"Arrange the following reactions in the order of double displacement, combination, displacement and decomposition reaction.
+(A) Electrolysis of concentrated NaCl solution to form A and B (gas)
+(B) Reaction between dil. H~2*SO~4* and Mg to form C and D (gas)
+(C) Reaction between B and D to form E
+(D) Reaction between E and NaOH",D C A B,C D B A,C D A B,D C B A,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,1,Match the entries of Column A with those of Column B.,(i) → (C); (ii) → (E); (iii) → (D); (iv) → (B); (v) → (A),(i) → (B); (ii) → (E); (iii) → (D); (iv) → (A); (v) → (C),(i) → (C); (ii) → (D); (iii) → (E); (iv) → (B); (v) → (A),(i) → (B); (ii) → (D); (iii) → (E); (iv) → (A); (v) → (C),CH-1-1-ROW-32,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,2,"Arrange the following salts in the increasing order of the total number of constituent atoms.
+(A) Ammonium sulphite
+(B) Ammonium bicarbonate
+(C) Ammonium sulphate
+(D) Ammonium sulphide
+(E) Ammonium dichromate",E C A D B,B C A D E,B D A C E,E D A C B,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,3,"Arrange the following metals in the increasing order of reactivity.
+(A) Fe          (B) Hg           (C) Ni           (D) Pb   (E) Cu",B E C D A,A E D C B,A C D E B,B E D C A,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,4,"Assertion (A): In the thermal decomposition of sodium bicarbonate carried out an open vessel, the mass of the product is not the same as the mass of the reactant.
+Reason (R): Law of conservation of mass is not applicable for the decomposition reactions.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,5,"Assertion (A): The rate of diffusion of hydrogen gas is double that of helium under similar condition.
+Reason (R): The rate of diffusion of a gas is inversely proportional to the square root of its density. at constant temperature and pressure.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,d,,AR
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,6,What is the ratio of the percentage weights of nitrogen and sulphur in their dioxides?,2 : 3,3 : 5,1 : 3,4 : 5,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,7,Identify the volume of CO~2* produced at STP when 90 g of glucose is subjected to combustion.,67.2 L,44.8 L,22.4 L,33.6 L,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,8,Which among the following has the maximum molarity?,15 g of NaOH in 150 mL solution,24.5 g of NaOH in 250 mL solution,14.6 g of HCl in 200 mL solution,18.5 g of Ca(OH)~2* in 500 mL solution,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,9,Radicals and their valencies are given below. Identify the wrongly matched pair.,Biphospate → 2,Bicarbonate → 2,Ammonium → 1,Silicate → 2,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,10,"Empirical formula of a compound is X~2*Y. If its empirical formula weight is 2/3 times that of the vapour density of the compound, identify the probable molecular formula.",X~2* Y,X~4* Y~2*,X~6* Y~3*,X~2* Y~4*,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,11,Find out the temperature at which the volume of a given mass of a gas is reduced to 2/5 of its original volume at 30^0&C without any change in pressure.,121.2^0&C,151.8^0&C,-121.2^0&C,-151.8^0&C,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,12,Calculate the total number of atoms present in 8 g of sulphur trioxide.,6 x 10^23&,2.4 x 10^23&,6 x 10^22&,2.4 x 10^22&,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,13,Weight percentage of chlorine in an alkali metal chloride is 48%. What could be the probable atomic mass of the metal?,56,39,19,7,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,14,A mixture of 35.5 g chlorine and 11.5 g of NO~2* is taken in a 5-L container at 27^0&C. What would be the partial pressure of chlorine in the mixture?,2.4 atm,1.2 atm,1.8 atm,4.8 atm,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - III,15,"The molecular masses of four gases A, B, C, D are given below.
+A → 80, B → 28, C → 64, D → 39. The experimental values of the masses of 1l of each gas are 3.65 g, 1.261 g, 2.9 g and 1.742 g, respectively at STP. Identify the gas which is closest to ideal behaviour.",A,B,C,D,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,1,Match the entries of Column A with those of Column B.,(i) → (D); (ii) → (C); (iii) → (A); (iv) → (E); (v) → (B),(i) → (E); (ii) → (C); (iii) → (B); (iv) → (A); (v) → (D),(i) → (B); (ii) → (C); (iii) → (D); (iv) → (E); (v) → (A),(i) → (D); (ii) → (C); (iii) → (E); (iv) → (A); (v) → (B),CH-1-1-ROW-47,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,2,"Arrange the following compounds in the order of ratios of metal to oxygen atoms given below.
+(i) 2:3         (ii) 1:2          (iii) 1:8         (iv) 1:6         (v) 1:4
+(A) Aluminium phosphate
+(B) Magnesium dihydrogen phosphate
+(C) Sodium silicate
+(D) Ferric sulphate
+(E) Disodium hydrogen phosphate",A E B D C,C E B D A,C D B E A,A D B E C,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,3,"Arrange the following metals in the descending order of the rate at which they replace hydrogen from sulphuric acid.
+(A) Ca          (B) Al         (C) K          (D) Sn         (E) Mg",C A E B D,D B E A C,C B E A D,D A E B C,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,4,"Assertion (A): 106 g of sodium carbonate shows a loss in weight of 44 g on heating.
+Reason (R): Loss in weight is always equal to the amount of gaseous
+product formed in that reaction.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,d,,AR
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,5,"Assertion (A): Rate of diffusion of carbon monoxide is equal to that of
+nitrogen under similar conditions.
+Reason (R): Dalton’s law is not applicable to reactive gases.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,b,,AR
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,6,Which of the following compounds has almost the same percentage of oxygen as in calcium carbonate?,Sulphuric acid,Magnesium sulphate,Potassium nitrate,Sodium bicarbonate,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,7,What is the amount of methane that can be subjected to combustion with 112 L of oxygen at STP?,16 g ,30 g,20 g,40 g,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,8,A 500 mL solution is made with 10 g of NaOH. Which of the following solutions has the same molarity as the above solution?,4.9 g H~2*SO~4* in 100 mL solution,10.6 g Na~2*CO~3* in 100 mL solution,42 g NaHCO~3* in 500 mL solution,12.6 g HNO~3* in 250 mL solution,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,9,Some ions are given along with their respective charges. Identify the wrong one.,Cupric → +2,Ferric → +3,Plumbic → +2,Cuprous → +1,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,10,A compound ‘X’ has empirical formula CH~2*O. Vapour density of the compound is 30. Which of the following compounds corresponds to X?,C~6&H~12*O~6*,CH~3*COOH,CH~3*CH~2*OH,CH~3*COOCH~3*,,b,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,11,A certain mass of a gas occupies certain volume at 27^0&C. What is the percentage decrease in volume at −73^0&C?,33.30%,51.20%,66.60%,48.80%,,a,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,12,A sample of nitrogen pentoxide contains 4.2 × 10^22& atoms. Calculate the number of moles of N~2*O~5* in the above sample.,0.7,0.1,0.07,0.01,,d,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,13,Weight percentage of oxygen in a trivalent metal oxide is 30%. Find out the atomic mass of the metal.,112,224,56,28,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,14,4 g of oxygen and 3.5 g of nitrogen are taken in a 3-L container at 127^0&C. Calculate the partial pressure of nitrogen in the mixture.,1.8 atm,0.32 atm,1.3 atm,2.6 atm,,c,,MCQ
+1,"Mole Concept, Stoichiometry and Behaviour of Gases",,Assessement Test - IV,15,"Three gases ‘X’, ‘Y’ and ‘Z’ possess the molecular mass 28. The experimental values of masses of 1 L of each are given as 1.256 g, 1.258 g and 1.251 g, respectively, at STP. Arrange the three gases in the decreasing order of deviation from ideal behaviour.","Y, X, Z","Z, Y, X","Y, Z, X","Z, X, Y",,a,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,1,"Fine structure of spectral lines of atomic spectrum of hydrogen can be
+explained based on ________.",Bohr’s atomic model,Sommerfeld’s extension of Bohr’s theory,Rutherford’s atomic model,Heisenberg’s uncertainty principle,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,2,Which of the following is the valence electronic confi guration of carbon?,A,B,C,D,CH-2-2-ROW-63,d,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,3,An element has 18 electrons more than the number of electrons present in xenon. Which block does the element belong to?,s,p,d,f,,c,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,4,An element has two electrons in the 3p shell. Which group does it belong to?,III A or 13,III B or 3,IV A or 14,IV B or 4,,c,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,5,An element has a total of 4 electrons with l = 2. The element is a/an ________.,alkali metal,noble gas,halogen,transition metal,,d,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,6,The valence electronic confi guration of the best reducing agent along a period is ________.,ns^2&np^1&,ns^2&np^5&,ns^2&,ns^1&,,d,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,7,T he energy of an electron in the 2nd orbit of a single electron species is -54.4 eV. The neutral atom of that species belongs to ________.,"1st period, I A (1st) group",2nd period I A (1st) group,"1st period, Zero (18th) group","2nd period, II A (2nd) group",,d,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,8,"The radius of the third orbit of a single electron species ‘A’ is 1.587 A^0&. The radius of the third orbit of another single electron species ‘B’ is 3/4 th of A. Which of the following could be the electron affinity values of A and B, respectively, in their atomic states?","-x kJ/mole, y kJ /mole","x kJ/mole, -y kJ/mole","-x kJ/mole, -y kJ/mole","x kJ/mole, y kJ/mole",,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,9,"Assertion (A) : The energy of 5d orbital is more than 6s orbital.
+Reason (R) : The energy of an orbital depends only on the size of the orbit associated with it.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+2,Atomic Structure; Periodic Table,,Assessement Test - I,10,The valence electronic configuration of four elements is given below. Which element has the highest ionization energy among the following?,2s^2&2p^3&,2s^2&,2s^2&2p^4&,2s^2&2p^1&,,a,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,11,"Calculate the velocity of the electron, if the wavelength associated with it is 3.3125 A^0&.",0.22 × 10^9& cm/s,0.22 × 10^-9& cm/s,3.4 × 10^9& cm/s,3.4 × 10^-9& cm/s,,a,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,12,"Assertion (A) : Ionization energy of boron is less than beryllium.
+Reason (R) : Boron has one unpaired electron in p orbital.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+2,Atomic Structure; Periodic Table,,Assessement Test - I,13,"Arrange the following in the chronological order.
+A) Electrons revolve around the nucleus in order to overcome the nuclear force of attraction
+B) Orbitals are three-dimensional regions where the probability of finding an electron is maximum.
+C) Electrons move in elliptical orbits in addition to circular orbits.
+D) Electrons revolve around the nucleus in stationary orbits.",A C B D,A D C B,B D C A,D B A C,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,14,"Arrange the following elements in the increasing order of total number of paired electrons.
+(A) Beryllium       (B) Neon            (C) Scandium          (D) Zinc",D C B A,B A C D,A B C D,C A B D,,c,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - I,15,Match the entries of Column A with those of Column B.,(i) → (E); (ii) → (A); (iii) → (C); (iv) → (B); (v) → (D),(i) → (E); (ii) → (C); (iii) → (A); (iv) → (B); (v) → (D),(i) → (E); (ii) → (C); (iii) → (D); (iv) → (B); (v) → (A),(i) → (E); (ii) → (C); (iii) → (D); (iv) → (A); (v) → (B),CH-2-15-ROW-76,d,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,1,The concept of stationary orbits is based on ________.,Heisenberg’s uncertainty principle,Planck’s quantum theory,Dual nature of electron that is de Broglie’s theory,Sommerfeld’s extension of Bohr’s theory,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,2,Which of the following is the valence electronic configuration of nitrogen?,A,B,C,D,CH-2-2-ROW-78,d,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,3,The number of electrons in an element is four times the number of electrons in helium. Which block does the element belong to?,s,p,d,f,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,4,An element has 3 electrons in the 3d subshell. Which group and period does it belong to?,"III B or 3rd group, 3rd period","III A or 13th group, 3rd period","V B or 5th group, 4th period","V A or 15th group, 4th period",,c,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,5,"An element has 11 electrons with l = 1, the element is a/an ________.",alkali meta,noble gas,halogen,transition metal,,c,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,6,The valence electronic configuration of the best oxidising agent along a period is ________.,ns^2&np^1&,ns^2&np^5&,ns^2&,ns^1&,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,7,The radius of the 3rd orbit of a single electron species is 4.761 A^0&. This element has the similarities in properties with ________.,halogens,alkali metal,alkaline earth metals,Both (a) and (b),,d,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,8,Which of the following valence electronic configurations indicates maximum electron affinity?,ns^2&np^5&,3s^2&3p^5&,2s^2&2p^3&,3s^2&3p^4&,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,9,"If the wavelength of a wave associated with an electron is x cm, then calculate the kinetic energy of the electron considering Planck’s constant as ‘h’ erg-s and the mass of the electron as ‘m’ grams.",a,b,c,d,CH-2-9-ROW-85,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,10,Which of the following statements is incorrect?,Electron affinities of the elements of group II A or 2 are negative.,Electron affinities of noble gases are maximum.,Electronegativity of fluorine is the maximum among the halogens.,Electron affinity decreases along a group,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,11,"Assertion (A) : The energy of 3d orbital is more than 4s orbital.
+Reason (R) : Nitrogen is stable because of its completely filled s orbitals.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+2,Atomic Structure; Periodic Table,,Assessement Test - II,12,"Assertion (A) : Ionization energy of nitrogen is more than that of carbon as well as oxygen.
+Reason (R) : Nitrogen is stable because of its completely filled s orbitals.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+2,Atomic Structure; Periodic Table,,Assessement Test - II,13,"Arrange the following in chronological order.
+(A) Energy emitted or absorbed by an atom is quantised.
+(B) Electrons are embedded in a thinly spread positively charged mass.
+(C) An electron has particle properties as well as wave properties.
+(D) An atom is indivisible.",D B A C,B D A C,D C A B,B C A D,,a,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,14,"Arrange the following elements in the increasing order of total number of unpaired electrons.
+(A) Nitrogen          (B) Sodium        (C) Manganese        (D) Chromium",C A B D,B A C D,A B C D,B D C A,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - II,15,Match the entries of Column A with those of Column B.,(i) → (D); (ii) → (E); (iii) → (A); (iv) → (C); (v) → (B),(i) → (D); (ii) → (C); (iii) → (B); (iv) → (A); (v) → (E),(i) → (E); (ii) → (A); (iii) → (B); (iv) → (D); (v) → (C),(i) → (D); (ii) → (E); (iii) → (A); (iv) → (B); (v) → (C),,d,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,1,"Arrange the following statements in the chronological order, which ultimately led to the development of modern structure of atom.
+(A) Electrons have wave properties as well as particle properties
+(B) Quantum mechanical model of the atom.
+(C) The energy associated with the subshells is quantised.
+(D) Principle of quantization of angular momentum.",C D B A,D C B A,D C A B,C D A B,,c,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,2,"Arrange the stable isoelectronic ions A^-2&, B^-1&, C^+1&, and D^+2& in the increasing
+order of ionic sizes:",C^+1& < D^+2& < B^-1& < A^-2&,D^+2& < C^+1& < B^-1& < A^-2&,C^+1& < D^+2& < A^-2& < B^-1&,D^+2& < C^+1& < A^-2& < B^-1&,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,3,Which among the following electronic configurations corresponds to the element with maximum metallic character?,[Kr] 5s^1&,[Ne] 3s^1&,[Xe] 6s^1&,[Ar] 4s^1&,,c,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,4,"Assertion (A) : Chemical properties of the elements belonging to the same group are the same.
+Reason (R) : Elements belonging to the same group possess the same number of valence electrons.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+2,Atomic Structure; Periodic Table,,Assessement Test - III,5,Which among the following groups results in an endothermic process on addition of an electron?,IA,IIIA,IIA,IVA,,c,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,6,"The atomic numbers of four elements ‘A’, ‘B’, ‘C’ and ‘D’ are (Z - 1), (Z - 2), Z, and (Z + 1), respectively. If C is an inert gas (not helium), then the correct order of ionization energies of elements is ________.",C > B > A > D,C > A > B > D,C > D > B > A,C > B > D > A,,a,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,7,Which of the following elements acts as the best reducing agent?,Na,K,Mg,Ca,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,8,The radius of the 2nd orbit of a single electron species with atomic number 3 is ________.,0.7 A^0&,0.35 A^0&,0.8 A^0&,0.4 A^0&,,a,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,9,The existence of subenergy levels in each main energy level is the explanation of ________.,fine structure of spectral lines,splitting of spectral lines in the presence of magnetic field,splitting of spectral lines in the presence of electric field,quantization of angular momentum,,a,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,10,The correct order of energies of orbitals is ________.,4p < 3s < 4d,5p < 4s < 3d,4s < 5p < 6d,3d < 5s < 3p,,c,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,11,"Assertion (A) : With increase in distance from the nucleus, the kinetic energy of an electron increases.
+Reason (R) : Nuclear force of attraction is inversely proportional to the distance between an electron and the nucleus.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,d,,AR
+2,Atomic Structure; Periodic Table,,Assessement Test - III,12,Which among the elements corresponding to the following atomic numbers possesses the maximum number of unpaired electrons?,15,26,33,21,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,13,An atom of an element has 4 electrons in the 4p subshell. Predict its position in the modern periodic table.,"16th group, 4th period","17th group, 4th period","16th group, 3rd period","17th group, 3rd period",,a,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,14,Which among the following quantum numbers describes the spatial orientation of the orbit?,Spin quantum number,Magnetic quantum number,Azimuthal quantum number,Principal quantum number,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - III,15,M atch the entries of Column A with those of Column B.,(i) → (C); (ii) → (E); (iii) → (D); (iv) → (A),(i) → (B); (ii) → (E); (iii) → (D); (iv) → (A),(i) → (C); (ii) → (A); (iii) → (D); (iv) → (E),(i) → (E); (ii) → (B); (iii) → (D); (iv) → (A),,a,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,1,"Arrange the following statements in chronological order.
+(A) Wave equation that describes the behaviour and energies of electron in an atom.
+(B) Stationary orbits
+(C) The characteristic of an electron revolving in Bohr’s orbit is similar to the characteristic of a standing wave.
+(D) Quantum theory of radiation",D B C A,D B A C,B D C A,B D A C,,a,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,2,"A^+2&, B^+1&, C^-1& and D^-2& are the stable ions formed by the elements ‘A’, ‘B’, ‘C’ and ‘D’. Arrange A, B, C and D in the increasing order of their group numbers in the periodic table.",A B D C,B A D C,A B C D,B A C D,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,3,Which among the following elements has the maximum metallic character?,Na ,Mg,K,Ca,,c,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,4,"Assertion (A): Na and Ca show different chemical properties.
+Reason (R): Both Na and Ca belong to the same group.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,5,"The order of electron affinity of Be, B and C is ________.",Be > C > B,C > B > Be,C > Be > B,B > C > Be,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,6,"The order of ionization energies of three elements is X >>> Y > Z. What could be the elements ‘X’, ‘Y’ and ‘Z’?","X → Ar, Y → S, Z → Cl","X → Cl, Y → Ar, Z → Na","X → Na, Y → Ca, Z → Ar","X → Ar, Y → Mg, Z → Na",,d,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,7,Which among the following possesses maximum reducing property?,Na,Li,K,Rb,,d,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,8,The radius of the 3rd orbit of a single electron species is 1.19 A^0& Determine the atomic number.,2,1,4,3,,c,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,9,Sommerfeld introduced ________ and ________.,"elliptical orbits, principal quantum number","elliptical orbits, azimuthal quantum number","circular orbits, principal quantum number","circular orbits, azimuthal quantum number",,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,10,"If 4p orbital is completely filled, the next electron enters into the ________ orbital.",4f,5p ,4d,5s,,d,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,11,"Assertion (A): With the increase in distance from the nucleus, the velocity of electron decreases.
+Reason (R): With the increase in distance from the nucleus, the nuclear force of attraction on the electron decreases.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,12,Which among the following atomic numbers possesses maximum number of electrons in its p-orbital?,19,32,25,36,,d,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,13,An element ‘X’ belongs to the 5th period and the 2nd group in the modern periodic table. Calculate the number of electrons present in s-orbits.,8,10,9,7,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,14,"For a given azimuthal quantum number ℓ, the total magnetic quantum number m values are ________.",2l,2l + 1,2l - 1,2l + 2,,b,,MCQ
+2,Atomic Structure; Periodic Table,,Assessement Test - IV,15,Match the entries of Column A with those of Column B.,(i) → (C); (ii) → (E); (iii) → (D); (iv) → (A),(i) → (B); (ii) → (E); (iii) → (D); (iv) → (A),(i) → (C); (ii) → (A); (iii) → (D); (iv) → (E),(i) → (E); (ii) → (B); (iii) → (D); (iv) → (A),CH-2-15-ROW-121,c,,MCQ
+3,Chemical Bonding,,Assessement Test - I,1,"During the formation of which of the following molecules, does hydrogen gain an electron?",NH~3*,HI,H~2*O,NaH,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - I,2,Which of the following molecules is non-polar?,NH~3*,CIF~3*,BF~3*,PCl~3*,,c,,MCQ
+3,Chemical Bonding,,Assessement Test - I,3,In which of the following molecules is a dative bond absent?,Hypochlorous acid,Hydrochloric acid,Ammonium chloride,Hydrogen chloride gas,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - I,4,Metallic bond is devoid of ______________.,free electrons,anions,positively charged metal ions,nucleons,,b,,MCQ
+3,Chemical Bonding,,Assessement Test - I,5,Which of the following species is associated with dipole-dipole interaction?,CCl~4*,NaCl,BCl~3*,NCl~3*,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - I,6,Which of the following molecules has sp3-p overlapping?,BCl~3*,CH~4*,H~2*O,CCl~4*,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - I,7,Find the odd one out with respect to hybridization.,CO~2*,BeCl~2*,C~2*H~2*,OF~2*,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - I,8,"Based on the given geometry of the molecule, identify the suitable molecule among the following.",SO~2*,Cl~2*O,H~2*O,Na~2*O,CH-3-8-ROW-129,c,,MCQ
+3,Chemical Bonding,,Assessement Test - I,9,"In which of the following molecules, does interionic attraction not exist?",AlCl~3*,MgCl~2*,KCl,CsCl,,a,,MCQ
+3,Chemical Bonding,,Assessement Test - I,10,"Arrange the following molecules in the increasing order of the oxidation state of nitrogen.
+(A) NH~3*     (B) HNO~3*      (C) NO       (D) N~2*O~3*",A B C D,A C D B,B C D A,B D C A,,b,,MCQ
+3,Chemical Bonding,,Assessement Test - I,11,"‘A’, ‘B’, ‘C’ and ‘D’ are four metals belonging to group 2 (IIA) and 3rd, 4th, 5th and 6th periods, respectively. Arrange their chlorides in the increasing order of covalent character.",ACl~2* < BCl~2* < CCl~2* < DCl~2*,ACl~2* < DCl~2* < CCl~2* < BCl~2*,ACl~2* < DCl~2* < BCl~2* < CCl~2*,DCl~2* < CCl~2* < BCl~2* < ACl~2*,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - I,12,"Assertion (A): Transition elements are much harder than corresponding alkali and alkaline earth metals.
+Reason (R): The force of attraction between two oppositely charged particles is directly proportional to the magnitude of the charges and inversely proportional to the distance between them.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+3,Chemical Bonding,,Assessement Test - I,13,"Assertion(A) : A substance constituted of non-polar covalent molecules mostly exists in gaseous states.
+Reason (R) : van der Waals’ force of attraction is the strongest among the non-bonded forces of attraction among molecules.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+3,Chemical Bonding,,Assessement Test - I,14,Match the entries of Column A with those of Column B.,"(i) → (C); (ii) → (D), (E); (iii) →(A), (B), (C); (iv) → (E); (v) → (B)","(i) → (C); (ii) → (D); (iii) → (A), (D); (iv) → (C), (D), (E); (v) → (B)","(i) → (C), (D); (ii) → (A), (C), (D); (iii) → (E); (iv) → (B); (v) → (A)","(i) → (D); (ii) → (B), (C); (iii) → (D); (iv) → (A), (D), (E); (v) → (A)",CH-3-14-ROW-135,b,,MCQ
+3,Chemical Bonding,,Assessement Test - I,15,Identify the hybridization of the central atom in the molecule AB~3* in which ‘A’ has 17 electrons and ‘B’ has 9 electrons.,sap^2&,sp^3&,sp,sp^3&d,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - II,1,"In which of the following molecules, does transfer of electron(s) take place?",PCl~3*,CsCl,BCl~3*,BeCl~2*,,b,,MCQ
+3,Chemical Bonding,,Assessement Test - II,2,Which of the following molecules is polar?,CH~4*,CO~2*,KCl,CHCl~3*,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - II,3,In which of the following molecules is a dative bond present?,PCl~5*,NCl~3*,C~2*H~6*,Al~2*Cl~6*,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - II,4,"In metallic bonds, there are no ___________.",free electrons,bonded electrons,positive ions,neutral atoms,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - II,5,"Which of the following molecules is not associated with dipole-dipole
+interactions?",H~2*S,HF,OF~2*,C~2*H~6*,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - II,6,Which of the following molecules has sp2-p overlapping?,CO~2*,CCl~4*,BCl~3*,C~2*H~4*,,c,,MCQ
+3,Chemical Bonding,,Assessement Test - II,7,Find out the odd one out with respect to hybridization.,XeF~2*,CH~2*Cl~2*,PCl~5*,SF~4*,,b,,MCQ
+3,Chemical Bonding,,Assessement Test - II,8,"Based on the given geometry of the molecule (A = B = A), identify the suitable molecule from the following.",SO~2*,K~2*O,CO~2*,H~2*O,,c,,MCQ
+3,Chemical Bonding,,Assessement Test - II,9,Which of the following substances does not exist in molecular state?,MgCl~2*,BeCl~2*,SO~2*,N~2*O,,a,,MCQ
+3,Chemical Bonding,,Assessement Test - II,10,"Arrange the following species in the increasing order of the oxidation states of chlorine.
+(A) KCl        (B) Cl~2*         (C) HOCl          (D) Cl~2*O~3*",A C B D,D C B A,D A B C,A B C D,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - II,11,"Arrange the following compounds in the increasing order of ionic character.
+(A) CaS          (B) MgS           (C) K~2*O           (D) K~2*S",B A D C,A B C D,A D C B,B C D A,,a,,MCQ
+3,Chemical Bonding,,Assessement Test - II,12,"Assertion (A): Metallic bond in alkaline earth metal is weaker than that in alkali metal.
+Reason (R): Forces of attraction between two oppositely charged particlesare directly proportional to the magnitude of the charges and inversely proportional to the distance between them.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,d,,AR
+3,Chemical Bonding,,Assessement Test - II,13,"Assertion (A): Ammonia gas is easily liquefiable at room temperature.
+Reason (R): H-bond formation takes place among the molecules constituted of hydrogen and a highly electronegative element of smaller size.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+3,Chemical Bonding,,Assessement Test - II,14,Match the entries of Column A with those of Column B.,"(i) → (A), (B); (ii) → (C); (iii) → (D); (iv) → (C), (E); (v) → (E)","(i) → (C); (ii) → (D); (iii) → (A), (C); (iv) → (B), (C); (v) → (E)","(i) → (B); (ii) → (B); (iii) → (C), (D); (iv) → (B); (v) → (A)","(i) → (D); (ii) → (A), (C); (iii) → (B), (D); (iv) → (E); (v) → (A)",CH-3-14-ROW-150,b,,MCQ
+3,Chemical Bonding,,Assessement Test - II,15,Identity the shape of the molecule AB5 in which ‘A’ has 15 electrons and ‘B’ has 17 electrons.,Regular tetrahedral,Linear,Trigonal bipyramidal,Trigonal planar,,c,,MCQ
+3,Chemical Bonding,,Assessement Test - III,1,"Assertion(A): Cuprous chloride has lesser ionic character than potassium chloride.
+Reason(R): Alkali metals possess lower values of ionization potential than transition metals.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,b,,AR
+3,Chemical Bonding,,Assessement Test - III,2,"Assertion(A): Mercury is a liquid at room temperature although it is a
+metal.
+Reason(R): In mercury atom, the nuclear force of attraction on the valence shell is much greater than in other metals.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+3,Chemical Bonding,,Assessement Test - III,3,Match the entries of Column A with those of Column B.,(i) → (C); (ii) → (A); (iii) → (E); (iv) → (B); (v) → (D),(i) →(D); (ii) → (C); (iii) → (E); (iv) → (B); (v)→ (A),(i) →(D); (ii) → (E); (iii) → (A); (iv) → (B); (v) → (C),(i) →(C); (ii) → (E); (iii) → (A); (iv) → (B); (v) → (D),CH-3-3-ROW-154,c,,MCQ
+3,Chemical Bonding,,Assessement Test - III,4,"Arrange the following compounds in the increasing order of oxidation states
+of central atoms:
+(A) Phosphoric acid                    (B) Carbon tetrachloride
+(C) Sulphuric acid                       (D) Boron trioxide
+(E) Chlorine heptoxide",E B A C D ,D C A B E ,E C A B D,D B A C E,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - III,5,"Arrange the following ionic compounds in the increasing order of their lattice energies:
+(A) AlF3        (B) MgF2           (C) CaF2       (D) CsF",A D C B,D C B A,B C D A,A B C D,,b,,MCQ
+3,Chemical Bonding,,Assessement Test - III,6,"Among the following compounds, identify the one in which metal and nonmetal show different electrovalencies.",Magnesium oxide,Aluminium oxide,Sodium fluoride,Aluminium nitride,,b,,MCQ
+3,Chemical Bonding,,Assessement Test - III,7,The central atom in a molecule has 4 bond pairs and 2 lone pairs. Predict the shape of the molecule,Octahedral,Trigonal bipyramidal,Pentagonal bipyramidal,Square planar,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - III,8,Identify the wrongly matched pair,CO~2* → sp hybridization,NH^+&~4* → sp^3& hybridization,SF~6* → sp^3&d^2& hybridization,XeF~4* → sp^3&d hybridization,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - III,9,"Identify the odd molecule, among the following:",BCl~3*,SF~6*,IF~7*,PCl~3*,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - III,10,Potassium metal reacts with bromine to form potassium bromide. Which of the following statements is incorrect regarding the above reaction?,Potassium undergoes reduction,Bromine is an oxidizing agent,Potassium loses electron,It is a redox reaction,,a,,MCQ
+3,Chemical Bonding,,Assessement Test - III,11,Transition metals form complex compounds. Identify the reason.,Presence of vacant orbitals in valence shell,Presence of vacant orbitals in penultimate shell,Absence of unpaired electrons in penultimate shell,Possibility for variable oxidation states,,b,,MCQ
+3,Chemical Bonding,,Assessement Test - III,12,Which of the following shows a convex meniscus?,Water taken in a narrow glass tube,Mercury taken in a metal tube,Oil taken in a polythene tube,Water taken in a polythene tube,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - III,13,Which of the following reasons can be attributed to the higher vapour pressure of H~2*S than H~2*O in their liquid states?,Higher molecular mass of H~2*S,Presence of lone electron pairs in H~2*O,Presence of hydrogen bonding in H~2*O,Lesser bond angle in H~2*S than in H~2*O,,c,,MCQ
+3,Chemical Bonding,,Assessement Test - III,14,Which of the following processes involves the formation of co-ordinate covalent bond?,Formation of complex ion AI[H~2*O]~6*^+3&,Dissolution of HCl in water,Formation of dimer of AlCl~3*,Formation of NH~3* → BF~3*,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - III,15,A compound ‘X’ is an ionic compound. Which of the following is not the characteristic feature of X?,X is soluble in water,X is a good electrical conductor in solid state.,X melts at high temperature.,X is formed by transfer of electron(s).,,b,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,1,"Assertion (A): Metallic fluorides are more ionic than metallic chlorides, considering same metal.
+Reasons (R): F ion has greater polarisability than Cl ion.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+3,Chemical Bonding,,Assessement Test - IV,2,"Assertion (A): Alkali and alkaline earth metals are harder than transition metals.
+Reason (R): Hardness of a metal is proportional to the strength of the metallic bond.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,d,,AR
+3,Chemical Bonding,,Assessement Test - IV,3,Match the entries of Column A with those of Column B.,(i) → (C); (ii) → (A); (iii) → (E); (iv) → (B); (v) → (D),(i) → (D); (ii) → (C); (iii) → (E); (iv) → (B); (v) → (A),(i) → (D); (ii) → (E); (iii) → (B); (iv) → (A); (v) → (C),(i) → (C); (ii) → (E); (iii) → (A); (iv) → (B); (v) → (D),CH-3-3-ROW-169,c,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,4,"Arrange the following compounds in the decreasing order of covalency of the non-metallic elements.
+(A) PCl~5*                   (B) NCl~3*                  (C) CH~4*
+(D) SO~3*                    (E) Cl~2*O~7*",E D A C B,B C A D E,E C A D B,B C A C E,,a,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,5,"A rrange the following ionic compounds in the decreasing order of strength of ionic bonds.
+(A) CsCl         (B) NaCl           (C) KCl         (D) MgCl~2*",D C B A,D B C A, A C B D,A B C D,,b,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,6,A metal ‘M’ and a non-metal ‘X’ can form an ionic compound of formula M~2*X. What would be the electronic configuration of X?,ns^2& np^3&,ns^2& np^5&,ns^2& np^4&,ns^2& np^2&,,c,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,7,The central atom in a molecule undergoes sp^3&d hybridization. Which of the following could be the formula of the compound?,PCl~5*,SF~6*,BCl~3*,C~2*H~6*,,a,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,8,Identify the wrongly matched pair among the following.,XeF~6* → 1 lone pair,XeF~4* → ~2* lone pairs,ClF~3* → 2 lone pairs,H~3*O^+& → 0 lone pairs,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,9,Identify the molecule in which the central atom is said to possess expanded octet.,CF~4*,BF~3*,PCl~5*,SCl~2*,,c,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,10,‘M’ is a bivalent metal which reacts with a non-metal ‘X’ having 7 electrons in its valence shell. Identify the correct statement regarding the above reaction.,The formula of the compound is MX~2*.,Metal acts as an oxidising agent,"The redox reaction involves the step:
+'X~2* + 2e^-& → X^-2&",Non-metal acts as an reducing agent.,,a,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,11,Which of the following metals cannot form complex compounds?,Calcium,Copper,Cobalt,Nickel,,a,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,12,Liquid ‘A’ shows concave meniscus in a glass tube while liquid ‘B’ shows convex meniscus in the same glass tube. Which of the following statements is correct regarding the liquids?,Liquid A is associated with lesser adhesive forces than liquid B.,Adhesive forces are greater in case of liquid A than in case of liquid B.,Liquid B is associated with lesser cohesive forces than liquid A.,There are no adhesive forces in liquid B as in liquid A.,,b,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,13,Water has higher boiling point than hydrogen fluoride. Identify the reason.,Stronger hydrogen bond in water than in HF,Greater electronegativity of fluorine than oxygen,Anomalous expansion of water,Larger number of hydrogen bonds in water than HF,,d,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,14,Which of the following species cannot act as an electron pair donor and form coordinate covalent bond?,PCl~3*,H~2*O,NH^+&~4*,NH~3*,,c,,MCQ
+3,Chemical Bonding,,Assessement Test - IV,15,"Two elements ‘A’ and ‘B’ have 4 and 7 valence electrons in 2nd and 3rd shells, respectively. Identify the characteristic feature of the compound formed.",It is a liquid and is highly miscible with water.,It is a liquid and can dissolve non-polar covalent compounds.,It is a liquid which can conduct electricity.,It is not a liquid.,,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,1,Rate of a reaction with respect to B is 1/3 dC/dt and half the rate with respect to A. Identify the stoichiometric equation corresponding to the abovementioned conditions.,A + 2B → 3C,2A + 3B → C,2A + B → 3 C,2A + B → C,,c,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,2,The equilibrium constant for the decomposition of one mole of hydrogen iodide is 0.25. What is the equilibrium constant for the equilibrium reaction of formation of HI from one mole each of the reactants?,8,6.25,4,16,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,3,"Assertion (A) : For the reaction of formation of ammonia, Kc value decreases with increase in temperature.
+Reason (R) : With the increase in temperature, the number of effective collisions increases.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,b,,AR
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,4,"Assertion (A) : Synthesis of hydrogen chloride is a zero-order reaction.
+Reason (R) : Rate of formation of HCl is dependent only on the intensity of light used.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,5,"Arrange the given equilibria in the order of the following units of K~c*.
+(i) No units           (ii) mole^-1& L            (iii) mole L^-1&
+(iv) mole^-2& L^2&                                  (v) mole^2& L^-2&
+(A) 2A~(g)* + 2 B(~(g)* ↔ 2P~(g)* (B) X~(g)* + Y~(g)* ↔ XY~(g)*
+(C) X~2(g)* + Y~2(g)* ↔ 2 XY~(g)* (D) A B~(s)* ↔ A~(s)* + B~(g)*
+(E) 2 XY~3(g)* ↔ X~2(g)* + 3 Y~2(g)*
+",B C D E A,C B D A E,B D C E A,C A D B E,,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,6,Energy profile diagrams for four hypothetical two-step reactions are given in the following diagram. Arrange the criteria of the given reactions in the order of the diagrams.,B C A D,B D A C,D A B C,D B C A,CH-4-6-ROW-187,c,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,7,Match the entries of Column A with those of Column B.,(i) → (C); (ii) → (E); (iii) → (B); (iv) → (A); (v) → (D),(i) → (D); (ii) → (A); (iii) → (E); (iv) → (B); (v) → (C),(i) → (D); (ii) → (E); (iii) → (B); (iv) → (A); (v) → (C),(i) → (C); (ii) → (A); (iii) → (E); (iv) → (B); (v) → (D),CH-4-7-ROW-188,a,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,8,The value of the rate constant for a reaction is found to be 1.6 × 10^-3& mole^-2& L2 s^-1&. Which among the following could be the probable rate equation for the reaction?,r = k[A]^2&[B]^0&,r = k[A]^1&,r = k[A]^1/2&,r = k[A]^1&[B]^2&,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,9,"A reaction is second order with respect to ‘A’, first order with respect to ‘B’. Identify the experimental result that does not tally with the reaction.",Doubling the concentration of ‘A’ alone increases the rate of the reaction by 4 times.,Doubling the concentration of ‘B’ alone doubles the rate of the reaction.,Doubling the concentration of both A and B at a time increases the rate of the reaction by 6 times.,Order of the reaction is three.,,c,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,10,"The below-mentioned diagrams represent four collisions ‘A’, ‘B’, ‘C’ and ‘D’ for the reaction of SO~2* and O~2* to form SO~3*. Assuming that all the molecules involved in the collisions are associated with threshold energy, identify the effective collisions.",A and B,B and C,C and D,A and D,CH-4-10-ROW-191,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,11,A particular reaction is associated with an activation energy of 80 kcal for an uncatalysed reaction. The DH is 20 kcal for the reaction. Identify the probable energy profile diagram for a catalysed reaction under the same conditions.,A,B,C,D,CH-4-11-ROW-192,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,12,"Two moles each of sulphur dioxide and oxygen are taken in a 2-L vessel and subjected to a chemical reaction. At equilibrium, 0.8 moles of sulphur trioxide was found. Find out K~c* value.",1.8 mole^-1& L,0.276 mole^-1& L,3.63 mole^-1& L,0.55 mole^-1& L,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,13,Which of the following changes shifts the equilibrium to the left in an equilibrium for the dissociation of ammonium hydroxide?,Increase in temperature,Carrying out the reaction in open container,Addition of ammonium chloride,Addition of hydrochloric acid,,c,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,14,Identify the odd one out with respect to the heat of reaction.,Formation of ammonia,Formation of sulphur trioxide,Formation of carbon dioxide,Formation of nitric oxide,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - I,15,Identify the factor that affects the equilibrium position but does not affect the equilibrium constant.,Change in the concentration of reactants at equilibrium,Catalyst,Temperature,Both (a) and (b),,a,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,1,"Rate of a reaction with respect to hydrogen is -3.9 × 10^-4& mole L^-1& s^-1&. For the reaction corresponding to the formation of ammonia, what could be the rate of reaction with respect to ammonia?",1.3 × 10^-4& mole L^-1& s^-1&,2.6 × 10^-4& mole L^-1& s^-1&,1.95 × 10^-4& mole L^-1& s^-1&,11.7 × 10^-4& mole L^-1& s^-1&,,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,2,"For a gaseous reaction 2A + 3B ⇄2P, the equilibrium constant value is equal to 25 L^3& mole^-3&. What would be the value of equilibrium constant for the equilibrium of decomposition of 1 mole of P?",625 (mole/L)^3/2&,5 (mole/L)^3/2&,0.04 (mole/L)^3/2&,0.2 (mole/L)^3/2&,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,3,"Assertion (A): For the reaction of decomposition of PCl~5*, K~c* value increases with increase in temperature.
+Reason (R) : Decomposition of PCl~5* is an exothermic reaction.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,4,"Assertion (A): A reaction of the type A + B → 2C is invariably a secondorder reaction.
+Reason (R): Order of the reaction is the sum of the powers of concentration terms in the rate equation.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,5,"Arrange the given units of K~c* in the order of the following equilibrium reactions. Consider room temperature conditions.
+(i) Decomposition of NO
+(ii) Dimerisation of NO~2*
+(iii) Decomposition of NH~4*HS
+(iv) Synthesis of NH~3*
+(v) Decomposition of NO~2* to NO and O~2*
+(A) mole^2& L^-2&            (B) No units             (C) mole L^-1&
+(D) mole^-1& L                  (E) mole^-2& L^2&",B E C D A,C B D A,B D A E C,C A D B E,,c,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,6,"The following are the certain criteria of four reversible two-step reactions.
+Arrange them in the order of the conclusions drawn regarding the nature of the reactions given.
+(i) E~a*(step I) > E~a* (step II); Exothermic
+(ii) E~a*(step I) > E~a*(step II); Endothermic
+(iii) E~a*(step II) > E~a*(step I); Endothermic
+(iv) E~a*(step II) > E~a*(step I); Exothermic
+(A) Step II → Rate determining step; E~a*(forward reaction) < E~a*(backward reaction)
+(B) Step I → Rate determining step; E~a*(forward) > E~a*(backward)
+(C) Step II → Rate determining step; E~a*(forward) > E~a* (backward)
+(D) Step I → Rate determining step; E~a*(forward) < E~a*(backward)",B C D A,D A B C,B D A C ,D B C A,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,7,Match the entries of Column A with those of Column B,(i) → (E); (ii) → (A); (iii) → (D); (iv) → (C); (v) → (B),(i) → (D); (ii) → (C); (iii) → (E); (iv) → (A); (v) → (B),(i) → (E); (ii) → (D); (iii) → (A); (iv) → (C); (v) → (B),(i) → (D); (ii) → (E); (iii) → (A); (iv) → (C); (v) → (B),CH-4-7-ROW-203,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,8,Which among the following rate equations corresponds to a reaction with rate constant having the same units as rate of reaction?,r = k[A]^1&[B]^0&,r = k[A]^0&[B]^1/2&,r = k[A]^0&[B]^0&,r = k[A]^1&[B]^2&,,c,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,9,"When the concentration of ‘A’ is halved, the rate of reaction is decreased by 8 times. Change in concentration of ‘B’ has no effect on the rate of the reaction. Predict the rate equation that complies with the abovementioned experimental result.",r = k[A]^3&[B]^0&,r = k[A]^2&[B]^1&,r = k[A]^2&[B]^0&,r = k[A]^1&[B]^2&,,a,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,10,"Which of the following statements comply with collision theory of reaction rates?
+(A) The rate of reaction is proportional to the frequency of collision between gas molecules.
+(B) All the collisions between molecules that gain activation energy are called effective collisions.
+(C) The collisions associated with threshold energy may remain ineffective if they lack proper orientation.
+(D) A chemical reaction results in the formation of an activated complex as the highest energy species.",A and B,C and D,B and C,A and D,,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,11,The following are the two energy profile diagrams for the same reaction under two different conditions. Identify the condition that was subjected to change.,Increase in temperature,Increase in concentration,Usage of catalyst,Increase in pressure,CH-4-11-ROW-207,a,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,12,"Three moles of PCl~5* is taken in a 3-L vessel and subjected to decomposition in a closed system. If it undergoes 60% dissociation at equilibrium, then calculate K~c* value for the reaction.",0.9 mole L^-1&,0.05 mole L^-1&,0.15 mole L^-1&,1.8 mole L^-1&,,a,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,13,Which among the following is considered as a consequence of common ion effect?,Increase in dissociation of NH~4*OH by the addition of NH~4*Cl,Decrease in dissociation of NH~4*OH by the addition of NH~4*Cl,Increase in dissociation of H~2*S by the addition of HCl,Increase in dissociation of NH~4*OH by the addition of NaOH,,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,14,"W hich of the following is true regarding the reaction of formation of NO? 
+(A) Energy released during the formation of bonds in NO is less than the energy required for the breakage of bonds in N~2* and O~2*.
+(B) The reaction is highly exothermic.
+(C) Energy of products is greater than energy of reactants.
+(D) It is similar to the reaction of formation of ammonia.",A and C,C and D,B and D,A and B,,a,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - II,15,Which among the following factors affects neither equilibrium position nor equilibrium constant?,Temperature,Catalyst,Initial concentration,Pressure,,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,1,"The following are the units of rate constants of some reactions of different orders.
+(A) s^–1&                        (B) mole L^–1&  s^–1&
+(C) L mole^–1& s^–1&    (D) L2 mole^–1& s^–1&
+Arrange them in the descending order of the orders of the respective
+reactions.",A B C D,C D B A,D C A B,B C D A,,c,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,2,"If heat of reaction, DH of a reaction is positive, then the reaction is
+____________.",endothermic,exothermic,a two-step reaction,reversible reaction,,a,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,3,"Arrange the following in the ascending order of the values of Dn (Dn = n~p*– n~R*).
+(A) Formation of HI from its constituents.
+(B) Decomposition of PCl~5* to PCl~3* and Cl~2*.
+(C) Formation of ammonia from its constituents.
+(D) Decomposition of ammonia.",D A B C,D C B A,B C A D,C A B D,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,4,"Three grams of 100% pure coke is made to react with 0.5 moles of CO~2*. If 20% of coke gives rise to the product (CO) at equilibrium, then what is the ratio of number of moles of CO~2*, C, and CO at equilibrium?",1 : 2 : 4,4 : 2 : 1,4 : 9 : 2,9 : 4 : 2,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,5,"The rate of the below mentioned reaction at 20th second with respect to A is 0.05 moles/L/s. Calculate the rate of reaction with respect to B at that point of time.
+2A + 3B → 4C",0.05 mole /L/S,0.015 mole /L/S,0.15 mole /L/S,0.075 mole /L/S,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,6,If,A + 2B → 3C,2A + 3B → 6C,6A + 3B → 2C,A + 3B → 6C,CH-4-6-ROW-217,c,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,7,"The following are the data associated with a chemical reaction. Average initial energy of the reactant molecules = x kj/mole Heat of reaction DH = y kj/mole and the threshold energy = z kj/mole Based on the data given, calculate the activation energy (E~a*) of forward reaction and that of backward reaction.","z – x, z – y","z – x – y, z – y","x – y, y – z","z – x, z – x – y",,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,8,"In an equilibrium reaction, the stoichiometric coefficients of reactants ‘A’ and ‘B’ are a and b, respectively. If the stoichiometric coefficients of products ‘C’ and ‘D’ are c and d, respectively, then write the units of K~c* considering the reactant A is in the solid state.",(mole/L)^a + b + c + d&,(mole/L)^a + b - c - d&,(mole/L)^c + d - a - b&,(mole/L)^c + d - b&,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,9,The equilibrium constant of dissociation of N~2*O~4* to NO~2* is 1/3 mole/L when the reaction is carried out with 1 mole N~2*O~4* and in a 1-L vessel. Calculate the percentage dissociation of N~2*O~4*.,20%,25%,30%,50%,,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,10,"Assertion (A): Pressure decreases during the formation of NH~3* from its constituents till the reaction attains the equilibrium, provided the temperature and the volume of the reaction vessel remain constant.
+Reason (R): Pressure is directly proportional to the number of moles when T and V are constant.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,11,"Assertion (A): A negative catalyst stabilizes the reactants.
+Reason (R): Heat of a reaction is not affected by a catalyst.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,b,,AR
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,12,"he below-mentioned reaction is initiated with one mole of each of the reactants. If 0.8 moles of ‘C’ are formed at equilibrium, then calculate K~p*. A~(g)* + B~(g)* 2C~(g)*",2,1.5,1.25,1.78,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,13,"The following are the energy profile diagrams of four different reactions.
+Which of the reactions is favoured by decreasing temperature?",I,II,III,IV,CH-4-13-ROW-224,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,14,"The yield of which of the following reactions increases with the increase in pressure?  
+The reaction in which",Dn > 0,Dn < 0,Dn = 0,Dn > 1,,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - III,15,Match the entries of Column A with those of Column B.,(i) → (B); (ii) → (C); (iii) → (A); (iv) → (E); (v) → (D),(i) → (B); (ii) → (C); (iii) → (A); (iv) → (D); (v) → (E),(i) → (C); (ii) → (B); (iii) → (D); (iv) → (A); (v) → (E),(i) → (C); (ii) → (B); (iii) → (D); (iv) → (E); (v) → (A),CH-4-15-ROW-226,a,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,1,The following is the rate law of a reaction. Determine the units of the rate constant for a reaction represented by the rate law r ∝ [A]^0&[B]^1/2& .,mole ^-1/2& L^1/2&s^-1&,mole ^-1/2& L^-1/2&s^-1&,mole ^-1/2& L^1/2&s^-1/2&,mole ^-1/2& L^-1/2&s^-1&,,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,2,"From the given graph, arrange the following in the ascending order of the amount of energies associated with them.
+(A) Heat of the reaction
+(B) Activation energy (E~a*) of I step of the reaction
+(C) Threshold energy
+(D) Activation energy (E~a*) of II step of the reaction",D A B C,B C D A,C D B A,C B A D,CH-4-2-ROW-228,a,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,3,"In which of the following reactions, is the value of Dn (n~P* – n~R*) minimum?",Formation of NH~4*HS from NH~3* and H~2*S,Decomposition of CaCO~3*,Dimerisation of NO~2*,Formation of CO by the reaction between CO~2* and C,,a,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,4,"The below-mentioned reaction was initiated with 1 mole of each reactant. If 20% of A gives rise to the products at equilibrium, arrange the reactants and products in the ascending order of their molar percentage at equilibrium. A + 2B⇄2C + D",B D C A,A B C D,D C B A,C D B A,,c,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,5,"Establish the relationship among the rates of the below-mentioned reaction with respect to ‘A’, ‘B’ and ‘C’.
+A + 2B → 4C",4r~A* = 2r~B* = r~C*,r~A* = 2r~B* = 4r~C*,r~A* = r~B* = r~C*,2r~A* = r~B* = 2r~C*,,a,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,6,"If the rate of a certain reaction is 0.01 mole/L/s, 0.02 moles/L/s, and 0.005 mole/L/s with respect to ‘A’, ‘B’ and ‘C’, respectively, at a particular instant of time, write the stoichiometric equation for this reaction considering A and B as reactants and C as the product.",A + B → C,A + 2B → 2C,2A + 4B → C,A + 2B → 5C,,c,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,7,"In a chemical reaction, the activation energy of the forward reaction is half of that of the backward reaction. Then, the magnitude of the heat of reaction is ____________",twice the activation energy of the forward reaction,equal to the activation energy of the forward reaction,4 times the energy of the forward reaction,1/4th of the activation energy of the backward reaction,,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,8,"Which of the following statements complies with the below mentioned information?
+The unit of K~c* for the following reaction is L^2&/mole^2&; 3A ⇄ B + C",The given equilibrium is homogeneous,The given equilibrium is heterogeneous,One of the products is in the solid state,Both (b) and (c),,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,9,The percentage of formation of SO~3* is 40% at equilibrium when equimolar SO~2* and O~2* are taken in a 1-L vessel. Calculate K~C*.,0.05 L/mole,0.005 L/mole,0.56 L/mole,0.1 L/mole,,c,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,10,"Assertion (A): Equilibrium for the formation of PCl~5* from PCl~3* and Cl~2* can be identified by constancy of pressure.
+Reason (R): During the formation of PCl~5* from PCl~3* and Cl~2*, pressure remains constant throughout the reaction.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,11,"Assertion (A): A positive catalyst increases the rate of reaction.
+Reason (R): A positive catalyst decreases the threshold energy.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,12,One mole of H~2* and one mole of I~2* vapour are made to react to form HI. K~p* of this reaction is 0.25 Calculate the percentage of HI at equilibrium.,20,25,30,40,,d,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,13,"Which of the following types of reactions is favoured by increasing
+temperature?",Exothermic reaction,Endothermic reaction,Any reversible reaction,Any irreversible reaction,,b,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,14,Which of the following reactions is affected by changing the pressure at equilibrium?,A~(s)* + B~(g)* ⇄ 2C~(g)* + D~(s)*,A~(g)* + B~(s)* ⇄ C~(g)* + D~(s)*,X~(g)* + 2Y~(g)* ⇄ 3Z~(g)* ,X~(g)* ⇄ Y~(s)* + Z~(g)*,,a,,MCQ
+4,Chemical Kinetics and Chemical Equilibrium,,Assessement Test - IV,15,Match the statements of Column A with those of Column B.,(i) → (D); (ii) → (C); (iii) → (B); (iv) → (E); (v) → (A),(i) → (D); (ii) → (C); (iii) → (B); (iv) → (A); (v) → (E),(i) → (B); (ii) → (D); (iii) → (E); (iv) → (A); (v) → (C),(i) → (B); (ii) → (D); (iii) → (E); (iv) → (C); (v) → (A),CH-4-15-ROW-241,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,1,"Assertion (A): Phosphorous acid is a dibasic acid.
+Reason (R): One of the hydrogens is directly attached to phosphorous atom.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,2,"Arrange the colours of solutions on the addition of universal indicator in the order of the given pH values of solutions.
+(i) 11           (ii) 7             (iii) 3             (iv) 9             (v) 5
+(A) Orange             (B) Yellow             (C) Blue 
+(D) Indigo               (E) Green",B A C D E ,D E A C B,B E A C D,D C A E B,,b,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,3,"Arrange the following ions in the ascending order of tendency to get discharged at the respective electrodes.
+(A) Copper             (B) Potassium            (C) Iron            (D) Zinc
+(E) Hydrogen",B E D C A,A C D E B,B D C E A,A E D C B,,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,4,"Assertion (A): Passage of 96,500 coulombs through saturated copper chloride solution results in the liberation of 22.4 L of chlorine at STP at anode.
+Reason (R): Passage of 1 F through any solution liberates 1 g equivalent of the substance at the respective electrode.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,d,,AR
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,5,"Which of the following solutions has the same pH value as 100 mL of 0.05 M
+sulphuric acid diluted to 1 L at the same temperature?",10^-2& M sodium hydroxide solution,10^-2& M calcium hydroxide solution,0.05 M hydrochloric acid solution,0.01 M nitric acid solution,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,6,"The ion product of water is 10^-12& mole^2& L^-2& at certain temperature. Identify
+the wrong statements regarding the solutions under the same conditions.
+(i) The water should have been at a temperature of less than 25^0&C.
+(ii) 10^-7& M solution in the abovementioned sample of water is basic in
+nature.
+(iii) 10^-5& M solution in the abovementioned sample of water is acidic in
+nature.
+(iv) Addition of 0.01 M HCl to the abovementioned water changes the K~w*
+value to 10^-14& mole^2& L^-2&.",ii and iii,i and iv,iii and iv,i and ii,,b,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,7,Identify the pair of species that has both conjugate acid and conjugate base.,H~2*PO~4*^-& and H~2*O,HCO^-&~3* and H~2*CO~3*,H~2*SO~4* and SO~4*^-2&,H~3*O^+& + OH^-&,,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,8,"Barium chloride is soluble in water, whereas silver chloride is insoluble in water. Which of the following conclusions can be drawn on the basis of the above mentioned facts?",All barium salts are highly soluble in water.,All silver salts are insoluble in water.,Solubility product of barium chloride is much greater than that of silver chloride.,Solubility product of silver chloride is much greater than that of barium chloride.,,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,9,Identify the pair of salts that undergo only anionic hydrolysis.,"Ammonium carbonate, sodium carbonate","Ammonium chloride, calcium chloride","Sodium acetate, potassium nitrate","Potassium carbonate, sodium acetate",,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,10,"The following are the four salts along with their characteristic reactions.
+Identify the incorrect match.",Sodium potassium carbonate + BaCl~2* solution → White precipitate,Bleaching powder + NaOH → Milky white precipitate,Mohr’s salt + NaOH → Dirty green precipitate,Potassium ferricyanide + NaOH → Reddish brown precipitate,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,11,Which of the following applications is associated with decrease in pH value?,Usage of tooth paste to prevent tooth decay.,"Generally, addition of fertilizers to crops",Usage of antacid for curing indigestion.,Both (a) and (c),,b,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,12,Match the values of Column A with those of Column B.,(i) → (D); (ii) → (C); (iii) → (A); (iv) → (E); (v)→ (B),(i) → (D); (ii) → (A); (iii) → (E); (iv) → (C); (v) → (B),(i) → (B); (ii) → (C); (iii) → (A); (iv) → (D); (v) → (E),(i) → (B); (ii) → (A); (iii) → (D); (iv) → (E); (v) → (C),CH-5-12-ROW-253,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,13,"Two electrodes ‘X’ and ‘Y’ are connected to hydrogen electrode separately. The electrode reactions corresponding to X and Y are X^+2& + 2e^-& → X and Y → Y^+2& + 3e^-& in the respective electrochemical cells. Which of the following statements are false regarding the abovementioned cells?
+(i) X can displace hydrogen from acids.
+(ii) Hydrogen is liberated at anode in the cell in case of Y.
+(iii) X has positive standard reduction potential value.
+(iv) X has higher standard reduction potential value than Y.",i and ii,ii and iii,iii and iv,I and iv,,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,14,Standard reduction potential values of two elements A and B are -0.44 V and -2.92 V. Identify the correct cell representation and the emf value of the cell. ,A|A^+n&||B^-n&|B; 3.36 V,B|B^+n&||A^+n&|A; 3.36 V,B|B^+n&||A^+n&|A; 2.48 V,A|A^+n&||B^+n&|B; 2.48 V,,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - I,15,"A current of 4.825 A is passed through fused magnesium chloride for 100 s. Amounts of cathodic and anodic products, respectively, are _______.",0.12 g ; 0.355 g,0.06 g; 0.355 g,0.12 g ; 0.1775 g,0.06 g; 0.1775 g,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,1,"Assertion (A): Acetic acid is a monobasic acid.
+Reason (R): Acetic acid is a weak acid and produces less concentration of H^+& ions.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,b,,AR
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,2,"Arrange the following H+ ion concentrations of the solutions in the order of the colours obtained by the addition of universal indicator.
+(A) 10^-13&            (B) 10^-5&         (C) 10^-7& 
+(D) 10^-9&              (E) 10^-1&
+(i) Green             (ii) Red          (iii) Yellow        (iv) Violet        (v) Blue",E C B D A,C A B E D,E D B C A,C E B A D,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,3,"Arrange the following values of standard reduction potentials in the
+descending order of tendency to get discharged at the respective electrodes.
+(A) -1.67          (B) 0.16          (C) -0.9        (D) -2.92          (E) 2.87",E B C A D,D A C B E,E A B C D,D C A E B,,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,4,"Assertion (A): Passage of 1 F of electricity deposits 1 mole of silver at the cathode.
+Reason (R): Number of equivalents of any substance deposited at the electrode is equal to the number of faradays of electricity passed through the electrolyte.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,5,Which of the following mixtures possesses same pOH value as 2.5 × 10^-2& M Ca(OH)~2* solution?,100 ml 0.2 M NaOH + 100 ml 0.1 M HCl,100 ml 0.1 M NaOH + 100 ml 0.05 M H~2*SO~4*,100 ml 0.1 M HCl + 100 ml 0.05 M H~2*SO~4*,100 ml 0.1 M NaOH + 100 ml 0.2 M NaOH,,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,6,"The pH value of a neutral solution is 8 under experimental conditions. Identify
+the true statements regarding the solution.
+(i) Phenolphthalein indicator shows pink colour in a solution of pH value 7.
+(ii) If the temperature is increased the pH value of the solution may be reduced to 7.
+(iii) Methyl orange indicator shows orange red colour in a solution of pH value 7.
+(iv) K~w* value for the given solution should be 10^-14&.",i and iv,i and iii,ii and iii,ii and iv,,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,7,Species ‘X’ has only conjugate acid. Species ‘Y’ has only conjugate base. Identify X and Y.,SO^-2&~4* and H~2*PO~4*^-2&,H~3*O^+& and HSO~4*^-&,NH~3* and OH^-&,O^-2& and NH~4*^+&,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,8,"When H~2*S gas is passed through a solution containing ammonium ions and zinc ions, zinc sulphide is precipitated but not ammonium sulphide. Identify the condition satisfied in this case.",Ionic product of the solution exceeded the solubility product of zinc sulphide.,Ionic product of the solution exceeded the solubility product of ammonium sulphide,Addition of sulphide ions increases the ionization of ammonium sulphide.,Addition of sulphide ions increases the ionization of zinc sulphide.,,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,9,"Two salts ‘X’ and ‘Y’ are dissolved in water. Addition of litmus to the solutions of X and Y gave blue and red colours, respectively. Identify X and Y.","CH~3*COOK, NH~4*NO~3*","Na~2*CO~3*, K~2*SO~4*","Na~2*CO~3*, CH~3*COONH~4*","CuSO~4*, FeCl~3*",,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,10,The following are the ions obtained by the dissociation of different salts. Identify the one that is not possible.,"Disodium potassium phosphate → Na^+&, K^+&, PO~4*^-3&","Bleaching powder → Ca^+2&, Cl^-&, Ocl^-&","Potash alum → K^+&, Al^+3&, SO~4*^-2&","Sodium argentocyanide → Na^+&, Ag^+&, CN^-&",,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,11,Which of the following applications is not attributed to the change in pH value?,Addition of Lime along with fertilizer to the soil.,Usage of magnesium hydroxide for gastric acidity.,Usage of aluminium hydroxide as foaming agent in fire extinguishers.,Usage of alkaline tooth paste for prevention of tooth decay.,,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,12,Match the entries of Column A with those of Column B.,(i) → (B); (ii) → (A); (iii) → (E); (iv) → (C); (v) → (D),(i) → (D); (ii) → (A); (iii) → (E); (iv) → (B); (v) → (C),(i) → (B); (ii) → (C); (iii) → (A); (iv) → (E); (v) → (D),(i) → (D); (ii) → (C); (iii) → (A); (iv) → (E); (v) → (B),CH-5-12-ROW-268,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,13,"Standard oxidation potential of an element ‘X’ is 2.84 V. It is connected to an electrode ‘Y’ with SRP value 0.8 V. Identify the true statements corresponding to the abovementioned electrochemical cell.
+(i) X gets deposited by losing electrons.
+(ii) Y undergoes oxidation.
+(iii) X can displace hydrogen from acids.
+(iv) Y gets deposited at cathode when connected to hydrogen electrode.",i and iii,ii and iv,iii and iv,i and ii,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,14,An electrochemical cell is represented as x|x^+n&||y^+n&|y. Which of the following pairs of electrode potentials (SRP) can correspond to x and y?,"x -> 1.36 V, Y -> 0.44 V","x -> 0.44 V, Y -> 2.48 V","x -> 0.76 V, Y -> 0.34 V","x -> 0.8 V, Y -> 0.34 V",,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - II,15,Calculate the strength of current which when passed through copper sulphate solution for 20 min deposits 6.375 g of copper.,32 A,08:00 AM,16 A,24 A,,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,1,Which of the following could be the probable pH value of a neutral solution at 50^0&C?,7,9,8,5,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,2,"Calculate the pH of a solution of a 0.05 M dibasic acid assuming 100%
+ionization.",1.3010,2.6990,2,1,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,3,Calculate the normality of resultant solution whose 500 mL of 0.01 N H~2*SO~4* solution is diluted to 2 L.,0.005 N,0.05 N,0.025 N,0.0025 N,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,4,Find out the pH of the resultant solution whose 500 mL of 0.01 N H~2*SO~4* solution is mixed with 500 mL 0.005 N KOH solution (log 5 = 0.7).,2,2.6,3.6,3,,b,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,5,The pH of the solution of which of the following salts is greater than 7?,CH~3*COONa,NH~4*Cl,K~2*SO~4*,Mg(NO~3*)~2*,,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,6,"Assertion (A): Generally, the colour of indicators changes in a particular pH range.
+Reason (R): Indicators are weak acids or weak bases and exhibit different colours in molecular form and ionic form.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,7,"Arrange the equimolar solutions in the ascending order of their pH values.
+(A) Na~2*CO~3*                    (B) KOH                 (C) MgCl~2* 
+(D) H~2*SO~4*                      (E) NaCl",D C E A B,C D A B E,A B D C E,E C D B A,,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,8,M atch the entries of Column A with those of Column B.,(i)→ (A); (ii) → (B); (iii) → (C); (iv) → (E); (v) → (D),(i) → (B); (ii) → (A); (iii) → (E); (iv) → (D); (v) → (C),(i) → (E); (ii) → (A); (iii) → (D); (iv) → (C); (v) → (B),(i) → (E); (ii) → (A); (iii) → (D); (iv) → (B); (v) → (C),CH-5-8-ROW-279,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,9,Addition of which of the following electrolytes increases the conductance of water to the maximum extent?,CH~3*COOH,H~2*CO~3*,NH~4*OH,NaOH,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,10,"The deposition of one mole of a metal at cathode requires 3 F electric charge. If its atomic weight is ‘M’, what is its equivalent weight?",3 M,M,M/3,9 M,,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,11,"Assertion (A): Galvanic cell is used to generate electricity.
+Reason (R): In galvanic cell, electrical energy is converted to chemical
+energy.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,12,"Arrange the following in the increasing order of ease of reduction.
+(A) K^+&                     (B) Mg^+2&                   C) Pb^+&       
+(D) Cu^+2&                (E) Hg^+2&",E D C B A,A B C D E,C D B A E,D C B A E,,b,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,13,"The standard reduction potential of two electrodes are -x V and y V, respectively. Calculate the emf of the cell.",(y - x) V,(-x - y) V,(x - y) V,(y + x) V,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,14,"B ased on the reactions that take place in a voltaic cell, represent the cell according to IUPAC convention. M^+1&~(aq)* + e^-1& → M~(s)*.
+N~(s)* → N^+&~(aq)* + e^-1&",M^+&~(aq)*|M~(S)*|N^+&~(aq)*N~(s)*,M^+&~(aq)*|M~(S)*|N~(s)*|N^+&~(aq)*,N~(s)*|N^+&~(aq)*|M^+&(aq)|M~(s)*,N^+&~(aq)*|N~(S)*|M^+&(aq)|*M~(s)*,,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - III,15,Which of the following reactions takes place at the anode when CuSO~4* solution undergoes electrolysis using copper as anode?,4[OH^-& - e → OH] → 2H~2*O + O~2*,Cu^+2& + 2e^-1& → Cu,2H^+& + 2e^-1& → H~2*,Cu - 2e^-1& → Cu^+2&,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,1,"If the pH of a neutral solution is 9, what is the ionic product of water?",10^-14& mole^2&/L^2&,10^-9& mole^2&/L^2&,10^-7& mole^2&/L^2&,10^-18& mole^2&/L^2&,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,2,"If the pH of a solution of a diacidic base is 12 at 25^0&C, calculate its molarity considering 100% ionization.",0.02 M,0.12 M,0.005 M,0.05 M,,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,3,The normality of a solution changes from 0.01 N to 0.005 N by adding some amount of water in 1 L of the solution. How much water was added?,1 L,0.5 L,0.25 L,2 L,,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,4,"Calculate the volume of 0.02 N NaOH solution required to be added to
+500 mL 0.005 N HCl solution in order to obtain the resultant solution with pH value 12.",1 l,750 ml,250 ml,500 ml,,b,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,5,The pH of the solution of Al(NO~3*)~3* solution could be,8,7,5,11,,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,6,"Assertion (A): All indicators are not suitable for all sorts of titrations.
+Reason (R): The colour of indicator keeps changing continuously with the change in pH values.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,7,"Arrange the following in the descending order of pOH:
+(A) 0.001 M HCl                    (B) 0.001 M H~2*SO~4*
+(C) 0.001 M NaOH                (D) 0.001 M CsCl
+(E) 0.001 M CaCl~2*",C D B A E,D B C A E,A B C E D,B A E D C,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,8,M atch the entries of Column A with those of Column B.,(i) → (C); (ii) → (D); (iii) → (E); (iv) → (B); (v) → (A),(i) → (C); (ii) → (D); (iii) → (E); (iv) → (A); (v) → (B),(i) → (D); (ii) → (E); (iii) → (C); (iv) → (A); (v) → (B),(i) → (D); (ii) → (E); (iii) → (C); (iv) → (B); (v) → (A),CH-5-8-ROW-294,b,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,9,The addition of which of the following substances to water makes it a feeble conductor of electricity?,Al(OH)~3*,H~2*SO,KCl,HCl,,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,10,x g of bivalent metal gets deposited at the cathode by passing 1 F of electric charge. Calculate its atomic weight,x,x/2,2x,x/4,,c,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,11,"Assertion (A): In an electrolytic cell, the non-spontaneous redox reaction is carried out.
+Reason (R): In an electrolytic cell, cations move towards the cathode and anions move towards the anode.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,b,,AR
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,12,"Arrange the following in the decreasing order of ease of oxidation:
+(A) SO~4*^-2&          (B) F^-1&           (C) Br^-1&      (D) OH^-&",A B C D,B C D A,C D B A,D C B A,,d,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,13,"Calculate the cell emf constructed by Li and Na. Li^+& + e^-1& → Li (s) = -3.05 V;
+Na^+1& + e^-1& → Na(s) = -2.71 V",0.34 V,5.76 V,-0.34 V,-5.76 V,,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,14,"From the following cell (represented according to IUPAC convention), identify the correct statement:
+X~(s)*|X^+2&~(aq)*||Y^+2&~(aq)*|Y~(s)*","X undergoes oxidation, whereas Y^+2& undergoes reduction.","Y undergoes oxidation, whereas X^+2& undergoes reduction.",Both X and Y undergo oxidation,Both X and Y undergo reduction.,,a,,MCQ
+5,"Acids, Bases and Salts; Electrochemistry",,Assessement Test - IV,15,Which of the following reactions takes place at the anode when aqueous solution of CuSO~4* is electrolysed using platinum as anode?,Hydroxyl ions get reduced to hydrogen.,Hydroxyl ions get oxidized to oxygen.,Copper metal gets oxidized.,Copper ions gets reduced.,,b,,MCQ
+6,Metallurgy,,Assessement Test - I,1,Match the statements of Column A with those of Column B.,(i) → (C); (ii) → (A); (iii) → (D); (iv) → (B),"(i) → (C); (ii) → (D); (iii) → (A); (iv) → (B), (E)",(i) → (C); (ii) → (A); (iii) → (D); (iv) → (E),"(i) → (C); (ii) → (A); (iii) → (D); (iv) → (B), (E)",CH-6-1-ROW-302,d,,MCQ
+6,Metallurgy,,Assessement Test - I,2,"Assertion (A): Steel obtained from L-D process is much better than that obtained from Bessemer process with respect to quality and quantity.
+Reason (R): Pure oxygen (99.5%) is lanced from the top of the converter at supersonic speed.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+6,Metallurgy,,Assessement Test - I,3,"Assertion (A): Metals of moderate reactivity are extracted from their respective oxides by using a suitable reducing agent.
+Reason (R): Aluminium due to its very strong affi nity towards oxygen acts as a better reducing agent than CO.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,b,,AR
+6,Metallurgy,,Assessement Test - I,4,"Assertion (A): Copper pyrites is concentrated by froth floatation process and then heated strongly in reverberatory furnace, blast furnace, and Bessemer converter, respectively, for the extraction of copper from it.
+Reason (R): Copper pyrites is a sulphide ore of copper and iron and copper is a metal of low reactivity.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,MCQ
+6,Metallurgy,,Assessement Test - I,5,"The below-mentioned chemical reactions involved in the extraction of iron take place in blast furnace. Arrange them in the following order.
+(A) Formation of iron due to the reaction between roasted haematite and CO.
+(B) Formation of CO from coke taken as charge.
+(C) Formation of CO~2* from coke taken as charge.
+(D) Formation of calcium silicate from silica.
+(E) Decomposition of lime stone taken as charge.
+(i) Reaction that takes place in combustion zone
+(ii) Formation of the reducing agent in fusion zone
+(iii) Formation of quick lime in fusion zone
+(iv) Formation of slag in fusion zone
+(v) Reaction that takes place in reduction zone",C B A E D,C B E D A, C B E A D,C B D A E,,b,,MCQ
+6,Metallurgy,,Assessement Test - I,6,Which of the following ores cannot be extracted through the extraction process represented by the following flow chart:,Zinc blend,Calamine,Zincite,Haematite,CH-6-6-ROW-307,a,,MCQ
+6,Metallurgy,,Assessement Test - I,7,Which among the following is the endothermic process associated with the change in oxidation state of an element taking place in smelting of iron in a blast furnace?,Formation of CO~2*,Formation of a reducing agent,Decomposition of lime stone,Reduction of iron oxide,,b,,MCQ
+6,Metallurgy,,Assessement Test - I,8,A metal ‘M’ displaces metal ’N’ from the solution of its salt and both the metals can liberate hydrogen from acids. Halogen ’X’ displaces halogen ’Y’ from the corresponding metal halide. Identify the set of metals and halogens from the following options.,A,B,C,D,CH-6-8-ROW-309,a,,MCQ
+6,Metallurgy,,Assessement Test - I,9,"Which of the following reactions represents thermite welding process
+involved in the repairing of broken railway tracks?",Al + Fe~2*O~3* → Al~2*O~3* + Fe,Al~2*O~3* + Cr → Cr~2*O~3* + Al,Al~2*O~3* + Fe → Fe~2*O~3* + Al,C + Fe~2*O~3* → CO + Fe,,a,,MCQ
+6,Metallurgy,,Assessement Test - I,10,"If an ore contains impurity of FeO, identify the flux added to remove it.",CaO,SiO~2*,MgO,MnO,,b,,MCQ
+6,Metallurgy,,Assessement Test - I,11,Which of the following properties of the common component of type metal and solder are exploited for their respective uses?,"Expansion on solidification, low melting point","Expansion on melting, resistance to corrosion","Expansion on solidification, high melting point","Expansion on melting, low melting point",,a,,MCQ
+6,Metallurgy,,Assessement Test - I,12,H ydrogen acts as reducing agent in the extraction of ______.,chromium,lead,tungsten,silver,,c,,MCQ
+6,Metallurgy,,Assessement Test - I,13,Oxidation is used for the refining of _____.,iron,lead,mercury,copper,,a,,MCQ
+6,Metallurgy,,Assessement Test - I,14,Which among the following metal forms passive layer with steam?,Cu,Al,Zn,Fe,,b,,MCQ
+6,Metallurgy,,Assessement Test - I,15,"Assertion (A): In the electrolytic reduction of alumina, any metallic fluoride can be added to electrolyte along with cryolite.
+Reason (R): Addition of metallic fluoride decreases the melting point of the electrolyte.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,d,,AR
+6,Metallurgy,,Assessement Test - II,1,Match the entries of Column A with those of Column B.,(i) → (C); (ii) → (A); (iii) → (D); (iv) → (B),(i) → (C); (ii) → (A); (iii) → (B); (iv) → (D),(i) → (C); (ii) → (D); (iii) → (A); (iv) → (B),(i) → (C); (ii) → (B); (iii) → (D); (iv) → (A),CH-6-1-ROW-317,a,,MCQ
+6,Metallurgy,,Assessement Test - II,2,"Arrange the following processes that are involved in the manufacture of steel in the ascending order of the quality of steel obtained.
+(A) Smelting process in blast furnace
+(B) Bessemer process in Bessemer converter
+(C) Open hearth process in open hearth furnace
+(D) L-D process in L-D converter",D C B A,B D C,B C D,B D C A,,b,,MCQ
+6,Metallurgy,,Assessement Test - II,3,"The following statements describe the processes of extraction of metals by reduction. Arrange these processes in the ascending order of the reactivities of the metals extracted from their respective compounds.
+(A) Molten chloride of the metal is electrolysed.
+(B) Oxide of the metal is directly heated.
+(C) Oxide of the metal is reduced by aluminium.
+(D) Oxide of the metal is reduced by carbon monoxide.",D B C A,B C D A,B D A C,B D C A,,d,,MCQ
+6,Metallurgy,,Assessement Test - II,4,"Arrange the following processes/reactions involved in the extraction of copper in proper order.
+(A) Concentration of ore by froth floatation
+(B) Electrolytic refining
+(C) Crushing and grinding
+(D) FeO + SiO~2* → FeSiO~3*, Cu~2*O + FeS → Cu~2*S + FeO
+(E) 2Cu~2*O + Cu~2*S → 6Cu + SO~2*
+(F) 2CuFeS~2* + O~2* → Cu~2*S + 2FeS + SO~2*",C A F E D B,C A D E F C,C A F D E B,C D A E F B,,c,,MCQ
+6,Metallurgy,,Assessement Test - II,5,"Assertion (A): Temperature gradually decreases from combustion zone to fusion zone in blast furnace during the extraction of iron.
+Reason (R): Combustion of coke is an exothermic reaction while formation of CO and quick lime are endothermic reactions.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+6,Metallurgy,,Assessement Test - II,6,Which of the following ores is exclusively subjected to the extraction process shown by the following flow chart?,Zinc blend,Calamine,Bauxite,Haematite,CH-6-6-ROW-322,c,,MCQ
+6,Metallurgy,,Assessement Test - II,7,Conversion of CO~2* to CO in blast furnace is a ______ and ______ reaction.,"neutralisation, endothermic","combination, exothermic","oxidation-reduction, endothermic","oxidation-reduction, exothermic",,c,,MCQ
+6,Metallurgy,,Assessement Test - II,8,"Identify the possible reactions among the following.
+(A) 2Ag + H~2*SO~4* → Ag~2*SO~4* + H~2* 
+(B) Sn + CuSO~4* → SnSO~2* + Cu
+(C) 2NaBr + I~2* → 2NaI + Br~2*
+(D) 2KBr + Cl~2* → 2KCl + Br~2*",A and C,B and C,A and D,B and D,,d,,MCQ
+6,Metallurgy,,Assessement Test - II,9,W hich of the following metals cannot be displaced from their solutions by aluminium?,Copper,Chromium,Magnanese,Magnesium,,d,,MCQ
+6,Metallurgy,,Assessement Test - II,10,"If an ore contains impurity of SiO~2*, identify the appropriate flux used for its removal.",MnO,P~4*O~10*,CO~2*,SO~2*,,a,,MCQ
+6,Metallurgy,,Assessement Test - II,11,"A common and minor component of alloys bronze, gun metal and bell metal is also present as one of the components of the other two alloys used for specific purposes. Identify the alloys.","Solder, type metal","German silver, alnico","Monel metal, solder","Duralumin, type metal",,a,,MCQ
+6,Metallurgy,,Assessement Test - II,12,The reducing agent in the extraction of Fe is ______.,Coke,CO,Al,H~2*,,b,,MCQ
+6,Metallurgy,,Assessement Test - II,13,Metals with low melting points are refined by ______.,distillation,poling,oxidation,liquation,,d,,MCQ
+6,Metallurgy,,Assessement Test - II,14,Which among the following metals burns with dazzling white flame in air?,Al,Zn,Fe,Mg,,d,,MCQ
+6,Metallurgy,,Assessement Test - II,15,"In the electrolytic reduction of alumina, it is assumed that instead of CaF~2*, CuF~2* is added along with cryolite. Which of the following problems is encountered in the extraction process?",Addition of CuF~2* does not reduce the melting point of alumina.,Addition of CuF~2* decreases the electrical conductivity of the electrolyte.,Addition of CuF~2* leads to the liberation of chlorine at anode.,Addition of CuF~2* leads to the deposition of copper at cathode.,,d,,MCQ
+6,Metallurgy,,Assessement Test - III,1,Identify the odd one out with respect to density.,Iron,Copper,Diamond,Potassium,,d,,MCQ
+6,Metallurgy,,Assessement Test - III,2,Which of the following non-metals can be discharged at the anode as well as at the cathode?,Chlorine,Oxygen,Hydrogen,Bromine,,c,,MCQ
+6,Metallurgy,,Assessement Test - III,3,Which among the following is the best oxidizing species?,H^+&,O^-2&,Na^+&,Cl^-&,,a,,MCQ
+6,Metallurgy,,Assessement Test - III,4,Which among the following metal carbonates cannot generate respective oxide on thermal decomposition?,CuCO~3*,K~2*CO~3*,CaCO~3*,ZnCO~3*,,b,,MCQ
+6,Metallurgy,,Assessement Test - III,5,"Arrange the following steps involved in the extraction of metals in a proper order.
+(A) Conversion of ore to oxide.
+(B) Refining of metal.
+(C) Dressing and concentration of ore.
+(D) Reduction of oxide of metal.",B C A D,C A D B,A D B C,D B C A,,b,,MCQ
+6,Metallurgy,,Assessement Test - III,6,"Arrange the following metals in the following order of the processes of purification.
+Distillation; Boiling; Electrolytic refining; Liquation
+(A) Al         (B) Sn             (C) Hg            (D) Cu",D B C A,A C B D,C D A B,B D C A,,c,,MCQ
+6,Metallurgy,,Assessement Test - III,7,"Assertion (A): Mg is extracted by the process of electrolytic reduction of roasted (carnallite).
+Reason (R): Mg is highly electropositive.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+6,Metallurgy,,Assessement Test - III,8,"A ssertion (A): Aluminium is used for thermite welding for repairing of 
+broken steel pieces.
+Reason (R): Aluminium has stronger affinity towards oxygen than iron.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+6,Metallurgy,,Assessement Test - III,9,Which of the following reactions takes place in the combustion zone?,C + O~2* → CO~2*,CO~2* + C → 2CO,CaCO~3* → CaO + CO~2*,CaO + SiO~2* → CaSiO~3*,,a,,MCQ
+6,Metallurgy,,Assessement Test - III,10,Which of the following is not a suitable flux if the impurity associated with a metal is SiO~2*?,CaO,MnO,P~2*O~5*,FeO,,c,,MCQ
+6,Metallurgy,,Assessement Test - III,11,Which of the following phenomena can be called weeping of metal?,Enamelling,Alloying,Galvanizing,Rusting,,d,,MCQ
+6,Metallurgy,,Assessement Test - III,12,"Which of the following processes are adopted to convert zinc blende and calamine, respectively, to their oxides?","Calcination, roasting","Roasting, calcination","Calcination, calcination","Roasting, roasting",,b,,MCQ
+6,Metallurgy,,Assessement Test - III,13,Which of the following is hard and brittle but does not rust easily?,Pig iron,Wrought iron,Cast iron,Steel,,c,,MCQ
+6,Metallurgy,,Assessement Test - III,14,Which of the following reacts with caustic alkali?,Al,Cu,Fe,Mg,,a,,MCQ
+6,Metallurgy,,Assessement Test - III,15,Match the entries of Column A with those of Column B.,(i) → (B); (ii) → (C); (iii) → (D); (iv) → (A); (v) → (E),(i) → (C); (ii) → (B); (iii) → (E); (iv) → (D); (v) → (A),(i) → (B); (ii) → (C); (iii) → (D); (iv) → (A); (v) → (E),(i) → (C); (ii) → (B); (iii) → (E); (iv) → (A); (v) → (D),CH-6-15-ROW-346,b,,MCQ
+6,Metallurgy,,Assessement Test - IV,1,Identify the odd one out with respect to tensile strength.,iron,Carbon fibre,Graphite,Copper,,c,,MCQ
+6,Metallurgy,,Assessement Test - IV,2,Which among the following is the best reducing agent?,Oxygen,Nitrogen,Chlorine,Iodine,,d,,MCQ
+6,Metallurgy,,Assessement Test - IV,3,Which among the following has the strongest tendency to gain electron from cathode?,Na^+&,Al^+3&,Cu^+2&,H^+&,,c,,MCQ
+6,Metallurgy,,Assessement Test - IV,4,Thermal decomposition of nitrate of which among the following metals produces only one gas?,Cu,Mg,Na,Ag,,c,,MCQ
+6,Metallurgy,,Assessement Test - IV,5,"Arrange the following processes involved in the extraction of a metal from its ore in proper order.
+(A) Alloying                       (B) Magnetic separation
+(C) Smelting                      (D) Roasting",B D C A,A C B D,D C B A,C D B A,,a,,MCQ
+6,Metallurgy,,Assessement Test - IV,6,"Arrange the following metals in the order of the process of reduction of their respective oxides. Reduction by coke, Reduction by Al powder, Heating, Electrolysis
+(A) Hg           (B) Zn             (C) Cr            (D) Al",A C B D,C B A D,D B C A,B C A D,,d,,MCQ
+6,Metallurgy,,Assessement Test - IV,7,"Assertion (A): No reducing agent is used for the extraction of copper.
+Reason (R): Copper is a noble metal.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+6,Metallurgy,,Assessement Test - IV,8,"Assertion (A): Copper can replace aluminium in the process of thermite welding.
+Reason (R): Copper is less reactive than iron.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,d,,AR
+6,Metallurgy,,Assessement Test - IV,9,Which of the following redox reactions takes place in the fusion zone?,CaCO~3* → CaO + CO~2*,CaO + SiO~2* → CaSiO~3*,CO~2* + C → 2CO,C + O~2* → CO~2*,,c,,MCQ
+6,Metallurgy,,Assessement Test - IV,10,Which of the following is correct?,Flux + Slag → Gangue,Slag + Gangue → Flux,Flux + Gangue → Slag,Gangue + Metal obtained → Slag,,c,,MCQ
+6,Metallurgy,,Assessement Test - IV,11,Which of the following is considered as a protection for a metal?,Formation of basic copper carbonate on copper articles.,Formation of rust on iron articles,Formation of coating of Al~2*O~3* on aluminium articles.,Formation of silver sulphide over silver articles.,,c,,MCQ
+6,Metallurgy,,Assessement Test - IV,12,Which of the following processes is used to concentrate zinc blende?,Magnetic separation,Gravity separation,Chemical separation,Froth flotation,,d,,MCQ
+6,Metallurgy,,Assessement Test - IV,13,Which of the following can be used to reinforce concrete structure?,Pig iron,Cast iron,Steel,Wrought iron,,c,,MCQ
+6,Metallurgy,,Assessement Test - IV,14,Which of the following metals does not dissolve in dilute acid?,Al ,Fe,Mg,Cu,,d,,MCQ
+6,Metallurgy,,Assessement Test - IV,15,Match the entries of Column A with those of Column B.,(i) → (B); (ii) → (D); (iii) → (A); (iv) → (E); (v) → (C),(i) → (B); (ii) → (D); (iii) → (A); (iv) → (C); (v) → (E),(i) → (D); (ii) → (B); (iii) → (E); (iv) → (C); (v) → (A),(i) → (D); (ii) → (B); (iii) → (E); (iv) → (A); (v) → (C),CH-6-15-ROW-361,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,1,Identify the hydrocarbon which on ozonolysis gives only aldehyde.,3-methyl-3-hexene,"2, 3-dimethyl-2-pentene","2, 4-dimethyl-2-pentene","2, 5-dimethyl-3-hexene",,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,2,"An unsaturated hydrocarbon has C-C  s and π bonds in 3:1 ratio. Which
+among the following pairs could be the total number of hydrogen atoms present in the hydrocarbon?",8 and 12,8 and 6,10 and 12,6 and 10,,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,3,"Ethyne and 1-alkyne can form metal acetylides but not other alkynes. Identify the correct pair of statements.
+(A) The hydrogen linked to triple bonded carbon is more acidic
+(B) The hydrogen linked to triple bonded carbon is more basic
+(C) The hydrogen is linked to sp^2& hybridized carbon
+(D) The hydrogen is linked to sp hybridized carbon",B and D,A and C,A and D,B and C,,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,4,"Which among the following pairs of hydrocarbons does not show chain isomerism?
+(A) A molecule with three C-C s bonds and two C-C π bonds
+(B) A molecule with three C-C s bonds and one C-C π bonds
+(C) A molecule with three C-C sbonds and ten C-H bonds
+(D) A molecule with two C-C s bonds and eight C-H bonds",A and B,B and C,C and D,A and D,,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,5,W hich among the following reactions is associated with the replacement of s bonds by π bond(s)?,Reaction of ethyl alcohol with conc. H~2*SO~4* at 170^0&C,Ozonolysis of alkenes,Chlorination of methane,Hydrogenation of ethene,,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,6,"Identify ‘X’, ‘Y’, ‘Z’ and reagent ‘A’ in the following reaction.",a,b,c,d,CH-7-6-ROW-367,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,7,What are ‘A‘ and ‘B‘ in the following flowchart?,"A is H^+&/KMnO~4*, and B is NaBH~4*.","A is NaBH~4*, and B is H^+&/KMnO~4*.","A is Cu at 300^0&C, and B is Zn - Hg/HCl.","A is NaBH~4*, and B is Zn - Hg/HCl.",CH-7-7-ROW-368,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,8,Match the entries of Column A with those of Column B.,(i) → (B); (ii) → (A); (iii) → (D); (iv) → (C),(i) → (B); (ii) → (C); (iii) → (D); (iv) → (A),(i) → (C); (ii) → (D); (iii) → (B); (iv) → (A),(i) → (D); (ii) → (C); (iii) → (B); (iv) → (A),CH-7-8-ROW-369,b,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,9,"Arrange the following reactions in proper sequence for the conversion of ethene to ethanal.
+(A) Oxidation in the presence of Cu at 300^0&C
+(B) Reaction with aq. NaOH
+(C) Chlorination
+(D) Hydrogenation",D C B A,D C A B,C D B A,C D A B,,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,10,"Arrange the following in the increasing order of number of carbon atoms in the chain.
+(A) Arabinose                     (B) Glyceraldehyde
+(C) Glucose                        (D) Erythrose",A B D C ,D B A C,D A B C,B D A C,,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,11,"Assertion (A): Sucrose is a non-reducing sugar.
+Reason (R): Sucrose gives positive result to Tollens’ or Fehling’s test.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,12,"Assertion (A): Alcohols liberate hydrogen gas with active metals like
+sodium.
+Reason (R): Alcohol can act as acid",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,13,"Two red roses are exposed to two gases ‘X’ and ‘Y’ separately. In case of X, bleaching action is permanent and that of Y is temporary. X and Y, respectively, are","Cl~2*,SO~2*","SO~2*, Cl~2*","SO~2*, CO","CO, SO~2*",,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,14,O bserve the diagrams given below and identify true statement regarding ‘X’ and ‘Y’.,Both X and Y are good conductors of heat.,Both X and Y are good conductors of electricity.,"X is good conductor of electricity, and Y is good conductor of heat.","X is good conductor of heat, and Y is good conductor of electricity.",CH-7-14-ROW-375,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - I,15,"Which among the following types of glass is used for the manufacture of ornamental glass ware, decorative articles, etc?",Silica glass,Optical glass,Borosilicate glass,Lead glass,,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,1,"Hydrocarbon ‘X’ on treatment with bromine water gives 2, 3-dibromo 4, 5-dimethyl hexane. Identify the products of ozonolysis of X.",Propanal and 3-methyl 2-butanone,Propanone and 2-pentanone,"Ethanal and 2, 3-dimethyl butanal",2-methyl propanal and 2-butanone,,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,2,An unsaturated hydrocarbon has s (both C-C and C-H) and π bonds in 9:2 ratio. The minimum number of carbon atoms present in the hydrocarbon is,4,5,6,3,,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,3,Which among the following cannot give white precipitate with ammoniacal silver nitrate solution?,3-methyl butyne,2-butyne,3-methyl pentyne,Propyne,,b,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,4,Identify pair of compounds that can show both chain isomerism and position isomerism.,C~4*H~10* and C~3*H~6*,C~5*H~8* and C~2*H~6*,C~4*H~8* and C~6*H~14*,C~5*H~12* and C~2*H~4*,,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,5,"In which among the following reactions, the total number of bonds increases by one unit.",Ozonolysis of ethyne,Hydroxylation of ethyne,Partial hydrogenation of ethyne,Addition of water to ethyne in the presence of H~2*SO~4* and HgSO~4*,,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,6,"2-methyl propene on ozonolysis gives two products ‘A’ and ‘B’. A on oxidation with acidified KMnO~4* gives ‘C’. C can also be obtained by the oxidation of ‘D’ in the presence of Cu at 300^0&C. Identify A, C and D.","A → Propanal, C → Acetic acid, D → Ethyl alcohol","A → Acetone, C → Propanoic acid, D → Ethyl alcohol","A → Acetone, C → Acetic acid, D → Ethyl alcohol","A → Propanal, C → Propanoic acid, D → Methyl alcohol",,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,7,Propanal and ‘X’ are functional isomers. Identify the false statement regarding X.,X gives yellow precipitate with I~2*/NaOH.,X does not give either Tollens’ test or Fehling’s test,X on distillation with Conc.H~2*SO~4* gives an aromatic hydrocarbon.,X on oxidation in presence of H^+&/KMnO~4* gives carboxylic acid with same number of carbon atoms.,,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,8,Match the entries of Column A with those of Column B.,(i) → (B); (ii) → (A); (iii) → (D); (iv) → (C),(i) → (B); (ii) → (C); (iii) → (D); (iv) → (A),(i) → (C); (ii) → (D); (iii) → (B); (iv) → (A),(i) → (D); (ii) → (C); (iii) → (B); (iv) → (A),CH-7-8-ROW-384,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,9,"Arrange the following reactions in proper sequence for the conversion of dibromoethane to methane.
+(A) Reaction with sodium
+(B) Decarboxylation
+(C) Oxidation in the presence of alk. KMnO~4*/H^+&
+(D) Reaction with conc. H~2*SO~4* at 80^0&C followed by boiling with water
+(E) Dehalogenation",E D A C B,C E D A B,E D C A D,D E C A B,,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,10,"Arrange the following in the descending order of relative sweetness.
+(A) Glucose                        (B) Maltose
+(C) Fructose                        (D) Lactose",A C B D,C A B D,A C D B,C A D B,,b,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,11,"Assertion (A): Glucose gives red precipitate with Benedict’s solution.
+Reason (R) : Glucose reduces Cu^+1& ion to Cu.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,12,"A ssertion (A): Boiling points of alcohols are more than the ethers that are functional isomers of alcohols.
+Reason (R) : Alcohols and ethers differ in the strength of hydrogen bond.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,13,"Observe the following reactions and identify the correct statement regarding
+‘X’ and ‘Y’.
+X + 2H~2*O → Acid + 2[H] → (1)
+Y + H~2*O → Acid + [O] → (2)",X is SO~2* and Y is Cl~2*.,X is an oxide of sulphur and Y is calcium oxychloride,X is used for the sterilisation of drinking water and Y is used as antichlor,X is an oxidizing agent and Y is a reducing agent,,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,14,Identify false statement regarding ‘X’ and ‘Y’.,X has very high refractive index and Y is used as a solid lubricant,X has rigid three-dimensional structure and Y has hexagonal layered structure.,The constituent of both X and Y is sp3 hybridized carbon atom.,X is used as a precious gem and Y is a soft lustrous solid.,CH-7-14-ROW-390,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - II,15,T he wide variety of optical properties of optical glass is due to _________.,wide range of composition,different required shapes,high optical density,high refractive index,,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,1,"Arrange the following compounds in the order of their corresponding
+names.
+(a) CH~3*CH~2*OH                           (b) CH~3*CHO
+(c) CH~3*COCH~3*                           (d) CH~3*COOH
+(e) CH~3*-O-C~2*H~5*
+(i) Propanone                                    (ii) Methoxyethane
+(iii) Ethanol                                       (iv) Ethanal
+(v) Ethanoic acid",B D E C A,C E A B D,E C A B D,E C B D A,,b,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,2,"Arrange the following compounds in the ascending order of total number of the moles of gaseous products formed on complete combustion of one mole of compound.
+(A) Ethene                    (B) Butyne           (C) Methanol  
+(D) Propyne                  (E) Propene",C A D E B,C A D B E,C D A E B,C A B E D,,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,3,Identify the compound that can have a metamer among the following.,Propanone,Ethoxy ethane,Butanal,Pentanol,,b,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,4,Which of the following ozonolysis products can be considered as obtained from only branched chain isomer of the respective hydrocarbon?,Propanal,Formaldehyde,Ethanal,Acetone,,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,5,A compound ‘X’ is obtained by the treatment of ethyl alcohol with conc. H~2*SO~4* at 170^0&C temperature. Which of the following reagents can be used for obtaining ethyl alcohol from the compound formed by the addition of HCl to the compound X?,Zinc dust,Aqueous KOH,Alcoholic KOH,Al~2*O~3*,,b,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,6,W hich of the following reagents can be used for distinguishing ethene and ethyne?,Zinc dust,Alkaline KMnO~4*,Ozone,Ammonical AgNO~3*,,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,7,Which of the following pairs of functional groups represent functional isomers to each other?,Alcohols and ethers,Aldehydes and ketones,Carboxylic acids and esters,All of the above,,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,8,Identify the structure of the compound that does not give positive test for iodoform reaction,A,B,C,D,CH-7-8-ROW-399,b,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,9,Which of the following is not the characteristic property of proteins?,Presence of peptide bond,Formation of zwitterion,Presence of aldehyde or ketone functional group,Presence of polypeptide chain,,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,10,Identify the group of the organic molecule in a dye which imparts colour to the fabric.,- NO~2*,- NH~2*,- SO~3*H,All of these,,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,11,"Assertion (A): Acetic acid exists as a dimer.
+Reason (R): Hydrogen bonding exists between - COOH groups.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,a,,AR
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,12,"Assertion (A) : Tartaric acid is the essential constituent of baking powder.
+Reason (R) : Tartaric acid imparts greater puffiness to the food material.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,c,,AR
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,13,M atch the entries of Column A with those of Column B.,(i) → (C); (ii) → (D); (iii) → (E); (iv) → (A); (v) → (B),(i) → (B); (ii) → (C); (iii) → (D); (iv) → (E); (v) → (A),(i) → (C); (ii) → (E); (iii) → (A); (iv) → (B); (v) → (D),(i) → (C); (ii) → (D); (iii) → (B); (iv) → (E); (v) → (A),CH-7-13-ROW-404,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,14,Which of the following can remove the colour of nitric acid formed by Ostwald’s process?,Passage of dry CO~2*,Addition of water drop by drop,Passage through quick lime,Both (a) and (b),,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - III,15,"Study the reaction given below and identify which of the following reactions produces ‘X’?
+C~2*H~5*ONa + X → C~2*H~5* - O - CH~3* + NaBr.",Ethene with HBr,Methyl alcohol with PBr~5*,Ethyl alcohol with PBr~3*,Ethane with excess of bromine in the presence of sunlight,,b,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,1,"Arrange the following functional groups in the order of the secondary
+suffixes.
+(A) -CHO           (B) > C = O             (C) -OH         (D) -O -     (E) -COOH
+(i) Alcohol         (ii) Ketone             (iii) Carboxylic acid    (iv) Aldehyde
+(v) Ether ",C D E D A,B C A E D,C B A E D,C B E A D,,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,2,"Arrange the following compounds in the order of the mole ratios of CO~2* and H~2*O formed by their complete combustion:
+(A) Ethyne           (B) Ethene           (C) Propyne      
+(D) Methane        (E) Ethane
+(i) 2:3              (ii) 1:2          (iii) 1:1            (iv) 3:2         (v) 2:1",D E B C A,E B D C A,E D B C A,E D C B A,,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,3,Compound ‘X’ exhibits metamerism. The functional group in X could be,ketone,carboxylic acid,aldehyde,alcohol,,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,4,Identify the wrongly matched pair regarding the unsaturated hydrocarbon and its ozonolysis products.,2-methylbutene → Ethanol + Propanone,2-butene → 2 molecules of ethanal,Ethyne → Glyoxal,Ethene → 2 molecules of methanal,,a,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,5,A compound ‘X’ is obtained by the treatment of chloroethane with aqueous NaOH. Which of the following compounds is obtained by the reaction of X with Al~2*O~3* at 350^0&C?,Ethyne,Ethyl alcohol,Ethene,Ethane,,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,6,"I dentify the molecular formula of the compound that decolourizes KMnO~4*,but does not give precipitate with ammoniacal AgNO~3* solution.",C~3*H~4*,C~6*H~10*,C~4*H~8*,C~4*H~6*,,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,7,Which of the following is the functional isomer for propanoic acid?,Propanone,Methoxy ethane,Methyl ethanoate,Methyl propanoate,,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,8,Which of the following is not true regarding iodoform test?,It results in the formation of yellow precipitate,All primary alcohols give this test,2^0& alcohols respond to this test positively,Ethyl alcohol gives positive iodoform test.,,b,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,9,Which of the following is false regarding proteins?,Proteins contain peptide bond.,Formation of peptide bond involves the elimination of water molecule.,Zwitterion carries positive charge at acidic end and negative charge at basic end.,Proteins differ with respect to the number and sequence of amino acids.,,c,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,10,Identify the group of the organic molecule in a dye that binds the dye molecule to the fibre.,-N ≡ N,-SO~3*H,-NO,> C = S,,b,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,11,"Assertion (A): Ethyl alcohol has higher boiling point than propane.
+Reason (R): The boiling points of organic compounds increase with
+increase in molecular mass.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,b,,AR
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,12,"Assertion (A): Baking powder is used in preference to baking soda while making cakes.
+Reason (R): Sodium bicarbonate present in baking powder decomposes on heating to give CO~2*.",Both A and R are true and R is the correct explanation of A.,"Both A and R are true, but R is not the correct explanation of A.",A is true and R is false.,A is false and R is true.,,b,,AR
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,13,M atch the entries of Column A with those of Column B.,(i) → (C); (ii) → (D); (iii) → (E); (iv) → (A); (v) → (B),(i) → (B); (ii) → (C); (iii) → (D); (iv) → (E); (v) → (A),(i) → (C); (ii) → (E); (iii) → (A); (iv) → (B); (v) → (D),(i) → (C); (ii) → (D); (iii) → (B); (iv) → (E); (v) → (A),,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,14,Which of the following reactions indicates the removal of yellow colour of nitric acid prepared by Ostwald’s process?,a,b,c,d,CH-7-14-ROW-420,d,,MCQ
+7,"Industrial Chemistry;
+Organic Chemistry",,Assessement Test - IV,15,"Compound ‘X’ on treatment with sodium gives sodium methoxide. This
+compound on treatment with compound ‘Y’ gives methoxy ethane. Identify the reaction that produces Y.",Ethyl alcohol with PCl~3*.,Addition of HCl to ethene,Reaction of ethane with Cl~2* in the presence of sunlight.,All of the above,,d,,MCQ

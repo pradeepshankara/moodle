@@ -47,10 +47,10 @@ public class RevisionPlanGenerator {
             c.setTime(actualStartDate.getTime());
             c.add(Calendar.DATE, i*cycleTime);
             for (int j = 0; j < 7; j++) {
-                if(!daysFromPattern.contains(c.get(Calendar.DAY_OF_WEEK)) && isRevisionEventExists(c,revisionDataModelList)){
-                    c.add(Calendar.DATE, 1);
-                }else
+                if(daysFromPattern.contains(c.get(Calendar.DAY_OF_WEEK)) && !isRevisionEventExists(c,revisionDataModelList)){
                     break;
+                }else
+                    c.add(Calendar.DATE, 1);
             }
             revisionDataModel.getRevisionDates().add(c.getTime());
         }
