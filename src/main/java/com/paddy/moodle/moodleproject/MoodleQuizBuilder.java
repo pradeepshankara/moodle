@@ -2,6 +2,7 @@ package com.paddy.moodle.moodleproject;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
+import org.apache.commons.lang3.StringUtils;
 import org.apache.tomcat.util.json.JSONParser;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -53,6 +54,7 @@ public class MoodleQuizBuilder {
         List<String> answersList = null;
         String[] ans = answers.split(",");
         Arrays.stream(ans).forEach(String::trim);
+        ans = StringUtils.stripAll(ans);
         answersList = Arrays.stream(ans).collect(Collectors.toList());
         if(answersList.size() <= 0)
             throw new Exception("No answered specified for "+moodleQuiz.getChapterName() + " " +moodleQuiz.getQuestionNumber());
@@ -212,7 +214,7 @@ public class MoodleQuizBuilder {
                 ans = question.getOption1();
             if(!question.getAnswerOptions().get(0).isEmpty())
                 ans = question.getAnswerOptions().get(0);
-            if(ans.isEmpty() || ans.isBlank())
+            if(ans.isEmpty() || ans.isBlank() || ans.length() < 1)
                 throw new Exception("No answer given for the FIB question!!"+ question.getChapterName() + " - "+question.getQuestionText());
             answerNodes.get(0).getChildNodes().item(1).setTextContent(ans);
             NamedNodeMap namedNodeMap = answerNodes.get(0).getAttributes();
@@ -577,9 +579,22 @@ public class MoodleQuizBuilder {
 
         Element tag8 = doc.createElement("tag");
         Element text8 = doc.createElement("text");
-        text8.setTextContent("QuestionNumber:"+question.getQuestionNumber());
+        text8.setTextContent("ChapterNumber:"+question.getChapterNumber());
         tag8.appendChild(text8);
         tagsNode.appendChild(tag8);
+
+        if(!(question.getImageFileName().isEmpty() || question.getImageFileName().isBlank())) {
+            Element tag9 = doc.createElement("tag");
+            Element text9 = doc.createElement("text");
+            text9.setTextContent("ContainsImage:" + question.getImageFileName());
+            tag9.appendChild(text9);
+            tagsNode.appendChild(tag9);
+        }
+        Element tag10 = doc.createElement("tag");
+        Element text10 = doc.createElement("text");
+        text10.setTextContent("Competency:");
+        tag10.appendChild(text10);
+        tagsNode.appendChild(tag10);
 
     }
 

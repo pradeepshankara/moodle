@@ -2,7 +2,7 @@ Chapter Number,ChapterName,SubChapterName,Classification,QuestionNumber,Question
 1,Cell -  The Basic Unit of Life,,,1,The first living cell was discovered by ________,,,,,,Anton Van Leeuwenhoek,,FIB
 1,Cell -  The Basic Unit of Life,,,2,________ is the basic structural and functional unit of life.,,,,,,Cell,,FIB
 1,Cell -  The Basic Unit of Life,,,3,"Take the odd one out.
-Amoeba, Bacteria, Plant, Honeybee.",,,,,,Bateria (All others are eukaryotes),,FIB
+Amoeba, Bacteria, Plant, Honeybee.",,,,,,Bateria,,FIB
 1,Cell -  The Basic Unit of Life,,,4,The concept ‘Omnis cellula e cellula’ was put forward by ________.,,,,,,Rudolf Virchow,,FIB
 1,Cell -  The Basic Unit of Life,,,5,The term ‘protoplasm’ was coined by ________.,,,,,,Purkinje,,FIB
 1,Cell -  The Basic Unit of Life,,,6,The smallest cell is ________.,,,,,,Mycoplasma,,FIB
@@ -13,7 +13,7 @@ Amoeba, Bacteria, Plant, Honeybee.",,,,,,Bateria (All others are eukaryotes),,FI
 1,Cell -  The Basic Unit of Life,,,11,The inner foldings of the mitochondrial inner membrane are called ________.,,,,,,Cristae,,FIB
 1,Cell -  The Basic Unit of Life,,,12,Chlorophylls are present in ________.,,,,,,Thylakoids,,FIB
 1,Cell -  The Basic Unit of Life,,,13,________ is known as the energy currency of the cell.,,,,,,ATP,,FIB
-1,Cell -  The Basic Unit of Life,,,14,Detoxification of poisons takes place in ________.,,,,,,Smooth endolasmic reticulum,,FIB
+1,Cell -  The Basic Unit of Life,,,14,Detoxification of poisons takes place in ________.,,,,,,Smooth endoplasmic reticulum,,FIB
 1,Cell -  The Basic Unit of Life,,,15,Thylakoids of different grana are connected by ________.,,,,,,Stroma lamellae,,FIB
 1,Cell -  The Basic Unit of Life,,,16,"Specialized peroxisomes in plants are called
 ________.",,,,,,Glyoxysomes,,FIB
@@ -66,7 +66,7 @@ D. Elaioplasts store protein.",A and D,B and C,C and D,B and D,,b,,MCQ
 2,Tissues and Body Movements,,,16,The wrist bones are also known as ________,,,,,,Carpal Bones,,FIB
 2,Tissues and Body Movements,,,17,Long curved bones that form the ribcage are ________.,,,,,,Ribs,,FIB
 2,Tissues and Body Movements,,,18,The joints that allow limited movement are ________.,,,,,,Cartilaginous joints,,FIB
-2,Tissues and Body Movements,,,19,The longest bone in human body is ________.,,,,,,Thigh bone or femur,,FIB
+2,Tissues and Body Movements,,,19,The longest bone in human body is ________.,,,,,,femur,,FIB
 2,Tissues and Body Movements,,,20,Skeletal muscles are under ________ control.,,,,,,Voluntary,,FIB
 2,Tissues and Body Movements,,,21,Meiosis results in the formation of daughter cells with,Half the number of chromosomes.,Double the number of chromosomes.,One chromosome less than the parent.,One chromosome higher than the parent.,,a,,MCQ
 2,Tissues and Body Movements,,,22,Type of cell division that occurs during gamete formation is,Mitorsis,Meiosis,Binary fission,Budding,,b,,MCQ
@@ -126,7 +126,7 @@ D.  Tiger   - Canis",A and B,C and D,A and C,B and C,,b,,MCQ
 3,Classification of Living organisms,,,26,The organisms that feed on dead and decaying matter are known as,Autotrophs,Parasites,Saprophytes,None of the above,,c,,MCQ
 3,Classification of Living organisms,,,27,"Find out the word pair relationship.
 ________: Monera
-Mushroom: ________",a,b,c,d,,"Bateria , Fungi",,MCQ
+Mushroom: ________",a,b,c,d,,DUMMY,,MCQ
 3,Classification of Living organisms,,,28,Amoeba and Paramoecium come under the kingdom,Plantae,Protista,Monera,Fungi,,b,,MCQ
 3,Classification of Living organisms,,,29,Plants that lack xylem and phloem are called,Bryophytes,Angiosperms,Gymnosperms,Pteridophytes,,a,,MCQ
 3,Classification of Living organisms,,,30,Match the following,a,b,c,d,CH-3-30-ROW-112,b,,MCQ
@@ -136,7 +136,7 @@ Mushroom: ________",a,b,c,d,,"Bateria , Fungi",,MCQ
 3,Classification of Living organisms,,,34,Bioluminescence was shown by the phylum,Porifera,Ctenophora,Coelentrata,Mollusca,,b,,MCQ
 3,Classification of Living organisms,,,35,"Identify the word pair relationship.
 ________: Annelida
-Jointed legs: ________",A,B,C,D,,"Metamerism, Arthropoda",,MCQ
+Jointed legs: ________",A,B,C,D,,DUMMY,,MCQ
 3,Classification of Living organisms,,,36,The second largest phylum is,Arthropoda,Chordata,Echinodermata,Mollusca,,d,,MCQ
 3,Classification of Living organisms,,,37,Which one of the following is not a member of phylum ‘Chordata’?,Crocodile,Columba,Macropus,Pleurobrachia,,d,,MCQ
 3,Classification of Living organisms,,,38,Phylum ‘Porifera’ is commonly called,Colelenterata,Sponges,Comb jellies,Vertebrata,,b,,MCQ
@@ -195,12 +195,12 @@ Reason (R) : Gamete is a single cell that can fuse with another gamete of opposi
 4,Reproduction of Animals and Plants,,,46,Which one of the following is a wrong statement?,Every month ovum will be released from both ovaries.,Ovoviviparous animals do not provide nutrition to the developing embryo.,"In girls, voice becomes high pitched at puberty.",Secondary sex characters do not have direct involvement in reproduction.,,a,,MCQ
 4,Reproduction of Animals and Plants,,,47,"Identify the word pair relationship.
 Frog: ________
-Internal fertilization: ________",a,b,c,d,,External fertilization : Human,,MCQ
+Internal fertilization: ________",a,b,c,d,,DUMMY,,MCQ
 4,Reproduction of Animals and Plants,,,48,Match the following,a,b,c,d,CH-4-48-ROW-169,a,,MCQ
 4,Reproduction of Animals and Plants,,,49,Usually ovulation takes place on,14th day,Middle of menstrual cycle,Towards the end of menstruation cycle,Both (a) and (b),,d,,MCQ
 4,Reproduction of Animals and Plants,,,50,"Identify the word pair relationship
 Endocrine gland : ________
-________ : Sweat gland",A,B,C,D,,Pituitary Gland : Exocrine Gland,,MCQ
+________ : Sweat gland",A,B,C,D,,DUMMY,,MCQ
 4,Reproduction of Animals and Plants,,,51,Which one of the following is not a feature of viviparous animals?,They give birth to young ones.,Embryo development takes place inside the female body,Less embryonic care and protection.,Provides nutrition to the foetus through placenta.,,c,,MCQ
 4,Reproduction of Animals and Plants,,,52,"Assertion (A) : Hen comes under oviparous animals
 Reason (R) : Oviparous animals give birth to young ones",Both A and R are true and R is the correct explanation for A.,Both A and R are true but R is the not the correct explanation for A.,A is true and R is false.,A is false and R is true.,,c,,MCQ
@@ -216,7 +216,7 @@ Reason (R) : It releases it secretions directly into blood",Both A and R are tru
 4,Reproduction of Animals and Plants,,,61,"In Bryophyllum plant, new plants can be developed from",Leaves,Stem,Root,Bulb,,a,,MCQ
 4,Reproduction of Animals and Plants,,,62,"Identify the word pair relationship
 ________ : Potato
-Bulb : ________",,,,,,"Tuber, Onion",,MCQ
+Bulb : ________",,,,,,DUMMY,,MCQ
 4,Reproduction of Animals and Plants,,,63,The root taken for grafting is called,Scion,Graft,Stock,Both (a) and (b),,c,,MCQ
 4,Reproduction of Animals and Plants,,,64,"Assertion (A) : Calyx and corolla are known as accessory floral organs.
 Reason (R) : Accessory floral organs do not participate directly in reproduction.",Both A and R are true and R is the correct explanation for A.,Both A and R are true but R is the not the correct explanation for A.,A is true and R is false.,A is false and R is true.,,a,,MCQ
@@ -243,7 +243,7 @@ C. Cancer is caused due to abnormalities in DNA.
 D. Lifestyle habits can cause diseases like obesity.",A only,B and C,C only,A and B,,d,,MCQ
 5,Microorganisms and Human Health,,,17,"Identify the word pair relationship
 Cholera : ________
-______ : Viral",,,,,,"Bacteria, Polio",,MCQ
+______ : Viral",,,,,,DUMMY,,MCQ
 5,Microorganisms and Human Health,,,18,Match the following.,,,,,CH-5-18-ROW-204,c,,MCQ
 5,Microorganisms and Human Health,,,19,Substances that are produced by the body to fight against the invader is,Antibiotic,Vaccine,Antibody,Antigen,,c,,MCQ
 5,Microorganisms and Human Health,,,20,The antibiotic penicillin was discovered by,Alexander Fleming,Ernst Boris Chain,Robert Hooke,Howard Florey,,a,,MCQ
@@ -266,7 +266,7 @@ Reason (R) : Immunity that is inherited from parents is considered as acquired i
 6,Ecosystem and Biodiversity,,,13,Organisms that are found only in a particular area are called ________.,,,,,,Endemic species,,FIB
 6,Ecosystem and Biodiversity,,,14,Extinction of a parasite along with extinction of its specific host is an example of ________,,,,,,Co-Extinction,,FIB
 6,Ecosystem and Biodiversity,,,15,Full form of IUCN is ________.,,,,,,International Union for Conservation of nature,,FIB
-6,Ecosystem and Biodiversity,,,16,World environment day is ________.,,,,,, June 5,,FIB
+6,Ecosystem and Biodiversity,,,16,World environment day is ________.,,,,,,DUMMY,,FIB
 6,Ecosystem and Biodiversity,,,17,Species that are likely to move into endangered category are ________.,,,,,,Vulnerable,,FIB
 6,Ecosystem and Biodiversity,,,18,Passenger pigeon is an example of ________.,,,,,,Extinct species,,FIB
 6,Ecosystem and Biodiversity,,,19,Which one of the following is a herbivore?,Man,Deer,Lion,Bear,,b,,MCQ
@@ -285,7 +285,7 @@ wildlife outside its natural habitat.",Endemic species are organisms that are fo
 6,Ecosystem and Biodiversity,,,31,Ex-situ conservation meant for protecting endangered plant species under artificial conditions is ________.,Zoological garden,Red Data Book,Museum,Botanical garden,,d,,MCQ
 6,Ecosystem and Biodiversity,,,32,Match the following,,,,,CH-6-32-ROW-240,d,,MCQ
 6,Ecosystem and Biodiversity,,,33,Match the following,,,,,CH-6-33-ROW-241,c,,MCQ
-6,Ecosystem and Biodiversity,,,34,Write the full form WWF.,,,,,,Worldwide fund for nature,,MCQ
+6,Ecosystem and Biodiversity,,,34,Write the full form WWF.,,,,,,Worldwide fund for nature,,FIB
 6,Ecosystem and Biodiversity,,,35,Biological diversity day is, March 21, December 29, April 22,June 5,,b,,MCQ
 7,Food-Production and Management,,,1,Mustard is a ________ crop.,,,,,,Rabi,,FIB
 7,Food-Production and Management,,,2,Scattering the seeds by hand is called ________.,,,,,,Broadcasting,,FIB
@@ -308,7 +308,7 @@ wildlife outside its natural habitat.",Endemic species are organisms that are fo
 7,Food-Production and Management,,,19,"Identify the word--pair relationship.
 Seed drill : ________
 ________ : Breaking of soil crumbs
-Plough : ________",,,,,,"Sowing, Plank, Turning and Loosening the soil",,MCQ
+Plough : ________",,,,,,DUMMY,,MCQ
 7,Food-Production and Management,,,20,Match the following,,,,,CH-7-20-ROW-263,d,,MCQ
 7,Food-Production and Management,,,21,Which one of the following is not a rabi crop?,Maize,Wheat,Linseed,Mustard,,a,,MCQ
 7,Food-Production and Management,,,22,Identify the wrong statement.,Fertilizers add humus to the soil.,Manure provides all primary nutrients.,Long-term use of fertilizer reduces soil fertility.,Crop rotation avoids depletion of a particular nutrient from the soil.,,a,,MCQ

@@ -242,6 +242,70 @@ class MoodleprojectApplicationTests {
 	}
 
 	@Test
+	void generateForMcGrawHillBiologyClass9(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS9");
+			questionMetadata.setPublisher("MCGRAWHILL");
+			questionMetadata.setSubject("BIOLOGY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class 9/Biology/McGraw Hill/IMAGES-McGrawhill-Class-9-Biology/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"McGrawHill-Class-9-Biology.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForDishaBiologyClass9(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS9");
+			questionMetadata.setPublisher("DISHAFOUNDATION");
+			questionMetadata.setSubject("BIOLOGY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class 9/Biology/DishaFoundation/IMAGES-DISHA-CLASS-9-BIOLOGY/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"DISHA-Class-9-BIOLOGY.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForDishaChemistryClass9(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS9");
+			questionMetadata.setPublisher("DISHAFOUNDATION");
+			questionMetadata.setSubject("CHEMISTRY");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class 9/Chemistry/DishaFoundation/IMAGES-DISHA-CLASS-9-Chemistry/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"DISHA-Class-9-Chemistry.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	void generateForDishaPhysicsClass9(){
+		try {
+			QuestionMetadata questionMetadata = new QuestionMetadata();
+			questionMetadata.setForClass("CLASS9");
+			questionMetadata.setPublisher("DISHAFOUNDATION");
+			questionMetadata.setSubject("PHYSICS");
+			questionMetadata.setImageType("JPG");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class 9/Physics/DishaFoundation/IMAGES-DISHA-CLASS-9-Physics/");
+			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
+			moodleQuizHandler.generateMoodleFile(questionMetadata,"DISHA-Class-9-Physics.csv");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Test
 	void generateForBrainMappingPhysicsClass9(){
 		try {
 			QuestionMetadata questionMetadata = new QuestionMetadata();
@@ -329,7 +393,7 @@ class MoodleprojectApplicationTests {
 			questionMetadata.setPublisher("MTG");
 			questionMetadata.setSubject("PHYSICS");
 			questionMetadata.setImageType("JPG");
-			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Physics/MTG/IMAGES-MTG-CLASS-8-PHYSICS/");
+			questionMetadata.setImagesPath("/home/pradeep/Documents/moodle/Class8/Physics/MTG/IMAGES-MTG-CLASS-8-PHYSICS-V1/");
 			moodleQuizHandler.getMoodleQuizBuilder().setQuestionMetadata(questionMetadata);
 			moodleQuizHandler.generateMoodleFile(questionMetadata,"MTG-Class-8-Physics.csv");
 		} catch (Exception e) {
